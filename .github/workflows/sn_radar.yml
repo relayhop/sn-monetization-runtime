@@ -61,9 +61,9 @@ jobs:
           cat /tmp/radar.out
           LATEST=$(ls -t data/sn_opportunities/sn_*.tsv 2>/dev/null | head -1)
           if [ -n "$LATEST" ]; then
-            # column 11 = tags in v2 schema
-            BOUNTIES=$(awk -F'\t' '$11 ~ /OPEN_BOUNTY/' "$LATEST" | head -5)
-            SIGNALS=$(awk -F'\t' '$11 ~ /SIGNAL/' "$LATEST" | head -5)
+            # column 11 = tags in v2 schema (skip header row)
+            BOUNTIES=$(awk -F'\t' 'NR>1 && $11 ~ /OPEN_BOUNTY/' "$LATEST" | head -5)
+            SIGNALS=$(awk -F'\t' 'NR>1 && $11 ~ /SIGNAL/' "$LATEST" | head -5)
             {
               echo "bounties<<EOF"
               echo "$BOUNTIES"
