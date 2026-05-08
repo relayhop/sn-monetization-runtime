@@ -22,6 +22,7 @@ const LIMIT = 30;
 const MIN_BOUNTY_SATS = 100;
 const MAX_COMMENTS_FOR_LOW_COMP = 5;
 const LOOKBACK_HOURS = 36;          // T1 用 36h 而非 24h，看 SIGNAL 邊界
+const BOUNTY_LOOKBACK_HOURS = 72;  // Open bounties can be older (3 days)
 
 const ARGV = process.argv.slice(2);
 const TIER_FLAG = ARGV.find(a => a.startsWith('--tier='))?.slice(7)
@@ -68,8 +69,9 @@ function classify(item) {
   const bounty = Number(item.bounty || 0);
   const ncom = Number(item.ncomments || 0);
   const score = Number(item.sats || 0);
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo) tags.push('OPEN_BOUNTY');
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
+  const hasOpenBounty = bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo;
+  if (hasOpenBounty) tags.push('OPEN_BOUNTY');
+  if (hasOpenBounty && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
   if (item.sub?.name === 'jobs') tags.push('JOB');
   if (ageHours <= 2) tags.push('FRESH');
   if (score >= 1000) tags.push('HOT');
@@ -79,7 +81,9 @@ function classify(item) {
   // Heuristic: T2/T3 sub with score >= 200 AND ncom >= 5 → topic has audience but few writers
   const t = TIER_OF[item.sub?.name] || 3;
   if (t >= 2 && score >= 200 && ncom >= 5 && ncom <= 20) tags.push('SELF_POST_OPP');
-  return { tags, ageHours, score, ncom, tier: t };
+  // Use longer lookback for open bounties
+  const maxAge = hasOpenBounty ? BOUNTY_LOOKBACK_HOURS : LOOKBACK_HOURS;
+  return { tags, ageHours, score, ncom, tier: t, maxAge };
 }
 
 (async () => {
@@ -100,7 +104,7 @@ function classify(item) {
     if (r.error) { console.error(`[radar] ${r.sub}/${r.sort}: ${r.error}`); continue; }
     for (const it of r.items) {
       const c = classify(it);
-      if (c.ageHours > LOOKBACK_HOURS) continue;
+      if (c.ageHours > c.maxAge) continue;
       const existing = byId.get(it.id);
       if (existing) {
         existing._hits.push(`${r.sort}@${r.sub}`);

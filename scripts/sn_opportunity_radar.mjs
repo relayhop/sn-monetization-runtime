@@ -18,6 +18,7 @@ const SORTS = ['recent'];
 const MIN_BOUNTY_SATS = 100;
 const MAX_COMMENTS_FOR_LOW_COMP = 5;
 const LOOKBACK_HOURS = 24;
+const BOUNTY_LOOKBACK_HOURS = 72;  // Open bounties can be older (3 days)
 
 // SN GraphQL items query — 只取需要欄位降低 payload
 // 2026-05-03 schema 升級：加 user.since/nitems 供 parent 篩選硬規則 #3 使用
@@ -69,8 +70,9 @@ function classify(item) {
   const bounty = Number(item.bounty || 0);
   const ncom = Number(item.ncomments || 0);
   const score = Number(item.sats || 0);
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo) tags.push('OPEN_BOUNTY');
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
+  const hasOpenBounty = bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo;
+  if (hasOpenBounty) tags.push('OPEN_BOUNTY');
+  if (hasOpenBounty && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
   if (item.sub?.name === 'jobs') tags.push('JOB');
   if (ageHours <= 2) tags.push('FRESH');
   if (score >= 1000) tags.push('HOT');
@@ -78,7 +80,9 @@ function classify(item) {
   // score >= 100 AND ncom <= 0.3 * score AND age <= 12h
   // (OP last_active 因 schema 限制無法在 radar 階段驗證；下游 reply 流程自行查 OP 最近 item)
   if (score >= 100 && ncom <= 0.3 * score && ageHours <= 12) tags.push('SIGNAL');
-  return { tags, ageHours };
+  // Use longer lookback for open bounties
+  const maxAge = hasOpenBounty ? BOUNTY_LOOKBACK_HOURS : LOOKBACK_HOURS;
+  return { tags, ageHours, maxAge };
 }
 
 (async () => {
@@ -96,7 +100,7 @@ function classify(item) {
       }
       for (const it of r.items) {
         const c = classify(it);
-        if (c.ageHours > LOOKBACK_HOURS) continue;
+        if (c.ageHours > c.maxAge) continue;
         all.push({ ...it, _tags: c.tags, _ageH: c.ageHours.toFixed(1) });
       }
     }
