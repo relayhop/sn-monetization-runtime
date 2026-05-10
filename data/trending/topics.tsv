@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-10T07:17:24.685Z; n=40
+# generated 2026-05-10T12:10:52.252Z; n=40
 round	sn:Stacker_Sports	7.75	no	RISING
-show	hn	6.54	no	RISING
+show	hn	6.92	yes	
 bitcoin	sn:bitcoin,sn:bitcoin_beginners	5.63	yes	
-rust	hn	4.8	no	RISING
+rust	hn	4.93	no	RISING
+linux	hn	4.32	no	RISING
 pieter wuille	sn:bitcoin	3.25	yes	
 pyrus financial	sn:bitcoin	3.07	yes	
 writing	sn:the_stacker_muse	3.04	no	RISING
 prompt	sn:the_stacker_muse	3.04	no	RISING
 strange frames	sn:the_stacker_muse	3.04	no	RISING
-saturday	sn:Photography	3	no	RISING
-share	sn:Photography	3	no	RISING
+saturday	sn:Photography	3.01	no	RISING
+share	sn:Photography	3.01	no	RISING
+saturday newsletter	sn:meta	3	yes	
 survivor pool	sn:Stacker_Sports	2.99	no	RISING
 week	sn:Stacker_Sports	2.99	no	RISING
 submissions	sn:Stacker_Sports	2.99	no	RISING
-saturday newsletter	sn:meta	2.95	yes	
 american house styles	sn:charts_and_maps	2.94	no	RISING
-bitcoiners	sn:bitcoin	2.85	yes	
-seed keys	sn:bitcoin	2.85	yes	
 fiction	sn:the_stacker_muse	2.84	no	RISING
 contest	sn:the_stacker_muse	2.84	no	RISING
 the colour	sn:the_stacker_muse	2.84	no	RISING
 money	sn:the_stacker_muse	2.84	yes	
-internet archive switzerland	hn	2.77	no	RISING
+internet archive switzerland	hn	2.8	no	RISING
 bobby cox	sn:Stacker_Sports	2.77	no	RISING
+interstellar	sn:science	2.75	no	RISING
+atlas	sn:science	2.75	no	RISING
 what	sn:AskSN	2.72	yes	
-linux	hn	2.71	no	RISING
 guess	sn:AskSN	2.71	no	RISING
-parliamentary research service	hn	2.7	no	RISING
-books	sn:BooksAndArticles	2.69	no	RISING
-articles weekly	sn:BooksAndArticles	2.69	no	RISING
-issue	sn:BooksAndArticles	2.69	no	RISING
-using claude code	hn	2.65	no	RISING
-html	hn	2.65	no	RISING
+using claude code	hn	2.68	no	RISING
+html	hn	2.68	no	RISING
+built	sn:DIY	2.68	yes	
+bitcoin miner	sn:DIY	2.68	no	RISING
+under	sn:DIY	2.68	no	RISING
+poor man	sn:DIY	2.68	no	RISING
+avalon	sn:DIY	2.68	no	RISING
 daylight	sn:charts_and_maps	2.61	no	RISING
 july	sn:charts_and_maps	2.61	no	RISING
+your consent	sn:Politics_And_Law	2.59	no	RISING
+consensus	sn:Politics_And_Law	2.59	no	RISING
 giants	sn:Stacker_Sports	2.59	no	RISING
 essendon highlights	sn:Stacker_Sports	2.59	no	RISING
-geelong	sn:Stacker_Sports	2.59	no	RISING
-collingwood highlights	sn:Stacker_Sports	2.59	no	RISING
-more	sn:Stacker_Sports	2.59	no	RISING
