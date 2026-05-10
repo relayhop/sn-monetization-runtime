@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-09T19:45:02.659Z; n=40
-fiction	sn:the_stacker_muse	8.95	no	RISING
-contest	sn:the_stacker_muse	8.95	no	RISING
-google	hn,sn:tech	8.45	yes	
-android	hn,sn:tech	8.45	yes	
-de-googled	hn,sn:tech	6.24	yes	
-round	sn:Stacker_Sports	5.2	no	RISING
-show	hn	3.65	no	RISING
-beneath the surface	sn:the_stacker_muse	3.24	no	RISING
-cryptography primer	sn:bitcoin	3.15	yes	
-pieter wuille	sn:bitcoin	3.14	yes	
+# generated 2026-05-10T07:17:24.685Z; n=40
+round	sn:Stacker_Sports	7.75	no	RISING
+show	hn	6.54	no	RISING
+bitcoin	sn:bitcoin,sn:bitcoin_beginners	5.63	yes	
+rust	hn	4.8	no	RISING
+pieter wuille	sn:bitcoin	3.25	yes	
+pyrus financial	sn:bitcoin	3.07	yes	
 writing	sn:the_stacker_muse	3.04	no	RISING
 prompt	sn:the_stacker_muse	3.04	no	RISING
 strange frames	sn:the_stacker_muse	3.04	no	RISING
-personal remittances	sn:charts_and_maps	2.95	no	RISING
-official development assistance received	sn:charts_and_maps	2.95	no	RISING
-david attenborough	hn	2.91	no	RISING
-birthday	hn	2.91	no	RISING
-playoffs	sn:Stacker_Sports	2.88	no	RISING
-discussion thread	sn:Stacker_Sports	2.88	no	RISING
-pyrus financial	sn:bitcoin	2.87	yes	
-bitcoin	sn:bitcoin	2.87	yes	
-american house styles	sn:charts_and_maps	2.87	no	RISING
-dangerous	sn:the_stacker_muse	2.87	no	RISING
+saturday	sn:Photography	3	no	RISING
+share	sn:Photography	3	no	RISING
+survivor pool	sn:Stacker_Sports	2.99	no	RISING
+week	sn:Stacker_Sports	2.99	no	RISING
+submissions	sn:Stacker_Sports	2.99	no	RISING
+saturday newsletter	sn:meta	2.95	yes	
+american house styles	sn:charts_and_maps	2.94	no	RISING
+bitcoiners	sn:bitcoin	2.85	yes	
+seed keys	sn:bitcoin	2.85	yes	
+fiction	sn:the_stacker_muse	2.84	no	RISING
+contest	sn:the_stacker_muse	2.84	no	RISING
 the colour	sn:the_stacker_muse	2.84	no	RISING
-money	sn:the_stacker_muse	2.84	no	RISING
-hola	sn:art	2.82	yes	
-stacker news	sn:art	2.82	yes	
-alby	sn:art	2.82	yes	
-saludos	sn:art	2.82	yes	
-colombia	sn:art	2.82	yes	
-stacker sports episode	sn:Stacker_Sports	2.74	no	RISING
-preshow notes	sn:Stacker_Sports	2.74	no	RISING
-the truth is still out there	sn:aliens_and_UFOs	2.74	no	RISING
+money	sn:the_stacker_muse	2.84	yes	
+internet archive switzerland	hn	2.77	no	RISING
+bobby cox	sn:Stacker_Sports	2.77	no	RISING
+what	sn:AskSN	2.72	yes	
+linux	hn	2.71	no	RISING
 guess	sn:AskSN	2.71	no	RISING
-metallica bass auditions	sn:Music	2.7	no	RISING
-full	sn:Music	2.7	no	RISING
+parliamentary research service	hn	2.7	no	RISING
 books	sn:BooksAndArticles	2.69	no	RISING
 articles weekly	sn:BooksAndArticles	2.69	no	RISING
 issue	sn:BooksAndArticles	2.69	no	RISING
-bitcoiners	sn:bitcoin	2.64	yes	
+using claude code	hn	2.65	no	RISING
+html	hn	2.65	no	RISING
+daylight	sn:charts_and_maps	2.61	no	RISING
+july	sn:charts_and_maps	2.61	no	RISING
+giants	sn:Stacker_Sports	2.59	no	RISING
+essendon highlights	sn:Stacker_Sports	2.59	no	RISING
+geelong	sn:Stacker_Sports	2.59	no	RISING
+collingwood highlights	sn:Stacker_Sports	2.59	no	RISING
+more	sn:Stacker_Sports	2.59	no	RISING
