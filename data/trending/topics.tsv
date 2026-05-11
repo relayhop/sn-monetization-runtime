@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-11T10:46:30.118Z; n=40
-what	hn,sn:bitcoin,sn:Stacker_Sports	10.53	yes	
-bitcoin	sn:bitcoin,sn:lightning	9.38	yes	
-lightning	sn:bitcoin,sn:lightning	5.88	yes	
-nation	sn:Politics_And_Law	3.54	no	RISING
-war with itself	sn:Politics_And_Law	3.54	no	RISING
-the growing revolt against ukraine	sn:Politics_And_Law	3.54	no	RISING
-recruitment	sn:Politics_And_Law	3.54	no	RISING
-hardware attestation	hn	3.21	yes	
-monopoly enabler	hn	3.21	yes	
-medium industrial	sn:AskSN	3.09	no	RISING
-residential multifamily	sn:AskSN	3.09	no	RISING
-which	sn:AskSN	3.09	no	RISING
-local	hn	3.08	no	RISING
+# generated 2026-05-11T21:04:57.351Z; n=40
+bitcoin	sn:bitcoin,sn:videos	11.39	yes	
+grin	sn:bitcoin	3.32	yes	
+somebody	sn:bitcoin	3.32	yes	
+hardware attestation	hn	3.31	yes	
+monopoly enabler	hn	3.31	yes	
+local	hn	3.24	no	RISING
+liverpool	sn:Stacker_Sports	3.17	no	RISING
+chelsea	sn:Stacker_Sports	3.17	no	RISING
+forget tech	sn:econ	3.13	no	RISING
+hollywood	sn:econ	3.13	no	RISING
+california is powered	sn:econ	3.13	no	RISING
+healthcare jobs	sn:econ	3.13	no	RISING
+vienna	sn:bitcoinplusplus	3.08	no	RISING
+austria	sn:bitcoinplusplus	3.08	no	RISING
+closing	sn:BooksAndArticles	3.08	no	RISING
+cowen	sn:BooksAndArticles	3.08	no	RISING
+the marginal revolution	sn:BooksAndArticles	3.08	no	RISING
+unfinished business	sn:BooksAndArticles	3.08	no	RISING
+mises	sn:BooksAndArticles	3.08	no	RISING
 the beer gods smiled	sn:history	3.07	no	RISING
 me today	sn:history	3.07	no	RISING
-longest national scenic trail in the	sn:charts_and_maps	3	no	RISING
-square	sn:lightning	2.95	no	RISING
-sunday survey	sn:bitcoin	2.92	yes	
+auditor summit	sn:events	2.99	no	RISING
+civil rights	sn:events	2.99	no	RISING
+transparency	sn:events	2.99	no	RISING
+accountability	sn:events	2.99	yes	
+photographing	sn:Photography	2.95	no	RISING
+defending bitcoin	sn:bitcoin	2.94	yes	
+luke	sn:bitcoin	2.94	yes	
+wolf	sn:bitcoin	2.94	yes	
+last	sn:Stacker_Sports	2.91	no	RISING
 knicks brass	sn:Stacker_Sports	2.9	no	RISING
 vindicated	sn:Stacker_Sports	2.9	no	RISING
 back	sn:Stacker_Sports	2.9	no	RISING
 eastern	sn:Stacker_Sports	2.9	no	RISING
 conference	sn:Stacker_Sports	2.9	no	RISING
 finals	sn:Stacker_Sports	2.9	no	RISING
-bitcoiner	sn:bitcoin	2.8	yes	
-fighting	sn:bitcoin	2.78	yes	
-free her husband	sn:bitcoin	2.78	yes	
-lauren rodriguez	sn:bitcoin	2.78	yes	
-washington wizards	sn:Stacker_Sports	2.75	no	RISING
-draft lottery	sn:Stacker_Sports	2.75	no	RISING
-incident report	hn	2.74	no	RISING
-yikes	hn	2.74	no	RISING
-high	sn:tech	2.65	yes	
-zettabyte-scale	sn:tech	2.65	yes	
-since nostree	sn:nostr	2.64	yes	
-victor	sn:Stacker_Sports	2.62	no	RISING
-ledger	sn:Stacker_Sports	2.62	no	RISING
-line	sn:Stacker_Sports	2.62	no	RISING
-news	sn:Stacker_Sports	2.62	no	RISING
-biofuel	sn:charts_and_maps	2.62	no	RISING
+ibis wallet	sn:bitcoin	2.89	yes	
+singapore	sn:news	2.88	no	RISING
+the world update	sn:Stacker_Sports	2.87	no	RISING
+aris	sn:AI	2.84	yes	
