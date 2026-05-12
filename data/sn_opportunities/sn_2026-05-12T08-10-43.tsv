@@ -1,0 +1,33 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1488349	meta	1	1970	0	5	10.3	2795	1220	recent@bitcoin|top@bitcoin|recent@meta	HOT,SIGNAL	I've integrated Stacker News into my Bitcoin Education app (...sort of)
+1488372	tech	1	938	0	4	9.3	161788	9731	recent@tech|top@tech	SIGNAL	TanStack NPM Packages Compromised
+1488375	bitcoin	1	711	0	3	9.1	8842	476	recent@bitcoin|top@bitcoin	SIGNAL	The Butterfly Touch
+1488330	AI	1	672	0	4	11.0	1	26352	recent@AI|top@AI	SIGNAL	My writing students were using AI. Their confessions led to a teaching moment
+1488409	devs	1	630	0	6	6.6	431129	172	recent@devs|top@devs	SIGNAL	Is it worth it to learn vim as a pleb in 2026?
+1488428	bitcoin	1	529	0	6	5.1	74100	9819	recent@bitcoin|top@bitcoin	SIGNAL	Knots new release v29.3 includes bip 110 RDTS
+1488335	bitcoin	1	489	0	3	10.8	74100	9819	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Hic Sunt Dracones- Rapha Zagury
+1488397	AI	1	251	0	0	7.6	9274	22309	recent@AI|top@AI	SIGNAL	12.2 Billion Sat Google Data Center wastewater line to transport cooling water
+1488464	art	3	246	0	0	2.5	988069	247	recent@tech|top@tech	SIGNAL	A Raspberrarium, one cake, one banana bread and some updates.
+1488061	bitcoin	1	2176	0	9	18.1	280679	21300	recent@bitcoin|top@bitcoin	HOT	Somebody is flooding Bitcoin’s network with new IP addresses
+1488055	bitcoin	1	2080	0	11	18.5	182100	789	recent@bitcoin|top@bitcoin	HOT	Grin lesson for bitcoin?
+1488033	bitcoinplusplus	1	1296	0	3	19.3	1401121	131	recent@bitcoinplusplus|top@bitcoinplusplus	HOT	bitcoin++ economics edition || Vienna, Austria || May 27+28, 2026
+1488065	bitcoin	1	919	0	10	18.1	74100	9819	recent@bitcoin|top@bitcoin		Yet another bitcoin book: Defending Bitcoin - Luke de Wolf
+1487722	lightning	1	900	0	4	35.9	263526	333	recent@lightning		Has anyone here used Bitcoin/Lightning payments at a real store through Square?
+1488239	bitcoin	1	771	0	1	14.5	244511	15	recent@bitcoin|top@bitcoin		Ibis Wallet 4.0-beta released
+1487928	bitcoin	1	711	0	2	23.2	280679	21300	recent@bitcoin|top@bitcoin		TCP hole punching for Bitcoin nodes behind home NATs?
+1487923	AI	1	698	0	0	23.7	879734	6944	recent@AI|top@AI		ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration
+1487758	bitcoin	1	623	0	10	34.8	416073	476	recent@bitcoin|recent@bitcoin_beginners		What’s the best advice another Bitcoiner gave you?
+1488219	Memes	2	464	0	6	14.9	1	26352	recent@devs|top@devs|recent@AI	SELF_POST_OPP	"soy vibe coder" vs "the developer"
+1487791	nostr	1	432	0	3	33.2	145132	542	recent@nostr		Since Nostree.me is down...Is there any similar alternative you know?
+1488270	tech	1	396	0	1	13.4	6274	2225	recent@tech|top@tech		Dirty Frag - new Linux bug putting your system at risk - there's no easy fix yet
+1488175	tech	1	383	0	3	15.6	74100	9819	recent@tech|top@tech		GrapheneOS on Google's new reCAPTCHA approach
+1488226	bitcoin	1	304	0	0	14.8	74100	9819	recent@bitcoin|top@bitcoin		boardwalk.cash becomes Agi.cash Bitcoin rewards
+1488231	bitcoin	1	303	0	0	14.7	178	897	recent@bitcoin|top@bitcoin		Bitcoin Tech Talk #500: Parasitic Tech, SPLC, Rousseau Home School, ex-USAID++
+1487759	bitcoin_beginners	1	282	0	1	34.8	296825	4302	recent@bitcoin_beginners		BitcoinZAR Advocacy Group
+1488120	AI	1	263	0	0	16.6	296825	4302	recent@tech|top@tech|recent@AI		OpenCut
+1487761	AI	1	238	0	1	34.7	280679	21300	recent@AI		When Billionaires Abolish Economics
+1488243	bitcoinplusplus	1	237	0	1	14.3	1401121	131	recent@bitcoinplusplus|top@bitcoinplusplus		Shinobi at MIT Bitcoin Expo
+1487916	lightning	1	229	0	1	24.0	263526	333	recent@lightning		A Backup You Never Restored Is Not a Backup
+1488026	AI	1	69	0	0	19.4	280679	21300	recent@AI|top@AI		CUDA Proves Nvidia Is a Software Company
+1488191	bitcoin_beginners	1	57	0	0	15.4	296825	4302	recent@bitcoin_beginners|top@bitcoin_beginners		Currencies
+1488157	bitcoin_beginners	1	36	0	0	15.8	280679	21300	recent@bitcoin_beginners|top@bitcoin_beginners		The Bitcoin Magic Trick: How to Use Your Keys Without Touching the Internet
