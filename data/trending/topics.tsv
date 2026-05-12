@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-11T21:04:57.351Z; n=40
-bitcoin	sn:bitcoin,sn:videos	11.39	yes	
+# generated 2026-05-12T08:11:06.354Z; n=40
+bitcoin	sn:bitcoin,sn:videos	8.96	yes	
+show	hn	3.92	yes	
+somebody	sn:bitcoin	3.34	yes	
 grin	sn:bitcoin	3.32	yes	
-somebody	sn:bitcoin	3.32	yes	
-hardware attestation	hn	3.31	yes	
-monopoly enabler	hn	3.31	yes	
-local	hn	3.24	no	RISING
-liverpool	sn:Stacker_Sports	3.17	no	RISING
-chelsea	sn:Stacker_Sports	3.17	no	RISING
+stacker news	sn:meta	3.29	yes	
+bitcoin education	sn:meta	3.29	yes	
+closing	sn:BooksAndArticles	3.2	no	RISING
+cowen	sn:BooksAndArticles	3.2	no	RISING
+the marginal revolution	sn:BooksAndArticles	3.2	no	RISING
+unfinished business	sn:BooksAndArticles	3.2	no	RISING
+mises	sn:BooksAndArticles	3.2	no	RISING
+liverpool	sn:Stacker_Sports	3.18	no	RISING
+chelsea	sn:Stacker_Sports	3.18	no	RISING
 forget tech	sn:econ	3.13	no	RISING
 hollywood	sn:econ	3.13	no	RISING
 california is powered	sn:econ	3.13	no	RISING
 healthcare jobs	sn:econ	3.13	no	RISING
-vienna	sn:bitcoinplusplus	3.08	no	RISING
-austria	sn:bitcoinplusplus	3.08	no	RISING
-closing	sn:BooksAndArticles	3.08	no	RISING
-cowen	sn:BooksAndArticles	3.08	no	RISING
-the marginal revolution	sn:BooksAndArticles	3.08	no	RISING
-unfinished business	sn:BooksAndArticles	3.08	no	RISING
-mises	sn:BooksAndArticles	3.08	no	RISING
-the beer gods smiled	sn:history	3.07	no	RISING
-me today	sn:history	3.07	no	RISING
-auditor summit	sn:events	2.99	no	RISING
-civil rights	sn:events	2.99	no	RISING
-transparency	sn:events	2.99	no	RISING
-accountability	sn:events	2.99	yes	
-photographing	sn:Photography	2.95	no	RISING
-defending bitcoin	sn:bitcoin	2.94	yes	
-luke	sn:bitcoin	2.94	yes	
-wolf	sn:bitcoin	2.94	yes	
+vienna	sn:bitcoinplusplus	3.11	no	RISING
+austria	sn:bitcoinplusplus	3.11	no	RISING
+auditor summit	sn:events	3.04	no	RISING
+civil rights	sn:events	3.04	no	RISING
+transparency	sn:events	3.04	no	RISING
+accountability	sn:events	3.04	yes	
+photographing	sn:Photography	3	no	RISING
+packages compromised	sn:tech	2.97	yes	
+defending bitcoin	sn:bitcoin	2.96	yes	
+luke	sn:bitcoin	2.96	yes	
+wolf	sn:bitcoin	2.96	yes	
+knockout stage	sn:Stacker_Sports	2.92	no	RISING
+final	sn:Stacker_Sports	2.92	no	RISING
 last	sn:Stacker_Sports	2.91	no	RISING
-knicks brass	sn:Stacker_Sports	2.9	no	RISING
-vindicated	sn:Stacker_Sports	2.9	no	RISING
-back	sn:Stacker_Sports	2.9	no	RISING
-eastern	sn:Stacker_Sports	2.9	no	RISING
-conference	sn:Stacker_Sports	2.9	no	RISING
-finals	sn:Stacker_Sports	2.9	no	RISING
+postmortem	hn	2.9	no	RISING
+supply-chain	hn	2.9	no	RISING
+survivor pool	sn:Stacker_Sports	2.89	no	RISING
+week	sn:Stacker_Sports	2.89	no	RISING
+the world update	sn:Stacker_Sports	2.89	no	RISING
 ibis wallet	sn:bitcoin	2.89	yes	
-singapore	sn:news	2.88	no	RISING
-the world update	sn:Stacker_Sports	2.87	no	RISING
+the butterfly touch	sn:bitcoin	2.85	yes	
 aris	sn:AI	2.84	yes	
+autonomous research	sn:AI	2.84	yes	
