@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-13T08:21:43.156Z; n=40
-bitcoin	sn:bitcoinplusplus,sn:bitcoin	6.17	yes	
-bambu lab	hn	5.69	no	RISING
-iran	sn:Politics_And_Law,sn:econ	5.67	no	RISING
-show	hn	4.48	no	RISING
-what	hn,sn:privacy	4.47	yes	
-citizenship	sn:Education	3.62	no	RISING
-state	sn:Education	3.62	no	RISING
-federal	sn:Education	3.62	no	RISING
-richard	sn:Education	3.62	no	RISING
-research	sn:meta	3.6	yes	
-public	sn:meta	3.6	yes	
-pressing	sn:meta	3.6	yes	
+# generated 2026-05-13T17:36:45.229Z; n=40
+privacy	sn:Design,sn:Politics_And_Law	6.08	no	RISING
+what	sn:AI,sn:meta	5.36	yes	
+cost	hn,sn:AI	4.48	yes	
+alex pruden	sn:AMA	3.73	no	RISING
+project eleven	sn:AMA	3.73	no	RISING
 play with	sn:Stacker_Stocks	3.35	no	RISING
 money stuff	sn:Stacker_Stocks	3.35	no	RISING
 matt levine	sn:Stacker_Stocks	3.35	no	RISING
-age verification	sn:privacy	3.3	no	RISING
-senate banking committee	sn:Politics_And_Law	3.17	no	RISING
-clarity act	sn:Politics_And_Law	3.17	no	RISING
-controversy	sn:bitcoinplusplus	3.15	no	RISING
-buck perley	sn:bitcoinplusplus	3.15	no	RISING
-jeremy rubin	sn:bitcoinplusplus	3.15	no	RISING
-brandon black	sn:bitcoinplusplus	3.15	no	RISING
-peter todd	sn:bitcoinplusplus	3.15	no	RISING
-why americans dread	sn:econ	3.13	no	RISING
-edward luce	sn:econ	3.13	no	RISING
-monitoring	sn:bitcoin	3.02	yes	
-replace ads	sn:lol	2.96	no	RISING
-they live	sn:lol	2.96	no	RISING
-parker lewis	sn:food_and_drinks	2.93	no	RISING
-ignore	sn:relationships	2.93	no	RISING
+fraternal order	sn:bitcoin	3.24	yes	
+police	sn:bitcoin	3.24	yes	
+the praxeology	sn:Design	3.16	no	RISING
+max hillebrand	sn:Design	3.16	no	RISING
+the who won	sn:Music	3.14	no	RISING
+get fooled again	sn:Music	3.14	no	RISING
+debankd	sn:bitcoin	3.11	yes	
+financial censorship monitor	sn:bitcoin	3.11	yes	
+parker lewis	sn:food_and_drinks	3.05	no	RISING
+mini-app dev peer review group	sn:nostr	3	yes	
+googlebook	hn	2.95	no	RISING
+sterlingov appeal	sn:Politics_And_Law	2.92	no	RISING
+the criminalization	sn:Politics_And_Law	2.92	no	RISING
 the world	sn:AI	2.89	yes	
 most important machine	sn:AI	2.89	yes	
-googlebook	hn	2.88	no	RISING
-has been secretly carrying out attacks	sn:Politics_And_Law	2.88	no	RISING
-full article	sn:Politics_And_Law	2.88	no	RISING
-american revolution really	sn:econ	2.85	no	RISING
-war over money	sn:econ	2.85	no	RISING
+phoenixd	sn:lightning	2.88	no	RISING
+arkade	sn:lightning	2.88	no	RISING
+running	sn:AI	2.87	yes	
+node	sn:AI	2.87	yes	
+hash-based signature opcode	sn:bitcoin	2.87	yes	
+post-quantum bitcoin	sn:bitcoin	2.87	yes	
+europe	hn	2.83	no	RISING
 bitcoin deposits	sn:bitcoin	2.83	yes	
+david marcus	sn:bitcoin	2.83	yes	
+isabel foxen duke	sn:bitcoin	2.83	yes	
+bitcoin rails podcast	sn:bitcoin	2.83	yes	
+paul skenes	sn:Stacker_Sports	2.8	no	RISING
+restore	hn	2.79	no	RISING
+bambu lab	hn	2.79	no	RISING
 guess	sn:charts_and_maps	2.78	no	RISING
 blockheight	sn:charts_and_maps	2.78	no	RISING
+show	hn	2.77	no	RISING
