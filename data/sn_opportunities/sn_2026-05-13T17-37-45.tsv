@@ -1,0 +1,101 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1489488	AMA	2	5330	0	35	2.5	1489488	19	recent@AMA|top@AMA	HOT,SIGNAL	Alex Pruden, CEO Project Eleven AMA
+1489281	Design	2	1430	0	14	9.1	163128	3546	recent@privacy|top@privacy|recent@Design	HOT,SIGNAL,SELF_POST_OPP	[NEW] The Praxeology of Privacy by Max Hillebrand
+1489518	bitcoin	1	1284	0	2	2.0	714537	41	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Debankd, a Financial Censorship Monitor
+1489283	bitcoin	1	1217	0	1	8.9	273359	419	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	ViaBTC started mining <1 sat vbyte transactions
+1489579	nostr	1	997	0	1	1.0	227606	2403	recent@lightning|top@lightning|recent@nostr	FRESH,SIGNAL	Mini-App Dev Peer Review Group
+1489470	Stacker_Stocks	2	936	0	5	3.0	900202	2255	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Is there still such a thing as the free market?
+1489288	lightning	1	760	0	11	8.5	595227	37	recent@lightning|top@lightning	SIGNAL	Phoenixd and Arkade funding sources added to LNbitsBox
+1489447	AI	1	741	0	2	3.5	303620	5964	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	What's the Cost of Running a Node in 2030?
+1489329	bitcoin	1	740	0	1	6.6	280679	21360	recent@bitcoin|top@bitcoin	SIGNAL	OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin
+1489407	bitcoin	1	668	0	2	4.5	74100	9856	recent@bitcoin|top@bitcoin|recent@podcasts	SIGNAL	David Marcus on Isabel Foxen Duke's Bitcoin Rails Podcast
+1489327	bitcoinplusplus	1	528	0	1	6.7	1401121	133	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Conservation of Blockspace
+1489347	econ	2	456	0	1	6.3	280679	21360	recent@econ|top@econ	SIGNAL	Is Economics Finally Becoming Trustworthy?
+1489606	bitcoin	1	450	0	1	0.5	1014665	144	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Optech Newsletter #404 Recap Podcast
+1489291	bitcoin	1	413	0	1	8.4	280679	21360	recent@bitcoin|top@bitcoin	SIGNAL	Building Bitcoin for Rural Bitcoiners: The Rurbit Story
+1489596	bitcoin	1	390	0	1	0.6	524915	42	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	The Best Money For Agents
+1489515	Stacker_Stocks	2	367	0	1	2.0	280679	21360	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Oregon couple files class action against Bitcoin Depot
+1489587	charts_and_maps	2	363	0	0	0.7	280679	21360	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Iran’s got the biggest internet blackout ever
+1489480	meta	1	305	0	2	2.6	36151	1473	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1489249	nostr	1	282	0	3	11.7	1472690	2	recent@nostr|top@nostr	SIGNAL	Bitchill s04
+1489316	news	2	261	0	1	7.2	51481	4013	recent@news|top@news	SIGNAL	Saudi Arabia launched covert attacks on Iran as regional war widened
+1489420	AI	1	245	0	7	4.3	280679	21360	recent@AI|top@AI	SIGNAL	Meet the Sad Wives of AI
+1489312	AI	1	233	0	4	7.4	280679	21360	recent@AI|top@AI	SIGNAL	The newest AI boom pitch: Host a mini data center at your home
+1489571	lol	2	147	0	7	1.2	48657	13720	recent@lol|top@lol	FRESH,SIGNAL	Say what you will about Spencer Pratt, but this is pretty funny (and effective)
+1489483	Travel	3	144	0	0	2.6	51481	4013	recent@news|top@news	SIGNAL	France confines 1,700 on British cruise ship after gastroenteritis outbreak
+1489476	charts_and_maps	2	143	0	1	2.8	280679	21360	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	How Economic Power Shifted in the Last 10 Years
+1489352	AI	1	135	0	3	6.2	12309	3462	recent@devs|top@devs|recent@AI	SIGNAL	Custom Tools For OpenCode?
+1489598	nostr	1	102	0	0	0.6	296825	4324	recent@devs|top@devs	FRESH,SIGNAL	Welcome Back To Nostr Compass: Nostr Compass #22
+1489374	charts_and_maps	2	100	0	2	5.4	280679	21360	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The World’s Most Indebted Households in 2026
+1488902	Education	2	4147	0	17	24.3	30993	3457	recent@Education|recent@BooksAndArticles	HOT,SELF_POST_OPP	Citizenship - State and Federal - Richard McDonald
+1488858	bitcoin	1	4109	0	25	25.3	1278026	471	recent@bitcoin|recent@Education	HOT	My attempt at orange pilling the devs at NewPipe
+1488876	meta	1	4017	0	16	25.0	48657	13720	recent@meta|recent@econ	HOT	Research in Public #19: Pressing on through discouragements
+1488528	privacy	1	2414	0	24	32.4	879734	6973	recent@privacy	HOT	Age Verification: What countries require you to perform ID checks and for what?
+1489128	Stacker_Stocks	2	2246	0	8	19.1	724606	10248	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SELF_POST_OPP	EBay Won’t Play With GameStop (Money Stuff, Matt Levine)
+1489214	bitcoin	1	1755	0	12	14.9	74100	9856	recent@bitcoin|top@bitcoin	HOT	Fraternal Order of Police releases letter opposing non custodial dev protections
+1488825	bitcoinplusplus	1	1404	0	4	25.8	1401121	133	recent@bitcoinplusplus	HOT	Bitcoin w/o Controversy: Buck Perley, Jeremy Rubin, Brandon Black, Peter Todd
+1488652	econ	2	1346	0	10	28.9	724606	10248	recent@econ	HOT,SELF_POST_OPP	Why Americans Dread AI (FT, Edward Luce)
+1489225	Construction_and_Engineering	2	1240	0	1	14.4	1022234	476	recent@Construction_and_Engineering|top@Construction_and_Engineering	HOT	PoW 5/12/26
+1489195	food_and_drinks	3	1128	0	18	15.6	74100	9856	recent@econ|top@econ	HOT,SELF_POST_OPP	All of Parker Lewis' steak price inflation photos in a row
+1488664	bitcoin	1	1054	0	7	28.4	587	103	recent@bitcoin	HOT	Monitoring of Bitcoin DNS seeds
+1488464	art	3	1011	0	2	35.9	988069	250	recent@tech|recent@BooksAndArticles	HOT	A Raspberrarium, one cake, one banana bread and some updates.
+1489071	tech	1	926	0	2	20.9	1462312	69	recent@tech|top@tech|recent@Construction_and_Engineering		Big fail
+1488599	lol	2	916	0	3	30.3	30993	3457	recent@lol		they_live_adblocker: Replace Ads with They Live style slogans
+1488892	relationships	3	845	0	8	24.6	375005	2052	recent@ideasfromtheedge	SELF_POST_OPP	Ignore adult tantrums on the internet
+1489097	AI	1	782	0	1	20.4	144357	4195	recent@AI|top@AI		The World's Most Important Machine
+1488746	econ	2	701	0	4	27.2	280679	21360	recent@econ		Was the American Revolution Really a War Over Money?
+1488946	bitcoin	1	678	0	9	23.1	74100	9856	recent@bitcoin|top@bitcoin		New layer two proposal: Bitcoin Deposits - ynniv
+1488939	AskSN	2	628	0	10	23.3	435224	1504	recent@AskSN|top@AskSN|recent@BooksAndArticles	SELF_POST_OPP	Why do you read books?
+1488751	econ	2	614	0	3	27.1	402772	22080	recent@econ		US inflation jumps to 3.8% as energy costs surge from Iran war
+1489125	charts_and_maps	2	596	0	7	19.2	1278026	471	recent@bitcoin_Mining|top@bitcoin_Mining|recent@charts_and_maps	SELF_POST_OPP	Bit of fun: Guess when price surpasses Blockheight
+1488917	bitcoin	1	548	0	3	23.9	296825	4324	recent@bitcoin|top@bitcoin		Knotzi Death March Countdown
+1488684	math	2	510	0	24	28.2	280679	21360	recent@math		Why Soccer Still Defies Statistical Analysis
+1488584	AI	1	507	0	5	30.6	9274	22362	recent@AI|recent@Stacker_Stocks|recent@news		South Korea surges past Canada to become 7th-largest stock market in the world
+1488565	AskSN	2	441	0	1	31.2	84664	888	recent@AskSN|recent@BooksAndArticles		The Publishing Industry Scam
+1488574	lol	2	412	0	13	31.0	280679	21360	recent@bitcoin|recent@lol	SELF_POST_OPP	Bitcoin Ordinals explorer Ord.io to shut down alongside trading app Zap
+1489096	AI	1	405	0	0	20.4	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		Meet Loupe: AI-Powered Vulnerability Scanning for Open-Source Bitcoin
+1488948	bitcoin_beginners	1	405	0	0	23.1	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Btrust Builders - Kickstart Your Bitcoin Developer Career
+1488972	AI	1	393	0	1	22.8	4078	5301	recent@AI|top@AI|recent@science		AI model finally learns to say ‘I don’t know’
+1488523	AskSN	2	393	0	7	32.7	104755	12143	recent@AskSN	SELF_POST_OPP	how do you carve out time for deep work?
+1488874	AI	1	369	0	1	25.1	6263	10476	recent@AI|recent@econ		Anthropic Voids Unauthorized Share Transfers, Bloodbath In Tokenized Markets
+1488564	AI	1	351	0	0	31.2	140698	1046	recent@AI		Local AI Needs to be the Norm
+1488768	lightning	1	348	0	0	26.7	296825	4324	recent@lightning		Core Lightning - Release v26.06. Release Candidate 1
+1488679	bitcoin	1	345	0	7	28.2	144357	4195	recent@bitcoin		⚡️Startup Day Guadalajara - Aug 21st, 2026
+1488958	bitcoin	1	331	0	1	23.0	4078	5301	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		42 Free Bitcoin Tools for Stackers | SatsTools
+1488914	Stacker_Stocks	2	317	0	0	24.0	280679	21360	recent@Stacker_Stocks|top@Stacker_Stocks		eBay rejects GME $56B offer: "Your proposal is neither credible nor attractive"
+1488859	bitcoin_beginners	1	293	0	0	25.3	296825	4324	recent@bitcoin_beginners		Apparently, any phone number in these African country can be a Lightning Address
+1489072	tech	1	282	0	0	20.9	1293586	1800	recent@tech|top@tech		Hackers are using fake interviews to sneak Trojan viruses into victims' PCs
+1488861	AI	1	269	0	2	25.3	280679	21360	recent@AI|recent@charts_and_maps		Which AI Skills Are Most in Demand?
+1488633	Design	2	265	0	6	29.4	1227948	162	recent@nostr|recent@Design	SELF_POST_OPP	Help Choose the Next Limited Edition Oshi T-Shirt with New Nostr Voting System
+1488720	AI	1	261	0	0	27.6	401865	8038	recent@tech|recent@AI		China Sought Access to Anthropic’s Newest A.I. The Answer Was No.
+1488591	Stacker_Stocks	2	241	0	32	30.5	9274	22362	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1488634	charts_and_maps	2	230	0	3	29.4	280679	21360	recent@charts_and_maps		Mapped: The States Banning Phones in Schools
+1489235	privacy	1	202	0	7	14.0	1468336	12	recent@privacy|top@privacy		New Apple Airpods to Feature Cameras
+1488740	AskSN	2	195	0	3	27.3	296825	4324	recent@AskSN		[AskSN] What do you see, in this?
+1489134	news	2	180	0	0	18.7	9274	22362	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@news		America's aging water systems trigger a surge in billion-dollar fixes
+1489164	news	2	163	0	1	17.0	9274	22362	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@news		Utah Nears Completion of 17-Year, 49-Mile Spanish Fork–Santaquin Pipeline
+1488819	bitcoin_beginners	1	158	0	0	25.9	296825	4324	recent@bitcoin_beginners		[RIP] Bitcoin Paper Wallets
+1489081	science	2	143	0	0	20.7	1293586	1800	recent@science|top@science		“Cannot be explained” – New ultra stainless steel stuns researchers
+1488933	bitcoin_Mining	1	134	0	0	23.5	296825	4324	recent@bitcoin_Mining|top@bitcoin_Mining		MARA Dumps $1.5B In Bitcoin As Miner Trades Treasury Hoard For AI Power Bet
+1488982	news	2	133	0	0	22.6	297791	7512	recent@news|top@news		Sam Altman Testifies That Elon Musk Wanted Control of OpenAI
+1488586	tech	1	123	0	0	30.6	280679	21360	recent@Construction_and_Engineering		CERN’s KiCad component library now open source
+1488882	lol	2	114	0	1	24.9	30782	24712	recent@lol		No Gold Trump Phone? Say It Ain't So!
+1489139	news	2	109	0	2	18.2	9274	22362	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@news		Oakland County water emergency: GLWA working to replace 50-year-old water pipe
+1488581	econ	2	107	0	0	30.8	280679	21360	recent@econ		Europe’s Green Deal Is Unraveling
+1489300	AI	1	89	0	1	7.9	9274	22362	recent@AI|top@AI|recent@Stacker_Stocks		🤏 Apple’s big AI play is, well, mini  - Snacks
+1488550	meta	1	87	0	0	31.6	36151	1473	recent@meta		This Day on SN: May 12
+1489219	podcasts	2	86	0	14	14.7	88718	43381	recent@podcasts|top@podcasts		Stacker Sports Pod • Episode 82: Playing Under Protest and No Losers Allowed
+1488569	Stacker_Stocks	2	82	0	1	31.1	9274	22362	recent@Stacker_Stocks		🚀 Will Tesla shareholders take off for SpaceX stock? - Snacks
+1489309	Stacker_Stocks	2	70	0	14	7.5	9274	22362	recent@Stacker_Stocks|top@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1489307	meta	1	67	0	0	7.6	36151	1473	recent@meta|top@meta		This Day on SN: May 13
+1489438	econ	2	63	0	0	3.7	837285	868	recent@econ|top@econ		The Inflation Pipeline Is Heating Back Up
+1489473	bitcoin_beginners	1	36	0	0	2.9	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Breet Launches $10,000 Grant Program for African Bitcoin and Payment Builders
+1489462	bitcoin_beginners	1	36	0	1	3.2	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		BTCPay Server: A Technical Introduction for Users and Contributors
+1489055	bitcoin_beginners	1	36	0	0	21.2	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Make self sovereigns great again
+1489103	BooksAndArticles	2	36	0	0	20.2	296825	4324	recent@BooksAndArticles|top@BooksAndArticles		Stop Being Prey
+1489601	bitcoin_beginners	1	21	0	0	0.5	999698	224	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	University Student on Stacking Sats
+1488801	bitcoin_Mining	1	11	0	0	26.2	280679	21360	recent@bitcoin_Mining		Bitcoin mining conditions improved in April, but uncertainty looms: report
+1488839	news	2	10	0	2	25.6	297791	7512	recent@devs|recent@news		Linux is Getting a Kill Switch!
+1489092	news	2	10	0	0	20.5	1293586	1800	recent@news|top@news		Color crunch: Japan’s Calbee chip bags go monochrome as Iran war bites | CNN
+1488867	news	2	10	0	0	25.2	297791	7512	recent@news		Orbital Data Centers Could Launch by 2027 as Musk, Google Align on Space AI
+1489623	bitcoin_beginners	1	0	0	0	0.2	296825	4324	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH	256 Foundation wins $100,000 contribution from MARA Foundation.
