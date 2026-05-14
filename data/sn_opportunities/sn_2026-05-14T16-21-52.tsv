@@ -1,0 +1,61 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1489953	security	1	1240	0	3	11.6	1	26369	recent@security|top@security|recent@privacy	HOT,SIGNAL	The Tiny UDP Cannon: An Android VPN Bypass
+1490048	devs	1	597	0	2	6.0	12309	3465	recent@devs|top@devs	SIGNAL	Rewrite Bun in Rust has been merged
+1490064	lightning	1	586	0	4	4.7	263526	335	recent@lightning|top@lightning	SIGNAL	RoboSats alternatives
+1490083	bitcoin_beginners	1	447	0	1	3.8	296825	4337	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Bitcoin Whitepaper explained for the kids
+1490095	AI	1	372	0	0	3.4	4078	5307	recent@AI|top@AI	SIGNAL	AI Layoffs Tracker
+1490135	bitcoin	1	283	0	3	2.3	74100	9869	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	hodlhodl testing "lightning" trades via arkade
+1490154	AI	1	228	0	0	1.7	12309	3465	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	Cerebras to Kick Off Hotly Anticipated Year for Artificial-Intelligence IPOs
+1490050	nostr	1	225	0	1	5.9	1490050	1	recent@nostr|top@nostr	SIGNAL	Nostr Graph
+1489965	AI	1	178	0	1	10.7	698001	9077	recent@AI|top@AI	SIGNAL	No trigger warning here other than the humanoid robots are coming.
+1489960	AI	1	123	0	0	11.2	296825	4337	recent@AI|top@AI	SIGNAL	Introducing Claude for Small Business
+1489931	AI	1	3284	0	18	13.5	1	26369	recent@AI|top@AI	HOT	The Rise of the Bullshittery
+1489939	bitcoin	1	2547	0	11	12.3	1445755	7	recent@bitcoin|top@bitcoin|recent@nostr	HOT	P2P sats, an  aggregated P2P order book
+1489832	bitcoin	1	2425	0	12	17.4	724606	10253	recent@bitcoin|top@bitcoin	HOT	Welcome to the Nordic Node, a Newsletter from BTCHEL – BTCHEL2026
+1489281	Design	2	1431	0	15	31.8	163128	3546	recent@privacy	HOT,SELF_POST_OPP	[NEW] The Praxeology of Privacy by Max Hillebrand
+1489518	bitcoin	1	1404	0	4	24.7	714537	42	recent@bitcoin	HOT	Debankd, a Financial Censorship Monitor
+1489283	bitcoin	1	1217	0	2	31.6	273359	420	recent@bitcoin|recent@bitcoin_Mining	HOT	ViaBTC started mining <1 sat vbyte transactions
+1489579	nostr	1	1066	0	1	23.7	227606	2405	recent@lightning|top@lightning|recent@nostr	HOT	Mini-App Dev Peer Review Group
+1489329	bitcoin	1	947	0	1	29.4	280679	21392	recent@bitcoin		OP_CHECKSHRINCS: A Hash-Based Signature Opcode for Post-Quantum Bitcoin
+1489596	bitcoin	1	894	0	4	23.3	524915	42	recent@bitcoin|top@bitcoin		The Best Money For Agents
+1489764	news	2	813	0	13	19.5	81644	1032	recent@privacy|top@privacy	SELF_POST_OPP	Sweden Wants to Strap GPS Tracking Devices on Children as Young as 13
+1489729	tech	1	775	0	3	20.5	1293586	1805	recent@tech|top@tech		Journalists Mourn as Venmo Finally Fixes Its Most Glaring Privacy Issue
+1489288	lightning	1	760	0	15	31.2	595227	38	recent@lightning		Phoenixd and Arkade funding sources added to LNbitsBox
+1489810	bitcoin	1	755	0	14	18.1	546131	1766	recent@bitcoin|top@bitcoin		Bitcoin Wallet Recovered Thanks to Claude
+1489447	AI	1	741	0	7	26.2	303620	5967	recent@bitcoin|recent@AI		What's the Cost of Running a Node in 2030?
+1489407	bitcoin	1	668	0	2	27.3	74100	9869	recent@bitcoin		David Marcus on Isabel Foxen Duke's Bitcoin Rails Podcast
+1489606	bitcoin	1	586	0	1	23.2	1014665	144	recent@bitcoin|top@bitcoin		Bitcoin Optech Newsletter #404 Recap Podcast
+1489327	bitcoinplusplus	1	528	0	1	29.5	1401121	133	recent@bitcoinplusplus		Conservation of Blockspace
+1489841	AI	1	489	0	2	17.2	5705	2557	recent@tech|top@tech|recent@AI		Livestream of Helix-02 Robots Working on Factory Floor
+1489291	bitcoin	1	413	0	1	31.1	280679	21392	recent@bitcoin		Building Bitcoin for Rural Bitcoiners: The Rurbit Story
+1489480	meta	1	305	0	2	25.4	36151	1474	recent@meta		What are you working on this week?
+1489635	bitcoin	1	303	0	1	22.3	74100	9869	recent@bitcoin|top@bitcoin		Our First Annual Report - 2140 Foundation
+1489652	bitcoin	1	294	0	2	21.8	1489652	1	recent@bitcoin|top@bitcoin		FrostSnap | The Bitcoin Wallet That Breaks Every Rule
+1489249	nostr	1	282	0	3	34.5	1472690	2	recent@nostr		Bitchill s04
+1489420	AI	1	245	0	8	27.0	280679	21392	recent@AI		Meet the Sad Wives of AI
+1489312	AI	1	233	0	5	30.1	280679	21392	recent@AI		The newest AI boom pitch: Host a mini data center at your home
+1489763	nostr	1	204	0	2	19.7	256599	706	recent@nostr|top@nostr		murmur - v4v text to speech bot.
+1489883	AskSN	2	179	0	1	15.5	9274	22386	recent@lightning|top@lightning		Cash Flow Constraints Limit Growth for Construction Firms. Can LN fix this ?
+1489871	tech	1	159	0	1	15.7	1245155	153	recent@tech|top@tech		I switched to FeeBSD for a couple weeks. I'm sticking with it.
+1489650	bitcoin	1	147	0	7	21.8	2795	1230	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		[for sale] Super Satoshi Children's Book & Bitcoin Education playing card decks
+1489877	Memes	2	143	0	7	15.6	1245155	153	recent@tech|top@tech|recent@AI		Vibe coders walking around with open laptops is a meme now
+1489352	AI	1	135	0	3	28.9	12309	3465	recent@devs|recent@AI		Custom Tools For OpenCode?
+1489640	bitcoin_beginners	1	105	0	0	22.2	296825	4337	recent@bitcoin_beginners|top@bitcoin_beginners		Does Your Shop Accept Bitcoin? Submit your shop to Galaxy Mind
+1489598	nostr	1	102	0	0	23.3	296825	4337	recent@devs|top@devs		Welcome Back To Nostr Compass: Nostr Compass #22
+1490084	AI	1	90	0	0	3.8	280679	21392	recent@AI|top@AI		How fast is autonomous AI cyber capability advancing?
+1489300	AI	1	89	0	1	30.6	9274	22386	recent@AI		🤏 Apple’s big AI play is, well, mini  - Snacks
+1490052	AI	1	69	0	0	5.8	280679	21392	recent@AI|top@AI		How Not to Measure AI Productivity
+1489998	AI	1	69	0	2	8.5	140698	1048	recent@AI|top@AI		LLMs are breaking 20 year old system design
+1489609	AI	1	69	0	0	23.1	297791	7516	recent@AI|top@AI		BofA Sees More Room for Micron's AI Rally
+1489307	meta	1	67	0	0	30.4	36151	1474	recent@meta		This Day on SN: May 13
+1489601	bitcoin_beginners	1	57	0	3	23.3	999698	225	recent@bitcoin_beginners|top@bitcoin_beginners		University Student on Stacking Sats
+1490037	meta	1	57	0	1	6.4	36151	1474	recent@meta|top@meta		This Day on SN: May 14
+1489983	security	1	50	0	1	9.1	256599	706	recent@security|top@security		Microsoft BitLocker: YellowKey 0day exploit demonstrates an apparent backdoor
+1489623	bitcoin_beginners	1	47	0	0	22.9	296825	4337	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		256 Foundation wins $100,000 contribution from MARA Foundation.
+1490132	bitcoin_beginners	1	36	0	0	2.4	296825	4337	recent@bitcoin_beginners|top@bitcoin_beginners		Don't Change Your Job. Change The Money.
+1489473	bitcoin_beginners	1	36	0	0	25.6	296825	4337	recent@bitcoin_beginners|recent@bitdevs		Breet Launches $10,000 Grant Program for African Bitcoin and Payment Builders
+1489462	bitcoin_beginners	1	36	0	1	25.9	296825	4337	recent@bitcoin_beginners|recent@bitdevs		BTCPay Server: A Technical Introduction for Users and Contributors
+1489964	bitcoin	1	21	0	0	10.8	249216	269	recent@lightning|top@lightning		⚡ Run Your Own Bitcoin + Lightning Node — Virtual Private Node
+1489938	bitcoin_Mining	1	11	0	0	12.7	296825	4337	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin's Block Hall of Fame: The Highest, the Closest, and the Rarest
+1489638	lightning	1	0	0	0	22.2	280679	21392	recent@lightning|top@lightning		Square: over one million merchants enabled for Bitcoin payments
+1489269	devs	1	0	0	1	32.7	140698	1048	recent@devs		From Today, Software Engineering is Dead
