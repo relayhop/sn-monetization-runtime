@@ -1,0 +1,43 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1490380	bitcoin	1	1366	0	16	11.8	1490380	10	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I built an open-source Bitcoin loan calculator. Looking for feedback.
+1490456	bitcoin	1	510	0	2	8.7	6263	10478	recent@bitcoin|top@bitcoin	SIGNAL	Rusty Russell: I'm leaving Blockstream to try to start up CenturyMetadata.org
+1490429	AI	1	271	0	7	10.0	2795	1233	recent@tech|top@tech|recent@AI	SIGNAL	Convenience killed Amazon
+1489939	bitcoin	1	4000	0	14	30.0	1445755	9	recent@bitcoin|recent@nostr	HOT	P2P sats, an  aggregated P2P order book
+1489931	AI	1	3372	0	25	31.1	1	26377	recent@AI	HOT	The Rise of the Bullshittery
+1489832	bitcoin	1	2435	0	13	35.1	724606	10256	recent@bitcoin	HOT	Welcome to the Nordic Node, a Newsletter from BTCHEL – BTCHEL2026
+1490345	bitcoin	1	2158	0	8	13.3	631896	2928	recent@bitcoin|top@bitcoin	HOT	Walked around a shopping area... Talked to square merchants & paid in bitcoin
+1489953	security	1	1241	0	3	29.3	1	26377	recent@security|recent@privacy|recent@tech	HOT	The Tiny UDP Cannon: An Android VPN Bypass
+1490214	AGORA	3	996	0	12	17.7	263526	336	recent@lightning|top@lightning	SELF_POST_OPP	Square Crosses 1M Bitcoin-Enabled Merchants As Adoption Continues To Grow
+1490307	AI	1	960	0	8	14.9	48657	13757	recent@AI|top@AI		Should political ads that use the AI-likeness of another candidate be illegal?
+1490048	devs	1	893	0	5	23.7	12309	3465	recent@devs|top@devs		Rewrite Bun in Rust has been merged
+1490083	bitcoin_beginners	1	789	0	1	21.5	296825	4340	recent@bitcoin_beginners|top@bitcoin_beginners		The Bitcoin Whitepaper explained for the kids
+1490064	lightning	1	764	0	7	22.4	263526	336	recent@lightning|top@lightning		RoboSats alternatives
+1489810	bitcoin	1	755	0	15	35.8	546131	1767	recent@bitcoin		Bitcoin Wallet Recovered Thanks to Claude
+1489841	AI	1	489	0	2	34.9	5705	2557	recent@tech|recent@AI		Livestream of Helix-02 Robots Working on Factory Floor
+1490095	AI	1	439	0	0	21.1	4078	5308	recent@AI|top@AI		AI Layoffs Tracker
+1490306	lightning	1	392	0	5	14.9	406543	68	recent@lightning|top@lightning		Understanding Phoenix Wallet liquidity management
+1490219	tech	1	358	0	1	17.6	161788	9748	recent@tech|top@tech		MIT: 20% drop in incoming graduate students
+1490135	bitcoin	1	283	0	3	19.9	74100	9877	recent@bitcoin|top@bitcoin|recent@lightning		hodlhodl testing "lightning" trades via arkade
+1490154	AI	1	228	0	1	19.3	12309	3465	recent@tech|top@tech|recent@AI		Cerebras to Kick Off Hotly Anticipated Year for Artificial-Intelligence IPOs
+1490050	nostr	1	225	0	1	23.6	1490050	1	recent@nostr|top@nostr		Nostr Graph
+1490266	food_and_drinks	3	189	0	1	16.4	74100	9877	recent@lightning|top@lightning|recent@nostr		Zap Cooking - Food. Friends. Freedom.
+1489883	AskSN	2	179	0	1	33.2	9274	22419	recent@lightning		Cash Flow Constraints Limit Growth for Construction Firms. Can LN fix this ?
+1489965	AI	1	178	0	1	28.4	698001	9087	recent@AI		No trigger warning here other than the humanoid robots are coming.
+1489871	tech	1	173	0	1	33.4	1245155	153	recent@tech		I switched to FeeBSD for a couple weeks. I'm sticking with it.
+1489877	Memes	2	143	0	7	33.3	1245155	153	recent@tech|recent@AI		Vibe coders walking around with open laptops is a meme now
+1490335	bitcoin	1	131	0	1	13.9	996769	29	recent@bitcoin|top@bitcoin|recent@privacy		How To Opt Out of the Digital Prison - Hakeem Anwar | Ep. 137
+1489960	AI	1	123	0	0	28.9	296825	4340	recent@AI		Introducing Claude for Small Business
+1490132	bitcoin_beginners	1	119	0	1	20.1	296825	4340	recent@bitcoin_beginners|top@bitcoin_beginners		Don't Change Your Job. Change The Money.
+1490084	AI	1	90	0	0	21.5	280679	21398	recent@AI|top@AI		How fast is autonomous AI cyber capability advancing?
+1490052	AI	1	69	0	0	23.5	280679	21398	recent@AI|top@AI		How Not to Measure AI Productivity
+1489998	AI	1	69	0	2	26.2	140698	1048	recent@AI		LLMs are breaking 20 year old system design
+1490037	meta	1	57	0	1	24.0	36151	1475	recent@meta		This Day on SN: May 14
+1489983	security	1	50	0	1	26.8	256599	707	recent@security		Microsoft BitLocker: YellowKey 0day exploit demonstrates an apparent backdoor
+1490554	bitcoin	1	21	0	0	0.4	24585	347	recent@lightning|top@lightning	FRESH	Latest Strikes S03E19 - May 4th-10th 2026
+1489964	bitcoin	1	21	0	0	28.5	249216	269	recent@lightning		⚡ Run Your Own Bitcoin + Lightning Node — Virtual Private Node
+1489938	bitcoin_Mining	1	11	0	0	30.3	296825	4340	recent@bitcoin_Mining		Bitcoin's Block Hall of Fame: The Highest, the Closest, and the Rarest
+1490501	bitcoin_beginners	1	0	0	0	4.6	296825	4340	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin for Juniors — My First Bitcoin
+1490559	lightning	1	0	0	1	0.1	280679	21398	recent@lightning|top@lightning	FRESH	Predicting Channel Closures in the Lightning Network with Machine Learning
+1490555	lightning	1	0	0	1	0.3	280679	21398	recent@lightning|top@lightning	FRESH	The Lightning Network’s Quantum Problem: Why Layer 2 Is Harder Than Layer 1
+1490564	AI	1	0	0	0	0.0	9274	22419	recent@AI|top@AI	FRESH	It’s AI-live!  - Snacks
+1490260	AI	1	0	0	3	16.6	296825	4340	recent@AI|top@AI		Elites are attempting to build the largest AI data center in the US
