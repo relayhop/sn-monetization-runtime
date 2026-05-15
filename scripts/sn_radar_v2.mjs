@@ -102,11 +102,17 @@ function classify(item) {
       const c = classify(it);
       if (c.ageHours > LOOKBACK_HOURS) continue;
       const existing = byId.get(it.id);
+      const newHit = `${r.sort}@${r.sub}`;
       if (existing) {
-        existing._hits.push(`${r.sort}@${r.sub}`);
+        // Prepend new hit so latest sub appears first in hits
+        existing._hits.unshift(newHit);
         existing._tags = [...new Set([...existing._tags, ...c.tags])];
+        // Update sub to the most recent one (latest fetch wins)
+        if (it.sub?.name) {
+          existing.sub = it.sub;
+        }
       } else {
-        byId.set(it.id, { ...it, _tags: c.tags, _ageH: c.ageHours.toFixed(1), _tier: c.tier, _hits: [`${r.sort}@${r.sub}`] });
+        byId.set(it.id, { ...it, _tags: c.tags, _ageH: c.ageHours.toFixed(1), _tier: c.tier, _hits: [newHit] });
       }
     }
   }
@@ -132,13 +138,24 @@ function classify(item) {
 
   // 1. 主 TSV (覆寫 latest)
   const headers = '# id\tsub\ttier\tscore\tbounty\tncom\tageH\top_since\top_nitems\thits\ttags\ttitle';
-  const row = it => [
-    it.id, it.sub?.name || '-', it._tier, it.sats || 0, it.bounty || 0,
-    it.ncomments || 0, it._ageH, it.user?.since ?? '-', it.user?.nitems ?? '-',
-    (it._hits || []).slice(0, 3).join('|'),
-    it._tags.join(','),
-    (it.title || '').replace(/[\t\n]/g, ' ').slice(0, 100),
-  ].join('\t');
+  const row = it => {
+    // Sort hits: prioritize the one matching it.sub.name, then by sort order (recent > top)
+    const hits = it._hits || [];
+    const sortedHits = [...hits].sort((a, b) => {
+      const aMatch = a.includes(`@${it.sub?.name}`);
+      const bMatch = b.includes(`@${it.sub?.name}`);
+      if (aMatch && !bMatch) return -1;
+      if (!aMatch && bMatch) return 1;
+      return a.localeCompare(b);
+    });
+    return [
+      it.id, it.sub?.name || '-', it._tier, it.sats || 0, it.bounty || 0,
+      it.ncomments || 0, it._ageH, it.user?.since ?? '-', it.user?.nitems ?? '-',
+      sortedHits.slice(0, 3).join('|'),
+      it._tags.join(','),
+      (it.title || '').replace(/[\t\n]/g, ' ').slice(0, 100),
+    ].join('\t');
+  };
   const tsvPath = path.join(outDir, `sn_${ts}.tsv`);
   fs.writeFileSync(tsvPath, [headers, ...top.map(row)].join('\n') + '\n');
   const latest = path.join(outDir, 'sn_latest.tsv');
