@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-16T06:38:31.287Z; n=40
-issue	sn:meta,sn:Politics_And_Law	6.18	yes	
-austin	sn:bitcoin,sn:events	5.69	yes	
-show	hn	3.79	no	RISING
-latest strikes	sn:bitcoin	3.69	yes	
-hostis	sn:Design	3.46	no	RISING
-enemies	sn:Design	3.46	no	RISING
-all mankind	sn:Design	3.46	no	RISING
-britain	sn:Politics_And_Law	3.4	no	RISING
-debt cage	sn:Politics_And_Law	3.4	no	RISING
-smith-fleming-parker	sn:Politics_And_Law	3.4	no	RISING
+# generated 2026-05-16T14:37:03.189Z; n=40
+issue	sn:meta,sn:BooksAndArticles	6.17	yes	
+austin	sn:bitcoin	5.73	yes	
+hostis	sn:Design	3.52	no	RISING
+enemies	sn:Design	3.52	no	RISING
+all mankind	sn:Design	3.52	no	RISING
+back	sn:meta	3.31	yes	
 negative prices	sn:science	3.29	no	RISING
 unprofitable generation	sn:science	3.29	no	RISING
 peak solar	sn:science	3.29	no	RISING
 here	sn:science	3.29	no	RISING
 bloomberg	sn:science	3.29	no	RISING
-back	sn:meta	3.29	yes	
 the most bizarre takeover	sn:Stacker_Stocks	3.25	no	RISING
 years	sn:Stacker_Stocks	3.25	no	RISING
 drama	sn:Stacker_Stocks	3.25	no	RISING
 matt levine	sn:Stacker_Stocks	3.25	no	RISING
+roasted	sn:Stacker_Sports	3.21	no	RISING
+ledger	sn:Stacker_Sports	3.21	no	RISING
+line	sn:Stacker_Sports	3.21	no	RISING
 bitdevs	sn:bitcoin	3.07	yes	
-meaningless	sn:the_stacker_muse	3.06	no	RISING
-utxo	sn:bitcoin	3.02	yes	
-bitcoin optech newsletter	sn:bitcoin	3.02	yes	
-bisq release	sn:bitcoin	3.01	yes	
+bisq release	sn:bitcoin	3.04	yes	
+project gutenberg	hn	3.02	no	RISING
+weak opponents create weak arguments	sn:Politics_And_Law	3.02	no	RISING
 feeling misunderstood	sn:art	3	no	RISING
-weak opponents create weak arguments	sn:Politics_And_Law	3	no	RISING
 camp	sn:events	2.99	yes	
 nakamoto	sn:events	2.99	yes	
 month	sn:events	2.99	yes	
 away	sn:events	2.99	yes	
-book review	sn:BooksAndArticles	2.96	no	RISING
-suicidal empathy	sn:BooksAndArticles	2.96	no	RISING
-dying to be kind	sn:BooksAndArticles	2.96	no	RISING
-gad saad	sn:BooksAndArticles	2.96	no	RISING
+book review	sn:BooksAndArticles	2.97	no	RISING
+suicidal empathy	sn:BooksAndArticles	2.97	no	RISING
+dying to be kind	sn:BooksAndArticles	2.97	no	RISING
+gad saad	sn:BooksAndArticles	2.97	no	RISING
 which college degrees	sn:charts_and_maps	2.95	no	RISING
 associate degrees	sn:charts_and_maps	2.95	no	RISING
 certificate programs pay off	sn:charts_and_maps	2.95	no	RISING
-project gutenberg	hn	2.93	no	RISING
-politics	sn:Politics_And_Law	2.93	no	RISING
+books	sn:BooksAndArticles	2.86	no	RISING
+articles weekly	sn:BooksAndArticles	2.86	no	RISING
+neural	sn:AI	2.75	yes	
+bwxt	sn:Stacker_Stocks	2.71	no	RISING
+holds	sn:Stacker_Stocks	2.71	no	RISING
+realistic path to expanding nuclear capacity	sn:Stacker_Stocks	2.71	no	RISING
