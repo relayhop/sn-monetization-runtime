@@ -1,16 +1,8 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-16T14:37:03.189Z; n=40
-issue	sn:meta,sn:BooksAndArticles	6.17	yes	
-austin	sn:bitcoin	5.73	yes	
-hostis	sn:Design	3.52	no	RISING
-enemies	sn:Design	3.52	no	RISING
-all mankind	sn:Design	3.52	no	RISING
-back	sn:meta	3.31	yes	
-negative prices	sn:science	3.29	no	RISING
-unprofitable generation	sn:science	3.29	no	RISING
-peak solar	sn:science	3.29	no	RISING
-here	sn:science	3.29	no	RISING
-bloomberg	sn:science	3.29	no	RISING
+# generated 2026-05-16T19:49:42.890Z; n=40
+issue	sn:meta,sn:BooksAndArticles	6.35	yes	
+open-source	hn	4.05	yes	
+back	sn:meta	3.35	yes	
 the most bizarre takeover	sn:Stacker_Stocks	3.25	no	RISING
 years	sn:Stacker_Stocks	3.25	no	RISING
 drama	sn:Stacker_Stocks	3.25	no	RISING
@@ -18,25 +10,33 @@ matt levine	sn:Stacker_Stocks	3.25	no	RISING
 roasted	sn:Stacker_Sports	3.21	no	RISING
 ledger	sn:Stacker_Sports	3.21	no	RISING
 line	sn:Stacker_Sports	3.21	no	RISING
-bitdevs	sn:bitcoin	3.07	yes	
+project gutenberg	hn	3.04	no	RISING
 bisq release	sn:bitcoin	3.04	yes	
-project gutenberg	hn	3.02	no	RISING
 weak opponents create weak arguments	sn:Politics_And_Law	3.02	no	RISING
-feeling misunderstood	sn:art	3	no	RISING
-camp	sn:events	2.99	yes	
-nakamoto	sn:events	2.99	yes	
-month	sn:events	2.99	yes	
-away	sn:events	2.99	yes	
-book review	sn:BooksAndArticles	2.97	no	RISING
-suicidal empathy	sn:BooksAndArticles	2.97	no	RISING
-dying to be kind	sn:BooksAndArticles	2.97	no	RISING
-gad saad	sn:BooksAndArticles	2.97	no	RISING
-which college degrees	sn:charts_and_maps	2.95	no	RISING
-associate degrees	sn:charts_and_maps	2.95	no	RISING
-certificate programs pay off	sn:charts_and_maps	2.95	no	RISING
-books	sn:BooksAndArticles	2.86	no	RISING
-articles weekly	sn:BooksAndArticles	2.86	no	RISING
-neural	sn:AI	2.75	yes	
+bike	sn:the_stacker_muse	3	no	RISING
+books	sn:BooksAndArticles	2.99	no	RISING
+articles weekly	sn:BooksAndArticles	2.99	no	RISING
+birth rates	sn:HealthAndFitness	2.98	no	RISING
+the defining problem	sn:HealthAndFitness	2.98	no	RISING
+our time	sn:HealthAndFitness	2.98	no	RISING
+burn-murdoch	sn:HealthAndFitness	2.98	no	RISING
+bisq	sn:bitcoin	2.89	yes	
+security incident post-mortem	sn:bitcoin	2.89	yes	
+the six billion dollar man	sn:bitcoin	2.88	yes	
+saturday	sn:Photography	2.88	no	RISING
+share	sn:Photography	2.88	no	RISING
+amethyst	sn:nostr	2.85	yes	
+finally	sn:nostr	2.85	yes	
+financial education	sn:Stacker_Stocks	2.81	no	RISING
+jeremy	sn:Stacker_Stocks	2.81	no	RISING
+bitcoin update	sn:Stacker_Stocks	2.81	no	RISING
+msty	sn:Stacker_Stocks	2.78	no	RISING
+payout	sn:Stacker_Stocks	2.78	no	RISING
+deli	sn:Stacker_Stocks	2.78	no	RISING
+owns	sn:Stacker_Stocks	2.78	no	RISING
+stacker	sn:Stacker_Stocks	2.78	no	RISING
+stocks	sn:Stacker_Stocks	2.78	no	RISING
+territory	sn:Stacker_Stocks	2.78	no	RISING
+paid	sn:Stacker_Stocks	2.78	no	RISING
+saylor	sn:Stacker_Stocks	2.78	no	RISING
 bwxt	sn:Stacker_Stocks	2.71	no	RISING
-holds	sn:Stacker_Stocks	2.71	no	RISING
-realistic path to expanding nuclear capacity	sn:Stacker_Stocks	2.71	no	RISING
