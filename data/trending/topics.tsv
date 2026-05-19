@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-19T10:47:26.466Z; n=40
-elon musk	hn,sn:news	5.85	no	RISING
-show	hn	3.76	no	RISING
-stacker news monthly	sn:meta	3.52	yes	
-april	sn:meta	3.52	yes	
-return	sn:meta	3.52	yes	
-we built	sn:AI	3.51	yes	
-digital guy fawkes mask	sn:AI	3.51	yes	
-it might actually work	sn:AI	3.51	yes	
-the quiet renovation	sn:tech	3.42	yes	
-bitwarden	sn:tech	3.42	yes	
-years off	sn:bitcoin	3.36	yes	
-reflections	sn:bitcoin	3.36	yes	
-bitcoin progress	sn:bitcoin	3.36	yes	
-black dress	sn:Photography	3.33	no	RISING
-bitcoin	sn:the_stacker_muse	3.32	yes	
-history	sn:the_stacker_muse	3.32	yes	
-month	sn:the_stacker_muse	3.32	yes	
-stacker	sn:the_stacker_muse	3.32	yes	
-news	sn:the_stacker_muse	3.32	yes	
-sats	sn:the_stacker_muse	3.32	yes	
-prizes	sn:the_stacker_muse	3.32	yes	
-making you more	sn:AI	3.27	yes	
-less productive	sn:AI	3.27	yes	
-money stuff	sn:AI	3.27	yes	
-matt levine	sn:AI	3.27	yes	
-bets	sn:Stacker_Sports	3.24	no	RISING
-last	sn:Stacker_Sports	3.15	no	RISING
-zeus	sn:bitcoin	3.13	yes	
-clink	sn:bitcoin	3.13	yes	
-polymarket	sn:Stacker_Sports	3.06	no	RISING
-alby hub	sn:bitcoin	3.04	yes	
-marc horowitz	sn:bitcoin	3.04	yes	
-on-chain	sn:bitcoin	3.04	yes	
-what do	sn:math	3	no	RISING
-incompleteness theorems truly mean	sn:math	3	no	RISING
-sam altman	hn	2.99	no	RISING
-parent	sn:Education	2.98	no	RISING
-college	sn:Education	2.98	no	RISING
+# generated 2026-05-19T21:07:19.391Z; n=40
+bitcoin	sn:AGORA,sn:bitcoin	9.2	yes	
+show	hn	7.46	no	RISING
+anthropic	hn,sn:news	5.34	yes	
+game	sn:Stacker_Sports	5.07	no	RISING
+the quiet renovation	sn:tech	3.43	yes	
+bitwarden	sn:tech	3.43	yes	
+bets	sn:Stacker_Sports	3.25	no	RISING
+economy	sn:Politics_And_Law	3.23	no	RISING
+rewriting	sn:Politics_And_Law	3.23	no	RISING
+american dream blue-collar workers poised	sn:Politics_And_Law	3.23	no	RISING
+win big	sn:Politics_And_Law	3.23	no	RISING
+proof	sn:bitcoin	3.22	yes	
+work	sn:bitcoin	3.22	yes	
+building sustainable agriculture	sn:bitcoin	3.22	yes	
+thomas massie	sn:Politics_And_Law	3.13	no	RISING
+writing	sn:the_stacker_muse	3.07	no	RISING
+prompt	sn:the_stacker_muse	3.07	no	RISING
+human touch	sn:the_stacker_muse	3.07	no	RISING
+make	sn:AGORA	3	no	RISING
+mempool policy	sn:bitcoin	2.99	yes	
+administrative state	sn:bitcoin	2.99	yes	
+buck perley	sn:bitcoin	2.99	yes	
+nostr	sn:nostr	2.98	yes	
 why does america keep testing failed	sn:Politics_And_Law	2.97	no	RISING
 decapitation	sn:Politics_And_Law	2.97	no	RISING
+strategies	sn:Politics_And_Law	2.97	no	RISING
+bitcoin-powered cedar hot tub	sn:bitcoin	2.86	yes	
+snorkel	sn:bitcoin	2.86	yes	
+bitcoin depot	sn:news	2.85	no	RISING
+files	sn:news	2.85	no	RISING
+bankruptcy	sn:news	2.85	no	RISING
+bird	sn:math	2.77	yes	
+prey	sn:math	2.77	yes	
+non-malleable	sn:math	2.77	yes	
+schnorr	sn:math	2.77	yes	
+bitview	sn:bitcoinplusplus	2.76	no	RISING
+daily discussion thread	sn:Music	2.74	no	RISING
+music saloon	sn:Music	2.74	no	RISING
+apple	hn	2.72	no	RISING
+ark spark lightning	sn:lightning	2.7	no	RISING
