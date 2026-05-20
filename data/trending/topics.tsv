@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-19T21:07:19.391Z; n=40
-bitcoin	sn:AGORA,sn:bitcoin	9.2	yes	
-show	hn	7.46	no	RISING
-anthropic	hn,sn:news	5.34	yes	
-game	sn:Stacker_Sports	5.07	no	RISING
-the quiet renovation	sn:tech	3.43	yes	
-bitwarden	sn:tech	3.43	yes	
-bets	sn:Stacker_Sports	3.25	no	RISING
-economy	sn:Politics_And_Law	3.23	no	RISING
-rewriting	sn:Politics_And_Law	3.23	no	RISING
-american dream blue-collar workers poised	sn:Politics_And_Law	3.23	no	RISING
-win big	sn:Politics_And_Law	3.23	no	RISING
+# generated 2026-05-20T10:29:44.782Z; n=40
+bitcoin	sn:bitcoin,sn:AGORA	9.35	yes	
+anthropic	hn,sn:news	5.47	yes	
+flash	hn,sn:AI	5.45	yes	
+gemini	hn	5.26	no	RISING
+android	hn,sn:privacy	4.65	no	RISING
+time-lock encryption	sn:privacy	3.38	no	RISING
+economy	sn:Politics_And_Law	3.3	no	RISING
+rewriting	sn:Politics_And_Law	3.3	no	RISING
+american dream blue-collar workers poised	sn:Politics_And_Law	3.3	no	RISING
+win big	sn:Politics_And_Law	3.3	no	RISING
+show	hn	3.29	no	RISING
+disney erased	sn:the_stacker_muse	3.27	no	RISING
+silver bulletin	sn:the_stacker_muse	3.27	no	RISING
+nate silver	sn:the_stacker_muse	3.27	no	RISING
+nostr	sn:nostr	3.27	yes	
 proof	sn:bitcoin	3.22	yes	
 work	sn:bitcoin	3.22	yes	
 building sustainable agriculture	sn:bitcoin	3.22	yes	
-thomas massie	sn:Politics_And_Law	3.13	no	RISING
-writing	sn:the_stacker_muse	3.07	no	RISING
-prompt	sn:the_stacker_muse	3.07	no	RISING
-human touch	sn:the_stacker_muse	3.07	no	RISING
+thomas massie	sn:Politics_And_Law	3.21	no	RISING
+osbscura	sn:privacy	3.17	no	RISING
+mempool policy	sn:bitcoin	3.13	yes	
+administrative state	sn:bitcoin	3.13	yes	
+buck perley	sn:bitcoin	3.13	yes	
+writing	sn:the_stacker_muse	3.1	no	RISING
+prompt	sn:the_stacker_muse	3.1	no	RISING
+human touch	sn:the_stacker_muse	3.1	no	RISING
 make	sn:AGORA	3	no	RISING
-mempool policy	sn:bitcoin	2.99	yes	
-administrative state	sn:bitcoin	2.99	yes	
-buck perley	sn:bitcoin	2.99	yes	
-nostr	sn:nostr	2.98	yes	
-why does america keep testing failed	sn:Politics_And_Law	2.97	no	RISING
-decapitation	sn:Politics_And_Law	2.97	no	RISING
-strategies	sn:Politics_And_Law	2.97	no	RISING
-bitcoin-powered cedar hot tub	sn:bitcoin	2.86	yes	
-snorkel	sn:bitcoin	2.86	yes	
-bitcoin depot	sn:news	2.85	no	RISING
-files	sn:news	2.85	no	RISING
-bankruptcy	sn:news	2.85	no	RISING
-bird	sn:math	2.77	yes	
-prey	sn:math	2.77	yes	
-non-malleable	sn:math	2.77	yes	
-schnorr	sn:math	2.77	yes	
-bitview	sn:bitcoinplusplus	2.76	no	RISING
-daily discussion thread	sn:Music	2.74	no	RISING
-music saloon	sn:Music	2.74	no	RISING
-apple	hn	2.72	no	RISING
-ark spark lightning	sn:lightning	2.7	no	RISING
+bitcoin-powered cedar hot tub	sn:bitcoin	2.88	yes	
+snorkel	sn:bitcoin	2.88	yes	
+how modernism created individualism	sn:ideasfromtheedge	2.87	no	RISING
+tool	sn:ideasfromtheedge	2.87	no	RISING
+division	sn:ideasfromtheedge	2.87	no	RISING
+apple	hn	2.83	no	RISING
+minnesota	hn	2.82	no	RISING
+cisa	sn:lol	2.78	no	RISING
+must investigate edwin diaz amid	sn:Stacker_Sports	2.76	no	RISING
+cockfighting allegations	sn:Stacker_Sports	2.76	no	RISING
+episode	sn:openagents	2.75	no	RISING
+ocean power	sn:openagents	2.75	no	RISING
+google	hn	2.74	yes	
