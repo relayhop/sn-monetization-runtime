@@ -1,0 +1,41 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1493848	security	1	1716	0	6	3.7	1278026	492	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	The Bitcoin Lebowski
+1493808	bitcoin	1	781	0	3	4.9	74100	9969	recent@bitcoin|top@bitcoin	SIGNAL	Trump Executive Order Expands Bank Secrecy Act - the Rage
+1493561	bitcoin	1	778	0	0	9.9	74100	9969	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin for Nonprofits: A Guide To Help Your Movement Achieve Financial Freedom
+1493609	bitcoin	1	679	0	9	8.8	78232	77	recent@bitcoin|top@bitcoin	SIGNAL	Instant Lightning → Debit Card Top-Up Mini App Using Satora.io
+1493703	security	1	590	0	3	7.9	223678	5630	recent@security|top@security	SIGNAL	Xfinity's verification system can be middleman'd
+1493595	meta	1	577	0	5	8.9	36151	1482	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1493858	AskSN	2	367	0	2	3.4	2795	1246	recent@bitcoin|top@bitcoin	SIGNAL	Will Bitcoin fall below $60K in 2026? [Predyx Markets]
+1493539	bitcoin	1	333	0	1	10.5	280679	21507	recent@bitcoin|top@bitcoin	SIGNAL	How Blockchain Intelligence Uncovered a Bitcoin Ordinals Scheme
+1493796	bitcoin	1	282	0	0	5.4	74100	9969	recent@bitcoin|top@bitcoin	SIGNAL	Mosaic: Practical Malicious Security for Garbled Circuits on Bitcoin - Alpen Lab
+1493500	AI	1	228	0	0	11.7	280679	21507	recent@AI|top@AI	SIGNAL	AI sackings reach New Zealand, which will use it to eject 14% of gov staff
+1493547	AI	1	131	0	3	10.2	280679	21507	recent@AI|top@AI	SIGNAL	AMD says its $4K Ryzen AI Halo workstation practically pays for itself
+1493828	bitcoin	1	123	0	0	4.2	296825	4416	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Btrust Appoint New Board Of Directors To Steer Next Phase Of Bitcoin Development
+1493263	privacy	1	2436	0	9	25.6	74100	9969	recent@privacy	HOT	timelock.sh — Time-Lock Encryption
+1493112	nostr	1	2106	0	6	31.2	296825	4416	recent@nostr	HOT	Nostr VPN
+1493196	privacy	1	1484	0	2	28.2	74100	9969	recent@privacy	HOT	Osbscura VPN now available on Android
+1493130	bitcoin	1	1339	0	18	30.8	74100	9969	recent@bitcoin	HOT	Mempool Policy is Bitcoin’s Administrative State - Buck Perley
+1493431	bitcoin	1	835	0	0	14.4	1014665	146	recent@bitcoin|top@bitcoin		Bitcoin Core CVE, AssumeUTXO - Bitcoin Optech Newsletter #405 Recap Podcast
+1493476	lightning	1	774	0	8	12.5	263526	341	recent@lightning|top@lightning		Lightning network inbound liquidity question
+1493061	bitcoin	1	750	0	2	32.4	74100	9969	recent@bitcoin|recent@bitcoin_Mining		HashTub | Bitcoin-Powered Cedar Hot Tub by Snorkel
+1493245	openagents	1	557	0	1	26.6	534967	203	recent@openagents		Episode 227: Ocean Power
+1493394	AI	1	518	0	4	17.2	1	26424	recent@devs|top@devs|recent@AI		ELI5 of Autonomous Testing
+1493260	AI	1	366	0	2	25.8	280679	21507	recent@AI		Demis Hassabis Thinks AI Job Cuts Are Dumb
+1493162	bitcoin	1	364	0	1	29.6	74100	9969	recent@bitcoin		New African Bitcoiners Website
+1493187	AI	1	351	0	4	28.4	12309	3477	recent@AI		Google Gemini 3.5 Flash: insane benchmark results
+1493440	nostr	1	331	0	1	14.0	280679	21507	recent@nostr|top@nostr		Seventeenth Wave of Nostr Grants
+1493155	bitcoin	1	324	0	2	30.0	74100	9969	recent@bitcoin|recent@bitcoin_Mining		256 Foundation Telehash livestream 1PM CDT
+1492941	AI	1	315	0	0	35.0	140698	1055	recent@AI		The Time Bomb Went Off: AI's All-You-Can-Eat Era Just Ended In Real Time
+1493182	tech	1	299	0	1	28.5	68821	2323	recent@tech		Eric S. Raymond / inventory · pain-reduction tool for Linux / BSD system admins
+1493480	lightning	1	246	0	0	12.3	1490792	62	recent@lightning|top@lightning		Predicting Channel Closures in the Lightning Network with Machine Learning
+1493442	meta	1	245	0	3	13.9	36151	1482	recent@meta|top@meta		This Day on SN: May 20
+1493243	AI	1	228	0	0	26.7	1293586	1834	recent@AI		A Texas Drainage District did a Routine Inspection. They Found a Pipe...
+1492949	lol	2	191	0	0	34.8	74100	9969	recent@bitcoin		og-zkp
+1493834	bitcoin_beginners	1	56	0	1	3.9	296825	4416	recent@bitcoin_beginners|top@bitcoin_beginners		[Announcement] SeedSigner Play: So you don't have to explain why wallet on desk
+1493242	bitcoin	1	46	0	0	26.7	1485433	15	recent@lightning		New lightweight version to post, boost, ban and earn sats on satswars.io/lite
+1493422	bitcoin	1	36	0	0	14.7	223678	5630	recent@bitcoin|top@bitcoin		Greenhouse Update: 58,606/300,000 sats for solar installation
+1493860	bitcoin	1	36	0	1	3.4	296825	4416	recent@bitcoin_beginners|top@bitcoin_beginners		Tickets sales for ABC2026 are officially out
+1493205	meta	1	36	0	0	28.0	296825	4416	recent@bitcoin_beginners		Proof of value is the only metric that can’t be faked. Stacker News proves right
+1493113	bitcoin	1	21	0	1	31.2	1490792	62	recent@bitcoin_Mining		Elektronics: charts, calculators, simulators across network, hardware, miners...
+1492974	Design	2	0	0	0	34.1	1248037	1760	recent@bitdevs|recent@devs		Understanding Singleflight in Go | Hacker News
+1492990	bitdevs	1	0	0	0	33.6	1248037	1760	recent@bitdevs|recent@devs		Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp
