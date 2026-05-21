@@ -61,8 +61,25 @@ jobs:
           cat /tmp/radar.out
           LATEST=$(ls -t data/sn_opportunities/sn_*.tsv 2>/dev/null | head -1)
           if [ -n "$LATEST" ]; then
-            # column 11 = tags in v2 schema
-            BOUNTIES=$(awk -F'\t' '$11 ~ /OPEN_BOUNTY/' "$LATEST" | head -5)
+            # Parse log lines and check for OPEN_BOUNTY criteria
+            BOUNTIES=$(node -e "
+              const fs = require('fs');
+              const lines = fs.readFileSync('$LATEST', 'utf8').split('\n');
+              const openBounties = [];
+              for (const line of lines) {
+                if (line.startsWith('#')) continue;
+                const parts = line.split('\t');
+                if (parts.length >= 12) {
+                  const tags = parts[10].split(',');
+                  const bounty = Number(parts[4] || 0);
+                  if (bounty >= 100 && tags.includes('OPEN_BOUNTY')) {
+                    openBounties.push(line);
+                    if (openBounties.length >= 5) break;
+                  }
+                }
+              }
+              console.log(openBounties.join('\n'));
+            ")
             SIGNALS=$(awk -F'\t' '$11 ~ /SIGNAL/' "$LATEST" | head -5)
             {
               echo "bounties<<EOF"
