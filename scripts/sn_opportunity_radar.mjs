@@ -13,11 +13,11 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const BASE = 'https://stacker.news';
-const SUBS = ['bitcoin', 'jobs', 'meta', 'tech', 'AGITHON'];
+const SUBS = ["bitcoin", "jobs", "meta", "tech", "AGITHON", "Stacker_Sports"];
 const SORTS = ['recent'];
 const MIN_BOUNTY_SATS = 100;
 const MAX_COMMENTS_FOR_LOW_COMP = 5;
-const LOOKBACK_HOURS = 24;
+const LOOKBACK_HOURS = 48;
 
 // SN GraphQL items query — 只取需要欄位降低 payload
 // 2026-05-03 schema 升級：加 user.since/nitems 供 parent 篩選硬規則 #3 使用
