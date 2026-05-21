@@ -23,6 +23,51 @@ const MIN_BOUNTY_SATS = 100;
 const MAX_COMMENTS_FOR_LOW_COMP = 5;
 const LOOKBACK_HOURS = 36;          // T1 用 36h 而非 24h，看 SIGNAL 邊界
 
+// Function to parse bounty log line format
+// Format: id\tsub\ttier\tscore\tbounty\tncom\tageH\top_since\top_nitems\thits\ttags\ttitle
+function parseBountyLogLine(line) {
+  const parts = line.split('\t');
+  if (parts.length < 12) {
+    throw new Error(`Invalid log line format: expected 12 parts, got ${parts.length}`);
+  }
+
+  const id = parts[0];
+  const sub = parts[1];
+  const tier = parseInt(parts[2]);
+  const score = parseInt(parts[3]);
+  const bounty = parseInt(parts[4]);
+  const ncomments = parseInt(parts[5]);
+  const ageHours = parseFloat(parts[6]);
+  const op_since = parseInt(parts[7]);
+  const op_nitems = parseInt(parts[8]);
+  const hits = parts[9];
+  const tags = parts[10].split(',');
+  const title = parts[11];
+
+  // Check if it meets OPEN_BOUNTY criteria
+  const isOpenBounty = tags.includes('OPEN_BOUNTY');
+  const isHot = tags.includes('HOT');
+  const isSelfPostOpp = tags.includes('SELF_POST_OPP');
+
+  return {
+    id,
+    sub,
+    tier,
+    score,
+    bounty,
+    ncomments,
+    ageHours,
+    op_since,
+    op_nitems,
+    hits,
+    tags,
+    title,
+    isOpenBounty,
+    isHot,
+    isSelfPostOpp
+  };
+}
+
 const ARGV = process.argv.slice(2);
 const TIER_FLAG = ARGV.find(a => a.startsWith('--tier='))?.slice(7)
                  || ARGV[ARGV.indexOf('--tier') + 1]
@@ -80,6 +125,44 @@ function classify(item) {
   const t = TIER_OF[item.sub?.name] || 3;
   if (t >= 2 && score >= 200 && ncom >= 5 && ncom <= 20) tags.push('SELF_POST_OPP');
   return { tags, ageHours, score, ncom, tier: t };
+}
+
+// Export the parseBountyLogLine function for testing
+export { parseBountyLogLine };
+
+// Function to process bounty log lines
+function processBountyLogLines() {
+  const logDir = path.resolve(process.env.LOG_DIR || 'logs/bounties');
+  if (!fs.existsSync(logDir)) {
+    console.log(`[bounty] No bounty log directory found at ${logDir}`);
+    return;
+  }
+
+  const files = fs.readdirSync(logDir);
+  const bountyItems = [];
+
+  for (const file of files) {
+    if (!file.endsWith('.tsv')) continue;
+
+    const filePath = path.join(logDir, file);
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const lines = content.split('\n');
+
+    for (const line of lines) {
+      if (line.startsWith('#') || !line.trim()) continue;
+
+      try {
+        const parsed = parseBountyLogLine(line);
+        if (parsed.isOpenBounty) {
+          bountyItems.push(parsed);
+        }
+      } catch (e) {
+        console.error(`[bounty] Error parsing line in ${file}: ${e.message}`);
+      }
+    }
+  }
+
+  return bountyItems;
 }
 
 (async () => {
@@ -191,5 +274,18 @@ function classify(item) {
     for (const it of sigItems.slice(0, 5)) {
       console.log(`  #${it.id} ~${it.sub?.name} [score=${it.sats}, ncom=${it.ncomments}, ${it._ageH}h] ${it.title}`);
     }
+  }
+
+  // 6. Process bounty log lines if available
+  try {
+    const bountyItems = processBountyLogLines();
+    if (bountyItems && bountyItems.length > 0) {
+      console.log(`\n[bounty] Found ${bountyItems.length} OPEN_BOUNTY items in log files:`);
+      for (const item of bountyItems.slice(0, 5)) {
+        console.log(`  #${item.id} [${item.bounty} sats, ${item.ncomments} com, ${item.ageHours}h] ${item.title}`);
+      }
+    }
+  } catch (e) {
+    console.error(`[bounty] Error processing bounty logs: ${e.message}`);
   }
 })();

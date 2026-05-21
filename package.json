@@ -1,0 +1,17 @@
+
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Stacker News monetization runtime scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_bounty_parsing.mjs && node test_issue_4.mjs"
+  },
+  "keywords": [
+    "stacker-news",
+    "monetization",
+    "bounty"
+  ],
+  "author": "relayhop",
+  "license": "MIT"
+}
