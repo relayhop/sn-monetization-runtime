@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-23T19:57:42.858Z; n=40
-mars	sn:news	3.46	yes	
-how sweden learned	sn:Politics_And_Law	3.32	no	RISING
-love capitalism	sn:Politics_And_Law	3.32	no	RISING
-tom fairless	sn:Politics_And_Law	3.32	no	RISING
-mara	sn:Stacker_Stocks	3.2	no	RISING
-spends	sn:Stacker_Stocks	3.2	no	RISING
-million bucks	sn:Stacker_Stocks	3.2	no	RISING
-armored cars	sn:Stacker_Stocks	3.2	no	RISING
-alphaville	sn:Stacker_Stocks	3.2	no	RISING
-louis ashworth	sn:Stacker_Stocks	3.2	no	RISING
-obsession	sn:movies	3.07	no	RISING
-bitaxe gamma	sn:bitcoin	3.06	yes	
-open-source	sn:bitcoin	3.06	yes	
-bitcoin	sn:bitcoin	3.06	yes	
-family river trail walk	sn:Photography	3.03	no	RISING
-free-market triumph	sn:culture	2.96	no	RISING
-simply capitalist oppression	sn:culture	2.96	no	RISING
-why japanese	hn	2.91	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.91	no	RISING
-announcement	sn:bitcoin	2.82	yes	
-mike schmidt	sn:bitcoin	2.82	yes	
-co-founder	sn:bitcoin	2.82	yes	
-brink	sn:bitcoin	2.82	yes	
-shipping	hn	2.8	yes	
-uganda	hn	2.8	yes	
+# generated 2026-05-24T08:02:30.755Z; n=40
+bitcoin	sn:bitcoin,sn:nostr	9.36	yes	
+round	sn:Stacker_Sports	7.85	no	RISING
+microsoft	hn	4.41	no	RISING
+mars	sn:news	3.49	yes	
+how sweden learned	sn:Politics_And_Law	3.37	no	RISING
+love capitalism	sn:Politics_And_Law	3.37	no	RISING
+tom fairless	sn:Politics_And_Law	3.37	no	RISING
+stacker	sn:meta	3.3	yes	
+news	sn:meta	3.3	yes	
+zine	sn:meta	3.3	yes	
+here	sn:meta	3.3	yes	
+mara	sn:Stacker_Stocks	3.23	no	RISING
+spends	sn:Stacker_Stocks	3.23	no	RISING
+million bucks	sn:Stacker_Stocks	3.23	no	RISING
+armored cars	sn:Stacker_Stocks	3.23	no	RISING
+alphaville	sn:Stacker_Stocks	3.23	no	RISING
+louis ashworth	sn:Stacker_Stocks	3.23	no	RISING
+bitaxe gamma	sn:bitcoin	3.23	yes	
+open-source	sn:bitcoin	3.23	yes	
+hulk hogan	sn:movies	2.98	no	RISING
+real american	sn:movies	2.98	no	RISING
+netflix docuseries	sn:movies	2.98	no	RISING
+saturday newsletter	sn:meta	2.93	yes	
+green	hn	2.92	no	RISING
+trump	hn	2.92	no	RISING
+bark-nwc	sn:nostr	2.9	yes	
+rust	sn:nostr	2.9	yes	
+bark	sn:nostr	2.9	yes	
+announcement	sn:bitcoin	2.86	yes	
+mike schmidt	sn:bitcoin	2.86	yes	
+co-founder	sn:bitcoin	2.86	yes	
+brink	sn:bitcoin	2.86	yes	
+saturday	sn:art	2.84	no	RISING
+share	sn:art	2.84	no	RISING
 the economics	sn:AI	2.8	yes	
 value	sn:AI	2.8	yes	
-sportsball discussion thread	sn:Stacker_Sports	2.79	no	RISING
+survivor pool	sn:Stacker_Sports	2.8	no	RISING
+week	sn:Stacker_Sports	2.8	no	RISING
+pick submissions	sn:Stacker_Sports	2.8	no	RISING
 giants gossip	sn:Stacker_Sports	2.79	no	RISING
-books	sn:BooksAndArticles	2.78	no	RISING
-articles weekly	sn:BooksAndArticles	2.78	no	RISING
-issue	sn:BooksAndArticles	2.78	yes	
-rothbardian case against bad data center policy	sn:Politics_And_Law	2.73	no	RISING
-ocean	sn:bitcoin_Mining	2.73	no	RISING
-blocks	sn:bitcoin_Mining	2.73	no	RISING
-project glasswing	hn	2.7	no	RISING
-an initial update	hn	2.7	no	RISING
-rethinking university	sn:Education	2.7	no	RISING
-vox popoli	sn:Education	2.7	no	RISING
-help	sn:bitcoin	2.66	yes	
