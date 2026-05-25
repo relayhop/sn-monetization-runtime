@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-24T19:56:32.554Z; n=40
-round	sn:Stacker_Sports	10.54	no	RISING
-microsoft	hn	4.98	no	RISING
-open	hn,sn:tech	4.62	yes	
-stacker	sn:meta	3.33	yes	
-news	sn:meta	3.33	yes	
-zine	sn:meta	3.33	yes	
-here	sn:meta	3.33	yes	
-trip report	sn:Travel	3.33	no	RISING
-northern cyprus	sn:Travel	3.33	no	RISING
-midnight bitcoin	sn:econ	3.12	no	RISING
-well	sn:econ	3.12	no	RISING
-course	sn:econ	3.12	no	RISING
-tradfi	sn:econ	3.12	no	RISING
-jason zweig	sn:econ	3.12	no	RISING
-texas	sn:tech	2.99	yes	
-meta	sn:tech	2.99	yes	
-britain has one thing going	sn:Stacker_Sports	2.97	no	RISING
-football	sn:Stacker_Sports	2.97	no	RISING
-editorial board	sn:Stacker_Sports	2.97	no	RISING
-saturday newsletter	sn:meta	2.96	yes	
-bitcoin knots	sn:bitcoin_Mining	2.93	no	RISING
-free zone frontier	sn:bitcoin	2.87	yes	
-cryptoanarchy	sn:bitcoin	2.87	yes	
-juraj bednar	sn:bitcoin	2.87	yes	
-survivor pool	sn:Stacker_Sports	2.83	no	RISING
-week	sn:Stacker_Sports	2.83	no	RISING
-pick submissions	sn:Stacker_Sports	2.83	no	RISING
-sunday survey	sn:bitcoin	2.77	yes	
-what	sn:bitcoin	2.77	yes	
-roland garros championship pool	sn:Stacker_Sports	2.76	no	RISING
-palmer luckey wants america	sn:Politics_And_Law	2.75	no	RISING
-south carolina	sn:Politics_And_Law	2.68	no	RISING
-new social media law puts every user under age surveillance	sn:Politics_And_Law	2.68	no	RISING
-knicks vs	sn:Stacker_Sports	2.67	no	RISING
-cavs game	sn:Stacker_Sports	2.67	no	RISING
-live discussion thread	sn:Stacker_Sports	2.67	no	RISING
-time	hn	2.65	no	RISING
-port adelaide	sn:Stacker_Sports	2.64	no	RISING
-carlton highlights	sn:Stacker_Sports	2.64	no	RISING
-collingwood	sn:Stacker_Sports	2.64	no	RISING
+# generated 2026-05-25T12:02:14.425Z; n=40
+what	sn:bitcoin,sn:Animal_World	5.33	yes	
+microsoft	hn	5.15	no	RISING
+show	hn	4.06	no	RISING
+more square adventures	sn:lightning	3.6	no	RISING
+spending	sn:lightning	3.6	no	RISING
+lightning	sn:lightning	3.6	yes	
+interesting	sn:lightning	3.6	no	RISING
+exciting	sn:lightning	3.6	no	RISING
+trip report	sn:Travel	3.53	no	RISING
+northern cyprus	sn:Travel	3.53	no	RISING
+midnight bitcoin	sn:econ	3.13	no	RISING
+well	sn:econ	3.13	no	RISING
+course	sn:econ	3.13	no	RISING
+tradfi	sn:econ	3.13	no	RISING
+jason zweig	sn:econ	3.13	no	RISING
+nato	sn:Politics_And_Law	3.11	no	RISING
+censorship infrastructure	sn:Politics_And_Law	3.11	no	RISING
+european mind	sn:Politics_And_Law	3.11	no	RISING
+britain has one thing going	sn:Stacker_Sports	3.03	no	RISING
+football	sn:Stacker_Sports	3.03	no	RISING
+editorial board	sn:Stacker_Sports	3.03	no	RISING
+free zone frontier	sn:bitcoin	2.9	yes	
+cryptoanarchy	sn:bitcoin	2.9	yes	
+juraj bednar	sn:bitcoin	2.9	yes	
+south carolina	sn:Politics_And_Law	2.88	no	RISING
+new social media law puts every user under age surveillance	sn:Politics_And_Law	2.88	no	RISING
+sunday survey	sn:bitcoin	2.88	yes	
+connect	sn:bitcoin	2.83	no	RISING
+split	sn:bitcoin	2.83	no	RISING
+sats	sn:bitcoin	2.83	yes	
+the race	sn:charts_and_maps	2.79	no	RISING
+build	sn:charts_and_maps	2.79	yes	
+world	sn:charts_and_maps	2.79	no	RISING
+tallest skyscraper	sn:charts_and_maps	2.79	no	RISING
+partners	sn:news	2.78	no	RISING
+voltage	sn:news	2.78	no	RISING
+lightning services	sn:news	2.78	no	RISING
+blok whatcha buying	sn:Stacker_Stocks	2.76	no	RISING
+week	sn:Stacker_Stocks	2.76	no	RISING
+conference finals discussion thread	sn:Stacker_Sports	2.75	no	RISING
