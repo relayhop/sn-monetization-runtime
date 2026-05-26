@@ -2783,3 +2783,15 @@
 2026-05-26T16:03:23.108Z	1496604	BooksAndArticles	2	164	0	0	3.3	280679	21595	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	Could Inflation Help Explain Falling Birth Rates?
 2026-05-26T16:03:23.108Z	1496529	the_stacker_muse	3	121	0	0	7.6	296825	4458	recent@history|top@history	SIGNAL	What happened in October 1582 made the date jump right from the 4th to the 15th?
 2026-05-26T16:03:23.108Z	1496618	science	2	114	0	1	2.7	401865	8104	recent@science|top@science	SIGNAL	Solar System's Largest Moon Heating Up: Offering Clues to its Mysterious Origins
+2026-05-26T17:28:19.744Z	1496660	bitcoin	1	1509	0	1	3.1	1014665	150	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink's 2025 Annual Report
+2026-05-26T17:28:19.744Z	1496677	bitcoin	1	1026	0	4	2.8	296825	4460	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	[Cashu Update] The operator has no access to the private keys of the mint.
+2026-05-26T17:28:19.744Z	1496782	bitcoin	1	542	0	0	0.7	74100	10035	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	Mining Unit - Localhost Research
+2026-05-26T17:28:19.744Z	1496619	meta	1	531	0	23	4.1	74100	10035	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+2026-05-26T17:28:19.744Z	1496502	AI	1	391	0	1	11.2	140698	1060	recent@AI|top@AI	SIGNAL	The Agent Endpoint — A Manifesto
+2026-05-26T17:28:19.744Z	1496802	bitcoin	1	308	0	2	0.3	74100	10035	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Blitz Wallet update adds BTCMaps
+2026-05-26T17:28:19.744Z	1496760	bitcoin	1	306	0	0	0.9	1445755	12	recent@bitcoin|top@bitcoin|recent@nostr	FRESH,SIGNAL	P2P sats v1.0.0 — alerts are live
+2026-05-26T17:28:19.744Z	1496768	AI	1	306	0	0	0.9	21800	486	recent@AI|top@AI	FRESH,SIGNAL	We added bitcoin payments to OpenClaw — which agent should be next?
+2026-05-26T17:28:19.744Z	1496690	bitcoin	1	261	0	3	2.7	280679	21596	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Silent Payments: A nice Bitcoin privacy setup
+2026-05-26T17:28:19.745Z	1496554	AI	1	239	0	2	7.0	280679	21596	recent@AI|top@AI	SIGNAL	AI Is Taking Over the Most Cursed Job in the World
+2026-05-26T17:28:19.745Z	1496735	bitcoin	1	159	0	5	1.5	296825	4460	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Someone just donated 107 BTC to the Bitcoin community via Bitcoin burn address.
+2026-05-26T17:28:19.745Z	1496577	AI	1	123	0	0	6.1	1490792	96	recent@AI|top@AI	SIGNAL	heretic: Fully automatic censorship removal for language models
