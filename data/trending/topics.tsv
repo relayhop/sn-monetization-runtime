@@ -1,12 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-27T12:54:08.801Z; n=40
-bitcoin	sn:events,sn:bitcoin	5.52	yes	
+# generated 2026-05-27T18:26:38.262Z; n=40
+bitcoin	sn:events,sn:bitcoin	5.54	yes	
+matching hashes	sn:bitcoin	3.5	yes	
+reproducing	sn:bitcoin	3.5	yes	
+guix	sn:bitcoin	3.5	yes	
+bitcoin core	sn:bitcoin	3.5	yes	
 index funds hate	sn:Stacker_Stocks	3.32	no	RISING
 also	sn:Stacker_Stocks	3.32	no	RISING
 some carbon credits are fraudulent	sn:Stacker_Stocks	3.32	no	RISING
 money stuff	sn:Stacker_Stocks	3.32	no	RISING
-brink	sn:bitcoin	3.21	yes	
-annual report	sn:bitcoin	3.21	yes	
+breez	sn:bitcoin	3.28	yes	
+bringin	sn:bitcoin	3.28	yes	
+instant bitcoin	sn:bitcoin	3.28	yes	
+europeans	sn:bitcoin	3.28	yes	
+tired	hn	3.24	no	RISING
+talking	hn	3.24	no	RISING
+aaaaaand	sn:econ	3.18	no	RISING
+gone	sn:econ	3.18	no	RISING
+fiat version	sn:econ	3.18	no	RISING
+tara siegel bernard	sn:econ	3.18	no	RISING
 oliver gugger	sn:bitcoin	3.16	yes	
 bitcoin optech newsletter	sn:bitcoin	3.16	yes	
 recap podcast	sn:bitcoin	3.16	yes	
@@ -14,29 +26,17 @@ music has no economic value	sn:the_stacker_muse	3.13	no	RISING
 edition	sn:the_stacker_muse	3.13	no	RISING
 financial times	sn:the_stacker_muse	3.13	no	RISING
 anna nicolaou	sn:the_stacker_muse	3.13	no	RISING
-blitz wallet	sn:bitcoin	3.11	yes	
+show	hn	3.11	no	RISING
+latest strikes	sn:bitcoin	3.11	yes	
 races	sn:HealthAndFitness	3.09	no	RISING
 set up quarantine facility	sn:HealthAndFitness	3.09	no	RISING
 kenya	sn:HealthAndFitness	3.09	no	RISING
 americans exposed	sn:HealthAndFitness	3.09	no	RISING
 ebola	sn:HealthAndFitness	3.09	no	RISING
-mining unit	sn:bitcoin	3.07	yes	
-localhost research	sn:bitcoin	3.07	yes	
-cashu update	sn:bitcoin	3.02	yes	
+bitcoin mining	sn:bitcoin	3.06	yes	
+paraguay	sn:bitcoin	3.06	yes	
 silent amulet	sn:bitcoin	3.02	yes	
 no-install	sn:bitcoin	3.02	yes	
 silent payment	sn:bitcoin	3.02	yes	
-spain	hn	3	no	RISING
-polymarket	hn	3	no	RISING
-kalshi	hn	3	no	RISING
 lightning nodes	sn:lightning	3	no	RISING
 support onion routing	sn:lightning	3	no	RISING
-sprint	sn:HealthAndFitness	2.99	no	RISING
-purple monkey beat	sn:HealthAndFitness	2.99	no	RISING
-orange dog	sn:HealthAndFitness	2.99	no	RISING
-release	sn:bitcoin_beginners	2.94	no	RISING
-mostro	sn:bitcoin_beginners	2.94	no	RISING
-mined	sn:bitcoin_Mining	2.91	no	RISING
-america act would put bitcoin network	sn:bitcoin_Mining	2.91	no	RISING
-risk	sn:bitcoin_Mining	2.91	no	RISING
-satwize new books for sale	sn:BooksAndArticles	2.89	no	RISING
