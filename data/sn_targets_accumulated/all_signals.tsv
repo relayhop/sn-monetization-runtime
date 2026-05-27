@@ -3160,3 +3160,33 @@
 2026-05-27T16:05:45.187Z	1497341	meta	1	202	0	2	1.1	36151	1491	recent@meta|top@meta	FRESH,SIGNAL	What are you working on this week?
 2026-05-27T16:05:45.187Z	1497175	AI	1	192	0	0	7.5	140698	1063	recent@devs|top@devs|recent@AI	SIGNAL	Your AI Tools Are Only as Good as Your Judgment — And That's the Point
 2026-05-27T16:05:45.187Z	1497300	bitcoin	1	159	0	1	2.8	74100	10051	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Routes, not rails - Alex Bergeron
+2026-05-27T18:06:42.686Z	1497361	bitcoin	1	3146	0	1	2.3	587	104	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix
+2026-05-27T18:06:42.686Z	1497320	bitcoin	1	1835	0	2	4.2	699824	151	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Breez x Bringin: Instant Bitcoin for Europeans 🇪🇺⚡️
+2026-05-27T18:06:42.686Z	1497308	econ	2	1523	0	4	4.5	724606	10425	recent@econ|top@econ	HOT,SIGNAL	Aaaaaand... It's Gone — Fiat Version (NYT, Tara Siegel Bernard)
+2026-05-27T18:06:42.686Z	1497442	bitcoin	1	1266	0	1	0.6	24585	349	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Latest Strikes S03E21 - May 18th - 24th 2026
+2026-05-27T18:06:42.686Z	1497287	bitcoin	1	1125	0	0	5.4	12393	445	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin Mining and Paraguay - YouTube
+2026-05-27T18:06:42.686Z	1497270	bitcoin	1	1108	0	4	6.2	182100	815	recent@bitcoin|top@bitcoin	HOT,SIGNAL	bitcoin vs. ethereum vs. you: bitchess
+2026-05-27T18:06:42.686Z	1497149	bitcoin	1	1056	0	3	11.8	483644	72	recent@bitcoin|top@bitcoin	HOT,SIGNAL	presenting "Silent Amulet v1.21" a no-install Silent Payment wallet
+2026-05-27T18:06:42.686Z	1497331	bitcoin	1	974	0	0	3.4	1014665	153	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Core Developer Event - Barcelona, Spain
+2026-05-27T18:06:42.686Z	1497328	Politics_And_Law	3	788	0	1	3.6	48657	13960	recent@econ|top@econ	SIGNAL	While elitists theorize about the poor, this activist looked for successes
+2026-05-27T18:06:42.686Z	1497207	charts_and_maps	2	700	0	4	8.7	280679	21613	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Iran slowly reconnects to the global internet
+2026-05-27T18:06:42.686Z	1497411	math	2	679	0	11	1.1	30782	24794	recent@math|top@math	FRESH,SIGNAL,SELF_POST_OPP	UC Faculty Urges Return To Standardized Testing After Shocking Decline In Skills
+2026-05-27T18:06:42.686Z	1497446	Politics_And_Law	3	651	0	2	0.4	74100	10058	recent@econ|top@econ	FRESH,SIGNAL	Is concern about national debt going mainstream?
+2026-05-27T18:06:42.686Z	1497358	bitcoin	1	626	0	1	2.4	74100	10058	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Scaling in 2026: The Complete Layer 2 Landscape - Spark
+2026-05-27T18:06:42.686Z	1497326	bitcoin	1	609	0	0	3.6	48942	1209	recent@bitcoin|top@bitcoin	SIGNAL	Updated Patoshi Pattern with 500 New Patoshi Blocks | Wicked Smart Bitcoin
+2026-05-27T18:06:42.686Z	1497145	AI	1	498	0	1	11.9	6263	10482	recent@tech|top@tech|recent@AI	SIGNAL	Georgia residents stand to lose everything as homes seized in plan to power AI
+2026-05-27T18:06:42.686Z	1497291	Politics_And_Law	3	465	0	4	5.1	401865	8112	recent@econ|top@econ	SIGNAL	Details on MOU Between U.S. and Iran: Iranian State Media
+2026-05-27T18:06:42.686Z	1497299	AI	1	429	0	0	4.8	280679	21613	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	Robinhood now lets your AI agents trade stocks
+2026-05-27T18:06:42.686Z	1497168	bitcoin_beginners	1	384	0	1	10.4	296825	4467	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Galaxy Mind · Stack and Spend Bitcoin at Merchants That Accept BTC
+2026-05-27T18:06:42.686Z	1497254	news	2	340	0	2	6.9	9274	22871	recent@econ|top@econ|recent@news	SIGNAL	U.S. Natural Gas Prices Surge On Lower Output, Higher LNG Flows | OilPrice.com
+2026-05-27T18:06:42.686Z	1497285	AI	1	323	0	0	5.4	280679	21613	recent@AI|top@AI|recent@charts_and_maps	SIGNAL	Share of companies using artificial intelligence technology
+2026-05-27T18:06:42.686Z	1497235	AI	1	303	0	0	7.6	1432281	9	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Just 4 days left for the deadline of the Ordain AI film contest.
+2026-05-27T18:06:42.686Z	1497403	econ	2	296	0	2	1.3	48657	13960	recent@econ|top@econ	FRESH,SIGNAL	Boomer Luxury Communism - Nancy Mace wants to abolish property tax for seniors
+2026-05-27T18:06:42.686Z	1497378	bitcoin	1	267	0	0	2.0	74100	10058	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	brln-LightningOS - jvxis
+2026-05-27T18:06:42.686Z	1497396	Travel	3	254	0	0	1.5	7693	2338	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Most Photographed Places On Earth
+2026-05-27T18:06:42.686Z	1497360	Politics_And_Law	3	240	0	2	2.3	280679	21613	recent@econ|top@econ	SIGNAL	Low and Falling Fertility Means SS’s Funding Problems Are Worse Than Expected
+2026-05-27T18:06:42.686Z	1497176	events	3	231	0	10	9.5	739506	125	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you feel bullish or bearish on Bitcoin?
+2026-05-27T18:06:42.686Z	1497341	meta	1	202	0	3	3.1	36151	1491	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-05-27T18:06:42.686Z	1497175	AI	1	192	0	0	9.5	140698	1063	recent@devs|top@devs|recent@AI	SIGNAL	Your AI Tools Are Only as Good as Your Judgment — And That's the Point
+2026-05-27T18:06:42.686Z	1497300	bitcoin	1	159	0	1	4.8	74100	10058	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Routes, not rails - Alex Bergeron
+2026-05-27T18:06:42.686Z	1497160	science	2	123	0	0	10.8	140698	1063	recent@science|top@science	SIGNAL	Scientists say they’ve reversed brain aging with a simple nasal spray
