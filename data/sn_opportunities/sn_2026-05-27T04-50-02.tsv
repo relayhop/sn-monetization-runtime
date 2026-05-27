@@ -1,0 +1,50 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1496857	bitcoin	1	1440	0	0	9.9	1014665	152	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Oliver Gugger and 0xB10C - Bitcoin Optech Newsletter #406 Recap Podcast
+1496894	bitcoin	1	1422	0	10	9.1	47964	1119	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin is a form of power; the bitcoin is money meme must die
+1497058	events	3	961	0	5	3.2	74100	10043	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	TABConf 8 will be the last TABConf
+1497080	lightning	1	914	0	3	2.8	1028548	411	recent@lightning|top@lightning	SIGNAL	Lightning Nodes that Support Onion Routing: How to identify ?
+1496810	bitcoin_beginners	1	872	0	0	11.6	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Release v0.2.0 · Mostro's terminal client just got its biggest update yet.
+1496983	bitcoin_Mining	1	800	0	1	5.9	280679	21601	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Mined in America Act Would Put Bitcoin Network at Risk
+1496829	privacy	1	738	0	2	11.0	1	26471	recent@privacy|top@privacy	SIGNAL	Banks spend $59B on BSA compliance - of 28.7M reports, 275 led to investigations
+1496802	bitcoin	1	673	0	5	11.6	74100	10043	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Blitz Wallet update adds BTCMaps
+1496859	math	2	608	0	11	9.9	280679	21601	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What actually makes a address be a burn address?
+1496836	bitcoin	1	288	0	1	10.5	223678	5643	recent@bitcoin|top@bitcoin	SIGNAL	Manna Wallet + Branta Guardrails: Bitcoin Payments Now Show Merchant Details
+1496975	bitcoin	1	278	0	1	6.2	74100	10043	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	simplepool - LayerTwo-Labs
+1497099	Design	2	246	0	0	2.0	74100	10043	recent@bitcoin|top@bitcoin	SIGNAL	#SovEng T-Shirt Design Contest - WIN 1M SATS!
+1496880	AI	1	193	0	2	9.6	9274	22848	recent@AI|top@AI	SIGNAL	Bitcoin Speculation VS AI -Ansel Linder
+1496949	bitcoin_beginners	1	159	0	0	7.2	1496949	1	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Is this payment gateway comparison any good?
+1496474	tech	1	4058	0	0	26.1	6274	2235	recent@privacy|recent@tech	HOT	Revealed: Israeli Tech Exposes Users of Musk's Starlink Satellite-based Internet
+1496281	bitcoin	1	2283	0	7	35.3	6274	2235	recent@bitcoin	HOT	Cash App: Sorry, your withdrawal could not be processed [LN payment issue]
+1496448	bitcoin	1	2210	0	7	27.0	256142	74	recent@bitcoin	HOT	Orange Dev Network: First Public Map of Who’s Actually Building Bitcoin
+1496404	bitcoin	1	1650	0	7	29.7	212848	138	recent@bitcoin	HOT	Michael Green Is Half Right: Bitcoin Is Not Sound Money. Yet.
+1496660	bitcoin	1	1628	0	8	14.5	1014665	152	recent@bitcoin|top@bitcoin	HOT	Brink's 2025 Annual Report
+1496327	nostr	1	1607	0	0	32.3	1496326	3	recent@nostr|recent@privacy	HOT	Cordn: MLS based private chats over nostr
+1496343	bitcoin	1	1362	0	0	31.8	934367	898	recent@bitcoin	HOT	JoinMarket Maker Clustering and Taker Anonymity-Set Reduction
+1496782	bitcoin	1	1162	0	1	12.0	74100	10043	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Mining Unit - Localhost Research
+1496677	bitcoin	1	1053	0	10	14.2	296825	4464	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	[Cashu Update] The operator has no access to the private keys of the mint.
+1496365	ideasfromtheedge	2	970	0	18	30.9	1278026	524	recent@lightning	SELF_POST_OPP	I was gifted 21K sats I can't spend
+1496378	bitcoin	1	672	0	3	30.5	74100	10043	recent@bitcoin		The World's Bitcoin Collectibles Marketplace
+1496619	meta	1	617	0	24	15.5	74100	10043	recent@bitcoin|top@bitcoin|recent@lightning		Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+1496768	AI	1	591	0	4	12.2	21800	486	recent@AI|top@AI		We added bitcoin payments to OpenClaw — which agent should be next?
+1496760	bitcoin	1	463	0	0	12.3	1445755	12	recent@bitcoin|top@bitcoin|recent@nostr		P2P sats v1.0.0 — alerts are live
+1496502	AI	1	412	0	1	22.6	140698	1060	recent@AI|top@AI		The Agent Endpoint — A Manifesto
+1496254	AI	1	366	0	2	35.8	78232	81	recent@AI		My first game built entirely with a local LLM: 🐍⏪ Rewind Snake
+1496690	bitcoin	1	261	0	3	14.0	280679	21601	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Silent Payments: A nice Bitcoin privacy setup
+1496370	bitcoin_Mining	1	257	0	0	30.7	185956	164	recent@bitcoin_Mining		NerdNOS Metal Review
+1496554	AI	1	239	0	2	18.4	280679	21601	recent@AI|top@AI		AI Is Taking Over the Most Cursed Job in the World
+1496597	AI	1	210	0	2	16.3	280679	21601	recent@AI|top@AI		Bringing LLMs to the edge
+1496735	bitcoin	1	179	0	6	12.9	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners		Someone just donated 107 BTC to the Bitcoin community via Bitcoin burn address.
+1496248	lightning	1	173	0	0	36.0	263526	345	recent@lightning		European regulators issue guidance on P2P Lightning Network transactions
+1496577	AI	1	133	0	0	17.4	1490792	96	recent@AI|top@AI		heretic: Fully automatic censorship removal for language models
+1496525	bitcoin_beginners	1	118	0	0	20.6	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Imagine missing blocks, because of cats trying to survive the winter
+1496520	bitcoin_beginners	1	57	0	0	21.1	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners		Human readable addresses
+1496551	bitcoin_beginners	1	36	0	0	18.6	1462312	79	recent@bitcoin_beginners|top@bitcoin_beginners		Patterns following the info in my doctrine
+1496632	bitcoin_beginners	1	36	0	0	15.1	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners		[Launching soon] Money Wisdom Project | Free Monetary History Curriculum
+1496346	Travel	3	31	0	0	31.7	1	26471	recent@bitcoin_Mining		Inside Texas' Most Extreme Oil Towns
+1496621	bitcoin	1	21	0	5	15.4	1200576	1106	recent@lightning|top@lightning		Lightning Network Whitepaper to Brazilian Portuguese PT-BR
+1496854	security	1	21	0	1	9.9	297791	7540	recent@security|top@security		7-Zip Vulnerabilities Let Attackers Execute Arbitrary Code & Compromise Systems
+1496594	AI	1	21	0	0	16.3	140698	1060	recent@AI|top@AI		Claude developed 171 unprogrammed emotion concepts that mirror human brains.
+1496599	lightning	1	11	0	0	16.2	163128	3563	recent@lightning|top@lightning		Guide: Automated LND backup with GPG encryption and cloud redundancy
+1496627	bitcoin_beginners	1	7	0	0	15.3	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners		Nostr VPN is now live on the Umbrel App Store!
+1497121	AI	1	0	0	0	0.7	296825	4464	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI	FRESH	Bitcoin Payments in OpenClaw — the Fast and Secure Way
+1496271	AI	1	0	0	0	35.6	298505	820	recent@AI		Max Keiser & Stacy Herbert on How El Salvador is Leapfrogging the World with AI
