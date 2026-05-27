@@ -1,33 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-27T18:26:38.262Z; n=40
-bitcoin	sn:events,sn:bitcoin	5.54	yes	
-matching hashes	sn:bitcoin	3.5	yes	
-reproducing	sn:bitcoin	3.5	yes	
-guix	sn:bitcoin	3.5	yes	
-bitcoin core	sn:bitcoin	3.5	yes	
-index funds hate	sn:Stacker_Stocks	3.32	no	RISING
-also	sn:Stacker_Stocks	3.32	no	RISING
-some carbon credits are fraudulent	sn:Stacker_Stocks	3.32	no	RISING
-money stuff	sn:Stacker_Stocks	3.32	no	RISING
-breez	sn:bitcoin	3.28	yes	
-bringin	sn:bitcoin	3.28	yes	
-instant bitcoin	sn:bitcoin	3.28	yes	
-europeans	sn:bitcoin	3.28	yes	
-tired	hn	3.24	no	RISING
-talking	hn	3.24	no	RISING
-aaaaaand	sn:econ	3.18	no	RISING
-gone	sn:econ	3.18	no	RISING
-fiat version	sn:econ	3.18	no	RISING
-tara siegel bernard	sn:econ	3.18	no	RISING
-oliver gugger	sn:bitcoin	3.16	yes	
-bitcoin optech newsletter	sn:bitcoin	3.16	yes	
-recap podcast	sn:bitcoin	3.16	yes	
-music has no economic value	sn:the_stacker_muse	3.13	no	RISING
-edition	sn:the_stacker_muse	3.13	no	RISING
-financial times	sn:the_stacker_muse	3.13	no	RISING
-anna nicolaou	sn:the_stacker_muse	3.13	no	RISING
-show	hn	3.11	no	RISING
-latest strikes	sn:bitcoin	3.11	yes	
+# generated 2026-05-27T23:18:07.299Z; n=40
+what	sn:Politics_And_Law,sn:tech	6.03	yes	
+bitcoin	sn:events,sn:bitcoin	5.33	yes	
+google	hn	4.9	no	RISING
+iran	hn,sn:charts_and_maps	4.05	no	RISING
+matching hashes	sn:bitcoin	3.51	yes	
+reproducing	sn:bitcoin	3.51	yes	
+guix	sn:bitcoin	3.51	yes	
+bitcoin core	sn:bitcoin	3.51	yes	
+breez	sn:bitcoin	3.31	yes	
+bringin	sn:bitcoin	3.31	yes	
+instant bitcoin	sn:bitcoin	3.31	yes	
+europeans	sn:bitcoin	3.31	yes	
+aaaaaand	sn:econ	3.2	no	RISING
+gone	sn:econ	3.2	no	RISING
+fiat version	sn:econ	3.2	no	RISING
+tara siegel bernard	sn:econ	3.2	no	RISING
+latest strikes	sn:bitcoin	3.16	yes	
+square terminal trainwreck	sn:bitcoin	3.12	yes	
+back	sn:bitcoin	3.12	yes	
+track	sn:bitcoin	3.12	yes	
 races	sn:HealthAndFitness	3.09	no	RISING
 set up quarantine facility	sn:HealthAndFitness	3.09	no	RISING
 kenya	sn:HealthAndFitness	3.09	no	RISING
@@ -38,5 +30,13 @@ paraguay	sn:bitcoin	3.06	yes
 silent amulet	sn:bitcoin	3.02	yes	
 no-install	sn:bitcoin	3.02	yes	
 silent payment	sn:bitcoin	3.02	yes	
+bitcoin core developer event	sn:bitcoin	3.02	yes	
+barcelona	sn:bitcoin	3.02	yes	
+spain	sn:bitcoin	3.02	yes	
 lightning nodes	sn:lightning	3	no	RISING
 support onion routing	sn:lightning	3	no	RISING
+while	sn:Politics_And_Law	2.93	no	RISING
+linux	sn:tech	2.92	yes	
+predictably popular	sn:bitcoin	2.91	yes	
+crisis-ridden iran	sn:bitcoin	2.91	yes	
+coinshares	sn:bitcoin	2.91	yes	
