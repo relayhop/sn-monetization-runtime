@@ -2990,3 +2990,23 @@
 2026-05-26T22:49:56.759Z	1496735	bitcoin	1	178	0	5	6.9	296825	4462	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Someone just donated 107 BTC to the Bitcoin community via Bitcoin burn address.
 2026-05-26T22:49:56.759Z	1496949	bitcoin_beginners	1	159	0	0	1.2	1496949	1	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Is this payment gateway comparison any good?
 2026-05-26T22:49:56.759Z	1496577	AI	1	123	0	0	11.4	1490792	96	recent@AI|top@AI	SIGNAL	heretic: Fully automatic censorship removal for language models
+2026-05-27T00:12:19.348Z	1496660	bitcoin	1	1607	0	7	9.9	1014665	152	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink's 2025 Annual Report
+2026-05-27T00:12:19.348Z	1496857	bitcoin	1	1398	0	0	5.2	1014665	152	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Oliver Gugger and 0xB10C - Bitcoin Optech Newsletter #406 Recap Podcast
+2026-05-27T00:12:19.348Z	1496894	bitcoin	1	1351	0	6	4.5	47964	1119	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin is a form of power; the bitcoin is money meme must die
+2026-05-27T00:12:19.348Z	1496782	bitcoin	1	1062	0	1	7.4	74100	10037	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Mining Unit - Localhost Research
+2026-05-27T00:12:19.348Z	1496677	bitcoin	1	1053	0	10	9.6	296825	4462	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	[Cashu Update] The operator has no access to the private keys of the mint.
+2026-05-27T00:12:19.348Z	1496810	bitcoin_beginners	1	772	0	0	6.9	296825	4462	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Release v0.2.0 · Mostro's terminal client just got its biggest update yet.
+2026-05-27T00:12:19.348Z	1496802	bitcoin	1	673	0	5	7.0	74100	10037	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Blitz Wallet update adds BTCMaps
+2026-05-27T00:12:19.348Z	1496619	meta	1	617	0	24	10.8	74100	10037	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Onchain Zaps in Ditto: Bitcoin Tipping Without Lightning - Alex Gleason
+2026-05-27T00:12:19.348Z	1496859	math	2	558	0	8	5.2	280679	21601	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What actually makes a address be a burn address?
+2026-05-27T00:12:19.349Z	1496829	privacy	1	556	0	2	6.4	1	26471	recent@privacy|top@privacy	SIGNAL	Banks spend $59B on BSA compliance - of 28.7M reports, 275 led to investigations
+2026-05-27T00:12:19.349Z	1496768	AI	1	491	0	3	7.6	21800	486	recent@AI|top@AI	SIGNAL	We added bitcoin payments to OpenClaw — which agent should be next?
+2026-05-27T00:12:19.349Z	1496760	bitcoin	1	463	0	0	7.7	1445755	12	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	P2P sats v1.0.0 — alerts are live
+2026-05-27T00:12:19.349Z	1496983	bitcoin_Mining	1	444	0	0	1.2	280679	21601	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Mined in America Act Would Put Bitcoin Network at Risk
+2026-05-27T00:12:19.349Z	1496836	bitcoin	1	288	0	1	5.9	223678	5643	recent@bitcoin|top@bitcoin	SIGNAL	Manna Wallet + Branta Guardrails: Bitcoin Payments Now Show Merchant Details
+2026-05-27T00:12:19.349Z	1496690	bitcoin	1	261	0	3	9.4	280679	21601	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Silent Payments: A nice Bitcoin privacy setup
+2026-05-27T00:12:19.349Z	1496975	bitcoin	1	246	0	1	1.6	74100	10037	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	simplepool - LayerTwo-Labs
+2026-05-27T00:12:19.349Z	1496597	AI	1	210	0	2	11.6	280679	21601	recent@AI|top@AI	SIGNAL	Bringing LLMs to the edge
+2026-05-27T00:12:19.349Z	1496880	AI	1	193	0	2	4.9	9274	22846	recent@AI|top@AI	SIGNAL	Bitcoin Speculation VS AI -Ansel Linder
+2026-05-27T00:12:19.349Z	1496735	bitcoin	1	179	0	5	8.3	296825	4462	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Someone just donated 107 BTC to the Bitcoin community via Bitcoin burn address.
+2026-05-27T00:12:19.349Z	1496949	bitcoin_beginners	1	159	0	0	2.6	1496949	1	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Is this payment gateway comparison any good?
