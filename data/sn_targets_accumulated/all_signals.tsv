@@ -3511,3 +3511,31 @@
 2026-05-28T22:43:05.611Z	1498131	bitcoin	1	204	0	1	6.5	263526	346	recent@lightning|top@lightning	SIGNAL	Silent Payments vs Lightning: they're not competing, they're complementary
 2026-05-28T22:43:05.611Z	1498284	AI	1	192	0	1	2.2	347614	1507	recent@AI|top@AI	SIGNAL	PrismML — 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices
 2026-05-28T22:43:05.611Z	1498120	AI	1	113	0	1	6.6	280679	21645	recent@AI|top@AI	SIGNAL	RSI is the new AGI — and it's just as hard to pin down
+2026-05-28T23:38:45.992Z	1497994	bitcoin	1	5415	0	25	8.6	17771	242	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Bitcoin Depression Index
+2026-05-28T23:38:45.992Z	1497991	bitcoin	1	3636	0	59	8.7	1014665	180	recent@bitcoin|top@bitcoin|recent@AMA	HOT,SIGNAL	Mike Schmidt - Brink, Optech AMA
+2026-05-28T23:38:45.992Z	1498047	bitcoin	1	1732	0	4	8.0	724606	10453	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	War is Peace, Surveillance is Freedom (FT, Martin Arnold)
+2026-05-28T23:38:45.992Z	1498317	news	2	1540	0	2	2.2	1401899	134	recent@news|top@news	HOT,SIGNAL	After 2,100 hours offline, I’m finally back
+2026-05-28T23:38:45.992Z	1498214	nostr	1	1328	0	5	5.2	126503	768	recent@nostr|top@nostr	HOT,SIGNAL	Europa: a decentralized VPN marketplace built on Nostr
+2026-05-28T23:38:45.992Z	1497968	Politics_And_Law	3	1152	0	5	9.7	724606	10453	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Parking, Fireworks, and Making Sense of Prices (Econ Forces, Josh Hendrickson)
+2026-05-28T23:38:45.992Z	1498269	bitcoin	1	1107	0	4	3.7	1498201	6	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Built a multiplayer voxel world fully on-chain on Bitcoin
+2026-05-28T23:38:45.992Z	1498286	Politics_And_Law	3	1006	0	2	3.1	1278026	535	recent@econ|top@econ	HOT,SIGNAL	The Dutch unrealized tax could be a massive misunderstanding
+2026-05-28T23:38:45.992Z	1498157	math	2	918	0	0	7.0	74100	10106	recent@bitcoin|top@bitcoin|recent@math	SIGNAL	A shallow dive into formal verification - Vitalik Buterin
+2026-05-28T23:38:45.992Z	1498307	Politics_And_Law	3	747	0	3	2.6	74100	10106	recent@econ|top@econ	SIGNAL	Stablecoins are private money. There’s nothing wrong with that - Nic Carter
+2026-05-28T23:38:45.992Z	1498194	Stacker_Stocks	2	705	0	5	5.7	88988	44077	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Random market thoughts
+2026-05-28T23:38:45.992Z	1498235	Stacker_Stocks	2	512	0	0	4.3	280679	21646	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Anthropic raises $65 Billion, nears $1T valuation ahead of IPO
+2026-05-28T23:38:45.992Z	1498192	tech	1	457	0	1	5.7	161788	9832	recent@tech|top@tech	SIGNAL	Claude Opus 4.8
+2026-05-28T23:38:45.992Z	1498234	news	2	416	0	0	4.4	74100	10106	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news	SIGNAL	Tethered, Tighter - The Bitcoin Pharaoh
+2026-05-28T23:38:45.992Z	1498196	Travel	3	369	0	0	5.6	7693	2340	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Roads, Commercial Flights, and Shipping Lanes
+2026-05-28T23:38:45.992Z	1498136	Geyser_community	3	363	0	0	7.3	296825	4478	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Crowdfunding for New Ideas and Humanitarian Causes | Geyser
+2026-05-28T23:38:45.992Z	1498182	bitcoin_Mining	1	363	0	9	6.1	354217	11	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Lightning to mine Bitcoin. ⚡️
+2026-05-28T23:38:45.992Z	1498078	charts_and_maps	2	340	0	10	7.8	280679	21646	recent@econ|top@econ|recent@charts_and_maps	SIGNAL,SELF_POST_OPP	The World Cup Barely Moves the Needle for the U.S. Economy
+2026-05-28T23:38:45.992Z	1498054	AI	1	323	0	0	8.0	798714	1293	recent@AI|top@AI	SIGNAL	A Better Way to Resize Photos - Now Live on NOICE
+2026-05-28T23:38:45.992Z	1497946	bitcoin	1	226	0	10	10.7	713868	439	recent@bitcoin|top@bitcoin|recent@Education	SIGNAL	We need less P2P and more H2H
+2026-05-28T23:38:45.992Z	1497947	news	2	223	0	4	10.7	280679	21646	recent@news|top@news	SIGNAL	FBI seizes 303 gold bars from CIA official in $40 million case
+2026-05-28T23:38:45.992Z	1498131	bitcoin	1	204	0	1	7.4	263526	346	recent@lightning|top@lightning	SIGNAL	Silent Payments vs Lightning: they're not competing, they're complementary
+2026-05-28T23:38:45.992Z	1498284	AI	1	192	0	1	3.1	347614	1507	recent@AI|top@AI	SIGNAL	PrismML — 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices
+2026-05-28T23:38:45.992Z	1498271	news	2	190	0	0	3.6	74100	10106	recent@news|top@news	SIGNAL	Texas Sues Discord, Seeks Mandatory Age Verification
+2026-05-28T23:38:45.992Z	1498045	Stacker_Sports	3	170	0	1	8.0	458256	4663	recent@history|top@history	SIGNAL	Why the French Open is named after Roland Garros, who didn't play tennis
+2026-05-28T23:38:45.992Z	1498341	Politics_And_Law	3	158	0	0	0.9	88718	43889	recent@econ|top@econ|recent@history	FRESH,SIGNAL	The Big Apple’s Woes Are Not Just the Result of One Election
+2026-05-28T23:38:45.992Z	1498120	AI	1	113	0	1	7.5	280679	21646	recent@AI|top@AI	SIGNAL	RSI is the new AGI — and it's just as hard to pin down
+2026-05-28T23:38:45.992Z	1498328	bitcoin	1	100	0	0	1.2	74100	10106	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,SIGNAL	Dog Park - Privacy in Bark
