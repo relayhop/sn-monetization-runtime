@@ -1,0 +1,50 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1498777	AI	1	3671	0	3	2.5	272900	25	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Lexe CLI: a self-custodial, always-online Lightning node in three commands
+1498580	security	1	1865	0	6	9.1	776307	1135	recent@security|top@security	HOT,SIGNAL	Apple makes its quantum-resistant encryption open source
+1498557	lightning	1	1547	0	7	9.7	263526	349	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC)
+1498671	bitcoin	1	1044	0	3	5.7	1014665	184	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink's Bitcoin Core Fuzz Testing Research Interns: Dongjia Zhang and Stratos
+1498565	bitcoin	1	876	0	1	9.6	1014665	184	recent@bitcoin|top@bitcoin	SIGNAL	CLN DoS vulnerability, CoreDev meeting - Bitcoin Optech Newsletter #407
+1498498	bitcoin	1	718	0	0	11.8	21800	487	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Would transaction labels make bitcoin bookkeeping & tax reporting less painful?
+1498637	bitcoin	1	657	0	0	7.0	280679	21671	recent@bitcoin|top@bitcoin	SIGNAL	BIP450: Formosa—Seed Encoding per Themed Mnemonic Stories by Yuri-SVB
+1498620	bitcoin	1	586	0	5	7.9	74100	10129	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Hestia - Heating that pays for itself.
+1498641	AI	1	505	0	10	6.5	74100	10129	recent@AI|top@AI	SIGNAL	AI and the Problem of Polished Prose - John Nosta
+1498664	bitcoin	1	448	0	0	5.9	74100	10129	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	📣 AMA Announcement: HodlTarantula - THURS, 04 JUNE - 10AM
+1498663	tech	1	425	0	7	5.9	161788	9837	recent@tech|top@tech	SIGNAL	Tulip mania: when a single flower was worth more than a house (2025)
+1498577	bitcoin_beginners	1	384	0	1	9.2	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Nostr and Bitcoin adoption in the South Pacific
+1498632	security	1	336	0	0	7.2	370699	246	recent@security|top@security	SIGNAL	Privacy-focused, open-source Raspberry Pi Zero 2W DIY security camera
+1498594	bitcoin_beginners	1	326	0	0	8.5	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	[Book Review] Zeus - King Of The God's, by George O’Connor
+1498647	bitcoin_Mining	1	325	0	1	6.3	280679	21671	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitaxe to Exahash: Inside HydraPool’s Record Stress Test and What’s Next
+1498699	bitcoin	1	246	0	0	5.0	74100	10129	recent@bitcoin|top@bitcoin	SIGNAL	blackbox_node: Off-grid mesh node w/ local AI TAK and Bitcoin, Cashu
+1498892	lol	2	212	0	1	0.3	1	26485	recent@devs|top@devs|recent@AI	FRESH,SIGNAL	If you vibe coded legs, this is what they'd look like
+1498536	bitcoin_beginners	1	193	0	2	10.4	30782	24804	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Top Posts Of The Week
+1498824	AI	1	192	0	2	2.0	12309	3490	recent@AI|top@AI	SIGNAL	AI sticker shock hits corporate America
+1498571	AI	1	144	0	0	9.4	900202	2306	recent@AI|top@AI	SIGNAL	Pope Leo on AI
+1497994	bitcoin	1	5536	0	27	29.5	17771	242	recent@bitcoin	HOT	The Bitcoin Depression Index
+1497991	bitcoin	1	3657	0	63	29.5	1014665	184	recent@bitcoin	HOT	Mike Schmidt - Brink, Optech AMA
+1498047	bitcoin	1	1795	0	4	28.9	724606	10470	recent@bitcoin	HOT	War is Peace, Surveillance is Freedom (FT, Martin Arnold)
+1498214	nostr	1	1428	0	8	26.1	126503	768	recent@nostr	HOT	Europa: a decentralized VPN marketplace built on Nostr
+1498479	bitcoin	1	1122	0	2	13.5	6274	2246	recent@bitcoin|top@bitcoin	HOT	Stablecoins are now available on Cash App
+1498269	bitcoin	1	1117	0	6	24.5	1498201	7	recent@bitcoin	HOT	Built a multiplayer voxel world fully on-chain on Bitcoin
+1498157	math	2	918	0	1	27.9	74100	10129	recent@bitcoin		A shallow dive into formal verification - Vitalik Buterin
+1498192	tech	1	457	0	2	26.6	161788	9837	recent@tech		Claude Opus 4.8
+1498328	bitcoin	1	382	0	1	22.0	74100	10129	recent@bitcoin|top@bitcoin|recent@privacy		Dog Park - Privacy in Bark
+1498136	Geyser_community	3	363	0	0	28.2	296825	4492	recent@bitcoin_beginners		Bitcoin Crowdfunding for New Ideas and Humanitarian Causes | Geyser
+1498182	bitcoin_Mining	1	363	0	11	27.0	354217	12	recent@bitcoin_Mining		Lightning to mine Bitcoin. ⚡️
+1498054	AI	1	323	0	0	28.9	798714	1293	recent@AI		A Better Way to Resize Photos - Now Live on NOICE
+1497946	bitcoin	1	226	0	10	31.6	713868	440	recent@bitcoin		We need less P2P and more H2H
+1498131	bitcoin	1	204	0	1	28.3	263526	349	recent@lightning		Silent Payments vs Lightning: they're not competing, they're complementary
+1498284	AI	1	192	0	1	24.0	347614	1507	recent@AI		PrismML — 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices
+1498475	bitcoin_beginners	1	114	0	0	13.9	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners		The Bitcoin Circular Economies book — Bitcoin 4 Humanity B4H
+1498120	AI	1	113	0	1	28.4	280679	21671	recent@AI		RSI is the new AGI — and it's just as hard to pin down
+1498448	bitcoin_beginners	1	83	0	0	15.6	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		This is what the industry looks like when it matures.
+1498766	AI	1	69	0	3	2.6	12309	3490	recent@AI|top@AI		A new era of PC.
+1497883	AI	1	42	0	1	34.8	280679	21671	recent@AI		AI Hiring Tools Can Yield Racial Bias and Systemic Rejection
+1497866	security	1	40	0	1	35.3	280679	21671	recent@security		Websites have a new way to spy on visitors: analyzing their SSD activity
+1498712	news	2	36	0	0	4.4	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners		Someone Just Published The entire U.S. Constitution Onto The Bitcoin Blockchain
+1498765	gaming	3	36	0	0	2.6	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners		Pizza Runner by Blockstream
+1498456	bitcoin	1	36	0	2	14.6	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bitcoin is suffering because too many Bitcoiners have become cowards
+1497876	bitcoin	1	36	0	0	35.0	1490792	123	recent@bitcoin_beginners		How Banks Can Add Bitcoin Without Replacing Their Core System - Lightning News
+1497895	bitcoin_beginners	1	36	0	0	34.1	296825	4492	recent@bitcoin_beginners		The Bullish Case for Bitcoin (part 1 of 4)
+1498567	lightning	1	0	0	5	9.5	263526	349	recent@lightning|top@lightning		Why the Lightning Network fails as a scaling solution
+1498230	devs	1	0	0	0	25.3	1495722	2	recent@devs		I Built a Free Wall Street Research Tool Alone. Now I Need You to Break It.
+1498383	AI	1	0	0	0	20.6	297791	7545	recent@AI|top@AI		Nano Banana 2 and Nano Banana Pro available for everyone with creative workflows

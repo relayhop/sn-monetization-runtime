@@ -3715,3 +3715,23 @@
 2026-05-29T19:38:38.254Z	1498824	AI	1	192	0	2	1.2	12309	3490	recent@AI|top@AI|recent@econ	FRESH,SIGNAL	AI sticker shock hits corporate America
 2026-05-29T19:38:38.254Z	1498571	AI	1	144	0	0	8.5	900202	2306	recent@AI|top@AI	SIGNAL	Pope Leo on AI
 2026-05-29T19:38:38.254Z	1498776	econ	2	106	0	3	1.6	328182	3674	recent@econ|top@econ	FRESH,SIGNAL	How Much US Farmland Do Chinese Investors Actually Own?
+2026-05-29T20:31:49.790Z	1498777	AI	1	3671	0	3	2.5	272900	25	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Lexe CLI: a self-custodial, always-online Lightning node in three commands
+2026-05-29T20:31:49.790Z	1498580	security	1	1865	0	6	9.1	776307	1135	recent@security|top@security	HOT,SIGNAL	Apple makes its quantum-resistant encryption open source
+2026-05-29T20:31:49.790Z	1498557	lightning	1	1547	0	7	9.7	263526	349	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC)
+2026-05-29T20:31:49.790Z	1498671	bitcoin	1	1044	0	3	5.7	1014665	184	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink's Bitcoin Core Fuzz Testing Research Interns: Dongjia Zhang and Stratos
+2026-05-29T20:31:49.790Z	1498565	bitcoin	1	876	0	1	9.6	1014665	184	recent@bitcoin|top@bitcoin	SIGNAL	CLN DoS vulnerability, CoreDev meeting - Bitcoin Optech Newsletter #407
+2026-05-29T20:31:49.790Z	1498498	bitcoin	1	718	0	0	11.8	21800	487	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Would transaction labels make bitcoin bookkeeping & tax reporting less painful?
+2026-05-29T20:31:49.790Z	1498637	bitcoin	1	657	0	0	7.0	280679	21671	recent@bitcoin|top@bitcoin	SIGNAL	BIP450: Formosa—Seed Encoding per Themed Mnemonic Stories by Yuri-SVB
+2026-05-29T20:31:49.790Z	1498620	bitcoin	1	586	0	5	7.9	74100	10129	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Hestia - Heating that pays for itself.
+2026-05-29T20:31:49.790Z	1498641	AI	1	505	0	10	6.5	74100	10129	recent@AI|top@AI	SIGNAL	AI and the Problem of Polished Prose - John Nosta
+2026-05-29T20:31:49.790Z	1498664	bitcoin	1	448	0	0	5.9	74100	10129	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	📣 AMA Announcement: HodlTarantula - THURS, 04 JUNE - 10AM
+2026-05-29T20:31:49.790Z	1498663	tech	1	425	0	7	5.9	161788	9837	recent@tech|top@tech	SIGNAL	Tulip mania: when a single flower was worth more than a house (2025)
+2026-05-29T20:31:49.790Z	1498577	bitcoin_beginners	1	384	0	1	9.2	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Nostr and Bitcoin adoption in the South Pacific
+2026-05-29T20:31:49.790Z	1498632	security	1	336	0	0	7.2	370699	246	recent@security|top@security	SIGNAL	Privacy-focused, open-source Raspberry Pi Zero 2W DIY security camera
+2026-05-29T20:31:49.790Z	1498594	bitcoin_beginners	1	326	0	0	8.5	296825	4492	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	[Book Review] Zeus - King Of The God's, by George O’Connor
+2026-05-29T20:31:49.790Z	1498647	bitcoin_Mining	1	325	0	1	6.3	280679	21671	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitaxe to Exahash: Inside HydraPool’s Record Stress Test and What’s Next
+2026-05-29T20:31:49.790Z	1498699	bitcoin	1	246	0	0	5.0	74100	10129	recent@bitcoin|top@bitcoin	SIGNAL	blackbox_node: Off-grid mesh node w/ local AI TAK and Bitcoin, Cashu
+2026-05-29T20:31:49.790Z	1498892	lol	2	212	0	1	0.3	1	26485	recent@devs|top@devs|recent@AI	FRESH,SIGNAL	If you vibe coded legs, this is what they'd look like
+2026-05-29T20:31:49.790Z	1498536	bitcoin_beginners	1	193	0	2	10.4	30782	24804	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Top Posts Of The Week
+2026-05-29T20:31:49.790Z	1498824	AI	1	192	0	2	2.0	12309	3490	recent@AI|top@AI	SIGNAL	AI sticker shock hits corporate America
+2026-05-29T20:31:49.790Z	1498571	AI	1	144	0	0	9.4	900202	2306	recent@AI|top@AI	SIGNAL	Pope Leo on AI
