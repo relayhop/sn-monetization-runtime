@@ -1,0 +1,41 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1498214	nostr	1	1328	0	6	9.6	126503	768	recent@nostr|top@nostr	HOT,SIGNAL	Europa: a decentralized VPN marketplace built on Nostr
+1498269	bitcoin	1	1117	0	4	8.1	1498201	6	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Built a multiplayer voxel world fully on-chain on Bitcoin
+1498157	math	2	918	0	0	11.4	74100	10108	recent@bitcoin|top@bitcoin	SIGNAL	A shallow dive into formal verification - Vitalik Buterin
+1498192	tech	1	457	0	1	10.2	161788	9832	recent@tech|top@tech	SIGNAL	Claude Opus 4.8
+1498328	bitcoin	1	382	0	0	5.6	74100	10108	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Dog Park - Privacy in Bark
+1498136	Geyser_community	3	363	0	0	11.7	296825	4478	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Crowdfunding for New Ideas and Humanitarian Causes | Geyser
+1498182	bitcoin_Mining	1	363	0	11	10.5	354217	12	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Lightning to mine Bitcoin. ⚡️
+1498131	bitcoin	1	204	0	1	11.8	263526	346	recent@lightning|top@lightning	SIGNAL	Silent Payments vs Lightning: they're not competing, they're complementary
+1498284	AI	1	192	0	1	7.5	347614	1507	recent@AI|top@AI	SIGNAL	PrismML — 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices
+1498120	AI	1	113	0	1	11.9	280679	21646	recent@AI|top@AI	SIGNAL	RSI is the new AGI — and it's just as hard to pin down
+1497994	bitcoin	1	5436	0	27	13.1	17771	242	recent@bitcoin|top@bitcoin	HOT	The Bitcoin Depression Index
+1497991	bitcoin	1	3657	0	60	13.1	1014665	180	recent@bitcoin|top@bitcoin	HOT	Mike Schmidt - Brink, Optech AMA
+1497527	bitcoin	1	2076	0	9	32.0	227606	2445	recent@bitcoin|recent@lightning	HOT	Square Terminal Trainwreck - Back on Track! (and other tortured metaphors)
+1498047	bitcoin	1	1732	0	4	12.5	724606	10457	recent@bitcoin|top@bitcoin	HOT	War is Peace, Surveillance is Freedom (FT, Martin Arnold)
+1497442	bitcoin	1	1431	0	1	34.5	24585	349	recent@bitcoin|recent@lightning	HOT	Latest Strikes S03E21 - May 18th - 24th 2026
+1497763	AI	1	1082	0	23	25.1	223678	5651	recent@AI	HOT	Is Spark actually Bitcoin?
+1497545	tech	1	889	0	19	31.6	416864	856	recent@tech		Linux users of SN: What distro you running? Are you a "ricer"?
+1497513	bitcoin	1	855	0	2	32.4	74100	10108	recent@bitcoin		Bitcoin is Predictably Popular in Crisis-Ridden Iran - Coinshares
+1497779	devs	1	745	0	3	24.0	328486	4148	recent@devs		How hackers reverse Math.random()
+1497550	privacy	1	628	0	15	31.4	1278026	535	recent@privacy		Are we fighting an unwinnable war against privacy
+1497558	Design	2	578	0	35	31.2	74100	10108	recent@bitcoin		Use the ₿ symbol - When will the madness end?
+1497495	bitcoin	1	362	0	3	33.1	74100	10108	recent@bitcoin		localprobe - running a node on a machine that uses firefox? anybody can see.
+1497418	bitcoin	1	335	0	1	35.0	996769	32	recent@bitcoin|recent@nostr		🎙️ NEW EPISODE: Living 100% on Bitcoin, Nostr & Nature
+1498054	AI	1	323	0	0	12.4	798714	1293	recent@AI|top@AI		A Better Way to Resize Photos - Now Live on NOICE
+1497378	bitcoin	1	309	0	0	36.0	74100	10108	recent@bitcoin|recent@lightning		brln-LightningOS - jvxis
+1497777	bitcoin_beginners	1	261	0	0	24.1	296825	4478	recent@bitcoin_beginners		Cashu For Community Sovereignty - Tutorial #2: Lightning Network Daemon (LND)
+1497946	bitcoin	1	226	0	10	15.2	713868	439	recent@bitcoin|top@bitcoin		We need less P2P and more H2H
+1497700	bitcoin_beginners	1	123	0	0	26.5	296825	4478	recent@bitcoin_beginners		Electrum Protocol 1.7 proposal
+1497840	AskSN	2	112	0	3	19.8	296825	4478	recent@bitcoin_beginners|top@bitcoin_beginners		Do you use/plan to use Bitcoin? If yes, how? If no, why?
+1497816	AI	1	69	0	2	21.2	140698	1064	recent@devs|top@devs|recent@AI		Agents Cannot Maintain Systems: The Additive Gap in LLM Software Delivery
+1497883	AI	1	42	0	1	18.3	280679	21646	recent@AI|top@AI		AI Hiring Tools Can Yield Racial Bias and Systemic Rejection
+1497866	security	1	40	0	1	18.9	280679	21646	recent@security|top@security		Websites have a new way to spy on visitors: analyzing their SSD activity
+1497876	bitcoin	1	36	0	0	18.6	1490792	116	recent@bitcoin_beginners|top@bitcoin_beginners		How Banks Can Add Bitcoin Without Replacing Their Core System - Lightning News
+1497895	bitcoin_beginners	1	36	0	0	17.6	296825	4478	recent@bitcoin_beginners|top@bitcoin_beginners		The Bullish Case for Bitcoin (part 1 of 4)
+1497797	bitcoin_beginners	1	36	0	0	22.0	296825	4478	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Week 21 of 2026 - Latest Strikes (Lightning-related news)
+1497503	news	2	36	0	3	32.7	296825	4478	recent@bitcoin_beginners		Someone built an algorithm to find inactive Bitcoin wallets, as "lost property"
+1497506	bitcoin_beginners	1	36	0	1	32.5	296825	4478	recent@bitcoin_beginners		Send Bitcoin via iMessage
+1497832	bitcoin_beginners	1	0	0	1	20.4	237322	423	recent@bitcoin_beginners|top@bitcoin_beginners		Satsman Review: Earn Real Sats for Bitcoin Learning – Too Good to Be True?
+1498230	devs	1	0	0	0	8.8	1495722	2	recent@devs|top@devs		I Built a Free Wall Street Research Tool Alone. Now I Need You to Break It.
+1498383	AI	1	0	0	0	4.1	297791	7544	recent@AI|top@AI		Nano Banana 2 and Nano Banana Pro available for everyone with creative workflows
