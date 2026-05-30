@@ -1,23 +1,18 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-05-30T06:45:45.221Z; n=40
-show	hn	5.89	no	RISING
-japan	hn,sn:japan	5.16	no	RISING
-lexe	sn:AI	3.58	yes	
-self-custodial	sn:AI	3.58	yes	
-always-online	sn:AI	3.58	yes	
-lightning	sn:AI	3.58	yes	
+# generated 2026-05-30T11:20:46.327Z; n=40
+canada	sn:econ,sn:Stacker_Sports	5.78	no	RISING
+show	hn	4.06	no	RISING
+lexe	sn:AI	3.59	yes	
+self-custodial	sn:AI	3.59	yes	
+always-online	sn:AI	3.59	yes	
+lightning	sn:AI	3.59	yes	
+stacker news zine	sn:meta	3.33	yes	
 apple	sn:security	3.28	no	RISING
 quantum-resistant	sn:security	3.28	no	RISING
-biggest channel opened today	sn:lightning	3.21	no	RISING
-castles	sn:japan	3.21	no	RISING
 the bitcoin lost	sn:Politics_And_Law	3.18	no	RISING
 found	sn:Politics_And_Law	3.18	no	RISING
 money stuff	sn:Politics_And_Law	3.18	no	RISING
 matt levine	sn:Politics_And_Law	3.18	no	RISING
-should you be allowed to sell	sn:AskSN	3.16	no	RISING
-kidney	sn:AskSN	3.16	no	RISING
-blue origin	sn:science	3.16	no	RISING
-engine-firing	sn:science	3.16	no	RISING
 world	sn:Politics_And_Law	3.09	no	RISING
 smallest currency isn	sn:Politics_And_Law	3.09	no	RISING
 worth it	sn:Politics_And_Law	3.09	no	RISING
@@ -28,15 +23,20 @@ brink	sn:bitcoin	3.05	yes
 bitcoin core fuzz testing research interns	sn:bitcoin	3.05	yes	
 dongjia zhang	sn:bitcoin	3.05	yes	
 stratos	sn:bitcoin	3.05	yes	
-stablecoins	sn:bitcoin	3.05	yes	
-cash app	sn:bitcoin	3.05	yes	
-stacker news zine	sn:meta	3.04	yes	
-canada	sn:econ	2.99	no	RISING
-bitcoin optech newsletter	sn:bitcoin	2.94	yes	
 human person	sn:bitcoin	2.93	yes	
 time	sn:bitcoin	2.93	yes	
 artificial intelligence	sn:bitcoin	2.93	yes	
-check	sn:DIY	2.89	no	RISING
-favorite	sn:AskSN	2.87	no	RISING
+check	sn:DIY	2.91	no	RISING
+favorite	sn:AskSN	2.88	no	RISING
 which	sn:culture	2.87	no	RISING
 being unbiased	sn:culture	2.87	no	RISING
+understanding	sn:culture	2.87	no	RISING
+biases	sn:culture	2.87	no	RISING
+weekly random sports pick	sn:Stacker_Sports	2.84	no	RISING
+formosa	sn:bitcoin	2.82	yes	
+seed encoding	sn:bitcoin	2.82	yes	
+themed mnemonic stories	sn:bitcoin	2.82	yes	
+yuri	sn:bitcoin	2.82	yes	
+progressive field	sn:Stacker_Sports	2.79	no	RISING
+hestia	sn:bitcoin	2.78	yes	
+heating	sn:bitcoin	2.78	yes	
