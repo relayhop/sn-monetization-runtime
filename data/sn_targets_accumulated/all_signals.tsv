@@ -3969,3 +3969,18 @@
 2026-05-30T18:11:54.123Z	1499203	AI	1	123	0	0	7.3	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
 2026-05-30T18:11:54.123Z	1499392	lightning	1	122	0	0	0.2	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
 2026-05-30T18:11:54.123Z	1499383	history	2	122	0	0	0.5	1293586	1852	recent@history|top@history	FRESH,SIGNAL	Small Recovery for a Friday Night
+2026-05-30T18:42:59.541Z	1499147	AI	1	2246	0	1	11.0	250442	38	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+2026-05-30T18:42:59.541Z	1499250	lightning	1	1058	0	3	5.4	163128	3569	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+2026-05-30T18:42:59.541Z	1499283	bitcoin	1	850	0	2	3.6	74100	10158	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+2026-05-30T18:42:59.541Z	1499290	bitcoin	1	683	0	5	3.3	74100	10158	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-30T18:42:59.541Z	1499235	events	3	680	0	3	5.9	739506	128	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+2026-05-30T18:42:59.541Z	1499353	lightning	1	507	0	0	1.7	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+2026-05-30T18:42:59.541Z	1499357	security	1	504	0	1	1.6	1	26489	recent@security|top@security|recent@tech	FRESH,SIGNAL	Let’s talk about encrypted reasoning
+2026-05-30T18:42:59.541Z	1499352	privacy	1	282	0	4	1.8	74100	10158	recent@privacy|top@privacy	FRESH,SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+2026-05-30T18:42:59.541Z	1499392	lightning	1	281	0	0	0.8	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+2026-05-30T18:42:59.541Z	1499395	bitcoin_beginners	1	260	0	0	0.7	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+2026-05-30T18:42:59.541Z	1499354	AI	1	240	0	0	1.7	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+2026-05-30T18:42:59.541Z	1499359	lightning	1	240	0	1	1.5	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+2026-05-30T18:42:59.541Z	1499364	Music	3	199	0	2	1.4	74100	10158	recent@nostr|top@nostr	FRESH,SIGNAL	gruuv - nostr music site
+2026-05-30T18:42:59.541Z	1499193	AI	1	159	0	0	8.3	12309	3492	recent@AI|top@AI	SIGNAL	Adobe’s conversational AI agent is a mediocre design intern
+2026-05-30T18:42:59.541Z	1499203	AI	1	123	0	0	7.8	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude

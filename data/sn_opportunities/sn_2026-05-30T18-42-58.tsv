@@ -1,0 +1,50 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1499147	AI	1	2246	0	1	11.0	250442	38	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+1499250	lightning	1	1058	0	3	5.4	163128	3569	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+1499283	bitcoin	1	850	0	2	3.6	74100	10158	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+1499290	bitcoin	1	683	0	5	3.3	74100	10158	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+1499235	events	3	680	0	3	5.9	739506	128	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+1499353	lightning	1	507	0	0	1.7	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+1499357	security	1	504	0	1	1.6	1	26489	recent@security|top@security|recent@tech	FRESH,SIGNAL	Let’s talk about encrypted reasoning
+1499352	privacy	1	282	0	4	1.8	74100	10158	recent@privacy|top@privacy	FRESH,SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+1499392	lightning	1	281	0	0	0.8	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+1499395	bitcoin_beginners	1	260	0	0	0.7	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+1499354	AI	1	240	0	0	1.7	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+1499359	lightning	1	240	0	1	1.5	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+1499364	Music	3	199	0	2	1.4	74100	10158	recent@nostr|top@nostr	FRESH,SIGNAL	gruuv - nostr music site
+1499193	AI	1	159	0	0	8.3	12309	3492	recent@AI|top@AI	SIGNAL	Adobe’s conversational AI agent is a mediocre design intern
+1499203	AI	1	123	0	0	7.8	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
+1498777	AI	1	3865	0	10	24.7	272900	27	recent@bitcoin|recent@lightning|recent@devs	HOT	Lexe CLI: a self-custodial, always-online Lightning node in three commands
+1498976	meta	1	2166	0	7	19.2	92827	2669	recent@meta|top@meta	HOT	Stacker News Zine is for you! with issue #59
+1498580	security	1	1905	0	9	31.3	776307	1139	recent@security	HOT	Apple makes its quantum-resistant encryption open source
+1498557	lightning	1	1616	0	9	31.9	263526	349	recent@lightning	HOT	Biggest Channel Opened Today (5.0 BTC)
+1498671	bitcoin	1	1130	0	3	27.8	1014665	184	recent@bitcoin	HOT	Brink's Bitcoin Core Fuzz Testing Research Interns: Dongjia Zhang and Stratos
+1498479	bitcoin	1	1122	0	3	35.7	6274	2246	recent@bitcoin	HOT	Stablecoins are now available on Cash App
+1498919	bitcoin	1	1009	0	7	21.6	144357	4229	recent@bitcoin|top@bitcoin	HOT	Human Person in the Time of Artificial Intelligence | SNL #226
+1498565	bitcoin	1	876	0	1	31.8	1014665	184	recent@bitcoin		CLN DoS vulnerability, CoreDev meeting - Bitcoin Optech Newsletter #407
+1498498	bitcoin	1	739	0	0	34.0	21800	487	recent@bitcoin|recent@lightning		Would transaction labels make bitcoin bookkeeping & tax reporting less painful?
+1498637	bitcoin	1	657	0	0	29.2	280679	21671	recent@bitcoin		BIP450: Formosa—Seed Encoding per Themed Mnemonic Stories by Yuri-SVB
+1498620	bitcoin	1	607	0	6	30.0	74100	10158	recent@bitcoin|recent@bitcoin_Mining		Hestia - Heating that pays for itself.
+1498641	AI	1	538	0	13	28.7	74100	10158	recent@AI		AI and the Problem of Polished Prose - John Nosta
+1498664	bitcoin	1	469	0	0	28.0	74100	10158	recent@bitcoin|recent@bitcoin_Mining		📣 AMA Announcement: HodlTarantula - THURS, 04 JUNE - 10AM
+1498663	tech	1	425	0	7	28.0	161788	9843	recent@tech		Tulip mania: when a single flower was worth more than a house (2025)
+1498577	bitcoin_beginners	1	384	0	1	31.4	296825	4496	recent@bitcoin_beginners		Nostr and Bitcoin adoption in the South Pacific
+1498908	bitcoin	1	379	0	34	21.9	74100	10158	recent@bitcoin|top@bitcoin		Running a cashu mint in a TEE
+1498892	lol	2	378	0	1	22.5	1	26489	recent@devs|top@devs|recent@AI		If you vibe coded legs, this is what they'd look like
+1498632	security	1	336	0	0	29.4	370699	248	recent@security		Privacy-focused, open-source Raspberry Pi Zero 2W DIY security camera
+1498594	bitcoin_beginners	1	326	0	0	30.7	296825	4496	recent@bitcoin_beginners|recent@lightning		[Book Review] Zeus - King Of The God's, by George O’Connor
+1498647	bitcoin_Mining	1	325	0	1	28.4	280679	21671	recent@bitcoin_Mining		Bitaxe to Exahash: Inside HydraPool’s Record Stress Test and What’s Next
+1498824	AI	1	303	0	2	24.2	12309	3492	recent@AI		AI sticker shock hits corporate America
+1498699	bitcoin	1	246	0	0	27.2	74100	10158	recent@bitcoin		blackbox_node: Off-grid mesh node w/ local AI TAK and Bitcoin, Cashu
+1498536	bitcoin_beginners	1	193	0	2	32.6	30782	24818	recent@bitcoin_beginners		Bitcoin Beginners Top Posts Of The Week
+1498571	AI	1	144	0	0	31.6	900202	2313	recent@AI		Pope Leo on AI
+1499063	AI	1	138	0	0	15.7	110937	238	recent@AI|top@AI		AI doesn't care
+1499169	bitcoin_beginners	1	76	0	4	8.7	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Orange Bible — What if you could earn sats for doing your daily Bible readings?
+1498766	AI	1	69	0	3	24.8	12309	3492	recent@AI		A new era of PC.
+1499388	tutorials	2	36	0	0	0.8	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH	Easy Bitcoin Privacy using Sparrow
+1499381	bitcoin	1	36	0	1	1.0	1490792	129	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Why BIP-110 Is Much More Likely To Succeed Than People Realize
+1498712	news	2	36	0	0	26.6	296825	4496	recent@bitcoin_beginners		Someone Just Published The entire U.S. Constitution Onto The Bitcoin Blockchain
+1498765	gaming	3	36	0	0	24.8	296825	4496	recent@bitcoin_beginners		Pizza Runner by Blockstream
+1498900	bitcoin	1	7	0	2	22.2	1498900	7	recent@bitcoin_Mining|top@bitcoin_Mining		Should full nodes be incentivized in a Proof-of-Work network?
+1498567	lightning	1	0	0	5	31.7	263526	349	recent@lightning		Why the Lightning Network fails as a scaling solution
+1499191	devs	1	0	0	0	8.3	297791	7546	recent@devs|top@devs		The latest updates to Google Pay
