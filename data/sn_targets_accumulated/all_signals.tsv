@@ -3949,3 +3949,23 @@
 2026-05-30T17:32:03.079Z	1499354	AI	1	204	0	0	0.5	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Built an MCP server that lets Claude pay sats over NWC
 2026-05-30T17:32:03.079Z	1499359	lightning	1	204	0	0	0.3	163128	3568	recent@lightning|top@lightning	FRESH,SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
 2026-05-30T17:32:03.079Z	1499203	AI	1	123	0	0	6.6	296825	4495	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
+2026-05-30T18:11:54.123Z	1499251	Politics_And_Law	3	2690	0	18	4.8	724606	10505	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	How the Boomers Screwed Europe (The Economist)
+2026-05-30T18:11:54.123Z	1499147	AI	1	2246	0	1	10.4	250442	38	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+2026-05-30T18:11:54.123Z	1499287	Stacker_Sports	3	1311	0	5	2.8	724606	10505	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Arsenal, PSG, and the Rise of the Capital(!) Club (FT, Simon Kuper)
+2026-05-30T18:11:54.123Z	1499250	lightning	1	1058	0	3	4.9	163128	3569	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+2026-05-30T18:11:54.123Z	1499283	bitcoin	1	850	0	2	3.1	74100	10156	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+2026-05-30T18:11:54.123Z	1499290	bitcoin	1	683	0	3	2.8	74100	10156	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-30T18:11:54.123Z	1499235	events	3	680	0	3	5.4	739506	128	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+2026-05-30T18:11:54.123Z	1499353	lightning	1	471	0	0	1.2	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+2026-05-30T18:11:54.123Z	1499231	Politics_And_Law	3	409	0	0	5.6	88718	43966	recent@history|top@history	SIGNAL	“Creating a Nation”: The Declaration of Independence and the Nation Anachronism
+2026-05-30T18:11:54.123Z	1499357	security	1	330	0	1	1.0	1	26489	recent@security|top@security|recent@tech	FRESH,SIGNAL	Let’s talk about encrypted reasoning
+2026-05-30T18:11:54.123Z	1499200	BooksAndArticles	2	249	0	4	7.5	1264102	32	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Books & Articles Top Posts Of The Week
+2026-05-30T18:11:54.123Z	1499352	privacy	1	246	0	1	1.3	74100	10156	recent@privacy|top@privacy	FRESH,SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+2026-05-30T18:11:54.123Z	1499395	bitcoin_beginners	1	224	0	0	0.2	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners|recent@history	FRESH,SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+2026-05-30T18:11:54.123Z	1499330	Stacker_Stocks	2	211	0	1	1.8	9274	22962	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	MSTY Payout #39: FO - FO - FO for Deli!
+2026-05-30T18:11:54.123Z	1499277	Stacker_Stocks	2	211	0	1	3.2	9274	22962	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-05-30T18:11:54.123Z	1499354	AI	1	204	0	0	1.2	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+2026-05-30T18:11:54.123Z	1499359	lightning	1	204	0	1	1.0	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+2026-05-30T18:11:54.123Z	1499203	AI	1	123	0	0	7.3	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
+2026-05-30T18:11:54.123Z	1499392	lightning	1	122	0	0	0.2	163128	3569	recent@lightning|top@lightning	FRESH,SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+2026-05-30T18:11:54.123Z	1499383	history	2	122	0	0	0.5	1293586	1852	recent@history|top@history	FRESH,SIGNAL	Small Recovery for a Friday Night
