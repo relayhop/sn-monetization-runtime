@@ -3938,3 +3938,14 @@
 2026-05-30T16:16:24.715Z	1499250	lightning	1	546	0	3	3.0	163128	3566	recent@lightning|top@lightning	SIGNAL	Tuscany Lightning Summit 2026
 2026-05-30T16:16:24.715Z	1499235	events	3	478	0	3	3.5	739506	128	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
 2026-05-30T16:16:24.715Z	1499290	bitcoin	1	104	0	2	0.9	74100	10153	recent@lightning|top@lightning	FRESH,SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-30T17:32:03.078Z	1499147	AI	1	2226	0	1	9.8	250442	38	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+2026-05-30T17:32:03.078Z	1499250	lightning	1	1058	0	3	4.3	163128	3568	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+2026-05-30T17:32:03.078Z	1499283	bitcoin	1	850	0	2	2.4	74100	10156	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+2026-05-30T17:32:03.078Z	1499235	events	3	680	0	3	4.7	739506	128	recent@bitcoin|top@bitcoin	SIGNAL	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+2026-05-30T17:32:03.078Z	1499290	bitcoin	1	626	0	2	2.1	74100	10156	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-30T17:32:03.079Z	1499353	lightning	1	471	0	0	0.5	163128	3568	recent@lightning|top@lightning	FRESH,SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+2026-05-30T17:32:03.079Z	1499357	security	1	261	0	0	0.4	1	26489	recent@security|top@security|recent@tech	FRESH,SIGNAL	Let’s talk about encrypted reasoning
+2026-05-30T17:32:03.079Z	1499352	privacy	1	246	0	0	0.6	74100	10156	recent@privacy|top@privacy	FRESH,SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+2026-05-30T17:32:03.079Z	1499354	AI	1	204	0	0	0.5	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+2026-05-30T17:32:03.079Z	1499359	lightning	1	204	0	0	0.3	163128	3568	recent@lightning|top@lightning	FRESH,SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+2026-05-30T17:32:03.079Z	1499203	AI	1	123	0	0	6.6	296825	4495	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
