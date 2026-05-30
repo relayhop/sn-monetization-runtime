@@ -4065,3 +4065,20 @@
 2026-05-30T22:09:52.844Z	1499193	AI	1	159	0	0	11.7	12309	3492	recent@AI|top@AI|recent@Design	SIGNAL	Adobe’s conversational AI agent is a mediocre design intern
 2026-05-30T22:09:52.844Z	1499388	tutorials	2	131	0	2	4.3	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Easy Bitcoin Privacy using Sparrow
 2026-05-30T22:09:52.844Z	1499203	AI	1	123	0	0	11.2	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
+2026-05-30T22:14:01.183Z	1499250	lightning	1	1069	0	3	9.0	163128	3569	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+2026-05-30T22:14:01.183Z	1499283	bitcoin	1	1018	0	7	7.1	74100	10164	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+2026-05-30T22:14:01.183Z	1499290	bitcoin	1	725	0	6	6.8	74100	10164	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-30T22:14:01.183Z	1499235	events	3	680	0	10	9.4	739506	128	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+2026-05-30T22:14:01.183Z	1499492	bitcoin	1	626	0	1	1.4	934367	901	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Cashu Mint Auditor
+2026-05-30T22:14:01.183Z	1499455	nostr	1	623	0	4	2.5	1278026	549	recent@nostr|top@nostr	SIGNAL	When fighting dogs meet
+2026-05-30T22:14:01.183Z	1499353	lightning	1	518	0	0	5.2	163128	3569	recent@lightning|top@lightning	SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+2026-05-30T22:14:01.183Z	1499357	security	1	514	0	1	5.1	1	26494	recent@security|top@security|recent@tech	SIGNAL	Let’s talk about encrypted reasoning
+2026-05-30T22:14:01.183Z	1499364	Music	3	324	0	2	4.9	74100	10164	recent@nostr|top@nostr	SIGNAL	gruuv - nostr music site
+2026-05-30T22:14:01.183Z	1499395	bitcoin_beginners	1	313	0	2	4.2	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+2026-05-30T22:14:01.184Z	1499359	lightning	1	306	0	2	5.0	163128	3569	recent@lightning|top@lightning	SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+2026-05-30T22:14:01.184Z	1499392	lightning	1	293	0	0	4.3	163128	3569	recent@lightning|top@lightning	SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+2026-05-30T22:14:01.184Z	1499354	AI	1	290	0	1	5.2	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+2026-05-30T22:14:01.184Z	1499352	privacy	1	282	0	4	5.3	74100	10164	recent@privacy|top@privacy	SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+2026-05-30T22:14:01.184Z	1499193	AI	1	159	0	0	11.8	12309	3492	recent@AI|top@AI	SIGNAL	Adobe’s conversational AI agent is a mediocre design intern
+2026-05-30T22:14:01.184Z	1499388	tutorials	2	131	0	2	4.4	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Easy Bitcoin Privacy using Sparrow
+2026-05-30T22:14:01.184Z	1499203	AI	1	123	0	0	11.3	296825	4496	recent@AI|top@AI	SIGNAL	Everything That Went Wrong With Claude
