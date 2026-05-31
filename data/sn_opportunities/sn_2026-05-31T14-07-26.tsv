@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1499785	BooksAndArticles	2	236	0	0	3.2	988069	252	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	What's up Robert Jordan? Here I am rambling again, sir!
+1499251	Politics_And_Law	3	2982	0	35	24.7	724606	10514	recent@econ	HOT	How the Boomers Screwed Europe (The Economist)
+1499147	AI	1	2246	0	1	30.4	250442	38	recent@bitcoin|recent@lightning|recent@AI	HOT	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+1499287	Stacker_Sports	3	1464	0	6	22.8	724606	10514	recent@econ|top@econ	HOT,SELF_POST_OPP	Arsenal, PSG, and the Rise of the Capital(!) Club (FT, Simon Kuper)
+1499581	bitcoin	1	1327	0	8	13.8	74100	10168	recent@bitcoin|top@bitcoin	HOT	Burak is at it again: Introducing the newest layer 2 scheme: Cube
+1499250	lightning	1	1090	0	3	24.9	163128	3570	recent@lightning	HOT	Tuscany Lightning Summit 2026
+1499283	bitcoin	1	1046	0	7	23.0	74100	10168	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+1499078	Construction_and_Engineering	2	994	0	4	34.4	1022234	491	recent@Construction_and_Engineering		PoW 5/29/26
+1499629	meta	1	841	0	1	12.9	1	26503	recent@meta|top@meta		SN Saturday Newsletter 5/30/26
+1499529	tech	1	766	0	2	15.8	74100	10168	recent@devs|top@devs|recent@tech		The Last Technical Interview - Steve Yegge
+1499290	bitcoin	1	746	0	6	22.7	74100	10168	recent@bitcoin|top@bitcoin|recent@lightning		Give Me Lightning — Lightning Network Advocacy
+1499492	bitcoin	1	730	0	6	17.3	934367	903	recent@bitcoin|top@bitcoin		Cashu Mint Auditor
+1499235	events	3	726	0	16	25.3	739506	129	recent@bitcoin	SELF_POST_OPP	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+1499455	nostr	1	692	0	11	18.4	1278026	551	recent@nostr|top@nostr		When fighting dogs meet
+1499427	science	2	648	0	6	19.4	6263	10483	recent@science|top@science	SELF_POST_OPP	Google Seeks Approval to Release 32 Million Treated Mosquitoes in California
+1499451	math	2	557	0	2	18.6	74100	10168	recent@math|top@math		A circle fitting precisely inside a 3-4-5 Pythagorean triangle has an area of π
+1499357	security	1	535	0	1	21.0	1	26503	recent@security|top@security|recent@tech		Let’s talk about encrypted reasoning
+1499353	lightning	1	518	0	0	21.1	163128	3570	recent@lightning|top@lightning		Vulnerability Disclosure: Assertion DoS in Core Lightning
+1499231	Politics_And_Law	3	409	0	0	25.5	88718	44006	recent@history		“Creating a Nation”: The Declaration of Independence and the Nation Anachronism
+1499383	history	2	404	0	0	20.4	1293586	1856	recent@history|top@history		Small Recovery for a Friday Night
+1499392	lightning	1	371	0	0	20.2	163128	3570	recent@lightning|top@lightning		LND add neutrino: add fast initial sync via header import by Roasbeef
+1499364	Music	3	345	0	2	20.8	74100	10168	recent@nostr|top@nostr		gruuv - nostr music site
+1499395	bitcoin_beginners	1	334	0	2	20.1	296825	4501	recent@bitcoin_beginners|top@bitcoin_beginners|recent@history		Satoshi Nakamoto did not create Bitcoin. He discovered it.
+1499359	lightning	1	327	0	2	20.9	163128	3570	recent@lightning|top@lightning		CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+1499352	privacy	1	303	0	4	21.2	74100	10168	recent@privacy|top@privacy		FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+1499354	AI	1	290	0	1	21.1	1499354	3	recent@bitcoin|top@bitcoin|recent@lightning		Built an MCP server that lets Claude pay sats over NWC
+1499052	Politics_And_Law	3	261	0	20	35.4	88718	44006	recent@econ	SELF_POST_OPP	Who Owns the Airwaves and the Sea?
+1499076	Politics_And_Law	3	261	0	1	34.5	88718	44006	recent@econ		There Is No Reprieve in the Fed’s War on Savings
+1499200	BooksAndArticles	2	249	0	4	27.4	1264102	32	recent@BooksAndArticles		Books & Articles Top Posts Of The Week
+1499330	Stacker_Stocks	2	247	0	2	21.7	9274	22972	recent@Stacker_Stocks|top@Stacker_Stocks		MSTY Payout #39: FO - FO - FO for Deli!
+1499277	Stacker_Stocks	2	247	0	1	23.1	9274	22972	recent@Stacker_Stocks|top@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1499584	Stacker_Stocks	2	169	0	2	13.8	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks		China has accumulated approximately 1.4 billion barrels of oil in reserves.
+1499193	AI	1	159	0	0	27.7	12309	3493	recent@AI|recent@Design		Adobe’s conversational AI agent is a mediocre design intern
+1499063	AI	1	138	0	0	35.2	110937	238	recent@AI		AI doesn't care
+1499388	tutorials	2	131	0	2	20.3	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Easy Bitcoin Privacy using Sparrow
+1499203	AI	1	123	0	0	27.2	296825	4501	recent@AI		Everything That Went Wrong With Claude
+1499169	bitcoin_beginners	1	76	0	4	28.1	296825	4501	recent@bitcoin_beginners|recent@lightning		Orange Bible — What if you could earn sats for doing your daily Bible readings?
+1499454	security	1	71	0	0	18.5	297791	7548	recent@security|top@security		VS Code Remote-SSH RCE Lets Attackers Pivot From Developer Machines to Cloud
+1499660	bitcoin	1	57	0	1	11.7	296825	4501	recent@bitcoin_beginners|top@bitcoin_beginners		The Digital Dollar Is Already Here. It Just Isn't a CBDC.
+1499596	Stacker_Stocks	2	42	0	0	13.6	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks		Goldman Sachs built a framework to analyze currencies by combining exposures.
+1499574	Stacker_Stocks	2	41	0	0	14.0	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks		Goldman raised its S&P 500 growth forecast to 8,000 points by the end of 2026.
+1499381	bitcoin	1	36	0	3	20.4	1490792	129	recent@bitcoin_beginners|top@bitcoin_beginners		Why BIP-110 Is Much More Likely To Succeed Than People Realize
+1499245	science	2	36	0	0	25.0	458256	4674	recent@science		Pigeons use their livers to sense Earth’s magnetic field
+1499209	BooksAndArticles	2	36	0	0	26.9	296825	4501	recent@BooksAndArticles		War, Peace, and the State
+1499528	science	2	21	0	0	15.8	1293586	1856	recent@science|top@science		New device could make processors run 1,000 times faster without heat
+1499800	Memes	2	7	0	0	1.9	296825	4501	recent@Memes|top@Memes	FRESH	We're all in the same boat
+1499790	AI	1	0	0	0	2.7	1499354	3	recent@lightning|top@lightning|recent@AI		Built a generic Lightning paywall sidecar for any MCP server
+1499191	devs	1	0	0	0	27.7	297791	7548	recent@devs		The latest updates to Google Pay
+1499819	science	2	0	0	0	0.0	297791	7548	recent@science|top@science	FRESH	This strange new phase of matter could transform quantum technology
+1499796	science	2	0	0	0	2.1	104755	12282	recent@science|top@science		Fun facts about the human body
+1499793	podcasts	2	0	0	0	2.4	9274	22972	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@history		The History of the Pentagon
+1499804	news	2	0	0	0	1.5	440139	4168	recent@news|top@news	FRESH	Bill Gates Spent Years Crafting His Image. Now It’s Cracking (WSJ)
