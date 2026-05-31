@@ -1,0 +1,62 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1499581	bitcoin	1	1259	0	6	5.4	74100	10168	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Burak is at it again: Introducing the newest layer 2 scheme: Cube
+1499492	bitcoin	1	647	0	3	8.9	934367	901	recent@bitcoin|top@bitcoin	SIGNAL	Cashu Mint Auditor
+1499529	tech	1	645	0	2	7.4	74100	10168	recent@devs|top@devs|recent@tech	SIGNAL	The Last Technical Interview - Steve Yegge
+1499455	nostr	1	635	0	10	10.0	1278026	550	recent@nostr|top@nostr	SIGNAL	When fighting dogs meet
+1499629	meta	1	608	0	0	4.5	1	26503	recent@meta|top@meta	SIGNAL	SN Saturday Newsletter 5/30/26
+1499427	science	2	580	0	6	11.0	6263	10483	recent@science|top@science	SIGNAL,SELF_POST_OPP	Google Seeks Approval to Release 32 Million Treated Mosquitoes in California
+1499451	math	2	536	0	2	10.2	74100	10168	recent@math|top@math	SIGNAL	A circle fitting precisely inside a 3-4-5 Pythagorean triangle has an area of π
+1499383	history	2	404	0	0	12.0	1293586	1856	recent@history|top@history	SIGNAL	Small Recovery for a Friday Night
+1499392	lightning	1	350	0	0	11.8	163128	3569	recent@lightning|top@lightning	SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+1499395	bitcoin_beginners	1	313	0	2	11.7	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners|recent@history	SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+1499388	tutorials	2	131	0	2	11.8	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Easy Bitcoin Privacy using Sparrow
+1499584	Stacker_Stocks	2	118	0	1	5.4	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	China has accumulated approximately 1.4 billion barrels of oil in reserves.
+1498777	AI	1	3865	0	10	35.7	272900	27	recent@bitcoin|recent@lightning|recent@devs	HOT	Lexe CLI: a self-custodial, always-online Lightning node in three commands
+1499251	Politics_And_Law	3	2856	0	31	16.3	724606	10512	recent@econ|top@econ	HOT	How the Boomers Screwed Europe (The Economist)
+1499147	AI	1	2246	0	1	21.9	250442	38	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+1498976	meta	1	2166	0	7	30.2	92827	2669	recent@meta	HOT	Stacker News Zine is for you! with issue #59
+1498974	AskSN	2	1694	0	16	30.2	801869	142	recent@AskSN	HOT,SELF_POST_OPP	Favorite destination?
+1499287	Stacker_Sports	3	1422	0	6	14.4	724606	10512	recent@econ|top@econ	HOT,SELF_POST_OPP	Arsenal, PSG, and the Rise of the Capital(!) Club (FT, Simon Kuper)
+1498839	Politics_And_Law	3	1228	0	13	35.0	724606	10512	recent@econ	HOT,SELF_POST_OPP	World's Smallest Currency Isn't Worth It, Experts Say (Bloomberg, Ragnhildur)
+1499250	lightning	1	1069	0	3	16.4	163128	3569	recent@lightning|top@lightning	HOT	Tuscany Lightning Summit 2026
+1499283	bitcoin	1	1025	0	7	14.6	74100	10168	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+1498919	bitcoin	1	1009	0	7	32.6	144357	4229	recent@bitcoin	HOT	Human Person in the Time of Artificial Intelligence | SNL #226
+1499078	Construction_and_Engineering	2	994	0	4	26.0	1022234	491	recent@Construction_and_Engineering		PoW 5/29/26
+1498813	econ	2	992	0	21	35.3	88988	44192	recent@econ		Canada enters technical recession
+1499290	bitcoin	1	725	0	6	14.3	74100	10168	recent@bitcoin|top@bitcoin|recent@lightning		Give Me Lightning — Lightning Network Advocacy
+1499235	events	3	705	0	15	16.9	739506	129	recent@bitcoin|top@bitcoin	SELF_POST_OPP	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+1498791	DIY	3	622	0	8	35.5	328182	3677	recent@Construction_and_Engineering	SELF_POST_OPP	a porch looks amazing
+1499353	lightning	1	518	0	0	12.7	163128	3569	recent@lightning|top@lightning		Vulnerability Disclosure: Assertion DoS in Core Lightning
+1499357	security	1	514	0	1	12.6	1	26503	recent@security|top@security|recent@tech		Let’s talk about encrypted reasoning
+1499231	Politics_And_Law	3	409	0	0	17.1	88718	44003	recent@history|top@history		“Creating a Nation”: The Declaration of Independence and the Nation Anachronism
+1498908	bitcoin	1	379	0	35	32.9	74100	10168	recent@bitcoin		Running a cashu mint in a TEE
+1498892	lol	2	378	0	1	33.4	1	26503	recent@devs|recent@AI|recent@lol		If you vibe coded legs, this is what they'd look like
+1499359	lightning	1	327	0	2	12.5	163128	3569	recent@lightning|top@lightning		CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+1499364	Music	3	324	0	2	12.4	74100	10168	recent@nostr|top@nostr		gruuv - nostr music site
+1498824	AI	1	303	0	2	35.2	12309	3492	recent@AI|recent@econ|recent@Stacker_Stocks		AI sticker shock hits corporate America
+1499354	AI	1	290	0	1	12.7	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning		Built an MCP server that lets Claude pay sats over NWC
+1499352	privacy	1	282	0	4	12.8	74100	10168	recent@privacy|top@privacy		FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+1499052	Politics_And_Law	3	261	0	20	27.0	88718	44003	recent@econ	SELF_POST_OPP	Who Owns the Airwaves and the Sea?
+1499076	Politics_And_Law	3	261	0	1	26.0	88718	44003	recent@econ		There Is No Reprieve in the Fed’s War on Savings
+1499200	BooksAndArticles	2	249	0	4	19.0	1264102	32	recent@BooksAndArticles|top@BooksAndArticles		Books & Articles Top Posts Of The Week
+1499330	Stacker_Stocks	2	247	0	2	13.3	9274	22971	recent@Stacker_Stocks|top@Stacker_Stocks		MSTY Payout #39: FO - FO - FO for Deli!
+1499277	Stacker_Stocks	2	247	0	1	14.7	9274	22971	recent@Stacker_Stocks|top@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1499001	lol	2	213	0	2	29.2	698001	9189	recent@lol		Return an item: Glenn Rocket $59M ZOOM OUT ZOOM OUT
+1499193	AI	1	159	0	0	19.3	12309	3492	recent@AI|top@AI|recent@Design		Adobe’s conversational AI agent is a mediocre design intern
+1499063	AI	1	138	0	0	26.7	110937	238	recent@AI		AI doesn't care
+1499203	AI	1	123	0	0	18.8	296825	4497	recent@AI|top@AI		Everything That Went Wrong With Claude
+1498776	econ	2	106	0	3	35.7	328182	3677	recent@econ		How Much US Farmland Do Chinese Investors Actually Own?
+1499169	bitcoin_beginners	1	76	0	4	19.7	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Orange Bible — What if you could earn sats for doing your daily Bible readings?
+1498766	AI	1	69	0	3	35.8	12309	3492	recent@AI		A new era of PC.
+1499454	security	1	50	0	0	10.0	297791	7547	recent@security|top@security		VS Code Remote-SSH RCE Lets Attackers Pivot From Developer Machines to Cloud
+1498900	bitcoin	1	39	0	2	33.2	1498900	7	recent@bitcoin_Mining		Should full nodes be incentivized in a Proof-of-Work network?
+1499381	bitcoin	1	36	0	3	12.0	1490792	129	recent@bitcoin_beginners|top@bitcoin_beginners		Why BIP-110 Is Much More Likely To Succeed Than People Realize
+1498765	gaming	3	36	0	0	35.8	296825	4497	recent@bitcoin_beginners		Pizza Runner by Blockstream
+1499245	science	2	36	0	0	16.6	458256	4674	recent@science|top@science		Pigeons use their livers to sense Earth’s magnetic field
+1499209	BooksAndArticles	2	36	0	0	18.5	296825	4497	recent@BooksAndArticles|top@BooksAndArticles		War, Peace, and the State
+1499574	Stacker_Stocks	2	20	0	0	5.6	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks		Goldman raised its S&P 500 growth forecast to 8,000 points by the end of 2026.
+1498762	lol	2	20	0	1	35.9	328182	3677	recent@lol		Startup offers free home cleaning—if it can record it all for robot training
+1499660	bitcoin	1	0	0	1	3.3	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners		The Digital Dollar Is Already Here. It Just Isn't a CBDC.
+1499191	devs	1	0	0	0	19.3	297791	7547	recent@devs|top@devs		The latest updates to Google Pay
+1499528	science	2	0	0	0	7.4	1293586	1856	recent@science|top@science		New device could make processors run 1,000 times faster without heat
+1499596	Stacker_Stocks	2	0	0	0	5.2	934429	287	recent@Stacker_Stocks|top@Stacker_Stocks		Goldman Sachs built a framework to analyze currencies by combining exposures.
