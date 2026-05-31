@@ -1,0 +1,32 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1499581	bitcoin	1	1280	0	7	8.0	74100	10168	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Burak is at it again: Introducing the newest layer 2 scheme: Cube
+1499492	bitcoin	1	683	0	5	11.5	934367	902	recent@bitcoin|top@bitcoin	SIGNAL	Cashu Mint Auditor
+1499629	meta	1	665	0	0	7.0	1	26503	recent@meta|top@meta	SIGNAL	SN Saturday Newsletter 5/30/26
+1499529	tech	1	645	0	2	9.9	74100	10168	recent@devs|top@devs|recent@tech	SIGNAL	The Last Technical Interview - Steve Yegge
+1499147	AI	1	2246	0	1	24.5	250442	38	recent@bitcoin|recent@lightning|recent@AI	HOT	Bitcoin always worked. Bridging it to the real world didn't. So I built Bringin.
+1498976	meta	1	2166	0	7	32.7	92827	2669	recent@meta	HOT	Stacker News Zine is for you! with issue #59
+1499250	lightning	1	1069	0	3	19.0	163128	3569	recent@lightning|top@lightning	HOT	Tuscany Lightning Summit 2026
+1499283	bitcoin	1	1025	0	7	17.1	74100	10168	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+1498919	bitcoin	1	1009	0	7	35.2	144357	4229	recent@bitcoin	HOT	Human Person in the Time of Artificial Intelligence | SNL #226
+1499290	bitcoin	1	725	0	6	16.9	74100	10168	recent@bitcoin|top@bitcoin|recent@lightning		Give Me Lightning — Lightning Network Advocacy
+1499235	events	3	705	0	15	19.5	739506	129	recent@bitcoin|top@bitcoin	SELF_POST_OPP	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+1499455	nostr	1	671	0	10	12.5	1278026	550	recent@nostr|top@nostr		When fighting dogs meet
+1499353	lightning	1	518	0	0	15.3	163128	3569	recent@lightning|top@lightning		Vulnerability Disclosure: Assertion DoS in Core Lightning
+1499357	security	1	514	0	1	15.1	1	26503	recent@security|top@security|recent@tech		Let’s talk about encrypted reasoning
+1498908	bitcoin	1	379	0	35	35.5	74100	10168	recent@bitcoin		Running a cashu mint in a TEE
+1499392	lightning	1	350	0	0	14.3	163128	3569	recent@lightning|top@lightning		LND add neutrino: add fast initial sync via header import by Roasbeef
+1499359	lightning	1	327	0	2	15.1	163128	3569	recent@lightning|top@lightning		CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+1499364	Music	3	324	0	2	15.0	74100	10168	recent@nostr|top@nostr		gruuv - nostr music site
+1499395	bitcoin_beginners	1	313	0	2	14.3	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners		Satoshi Nakamoto did not create Bitcoin. He discovered it.
+1499354	AI	1	290	0	1	15.3	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning		Built an MCP server that lets Claude pay sats over NWC
+1499352	privacy	1	282	0	4	15.4	74100	10168	recent@privacy|top@privacy		FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+1499193	AI	1	159	0	0	21.8	12309	3492	recent@AI|top@AI		Adobe’s conversational AI agent is a mediocre design intern
+1499063	AI	1	138	0	0	29.3	110937	238	recent@AI		AI doesn't care
+1499388	tutorials	2	131	0	2	14.4	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Easy Bitcoin Privacy using Sparrow
+1499203	AI	1	123	0	0	21.4	296825	4497	recent@AI|top@AI		Everything That Went Wrong With Claude
+1499169	bitcoin_beginners	1	76	0	4	22.2	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Orange Bible — What if you could earn sats for doing your daily Bible readings?
+1499454	security	1	50	0	0	12.6	297791	7547	recent@security|top@security		VS Code Remote-SSH RCE Lets Attackers Pivot From Developer Machines to Cloud
+1498900	bitcoin	1	39	0	2	35.8	1498900	7	recent@bitcoin_Mining		Should full nodes be incentivized in a Proof-of-Work network?
+1499660	bitcoin	1	36	0	1	5.9	296825	4497	recent@bitcoin_beginners|top@bitcoin_beginners		The Digital Dollar Is Already Here. It Just Isn't a CBDC.
+1499381	bitcoin	1	36	0	3	14.6	1490792	129	recent@bitcoin_beginners|top@bitcoin_beginners		Why BIP-110 Is Much More Likely To Succeed Than People Realize
+1499191	devs	1	0	0	0	21.9	297791	7547	recent@devs|top@devs		The latest updates to Google Pay
