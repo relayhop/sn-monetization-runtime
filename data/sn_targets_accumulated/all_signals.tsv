@@ -4098,3 +4098,27 @@
 2026-05-30T23:16:13.659Z	1499354	AI	1	290	0	1	6.2	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Built an MCP server that lets Claude pay sats over NWC
 2026-05-30T23:16:13.659Z	1499352	privacy	1	282	0	4	6.3	74100	10165	recent@privacy|top@privacy	SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
 2026-05-30T23:16:13.659Z	1499388	tutorials	2	131	0	2	5.4	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Easy Bitcoin Privacy using Sparrow
+2026-05-31T00:11:44.215Z	1499251	Politics_And_Law	3	2811	0	24	10.8	724606	10512	recent@econ|top@econ	HOT,SIGNAL	How the Boomers Screwed Europe (The Economist)
+2026-05-31T00:11:44.215Z	1499287	Stacker_Sports	3	1422	0	6	8.8	724606	10512	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Arsenal, PSG, and the Rise of the Capital(!) Club (FT, Simon Kuper)
+2026-05-31T00:11:44.215Z	1499250	lightning	1	1069	0	3	10.9	163128	3569	recent@lightning|top@lightning	HOT,SIGNAL	Tuscany Lightning Summit 2026
+2026-05-31T00:11:44.215Z	1499283	bitcoin	1	1018	0	7	9.1	74100	10166	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Electric water heat supply of apartment buildings w/ cryptocurrency miners
+2026-05-31T00:11:44.215Z	1499290	bitcoin	1	725	0	6	8.8	74100	10166	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Give Me Lightning — Lightning Network Advocacy
+2026-05-31T00:11:44.215Z	1499235	events	3	680	0	11	11.4	739506	128	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you support the U.S. pausing arms sales to Taiwan?
+2026-05-31T00:11:44.215Z	1499492	bitcoin	1	626	0	1	3.4	934367	901	recent@bitcoin|top@bitcoin	SIGNAL	Cashu Mint Auditor
+2026-05-31T00:11:44.215Z	1499455	nostr	1	623	0	6	4.5	1278026	549	recent@nostr|top@nostr	SIGNAL	When fighting dogs meet
+2026-05-31T00:11:44.215Z	1499427	science	2	580	0	6	5.5	6263	10483	recent@science|top@science	SIGNAL,SELF_POST_OPP	Google Seeks Approval to Release 32 Million Treated Mosquitoes in California
+2026-05-31T00:11:44.215Z	1499529	tech	1	542	0	1	1.8	74100	10166	recent@devs|top@devs|recent@tech	FRESH,SIGNAL	The Last Technical Interview - Steve Yegge
+2026-05-31T00:11:44.215Z	1499451	math	2	536	0	2	4.6	74100	10166	recent@math|top@math	SIGNAL	A circle fitting precisely inside a 3-4-5 Pythagorean triangle has an area of π
+2026-05-31T00:11:44.215Z	1499353	lightning	1	518	0	0	7.2	163128	3569	recent@lightning|top@lightning	SIGNAL	Vulnerability Disclosure: Assertion DoS in Core Lightning
+2026-05-31T00:11:44.215Z	1499357	security	1	514	0	1	7.0	1	26500	recent@security|top@security|recent@tech	SIGNAL	Let’s talk about encrypted reasoning
+2026-05-31T00:11:44.215Z	1499231	Politics_And_Law	3	409	0	0	11.6	88718	43975	recent@history|top@history	SIGNAL	“Creating a Nation”: The Declaration of Independence and the Nation Anachronism
+2026-05-31T00:11:44.215Z	1499383	history	2	404	0	0	6.5	1293586	1856	recent@history|top@history	SIGNAL	Small Recovery for a Friday Night
+2026-05-31T00:11:44.215Z	1499392	lightning	1	350	0	0	6.2	163128	3569	recent@lightning|top@lightning	SIGNAL	LND add neutrino: add fast initial sync via header import by Roasbeef
+2026-05-31T00:11:44.215Z	1499359	lightning	1	327	0	2	7.0	163128	3569	recent@lightning|top@lightning	SIGNAL	CLN Release v26.06rc2 Quantum-Resistant Lightning Channel
+2026-05-31T00:11:44.215Z	1499364	Music	3	324	0	2	6.9	74100	10166	recent@nostr|top@nostr	SIGNAL	gruuv - nostr music site
+2026-05-31T00:11:44.215Z	1499395	bitcoin_beginners	1	313	0	2	6.2	296825	4496	recent@bitcoin_beginners|top@bitcoin_beginners|recent@history	SIGNAL	Satoshi Nakamoto did not create Bitcoin. He discovered it.
+2026-05-31T00:11:44.215Z	1499354	AI	1	290	0	1	7.2	1499354	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Built an MCP server that lets Claude pay sats over NWC
+2026-05-31T00:11:44.215Z	1499352	privacy	1	282	0	4	7.3	74100	10166	recent@privacy|top@privacy	SIGNAL	FROST: Fingerprinting Remotely using OPFS-based SSD Timing
+2026-05-31T00:11:44.215Z	1499330	Stacker_Stocks	2	247	0	2	7.8	9274	22966	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	MSTY Payout #39: FO - FO - FO for Deli!
+2026-05-31T00:11:44.215Z	1499277	Stacker_Stocks	2	247	0	1	9.2	9274	22966	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-05-31T00:11:44.215Z	1499388	tutorials	2	131	0	2	6.3	1490792	129	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Easy Bitcoin Privacy using Sparrow
