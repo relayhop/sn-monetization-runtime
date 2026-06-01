@@ -4400,3 +4400,21 @@
 2026-06-01T00:13:33.176Z	1499831	Stacker_Stocks	2	121	0	4	9.9	9274	23001	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
 2026-06-01T00:13:33.176Z	1499863	events	3	102	0	0	8.7	296825	4511	recent@nostr|top@nostr	SIGNAL	POP.family: A guestbook for your event that lives forever.
 2026-06-01T00:13:33.176Z	1500077	Stacker_Stocks	2	102	0	0	2.4	280679	21680	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	Just Add a Zero: The running it hot will continue until debt / GDP improves
+2026-06-01T01:56:04.740Z	1499822	bitcoin	1	1771	0	5	11.8	48942	1221	recent@bitcoin|top@bitcoin	HOT,SIGNAL	"#1: Harmony and Discord" - Strange Text Posted to BitcoinTalk.org in Jan 2016
+2026-06-01T01:56:04.740Z	1499888	bitcoin	1	1538	0	8	9.6	631896	2992	recent@bitcoin|top@bitcoin	HOT,SIGNAL	My Thoughts on Security, Decentralization, and Convenience
+2026-06-01T01:56:04.740Z	1499816	nostr	1	780	0	0	11.9	296825	4511	recent@nostr|top@nostr	SIGNAL	Nagg - Nostr AppView aggregator
+2026-06-01T01:56:04.740Z	1499930	bitcoin	1	710	0	0	7.9	296825	4511	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	bitcoin++ Nairobi, open source edtion || June 17-19, 2026
+2026-06-01T01:56:04.740Z	1499955	nostr	1	678	0	24	7.4	1278026	557	recent@nostr|top@nostr	SIGNAL	Is Nostr imploding?!
+2026-06-01T01:56:04.740Z	1499931	security	1	660	0	1	7.7	483644	73	recent@security|top@security	SIGNAL	Sovereign Encryption - a private layer to any messenger
+2026-06-01T01:56:04.740Z	1499852	bitcoin	1	560	0	5	10.7	593189	817	recent@bitcoin|top@bitcoin	SIGNAL	$8 million in Bitcoin burned
+2026-06-01T01:56:04.740Z	1500083	bitcoin	1	522	0	8	3.9	631896	2992	recent@bitcoin|top@bitcoin	SIGNAL	What's primarily holding back Bitcoin today from adoption?
+2026-06-01T01:56:04.740Z	1499821	bitcoin	1	498	0	12	11.8	178	902	recent@bitcoin|top@bitcoin	SIGNAL	Sunday Survey: When will NAKA sell BTC?
+2026-06-01T01:56:04.740Z	1500021	AGORA	3	376	0	0	5.3	163128	3572	recent@lightning|top@lightning	SIGNAL	ZapCart: mobile-first POS system built for small businesses and everyday traders
+2026-06-01T01:56:04.740Z	1500089	meta	1	376	0	4	3.8	9274	23004	recent@meta|top@meta	SIGNAL	Notifications need an upgrade!
+2026-06-01T01:56:04.740Z	1499846	bitcoin	1	354	0	8	10.9	698001	9200	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin’s $1.29B Fakeout: The Dumpster Oozes Green! 🦝📈
+2026-06-01T01:56:04.740Z	1499872	security	1	299	0	2	10.1	370699	251	recent@security|top@security	SIGNAL	Breaking Enigma With An FPGA, Just Like At Bletchley Park
+2026-06-01T01:56:04.740Z	1499854	bitcoin	1	287	0	0	10.6	296825	4511	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Sparrow Wallet Release 2.5.2: Strengthening PSBT verification
+2026-06-01T01:56:04.740Z	1499896	bitcoin_beginners	1	272	0	0	9.3	296825	4511	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Hashrate Heatpunks
+2026-06-01T01:56:04.740Z	1500053	bitcoin_beginners	1	138	0	0	4.5	280679	21680	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Unverifiable Rules Don’t Exist
+2026-06-01T01:56:04.740Z	1500011	AGORA	3	134	0	0	5.6	163128	3572	recent@lightning|top@lightning	SIGNAL	KoboSats: Bitcoin Lightning payments for Nigeria's informal market traders
+2026-06-01T01:56:04.740Z	1499863	events	3	102	0	0	10.4	296825	4511	recent@nostr|top@nostr	SIGNAL	POP.family: A guestbook for your event that lives forever.
