@@ -1,27 +1,21 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-02T19:41:28.693Z; n=40
-money stuff	sn:bitcoin,sn:Stacker_Stocks	5.81	yes	
-solving bitcoin	sn:AI,sn:videos	4.82	yes	
-biggest problem	sn:AI,sn:videos	4.82	yes	
-human	sn:AI,sn:videos	4.82	yes	
-human communication	sn:AI,sn:videos	4.82	yes	
-flash	hn	3.36	no	RISING
-show	hn	3.34	no	RISING
+# generated 2026-06-02T23:45:38.235Z; n=40
+solving bitcoin	sn:AI,sn:videos	5.72	yes	
+biggest problem	sn:AI,sn:videos	5.72	yes	
+human	sn:AI,sn:videos	5.72	yes	
+human communication	sn:AI,sn:videos	5.72	yes	
+flash	hn	4.4	no	RISING
+mint	sn:bitcoin	3.39	yes	
+casascius	sn:bitcoin	3.39	yes	
+foss	sn:bitcoin	3.39	yes	
 twenty one capital	sn:Stacker_Stocks	3.26	no	RISING
 nyse	sn:Stacker_Stocks	3.26	no	RISING
-first	sn:nostr	3.16	yes	
-nostr zap	sn:nostr	3.16	yes	
-clink	sn:nostr	3.16	yes	
-zeus	sn:nostr	3.16	yes	
-plaintiffs have no private keys	sn:bitcoin	3.08	yes	
-matt levine	sn:bitcoin	3.08	yes	
-chemtrails	sn:AskSN	3.03	no	RISING
-contrails	sn:AskSN	3.03	no	RISING
+capital	sn:Stacker_Stocks	3.21	no	RISING
+bitcoin history month	sn:history	3.03	no	RISING
+does western union	sn:Stacker_Stocks	3.01	no	RISING
 forget	sn:AskSN	2.95	no	RISING
 spring	sn:AskSN	2.95	no	RISING
-roland garros championship	sn:Stacker_Sports	2.92	no	RISING
-picks	sn:Stacker_Sports	2.92	no	RISING
-zcash	sn:lol	2.9	no	RISING
+zcash	sn:lol	2.91	no	RISING
 frostsnap	sn:bitcoin	2.89	yes	
 what would be the best update for this list	sn:bitcoin	2.88	yes	
 someone	sn:Stacker_Sports	2.87	no	RISING
@@ -30,8 +24,13 @@ redhat-cloud	sn:tech	2.86	yes
 packages	sn:tech	2.86	yes	
 bitcoin-denominated	sn:bitcoin	2.85	yes	
 zk-proofs	sn:bitcoin	2.85	yes	
+lightning receiver privacy	sn:lightning	2.85	no	RISING
 our growing stock of bitcoin books	sn:BooksAndArticles	2.84	no	RISING
-anthropic	hn	2.82	yes	
+google	sn:Stacker_Stocks	2.84	no	RISING
+post-buffett	sn:Stacker_Stocks	2.84	no	RISING
+largest equity deals	sn:Stacker_Stocks	2.84	no	RISING
+all time	sn:Stacker_Stocks	2.84	no	RISING
+money stuff	sn:Stacker_Stocks	2.84	yes	
 street	sn:Photography	2.82	no	RISING
 strive adds	sn:Stacker_Stocks	2.81	no	RISING
 total holdings	sn:Stacker_Stocks	2.81	no	RISING
@@ -40,3 +39,4 @@ usdt	sn:bitcoin	2.81	yes
 liquid	sn:bitcoin	2.81	yes	
 blue origin launchpad damaged	sn:science	2.8	no	RISING
 rocket explosion may not	sn:science	2.8	no	RISING
+restored until	sn:science	2.8	no	RISING
