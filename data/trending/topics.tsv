@@ -1,29 +1,38 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-03T14:40:06.193Z; n=40
-solving bitcoin	sn:AI,sn:videos	5.76	yes	
-biggest problem	sn:AI,sn:videos	5.76	yes	
-human	sn:AI,sn:videos	5.76	yes	
-human communication	sn:AI,sn:videos	5.76	yes	
-show	hn	5.18	no	RISING
-clojure	hn	4.56	no	RISING
+# generated 2026-06-03T19:50:18.178Z; n=40
+what	hn,sn:meta	4.44	yes	
+launch	hn,sn:lol	4.28	no	RISING
+show	hn	3.97	no	RISING
+clojure	hn	3.97	no	RISING
+trip report	sn:Travel	3.5	no	RISING
+vienna	sn:Travel	3.5	no	RISING
 mint	sn:bitcoin	3.42	yes	
 casascius	sn:bitcoin	3.42	yes	
 foss	sn:bitcoin	3.42	yes	
-fewer	sn:Politics_And_Law	3.38	no	RISING
-does western union	sn:Stacker_Stocks	3.07	no	RISING
-bitcoin history month	sn:history	3.04	no	RISING
-boon	sn:AI	3.03	yes	
-bane	sn:AI	3.03	yes	
-bubble	sn:AI	3.03	yes	
-maybe pause	sn:AI	3.03	yes	
-whole thing	sn:AI	3.03	yes	
-martin wolf	sn:AI	3.03	yes	
-kickstr	sn:gaming	3.01	yes	
-prediction game	sn:gaming	3.01	yes	
-nostr	sn:gaming	3.01	yes	
-sats	sn:gaming	3.01	yes	
-forget	sn:AskSN	2.98	no	RISING
-spring	sn:AskSN	2.98	no	RISING
+fewer	sn:Politics_And_Law	3.39	no	RISING
+brink	sn:bitcoin	3.36	yes	
+now funding my research	sn:bitcoin	3.36	yes	
+world cup predictions	sn:Stacker_Sports	3.33	no	RISING
+silver bulletin	sn:Stacker_Sports	3.33	no	RISING
+nate silver	sn:Stacker_Sports	3.33	no	RISING
+praxeology	sn:BooksAndArticles	3.26	no	RISING
+privacy book club	sn:BooksAndArticles	3.26	no	RISING
+part	sn:BooksAndArticles	3.26	no	RISING
+partying like it	sn:Stacker_Stocks	3.23	no	RISING
+nineteen ninety-nine	sn:Stacker_Stocks	3.23	no	RISING
+robin wigglesworth	sn:Stacker_Stocks	3.23	no	RISING
+trezor	sn:security	3.15	yes	
+ledger	sn:security	3.15	yes	
+kickstr	sn:gaming	3.11	yes	
+prediction game	sn:gaming	3.11	yes	
+nostr	sn:gaming	3.11	yes	
+sats	sn:gaming	3.11	yes	
+boon	sn:AI	3.05	yes	
+bane	sn:AI	3.05	yes	
+bubble	sn:AI	3.05	yes	
+maybe pause	sn:AI	3.05	yes	
+whole thing	sn:AI	3.05	yes	
+martin wolf	sn:AI	3.05	yes	
 lightning receiver privacy	sn:lightning	2.98	no	RISING
 israel	sn:Politics_And_Law	2.95	no	RISING
 white phosophorus	sn:Politics_And_Law	2.95	no	RISING
@@ -31,12 +40,3 @@ lebanon	sn:Politics_And_Law	2.95	no	RISING
 fold	sn:Stacker_Stocks	2.91	no	RISING
 june	sn:Stacker_Stocks	2.91	yes	
 cash covered put assigned again	sn:Stacker_Stocks	2.91	no	RISING
-stackers	sn:Stacker_Stocks	2.91	no	RISING
-frostsnap	sn:bitcoin	2.9	yes	
-mathematicians	sn:AI	2.89	yes	
-sanders	sn:lol	2.87	yes	
-google	sn:Stacker_Stocks	2.85	no	RISING
-post-buffett	sn:Stacker_Stocks	2.85	no	RISING
-largest equity deals	sn:Stacker_Stocks	2.85	no	RISING
-all time	sn:Stacker_Stocks	2.85	no	RISING
-money stuff	sn:Stacker_Stocks	2.85	no	RISING
