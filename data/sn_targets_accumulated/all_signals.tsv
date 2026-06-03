@@ -5115,3 +5115,23 @@
 2026-06-03T22:03:32.479Z	1501838	econ	2	109	0	2	2.2	280679	21767	recent@econ|top@econ	SIGNAL	Why $100K Feels Broke in 2026
 2026-06-03T22:03:32.479Z	1501684	AI	1	105	0	0	6.2	280679	21767	recent@AI|top@AI|recent@econ	SIGNAL	The Great AI Jobs Transition
 2026-06-03T22:03:32.479Z	1501672	security	1	102	0	1	6.5	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
+2026-06-03T23:48:09.277Z	1501705	bitcoin	1	4442	0	2	7.5	202207	119	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink is Now Funding My Research
+2026-06-03T23:48:09.277Z	1501869	bitcoin	1	3055	0	2	2.9	984933	1271	recent@bitcoin|top@bitcoin	HOT,SIGNAL	[HM] - The Finnish Kid Nobody Remembers
+2026-06-03T23:48:09.277Z	1501858	bitcoin	1	2602	0	14	3.4	74100	10242	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What the heck is digital credit?
+2026-06-03T23:48:09.277Z	1501568	AI	1	1119	0	3	11.9	724606	10596	recent@AI|top@AI	HOT,SIGNAL	AI: Boon, Bane, or Bubble? "Maybe Pause the Whole Thing" (FT, Martin Wolf)
+2026-06-03T23:48:09.277Z	1501578	bitcoin_beginners	1	732	0	0	11.3	296825	4535	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Stores that accept Bitcoin in South Africa (2026 Guide) - BitcoinFriendlySA
+2026-06-03T23:48:09.277Z	1501866	bitcoin	1	565	0	2	3.0	1485433	17	recent@bitcoin|top@bitcoin	SIGNAL	The Biggest Bitcoin World Cup Prediction Contest at satswars.io
+2026-06-03T23:48:09.277Z	1501570	DIY	3	525	0	8	11.9	296825	4535	recent@tech|top@tech	SIGNAL,SELF_POST_OPP	Minimalist Privacy Setup: What To Fix First
+2026-06-03T23:48:09.277Z	1501652	meta	1	411	0	5	8.8	36151	1500	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-06-03T23:48:09.277Z	1501598	lightning	1	408	0	0	10.5	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-03T23:48:09.277Z	1501771	nostr	1	369	0	1	5.4	74100	10242	recent@nostr|top@nostr	SIGNAL	carl: a BitTorrent light client w/ nostr - vincenzopalazzo
+2026-06-03T23:48:09.277Z	1501759	lightning	1	329	0	0	5.9	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-03T23:48:09.277Z	1501784	tech	1	292	0	0	5.0	74100	10242	recent@tech|top@tech	SIGNAL	Police Use of Range-R Devices
+2026-06-03T23:48:09.277Z	1501746	events	3	277	0	5	6.4	739506	130	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you miss Gary Gensler?
+2026-06-03T23:48:09.277Z	1501851	AI	1	192	0	0	3.6	280679	21768	recent@AI|top@AI	SIGNAL	Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM
+2026-06-03T23:48:09.277Z	1501745	bitcoin	1	189	0	4	6.4	1500564	9	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	built a btc "thermometer" not a price oracle — first testers get pro lifetime
+2026-06-03T23:48:09.277Z	1501636	lol	2	177	0	0	9.6	280679	21768	recent@AI|top@AI	SIGNAL	"Dystopian" Police.AI Launches in UK Amid False Arrests
+2026-06-03T23:48:09.277Z	1501651	bitcoin_beginners	1	158	0	1	8.8	296825	4535	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	More Than 100 Bitcoin Books Worth Reading
+2026-06-03T23:48:09.277Z	1501836	bitcoin	1	123	0	0	4.0	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
+2026-06-03T23:48:09.277Z	1501684	AI	1	105	0	0	8.0	280679	21768	recent@AI|top@AI	SIGNAL	The Great AI Jobs Transition
+2026-06-03T23:48:09.277Z	1501672	security	1	102	0	1	8.3	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
