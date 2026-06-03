@@ -5135,3 +5135,34 @@
 2026-06-03T23:48:09.277Z	1501836	bitcoin	1	123	0	0	4.0	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
 2026-06-03T23:48:09.277Z	1501684	AI	1	105	0	0	8.0	280679	21768	recent@AI|top@AI	SIGNAL	The Great AI Jobs Transition
 2026-06-03T23:48:09.277Z	1501672	security	1	102	0	1	8.3	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
+2026-06-03T23:56:36.552Z	1501705	bitcoin	1	4452	0	2	7.7	202207	119	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink is Now Funding My Research
+2026-06-03T23:56:36.552Z	1501869	bitcoin	1	3055	0	2	3.1	984933	1271	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	[HM] - The Finnish Kid Nobody Remembers
+2026-06-03T23:56:36.552Z	1501858	bitcoin	1	2602	0	15	3.5	74100	10242	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	What the heck is digital credit?
+2026-06-03T23:56:36.552Z	1501602	BooksAndArticles	2	1805	0	14	10.5	74100	10242	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Praxeology of Privacy Book Club - Part I
+2026-06-03T23:56:36.552Z	1501767	Stacker_Stocks	2	1771	0	5	5.6	724606	10596	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL,SELF_POST_OPP	IPO Partying Like It's Nineteen Ninety-Nine (FT, Robin Wigglesworth)
+2026-06-03T23:56:36.552Z	1501874	Stacker_Stocks	2	1164	0	2	2.9	401865	8138	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	SpaceX Targets $135 IPO Price at Valuation of $1.77 Trillion
+2026-06-03T23:56:36.552Z	1501805	Stacker_Sports	3	798	0	3	4.8	724606	10596	recent@econ|top@econ	SIGNAL	Free Drinks if Knicks Win... A Real-World Use-Case for Prediction Markets!
+2026-06-03T23:56:36.552Z	1501578	bitcoin_beginners	1	732	0	0	11.5	296825	4537	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Stores that accept Bitcoin in South Africa (2026 Guide) - BitcoinFriendlySA
+2026-06-03T23:56:36.552Z	1501866	bitcoin	1	565	0	2	3.2	1485433	17	recent@bitcoin|top@bitcoin	SIGNAL	The Biggest Bitcoin World Cup Prediction Contest at satswars.io
+2026-06-03T23:56:36.552Z	1501570	DIY	3	525	0	8	12.0	296825	4537	recent@tech|top@tech	SIGNAL,SELF_POST_OPP	Minimalist Privacy Setup: What To Fix First
+2026-06-03T23:56:36.552Z	1501573	Politics_And_Law	3	494	0	14	11.6	88718	44141	recent@econ|top@econ	SIGNAL,SELF_POST_OPP	Trump’s Iran War Has Already Cost Each American Household $750
+2026-06-03T23:56:36.552Z	1501652	meta	1	411	0	5	8.9	36151	1500	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-06-03T23:56:36.552Z	1501598	lightning	1	408	0	0	10.7	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-03T23:56:36.552Z	1501815	Design	2	385	0	0	4.5	383547	3116	recent@Design|top@Design	SIGNAL	On frictionmaxxing and the creative virtues of inconvenience
+2026-06-03T23:56:36.552Z	1501776	Design	2	384	0	2	5.2	383547	3116	recent@Design|top@Design	SIGNAL	Two LLM UI patterns that aren’t chat
+2026-06-03T23:56:36.552Z	1501771	nostr	1	369	0	1	5.5	74100	10242	recent@nostr|top@nostr	SIGNAL	carl: a BitTorrent light client w/ nostr - vincenzopalazzo
+2026-06-03T23:56:36.552Z	1501759	lightning	1	329	0	0	6.0	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-03T23:56:36.552Z	1501777	Design	2	306	0	0	5.2	383547	3116	recent@Design|top@Design	SIGNAL	heerich.js
+2026-06-03T23:56:36.552Z	1501784	tech	1	292	0	0	5.2	74100	10242	recent@tech|top@tech	SIGNAL	Police Use of Range-R Devices
+2026-06-03T23:56:36.552Z	1501778	Design	2	292	0	2	5.2	383547	3116	recent@Design|top@Design	SIGNAL	Motion vocabulary
+2026-06-03T23:56:36.553Z	1501746	events	3	277	0	5	6.6	739506	130	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you miss Gary Gensler?
+2026-06-03T23:56:36.553Z	1501851	AI	1	192	0	0	3.7	280679	21768	recent@AI|top@AI	SIGNAL	Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM
+2026-06-03T23:56:36.553Z	1501745	bitcoin	1	189	0	4	6.6	1500564	9	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	built a btc "thermometer" not a price oracle — first testers get pro lifetime
+2026-06-03T23:56:36.553Z	1501636	lol	2	177	0	0	9.7	280679	21768	recent@AI|top@AI|recent@lol	SIGNAL	"Dystopian" Police.AI Launches in UK Amid False Arrests
+2026-06-03T23:56:36.553Z	1501639	charts_and_maps	2	172	0	0	9.5	280679	21768	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Inflation Forecasts in G20 Economies
+2026-06-03T23:56:36.553Z	1501651	bitcoin_beginners	1	158	0	1	8.9	296825	4537	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	More Than 100 Bitcoin Books Worth Reading
+2026-06-03T23:56:36.553Z	1501836	bitcoin	1	123	0	0	4.1	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
+2026-06-03T23:56:36.553Z	1501810	lol	2	123	0	1	4.6	74100	10242	recent@lol|top@lol	SIGNAL	Cardando guy throwing in the towel?
+2026-06-03T23:56:36.553Z	1501838	econ	2	109	0	2	4.1	280679	21768	recent@econ|top@econ	SIGNAL	Why $100K Feels Broke in 2026
+2026-06-03T23:56:36.553Z	1501684	AI	1	105	0	0	8.1	280679	21768	recent@AI|top@AI|recent@econ	SIGNAL	The Great AI Jobs Transition
+2026-06-03T23:56:36.553Z	1501672	security	1	102	0	1	8.4	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
