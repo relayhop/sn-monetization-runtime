@@ -1,12 +1,11 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-03T23:43:50.323Z; n=40
-what	sn:bitcoin,sn:meta	6.02	yes	
-launch	hn,sn:lol	4.51	no	RISING
-brink	sn:bitcoin	3.65	yes	
-now funding my research	sn:bitcoin	3.65	yes	
-trip report	sn:Travel	3.56	no	RISING
-vienna	sn:Travel	3.56	no	RISING
-the finnish kid nobody remembers	sn:bitcoin	3.49	yes	
+# generated 2026-06-04T08:21:29.844Z; n=40
+what	sn:bitcoin,sn:meta	6.08	yes	
+brink	sn:bitcoin	3.66	yes	
+now funding my research	sn:bitcoin	3.66	yes	
+trip report	sn:Travel	3.57	no	RISING
+vienna	sn:Travel	3.57	no	RISING
+the finnish kid nobody remembers	sn:bitcoin	3.55	yes	
 fewer	sn:Politics_And_Law	3.39	no	RISING
 world cup predictions	sn:Stacker_Sports	3.34	no	RISING
 silver bulletin	sn:Stacker_Sports	3.34	no	RISING
@@ -19,24 +18,25 @@ part	sn:BooksAndArticles	3.26	no	RISING
 partying like it	sn:Stacker_Stocks	3.25	no	RISING
 nineteen ninety-nine	sn:Stacker_Stocks	3.25	no	RISING
 robin wigglesworth	sn:Stacker_Stocks	3.25	no	RISING
-israel	sn:Politics_And_Law	3.18	no	RISING
-white phosophorus	sn:Politics_And_Law	3.18	no	RISING
-lebanon	sn:Politics_And_Law	3.18	no	RISING
 kickstr	sn:gaming	3.11	yes	
 prediction game	sn:gaming	3.11	yes	
 nostr	sn:gaming	3.11	yes	
 sats	sn:gaming	3.11	yes	
-targets	sn:Stacker_Stocks	3.07	no	RISING
-price	sn:Stacker_Stocks	3.07	no	RISING
-valuation	sn:Stacker_Stocks	3.07	no	RISING
-trillion	sn:Stacker_Stocks	3.07	no	RISING
+finals game	sn:Stacker_Sports	3.1	no	RISING
+discussion	sn:Stacker_Sports	3.1	no	RISING
+targets	sn:Stacker_Stocks	3.1	no	RISING
+price	sn:Stacker_Stocks	3.1	no	RISING
+valuation	sn:Stacker_Stocks	3.1	no	RISING
+trillion	sn:Stacker_Stocks	3.1	no	RISING
 boon	sn:AI	3.05	yes	
 bane	sn:AI	3.05	yes	
 bubble	sn:AI	3.05	yes	
 maybe pause	sn:AI	3.05	yes	
 whole thing	sn:AI	3.05	yes	
 martin wolf	sn:AI	3.05	yes	
+original	sn:Politics_And_Law	3.01	no	RISING
+gemma	hn	2.91	yes	
+encoder-free	hn	2.91	no	RISING
 free drinks	sn:Stacker_Sports	2.9	no	RISING
 knicks win	sn:Stacker_Sports	2.9	no	RISING
 real-world use-case	sn:Stacker_Sports	2.9	no	RISING
-prediction markets	sn:Stacker_Sports	2.9	no	RISING
