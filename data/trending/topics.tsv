@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-04T18:16:16.374Z; n=40
-show	hn	5.6	no	RISING
-the finnish kid nobody remembers	sn:bitcoin	3.55	yes	
-carl	sn:nostr	3.48	yes	
-what	sn:bitcoin	3.47	yes	
-world cup predictions	sn:Stacker_Sports	3.35	no	RISING
-silver bulletin	sn:Stacker_Sports	3.35	no	RISING
-nate silver	sn:Stacker_Sports	3.35	no	RISING
-partying like it	sn:Stacker_Stocks	3.33	no	RISING
-nineteen ninety-nine	sn:Stacker_Stocks	3.33	no	RISING
-robin wigglesworth	sn:Stacker_Stocks	3.33	no	RISING
+# generated 2026-06-04T23:09:17.278Z; n=40
+show	hn	7.2	no	RISING
+access	hn,sn:news	4.17	yes	
+carl	sn:nostr	3.49	yes	
 latest strikes	sn:bitcoin	3.3	yes	
+world cup pool	sn:Stacker_Sports	3.21	no	RISING
 original	sn:Politics_And_Law	3.17	no	RISING
-targets	sn:Stacker_Stocks	3.14	no	RISING
-price	sn:Stacker_Stocks	3.14	no	RISING
-valuation	sn:Stacker_Stocks	3.14	no	RISING
-trillion	sn:Stacker_Stocks	3.14	no	RISING
+hands-on	sn:bitcoin	3.13	yes	
+silent payments	sn:bitcoin	3.13	yes	
+sparrow	sn:bitcoin	3.13	yes	
+lightning observatory	sn:lightning	3.12	no	RISING
+lightning network visualization	sn:lightning	3.12	no	RISING
 finals game	sn:Stacker_Sports	3.11	no	RISING
 discussion	sn:Stacker_Sports	3.11	no	RISING
-they	hn	3.08	no	RISING
-flocking	sn:Travel	3.06	no	RISING
-sweden	sn:Travel	3.06	no	RISING
-where	sn:Travel	3.06	no	RISING
-swedes go	sn:Travel	3.06	no	RISING
-summer	sn:Travel	3.06	no	RISING
-emily wilson	sn:Travel	3.06	no	RISING
+flocking	sn:Travel	3.09	no	RISING
+sweden	sn:Travel	3.09	no	RISING
+where	sn:Travel	3.09	no	RISING
+swedes go	sn:Travel	3.09	no	RISING
+summer	sn:Travel	3.09	no	RISING
+emily wilson	sn:Travel	3.09	no	RISING
 breadmaker	sn:food_and_drinks	3.06	no	RISING
-world cup pool	sn:Stacker_Sports	3.02	no	RISING
-gemma	hn	2.99	yes	
-encoder-free	hn	2.99	no	RISING
+beta	sn:openagents	3	no	RISING
+launch	sn:openagents	3	no	RISING
+episode	sn:openagents	3	yes	
+free autopilot	sn:openagents	3	no	RISING
 screwworm	sn:news	2.99	no	RISING
 texas	sn:news	2.99	yes	
-elixir	hn	2.96	no	RISING
+live signet	sn:bitcoin	2.94	yes	
+interactive wallet demo	sn:bitcoin	2.94	yes	
 flesh	sn:news	2.93	no	RISING
 south texas	sn:news	2.93	no	RISING
 usda	sn:news	2.93	no	RISING
-fighting	sn:Politics_And_Law	2.91	no	RISING
-wrong dystopia	sn:Politics_And_Law	2.91	no	RISING
-free drinks	sn:Stacker_Sports	2.9	no	RISING
-knicks win	sn:Stacker_Sports	2.9	no	RISING
-real-world use-case	sn:Stacker_Sports	2.9	no	RISING
+fighting	sn:Politics_And_Law	2.92	no	RISING
+wrong dystopia	sn:Politics_And_Law	2.92	no	RISING
+mastercard	sn:tech	2.9	yes	
+zambians	sn:bitcoin_beginners	2.9	no	RISING
+similar	sn:bitcoin_beginners	2.9	no	RISING
+tando app	sn:bitcoin_beginners	2.9	no	RISING
+blok	sn:Stacker_Stocks	2.89	no	RISING
+stock review	sn:Stacker_Stocks	2.89	no	RISING
+sterling infrastructure	sn:Stacker_Stocks	2.89	no	RISING
