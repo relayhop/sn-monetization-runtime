@@ -5184,3 +5184,33 @@
 2026-06-04T02:12:07.717Z	1501836	bitcoin	1	123	0	0	6.4	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
 2026-06-04T02:12:07.717Z	1501684	AI	1	105	0	0	10.4	280679	21768	recent@AI|top@AI	SIGNAL	The Great AI Jobs Transition
 2026-06-04T02:12:07.717Z	1501672	security	1	102	0	1	10.7	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
+2026-06-04T05:00:07.160Z	1501869	bitcoin	1	3533	0	6	8.1	984933	1274	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	[HM] - The Finnish Kid Nobody Remembers
+2026-06-04T05:00:07.160Z	1501858	bitcoin	1	2788	0	21	8.6	74100	10248	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	What the heck is digital credit?
+2026-06-04T05:00:07.160Z	1501767	Stacker_Stocks	2	1771	0	5	10.7	724606	10596	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL,SELF_POST_OPP	IPO Partying Like It's Nineteen Ninety-Nine (FT, Robin Wigglesworth)
+2026-06-04T05:00:07.160Z	1501874	Stacker_Stocks	2	1235	0	2	8.0	401865	8139	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	SpaceX Targets $135 IPO Price at Valuation of $1.77 Trillion
+2026-06-04T05:00:07.160Z	1501805	Stacker_Sports	3	798	0	4	9.9	724606	10596	recent@econ|top@econ	SIGNAL	Free Drinks if Knicks Win... A Real-World Use-Case for Prediction Markets!
+2026-06-04T05:00:07.160Z	1502056	Stacker_Stocks	2	673	0	0	1.8	9274	23100	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Blok’s Stock Review: Sterling Infrastructure, Inc (STRL)
+2026-06-04T05:00:07.160Z	1501866	bitcoin	1	565	0	2	8.2	1485433	17	recent@bitcoin|top@bitcoin	SIGNAL	The Biggest Bitcoin World Cup Prediction Contest at satswars.io
+2026-06-04T05:00:07.160Z	1501990	news	2	549	0	0	3.9	74100	10248	recent@econ|top@econ|recent@news	SIGNAL	Tether-Backed Adecoagro Launches Bitcoin Mining in Brazil - CoinLaw
+2026-06-04T05:00:07.160Z	1501942	bitcoin_beginners	1	494	0	1	5.4	296825	4540	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	22M Zambians get paid in sats via phone number. Similar to how Tando App works
+2026-06-04T05:00:07.160Z	1502043	lightning	1	492	0	0	2.2	1435686	100	recent@lightning|top@lightning	SIGNAL	Mapping the Lightning Network: A Graph Data-Science Walkthrough
+2026-06-04T05:00:07.160Z	1502040	bitcoin	1	390	0	2	2.4	74100	10248	recent@bitcoin|top@bitcoin	SIGNAL	Wallet of Satoshi teasing stablecoins?
+2026-06-04T05:00:07.160Z	1501815	Design	2	385	0	0	9.6	383547	3116	recent@Design|top@Design	SIGNAL	On frictionmaxxing and the creative virtues of inconvenience
+2026-06-04T05:00:07.160Z	1501776	Design	2	384	0	2	10.3	383547	3116	recent@Design|top@Design	SIGNAL	Two LLM UI patterns that aren’t chat
+2026-06-04T05:00:07.160Z	1501771	nostr	1	369	0	1	10.6	74100	10248	recent@nostr|top@nostr	SIGNAL	carl: a BitTorrent light client w/ nostr - vincenzopalazzo
+2026-06-04T05:00:07.160Z	1501759	lightning	1	329	0	0	11.1	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-04T05:00:07.160Z	1501778	Design	2	313	0	2	10.3	383547	3116	recent@Design|top@Design	SIGNAL	Motion vocabulary
+2026-06-04T05:00:07.160Z	1501777	Design	2	306	0	0	10.3	383547	3116	recent@Design|top@Design	SIGNAL	heerich.js
+2026-06-04T05:00:07.160Z	1501965	news	2	303	0	1	4.6	1	26524	recent@econ|top@econ|recent@news	SIGNAL	Flesh-eating screwworm case suspected in South Texas, USDA says
+2026-06-04T05:00:07.160Z	1501784	tech	1	292	0	0	10.2	74100	10248	recent@tech|top@tech	SIGNAL	Police Use of Range-R Devices
+2026-06-04T05:00:07.160Z	1501746	events	3	277	0	7	11.6	739506	131	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you miss Gary Gensler?
+2026-06-04T05:00:07.160Z	1502026	AI	1	246	0	0	2.8	1293586	1873	recent@tech|top@tech|recent@AI	SIGNAL	'A Fundamentally New Threat': Researchers Develop New AI-Powered Worm'
+2026-06-04T05:00:07.160Z	1502036	econ	2	225	0	0	2.5	1293586	1873	recent@econ|top@econ	SIGNAL	Homeowners are dropping their listings at the top of summer selling season...
+2026-06-04T05:00:07.161Z	1501851	AI	1	201	0	0	8.8	280679	21768	recent@AI|top@AI	SIGNAL	Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM
+2026-06-04T05:00:07.161Z	1501745	bitcoin	1	189	0	4	11.6	1500564	9	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	built a btc "thermometer" not a price oracle — first testers get pro lifetime
+2026-06-04T05:00:07.161Z	1501954	news	2	158	0	0	4.9	1401899	152	recent@news|top@news	SIGNAL	Documents related to the passage of ships with the permission of Iran
+2026-06-04T05:00:07.161Z	1501989	AskSN	2	138	0	0	3.9	296825	4540	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AskSN	SIGNAL	Can you believe there are people freely exchanging value, without gov knowing??
+2026-06-04T05:00:07.161Z	1501836	bitcoin	1	123	0	0	9.2	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
+2026-06-04T05:00:07.161Z	1501810	lol	2	123	0	3	9.6	74100	10248	recent@lol|top@lol	SIGNAL	Cardando guy throwing in the towel?
+2026-06-04T05:00:07.161Z	1502009	lol	2	122	0	0	3.3	296825	4540	recent@lol|top@lol	SIGNAL	Good Night
+2026-06-04T05:00:07.161Z	1501838	econ	2	109	0	2	9.2	280679	21768	recent@econ|top@econ	SIGNAL	Why $100K Feels Broke in 2026
