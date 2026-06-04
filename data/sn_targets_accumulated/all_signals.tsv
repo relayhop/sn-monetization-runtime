@@ -5166,3 +5166,21 @@
 2026-06-03T23:56:36.553Z	1501838	econ	2	109	0	2	4.1	280679	21768	recent@econ|top@econ	SIGNAL	Why $100K Feels Broke in 2026
 2026-06-03T23:56:36.553Z	1501684	AI	1	105	0	0	8.1	280679	21768	recent@AI|top@AI|recent@econ	SIGNAL	The Great AI Jobs Transition
 2026-06-03T23:56:36.553Z	1501672	security	1	102	0	1	8.4	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
+2026-06-04T02:12:07.716Z	1501705	bitcoin	1	4536	0	2	9.9	202207	119	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink is Now Funding My Research
+2026-06-04T02:12:07.716Z	1501869	bitcoin	1	3512	0	3	5.3	984933	1271	recent@bitcoin|top@bitcoin	HOT,SIGNAL	[HM] - The Finnish Kid Nobody Remembers
+2026-06-04T02:12:07.716Z	1501858	bitcoin	1	2767	0	19	5.8	74100	10247	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What the heck is digital credit?
+2026-06-04T02:12:07.716Z	1501866	bitcoin	1	565	0	2	5.4	1485433	17	recent@bitcoin|top@bitcoin	SIGNAL	The Biggest Bitcoin World Cup Prediction Contest at satswars.io
+2026-06-04T02:12:07.716Z	1501942	bitcoin_beginners	1	473	0	1	2.6	296825	4540	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	22M Zambians get paid in sats via phone number. Similar to how Tando App works
+2026-06-04T02:12:07.716Z	1501652	meta	1	411	0	5	11.2	36151	1500	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-06-04T02:12:07.716Z	1501771	nostr	1	369	0	1	7.8	74100	10247	recent@nostr|top@nostr	SIGNAL	carl: a BitTorrent light client w/ nostr - vincenzopalazzo
+2026-06-04T02:12:07.716Z	1501759	lightning	1	329	0	0	8.3	440729	126	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-04T02:12:07.716Z	1501784	tech	1	292	0	0	7.4	74100	10247	recent@tech|top@tech	SIGNAL	Police Use of Range-R Devices
+2026-06-04T02:12:07.717Z	1501746	events	3	277	0	5	8.8	739506	130	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	BTC vote: Do you miss Gary Gensler?
+2026-06-04T02:12:07.717Z	1501851	AI	1	201	0	0	6.0	280679	21768	recent@AI|top@AI	SIGNAL	Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM
+2026-06-04T02:12:07.717Z	1501745	bitcoin	1	189	0	4	8.8	1500564	9	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	built a btc "thermometer" not a price oracle — first testers get pro lifetime
+2026-06-04T02:12:07.717Z	1501636	lol	2	177	0	0	12.0	280679	21768	recent@AI|top@AI	SIGNAL	"Dystopian" Police.AI Launches in UK Amid False Arrests
+2026-06-04T02:12:07.717Z	1501651	bitcoin_beginners	1	158	0	1	11.2	296825	4540	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	More Than 100 Bitcoin Books Worth Reading
+2026-06-04T02:12:07.717Z	1501989	AskSN	2	138	0	0	1.1	296825	4540	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Can you believe there are people freely exchanging value, without gov knowing??
+2026-06-04T02:12:07.717Z	1501836	bitcoin	1	123	0	0	6.4	126503	769	recent@lightning|top@lightning	SIGNAL	Qpayd: a minimal daemon
+2026-06-04T02:12:07.717Z	1501684	AI	1	105	0	0	10.4	280679	21768	recent@AI|top@AI	SIGNAL	The Great AI Jobs Transition
+2026-06-04T02:12:07.717Z	1501672	security	1	102	0	1	10.7	297791	7559	recent@security|top@security	SIGNAL	Claude Code's GitHub Actions Vulnerability Lets Attackers Compromise Any Repo
