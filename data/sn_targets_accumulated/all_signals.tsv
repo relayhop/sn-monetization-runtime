@@ -5516,3 +5516,29 @@
 2026-06-05T04:10:52.821Z	1502588	bitcoin	1	250	0	0	6.9	1401899	155	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin’s Quiet Role in the World Cup Economy
 2026-06-05T04:10:52.821Z	1502668	tech	1	138	0	0	2.3	1502668	1	recent@lightning|top@lightning|recent@nostr	SIGNAL	The first known "Zap out" commerce event on Nostr - featuring @Oshi
 2026-06-05T04:10:52.821Z	1502472	lightning	1	102	0	0	10.1	263526	358	recent@lightning|top@lightning	SIGNAL	Lightning Routing: LN is a graph. Sending a payment is finding a path through it
+2026-06-05T04:42:50.189Z	1502427	bitcoin	1	2017	0	1	11.6	24585	350	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #22 - May 25th - 31st 2026
+2026-06-05T04:42:50.189Z	1502484	lightning	1	1853	0	4	10.4	263526	358	recent@lightning|top@lightning	HOT,SIGNAL	Lightning Observatory - 3D Lightning Network Visualization
+2026-06-05T04:42:50.189Z	1502494	DIY	3	1692	0	11	10.2	227606	2459	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	YOU will build the roads.
+2026-06-05T04:42:50.189Z	1502517	bitcoin	1	1394	0	1	9.8	1011637	27	recent@bitcoin|top@bitcoin|recent@privacy	HOT,SIGNAL	A hands-on guide to Silent Payments in Sparrow (BIP-352)
+2026-06-05T04:42:50.189Z	1502555	openagents	1	1055	0	1	8.4	534967	206	recent@openagents|top@openagents	HOT,SIGNAL	[BETA LAUNCH] Episode 228: Free Autopilot
+2026-06-05T04:42:50.189Z	1502579	bitcoin	1	915	0	0	7.6	280679	21793	recent@bitcoin|top@bitcoin	SIGNAL	P2WOTS: Live Signet & Interactive Wallet Demo
+2026-06-05T04:42:50.189Z	1502592	lightning	1	884	0	0	7.4	280679	21793	recent@lightning|top@lightning	SIGNAL	Core Lightning 26.06: "Quantum-Resistant Lightning Channel”
+2026-06-05T04:42:50.189Z	1502490	tech	1	881	0	4	10.3	74100	10283	recent@tech|top@tech	SIGNAL	Mastercard expands settlement capabilities to include stablecoins
+2026-06-05T04:42:50.189Z	1502689	news	2	655	0	21	2.0	74100	10283	recent@bitcoin|top@bitcoin|recent@news	FRESH,SIGNAL	The Orchard Counterfeiting Vulnerability - zooko
+2026-06-05T04:42:50.189Z	1502576	bitcoin	1	630	0	0	7.8	280679	21793	recent@bitcoin|top@bitcoin	SIGNAL	A Bitcoin node monitoring tool and website bitnod.es is launched
+2026-06-05T04:42:50.189Z	1502522	bitcoin	1	509	0	3	9.6	74100	10283	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	Better and Coinbase Celebrate First Token-backed Mortgage Backed by Fannie Mae
+2026-06-05T04:42:50.189Z	1502607	tech	1	426	0	0	6.8	161788	9876	recent@tech|top@tech	SIGNAL	Anthropic's open-source framework for AI-powered vulnerability discovery
+2026-06-05T04:42:50.189Z	1502667	bitcoin	1	381	0	1	3.0	798714	1297	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+2026-06-05T04:42:50.189Z	1502661	Stacker_Stocks	2	377	0	2	3.6	9274	23132	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Blok’s Stock Review: Everus Construction Group, Inc. (ECG)
+2026-06-05T04:42:50.189Z	1502501	gaming	3	350	0	1	10.1	1451970	5	recent@bitcoin|top@bitcoin	SIGNAL	CMH World Cup Sweepstake
+2026-06-05T04:42:50.189Z	1502452	Design	2	281	0	3	11.1	383547	3122	recent@Design|top@Design	SIGNAL	What creative ideas have you been rambling on?
+2026-06-05T04:42:50.189Z	1502503	AI	1	261	0	0	10.0	401865	8140	recent@AI|top@AI	SIGNAL	Sweeping Bipartisan AI and Preemption Leg: The Great American AI Act of 2026
+2026-06-05T04:42:50.189Z	1502588	bitcoin	1	250	0	0	7.5	1401899	156	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin’s Quiet Role in the World Cup Economy
+2026-06-05T04:42:50.189Z	1502650	math	2	250	0	1	4.8	88718	44172	recent@math|top@math	SIGNAL	How many shots did Wilt block?
+2026-06-05T04:42:50.189Z	1502441	Design	2	246	0	0	11.3	383547	3122	recent@Design|top@Design	SIGNAL	The speed of prototyping in the age of AI
+2026-06-05T04:42:50.189Z	1502606	econ	2	237	0	1	6.8	280679	21793	recent@econ|top@econ	SIGNAL	I'm kind of over the whole "Anti-monopoly" movement
+2026-06-05T04:42:50.189Z	1502637	charts_and_maps	2	211	0	2	5.6	280679	21793	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Not all oil-exporting countries are the cracking winners you think.
+2026-06-05T04:42:50.189Z	1502594	lol	2	158	0	0	7.2	280679	21793	recent@science|top@science|recent@Construction_and_Engineering	SIGNAL	Boiling an Egg in Cement | Real or fake?
+2026-06-05T04:42:50.189Z	1502668	tech	1	138	0	0	2.9	1502668	1	recent@lightning|top@lightning|recent@nostr	SIGNAL	The first known "Zap out" commerce event on Nostr - featuring @Oshi
+2026-06-05T04:42:50.189Z	1502472	lightning	1	102	0	0	10.6	263526	358	recent@lightning|top@lightning	SIGNAL	Lightning Routing: LN is a graph. Sending a payment is finding a path through it
+2026-06-05T04:42:50.189Z	1502550	history	2	102	0	0	8.7	126503	770	recent@history|top@history	SIGNAL	"Killdozer" day
