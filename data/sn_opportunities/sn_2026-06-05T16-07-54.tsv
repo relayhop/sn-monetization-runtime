@@ -1,0 +1,99 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1502865	bitcoin	1	1207	0	5	6.6	30993	3496	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	The Economics of Protocol Design: Proposing Lightning over Ark by Rene Pickhardt
+1502950	bitcoin	1	1198	0	1	4.8	1014665	187	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP324, Miniscript, Changing Consensus segment - Bitcoin Optech Newsletter #408
+1502778	Construction_and_Engineering	2	977	0	3	10.5	1022234	495	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 6/4/26
+1502900	art	3	853	0	0	6.0	988069	256	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Hello frens, June's here and so am I 🩷
+1502973	charts_and_maps	2	714	0	4	3.2	280679	21810	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Renminbi just beat the euro in world trade for the first time
+1503042	bitcoin	1	591	0	4	1.8	30782	24832	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Scoop up those sats with both hands
+1502963	bitcoin_beginners	1	514	0	0	4.2	30782	24832	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 103
+1503008	bitcoin	1	472	0	0	2.5	74100	10297	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	📣 AMA Announcement: Grubles and co from Second.Tech (Ark) - Tuesday, 10AM
+1503044	bitcoin	1	432	0	3	1.7	699824	153	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+1502964	Stacker_Stocks	2	298	0	1	4.2	280679	21810	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Raspberry Pi's profits are up. So is its DRAM bill
+1502952	AI	1	284	0	2	4.7	441782	96	recent@lightning|top@lightning|recent@AI	SIGNAL	PPQ.AI sees 800% deposit growth in the last 6 months. Lightning is #1 payment.
+1502869	Stacker_Stocks	2	260	0	0	6.4	9274	23144	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	🏋 GameStop’s weighted pack - Snacks
+1503054	AI	1	259	0	1	1.4	74100	10297	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	Nick Slaney looking for beta testers - $25
+1502866	Music	3	253	0	0	6.6	280679	21810	recent@tech|top@tech	SIGNAL	Smartify your vintage linear turntable
+1502903	AI	1	213	0	3	5.8	280679	21810	recent@AI|top@AI	SIGNAL	Canada wants to make its own AI, break free from US bots
+1502862	Stacker_Stocks	2	142	0	5	6.8	9274	23144	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+1503088	Construction_and_Engineering	2	123	0	0	0.4	104755	12320	recent@Construction_and_Engineering|top@Construction_and_Engineering	FRESH,SIGNAL	Get married in Japan
+1502294	bitcoin	1	4146	0	58	25.2	1502294	29	recent@bitcoin	HOT	Yoo HT AMA LFG!
+1502170	nostr	1	3101	0	25	29.5	93376	56	recent@nostr|recent@privacy	HOT	Carl: the torrent client I always wanted but couldn't find
+1502427	bitcoin	1	2038	0	1	23.0	24585	350	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Latest Strikes #22 - May 25th - 31st 2026
+1502484	lightning	1	1886	0	5	21.8	263526	358	recent@lightning|top@lightning	HOT	Lightning Observatory - 3D Lightning Network Visualization
+1502494	DIY	3	1746	0	11	21.6	227606	2463	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SELF_POST_OPP	YOU will build the roads.
+1502517	bitcoin	1	1426	0	1	21.2	1011637	27	recent@bitcoin|top@bitcoin|recent@privacy	HOT	A hands-on guide to Silent Payments in Sparrow (BIP-352)
+1502292	Travel	3	1223	0	6	25.2	724606	10613	recent@BooksAndArticles	HOT,SELF_POST_OPP	Flocking to Sweden: Where the Swedes Go in Summer (NYT, Emily Wilson)
+1502555	openagents	1	1076	0	1	19.8	534967	206	recent@openagents|top@openagents	HOT	[BETA LAUNCH] Episode 228: Free Autopilot
+1502098	news	2	983	0	3	32.7	12309	3498	recent@news		Screwworm pest about to hit Texas
+1502490	tech	1	946	0	5	21.7	74100	10297	recent@tech|top@tech		Mastercard expands settlement capabilities to include stablecoins
+1502579	bitcoin	1	936	0	0	19.1	280679	21810	recent@bitcoin|top@bitcoin		P2WOTS: Live Signet & Interactive Wallet Demo
+1502592	lightning	1	926	0	0	18.8	280679	21810	recent@lightning|top@lightning		Core Lightning 26.06: "Quantum-Resistant Lightning Channel”
+1502689	news	2	910	0	32	13.4	74100	10297	recent@bitcoin|top@bitcoin|recent@news		The Orchard Counterfeiting Vulnerability - zooko
+1502381	bitcoin	1	731	0	6	24.0	724606	10613	recent@bitcoin|recent@econ		The Sneaky Return of the Shitcoiners
+1502215	lol	2	714	0	6	27.2	280679	21810	recent@Stacker_Stocks|recent@lol	SELF_POST_OPP	Quantum Computing Is Having Its Public Market Moment
+1502576	bitcoin	1	711	0	0	19.2	280679	21810	recent@bitcoin|top@bitcoin		A Bitcoin node monitoring tool and website bitnod.es is launched
+1502210	econ	2	695	0	3	27.5	280679	21810	recent@econ		The Myth of a Permanently Poor Underclass
+1502306	openagents	1	673	0	1	24.9	144357	4238	recent@openagents		Inside the OpenAgents AfterParty Stream
+1502290	bitcoin	1	645	0	4	25.2	74100	10297	recent@bitcoin|recent@lightning		AvoPay Bitcoin – for WooCommerce & Web API
+1502522	bitcoin	1	509	0	3	21.0	74100	10297	recent@bitcoin|top@bitcoin|recent@econ		Better and Coinbase Celebrate First Token-backed Mortgage Backed by Fannie Mae
+1502084	AI	1	492	0	0	33.8	104755	12320	recent@AI		Negative impact on society
+1502241	news	2	488	0	6	26.6	9274	23144	recent@Stacker_Stocks|recent@news	SELF_POST_OPP	Space X is now on Robinhood IPO Access!
+1502667	bitcoin	1	479	0	2	14.4	798714	1297	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+1502661	Stacker_Stocks	2	479	0	6	15.0	9274	23144	recent@Stacker_Stocks|top@Stacker_Stocks	SELF_POST_OPP	Blok’s Stock Review: Everus Construction Group, Inc. (ECG)
+1502607	tech	1	426	0	0	18.2	161788	9882	recent@tech|top@tech		Anthropic's open-source framework for AI-powered vulnerability discovery
+1502355	Design	2	405	0	1	24.3	383547	3125	recent@Design		Transitions.dev
+1502391	lightning	1	384	0	1	23.9	440729	128	recent@lightning|top@lightning		Biggest Channel Opened Today + New Node Spotlight
+1502123	Stacker_Stocks	2	366	0	2	30.1	9274	23144	recent@Stacker_Stocks		🔮 Huang predicts next trillion-dollar company - Snacks
+1502100	history	2	354	0	1	32.5	12309	3498	recent@history		A History of Hungary - Austrian Rule
+1502501	gaming	3	350	0	1	21.5	1451970	5	recent@bitcoin|top@bitcoin		CMH World Cup Sweepstake
+1502108	science	2	340	0	5	31.3	104755	12320	recent@science	SELF_POST_OPP	Sensei’s Original Exam Question
+1502668	tech	1	295	0	1	14.3	1502668	1	recent@bitcoin|top@bitcoin|recent@lightning		The first known "Zap out" commerce event on Nostr - featuring @Oshi
+1502452	Design	2	281	0	5	22.5	383547	3125	recent@Design|top@Design	SELF_POST_OPP	What creative ideas have you been rambling on?
+1502503	AI	1	261	0	0	21.4	401865	8140	recent@AI|top@AI		Sweeping Bipartisan AI and Preemption Leg: The Great American AI Act of 2026
+1502588	bitcoin	1	250	0	0	18.9	1401899	156	recent@bitcoin|top@bitcoin		Bitcoin’s Quiet Role in the World Cup Economy
+1502650	math	2	250	0	8	16.2	88718	44180	recent@math|top@math	SELF_POST_OPP	How many shots did Wilt block?
+1502441	Design	2	246	0	0	22.7	383547	3125	recent@Design|top@Design		The speed of prototyping in the age of AI
+1502606	econ	2	237	0	1	18.2	280679	21810	recent@econ|top@econ		I'm kind of over the whole "Anti-monopoly" movement
+1502096	AI	1	213	0	2	32.8	140698	1068	recent@AI		Did Claude Opus 4.8 distill Alibaba's Qwen? Here's what the evidence says
+1502637	charts_and_maps	2	211	0	4	17.0	280679	21810	recent@econ|top@econ|recent@charts_and_maps		Not all oil-exporting countries are the cracking winners you think.
+1502196	podcasts	2	166	0	4	28.4	9274	23144	recent@history|recent@podcasts		Everything What Have the Romans Ever Done for Us?
+1502594	lol	2	158	0	1	18.6	280679	21810	recent@science|top@science|recent@Construction_and_Engineering		Boiling an Egg in Cement | Real or fake?
+1502256	Stacker_Stocks	2	152	0	2	26.3	9274	23144	recent@Stacker_Stocks		The S&P 500 📈 Owns the SN Portfolio 📉
+1502105	bitcoin_beginners	1	136	0	0	31.5	296825	4550	recent@bitcoin_beginners|recent@history		Friedrich A. Hayek - 1984
+1502233	news	2	133	0	0	26.8	280679	21810	recent@news		High-tech drug tunnel discovered between Mexico and California
+1502332	AI	1	125	0	2	24.6	297791	7565	recent@AI		Canada bids to lead middle powers in AI sovereignty race
+1502179	history	2	121	0	1	29.2	296825	4550	recent@history		1913, the Rockefellers Bought Every Herbal School in America.
+1502629	science	2	114	0	1	17.6	280679	21810	recent@science|top@science		Bumblebees can spontaneously solve problems, study finds
+1502205	science	2	111	0	4	28.0	458256	4696	recent@science		Sleeping with your pet could have negative impacts on your health
+1502472	lightning	1	102	0	0	22.0	263526	358	recent@lightning|top@lightning		Lightning Routing: LN is a graph. Sending a payment is finding a path through it
+1502550	history	2	102	0	0	20.1	126503	770	recent@history|top@history		"Killdozer" day
+1502242	econ	2	100	0	0	26.6	1500674	15	recent@econ		When Liquidity Becomes a Survival Strategy
+1502892	Politics_And_Law	3	99	0	1	6.2	280679	21810	recent@econ|top@econ|recent@history		Poverty and Dependency in the United States (1939–2023)
+1503095	AI	1	69	0	0	0.2	1293586	1880	recent@AI|top@AI	FRESH	What Does an AI Subscription Get You?
+1503050	science	2	57	0	1	1.6	280679	21810	recent@science|top@science	FRESH	Are Memories Transferable — or Edible?
+1502763	bitcoin	1	56	0	0	10.9	296825	4550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bitcoin Privacy In 2026: How Regular People Use Bitcoin Without Leaving A Trace
+1502939	security	1	46	0	0	5.1	297791	7565	recent@security|top@security		Hackers Exploit Critical Everest Forms Pro WordPress Plugin to Take Over Sites
+1503043	news	2	46	0	0	1.8	984933	1279	recent@news|top@news	FRESH	US passes Ukraine Support Act and tough sanctions on Russia
+1502977	lol	2	46	0	1	3.1	38951	2204	recent@lol|top@lol		Pumpfun making black mirror real
+1502111	Stacker_Stocks	2	40	0	11	30.7	9274	23144	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1503103	bitcoin	1	36	0	0	0.1	296825	4550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH	Cashu For Community Tutorial #5: The Swiss Army Knife of Infrastructure
+1502081	bitcoin	1	36	0	0	34.4	296825	4550	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Addis Ababa Lightning Developer Bootcamp - Africa Free Routing
+1502080	bitcoin_beginners	1	36	0	0	34.7	296825	4550	recent@bitcoin_beginners|recent@BooksAndArticles		Bitcoin: The Honest Money
+1502961	econ	2	36	0	0	4.4	280679	21810	recent@econ|top@econ		Are OPEC’s Days of Dominance Over? Why the Cartel Is Cracking
+1502214	Education	2	36	0	0	27.4	1272724	333	recent@Education		Testing the Spirit, Building the Door: A Guide to Discernment and Action
+1503077	Design	2	36	0	1	0.6	383547	3125	recent@Design|top@Design	FRESH	AI as social technology
+1503058	Design	2	36	0	0	1.4	383547	3125	recent@Design|top@Design	FRESH	The parts of your system you never wrote down
+1503033	Stacker_Stocks	2	21	0	0	2.1	934429	291	recent@Stacker_Stocks|top@Stacker_Stocks		The average correlation between S&P 500 stocks is at its lowest level since 2018
+1502284	Stacker_Stocks	2	20	0	2	25.3	934429	291	recent@Stacker_Stocks		Saylor indicator 2022 vs 2026
+1503035	Travel	3	10	0	0	2.1	458256	4696	recent@news|top@news		Missing Sherpa guide found alive after a week on Mount Everest
+1503098	news	2	10	0	0	0.2	328182	3679	recent@news|top@news	FRESH	Trump family-linked resort project sparks protests in Albania
+1503091	lightning	1	0	0	0	0.3	440729	128	recent@lightning|top@lightning	FRESH	Biggest Channel Opened Today + New Node Spotlight
+1502384	devs	1	0	0	0	23.9	41774	107	recent@devs|top@devs		Thought Tracks AI Skill: Maps how you reason, tracks how it changes over time
+1502614	AI	1	0	0	0	18.0	280679	21810	recent@AI|top@AI		These LLMs are the best at resisting Russian propaganda
+1502816	science	2	0	0	0	8.8	104755	12320	recent@science|top@science		Excellence 2000 workshop
+1502223	science	2	0	0	1	27.1	297791	7565	recent@science		CERN’s new chief on the gamble that could fix our picture of reality
+1502565	Design	2	0	0	0	19.6	383547	3125	recent@Design|top@Design		Letterbox — Letters made of letters
+1502388	Design	2	0	0	1	23.9	383547	3125	recent@Design|top@Design		100 Years of Television Design
+1502267	Design	2	0	0	0	25.8	383547	3125	recent@Design		Designing how designers master AI
+1502547	news	2	0	0	0	20.2	297791	7565	recent@news|top@news		Essais Pfizer sur le vaccin anti-covid : le rapport explosif de Christine Cotton
+1502571	lol	2	0	0	2	19.5	280679	21810	recent@history|top@history|recent@lol		Ancient Humans Got High Every Single Day
