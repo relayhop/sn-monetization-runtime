@@ -5542,3 +5542,12 @@
 2026-06-05T04:42:50.189Z	1502668	tech	1	138	0	0	2.9	1502668	1	recent@lightning|top@lightning|recent@nostr	SIGNAL	The first known "Zap out" commerce event on Nostr - featuring @Oshi
 2026-06-05T04:42:50.189Z	1502472	lightning	1	102	0	0	10.6	263526	358	recent@lightning|top@lightning	SIGNAL	Lightning Routing: LN is a graph. Sending a payment is finding a path through it
 2026-06-05T04:42:50.189Z	1502550	history	2	102	0	0	8.7	126503	770	recent@history|top@history	SIGNAL	"Killdozer" day
+2026-06-05T08:16:57.422Z	1502555	openagents	1	1076	0	1	12.0	534967	206	recent@openagents|top@openagents	HOT,SIGNAL	[BETA LAUNCH] Episode 228: Free Autopilot
+2026-06-05T08:16:57.422Z	1502579	bitcoin	1	936	0	0	11.2	280679	21796	recent@bitcoin|top@bitcoin	SIGNAL	P2WOTS: Live Signet & Interactive Wallet Demo
+2026-06-05T08:16:57.422Z	1502592	lightning	1	905	0	0	11.0	280679	21796	recent@lightning|top@lightning	SIGNAL	Core Lightning 26.06: "Quantum-Resistant Lightning Channel”
+2026-06-05T08:16:57.422Z	1502689	news	2	787	0	25	5.6	74100	10285	recent@bitcoin|top@bitcoin	SIGNAL	The Orchard Counterfeiting Vulnerability - zooko
+2026-06-05T08:16:57.422Z	1502576	bitcoin	1	630	0	0	11.4	280679	21796	recent@bitcoin|top@bitcoin	SIGNAL	A Bitcoin node monitoring tool and website bitnod.es is launched
+2026-06-05T08:16:57.422Z	1502667	bitcoin	1	426	0	2	6.6	798714	1297	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+2026-06-05T08:16:57.422Z	1502607	tech	1	426	0	0	10.4	161788	9877	recent@tech|top@tech	SIGNAL	Anthropic's open-source framework for AI-powered vulnerability discovery
+2026-06-05T08:16:57.422Z	1502588	bitcoin	1	250	0	0	11.0	1401899	156	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin’s Quiet Role in the World Cup Economy
+2026-06-05T08:16:57.422Z	1502668	tech	1	238	0	1	6.4	1502668	1	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	The first known "Zap out" commerce event on Nostr - featuring @Oshi
