@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-05T08:07:35.628Z; n=40
-bitcoin	sn:bitcoin	8.24	yes	
-access	hn,sn:news	4.45	yes	
-linux	hn	3.71	no	RISING
-carl	sn:nostr	3.49	yes	
+# generated 2026-06-05T12:38:16.158Z; n=40
+bitcoin	sn:bitcoin	8.34	yes	
 latest strikes	sn:bitcoin	3.31	yes	
-lightning observatory	sn:lightning	3.27	no	RISING
-lightning network visualization	sn:lightning	3.27	no	RISING
-world cup pool	sn:Stacker_Sports	3.22	no	RISING
+lightning observatory	sn:lightning	3.28	no	RISING
+lightning network visualization	sn:lightning	3.28	no	RISING
+world cup pool	sn:Stacker_Sports	3.23	no	RISING
 hands-on	sn:bitcoin	3.15	yes	
 silent payments	sn:bitcoin	3.15	yes	
 sparrow	sn:bitcoin	3.15	yes	
+pew pew	sn:movies	3.11	no	RISING
+baby yoda	sn:movies	3.11	no	RISING
+repeat	sn:movies	3.11	no	RISING
+the mandalorian	sn:movies	3.11	no	RISING
+grogu review	sn:movies	3.11	no	RISING
 flocking	sn:Travel	3.09	no	RISING
 sweden	sn:Travel	3.09	no	RISING
 where	sn:Travel	3.09	no	RISING
 swedes go	sn:Travel	3.09	no	RISING
 summer	sn:Travel	3.09	no	RISING
 emily wilson	sn:Travel	3.09	no	RISING
-pew pew	sn:movies	3.07	no	RISING
-baby yoda	sn:movies	3.07	no	RISING
-repeat	sn:movies	3.07	no	RISING
-the mandalorian	sn:movies	3.07	no	RISING
-grogu review	sn:movies	3.07	no	RISING
-breadmaker	sn:food_and_drinks	3.06	no	RISING
 beta	sn:openagents	3.03	no	RISING
 launch	sn:openagents	3.03	no	RISING
 episode	sn:openagents	3.03	yes	
 free autopilot	sn:openagents	3.03	no	RISING
+mastercard	sn:tech	2.98	yes	
 live signet	sn:bitcoin	2.97	yes	
 interactive wallet demo	sn:bitcoin	2.97	yes	
-core lightning	sn:lightning	2.96	no	RISING
-quantum-resistant lightning channel	sn:lightning	2.96	no	RISING
-mastercard	sn:tech	2.95	yes	
+core lightning	sn:lightning	2.97	no	RISING
+quantum-resistant lightning channel	sn:lightning	2.97	no	RISING
+the orchard counterfeiting vulnerability	sn:news	2.95	yes	
 fighting	sn:Politics_And_Law	2.93	no	RISING
 wrong dystopia	sn:Politics_And_Law	2.93	no	RISING
-the orchard counterfeiting vulnerability	sn:news	2.9	yes	
+daily discussion thread	sn:Music	2.87	no	RISING
+music saloon	sn:Music	2.87	no	RISING
 the sneaky return	sn:bitcoin	2.86	yes	
 shitcoiners	sn:bitcoin	2.86	yes	
 quantum computing is having its public market moment	sn:lol	2.85	no	RISING
-the myth	sn:econ	2.84	no	RISING
-permanently poor underclass	sn:econ	2.84	no	RISING
+other mega	hn	2.83	no	RISING
+denied fast index entry	hn	2.83	no	RISING
+inside	sn:openagents	2.83	no	RISING
+stream	sn:openagents	2.83	no	RISING
