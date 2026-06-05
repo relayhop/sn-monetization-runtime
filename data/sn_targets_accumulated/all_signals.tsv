@@ -5804,3 +5804,32 @@
 2026-06-05T22:22:00.801Z	1503058	Design	2	116	0	0	7.6	383547	3127	recent@Design|top@Design	SIGNAL	The parts of your system you never wrote down
 2026-06-05T22:22:00.801Z	1503303	bitcoin	1	102	0	0	0.7	238412	159	recent@bitcoin_Mining|top@bitcoin_Mining|recent@BooksAndArticles	FRESH,SIGNAL	The Last Honest Block
 2026-06-05T22:22:00.801Z	1503255	lightning	1	102	0	0	2.2	440729	129	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-05T23:14:14.360Z	1503329	bitcoin	1	1922	0	0	0.6	286513	201	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Added contributing documentation for Bitcoin Backbone
+2026-06-05T23:14:14.360Z	1503288	meta	1	1386	0	2	2.2	92827	2680	recent@meta|top@meta	HOT,SIGNAL	Issue #60 you know what it is!!
+2026-06-05T23:14:14.360Z	1502950	bitcoin	1	1198	0	1	11.9	1014665	187	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP324, Miniscript, Changing Consensus segment - Bitcoin Optech Newsletter #408
+2026-06-05T23:14:14.360Z	1503153	bitcoin	1	974	0	1	6.1	74100	10305	recent@bitcoin|top@bitcoin	SIGNAL	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+2026-06-05T23:14:14.360Z	1503291	bitcoin	1	954	0	0	2.1	144357	4242	recent@bitcoin|top@bitcoin	SIGNAL	Is AI Going to Destroy our Lives or Not? | SNL #227
+2026-06-05T23:14:14.360Z	1503179	lightning	1	933	0	3	5.5	163128	3579	recent@lightning|top@lightning	SIGNAL	zaptipr — send bitcoin on slack with /zap
+2026-06-05T23:14:14.360Z	1503133	bitcoin	1	808	0	0	6.6	131	80	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	Bips.xyz and nips.nostr.com have been updated
+2026-06-05T23:14:14.360Z	1503044	bitcoin	1	648	0	3	8.8	699824	153	recent@bitcoin|top@bitcoin	SIGNAL	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+2026-06-05T23:14:14.360Z	1503042	bitcoin	1	591	0	6	8.9	30782	24833	recent@bitcoin|top@bitcoin	SIGNAL	Scoop up those sats with both hands
+2026-06-05T23:14:14.361Z	1503008	bitcoin	1	514	0	0	9.6	74100	10305	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	📣 AMA Announcement: Grubles and co from Second.Tech (Ark) - Tuesday, 10AM
+2026-06-05T23:14:14.361Z	1502963	bitcoin_beginners	1	514	0	0	11.3	30782	24833	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 103
+2026-06-05T23:14:14.361Z	1503115	AI	1	463	0	8	6.9	1	26551	recent@AI|top@AI	SIGNAL	Have you done anything fun with Claude's dynamic workflows yet?
+2026-06-05T23:14:14.361Z	1503103	bitcoin	1	444	0	0	7.2	296825	4551	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Cashu For Community Tutorial #5: The Swiss Army Knife of Infrastructure
+2026-06-05T23:14:14.361Z	1503182	openagents	1	442	0	1	5.4	534967	207	recent@openagents|top@openagents	SIGNAL	[BETA LAUNCH] Episode 229: Autopilot Sites
+2026-06-05T23:14:14.361Z	1503169	lightning	1	338	0	5	5.6	163128	3579	recent@lightning|top@lightning	SIGNAL	Straight of Hormuz now accept Bitcoin (mainnet & Lightning) as payment method
+2026-06-05T23:14:14.361Z	1502952	AI	1	284	0	2	11.8	441782	96	recent@lightning|top@lightning|recent@AI	SIGNAL	PPQ.AI sees 800% deposit growth in the last 6 months. Lightning is #1 payment.
+2026-06-05T23:14:14.361Z	1503177	AI	1	274	0	0	5.5	144357	4242	recent@AI|top@AI	SIGNAL	Is AI Going to Destroy our Lives or Not?
+2026-06-05T23:14:14.361Z	1503054	AI	1	259	0	1	8.5	74100	10305	recent@tech|top@tech|recent@AI	SIGNAL	Nick Slaney looking for beta testers - $25
+2026-06-05T23:14:14.361Z	1503208	Memes	2	221	0	1	4.9	1	26551	recent@AI|top@AI	SIGNAL	AI crypto twins
+2026-06-05T23:14:14.361Z	1503214	AI	1	221	0	1	4.7	401865	8141	recent@AI|top@AI	SIGNAL	Trump Admin, OpenAI Discussing Possible Government Stake in the AI Startup
+2026-06-05T23:14:14.361Z	1503255	lightning	1	208	0	0	3.1	440729	129	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-05T23:14:14.361Z	1503091	lightning	1	175	0	0	7.4	440729	129	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+2026-06-05T23:14:14.361Z	1503205	lol	2	170	0	3	4.9	88988	44397	recent@AI|top@AI	SIGNAL	The I is for Indigenous
+2026-06-05T23:14:14.361Z	1503226	AI	1	164	0	1	4.4	297791	7567	recent@AI|top@AI	SIGNAL	Anthropic urges industry coordination 'pause' in AI development if risks grow
+2026-06-05T23:14:14.361Z	1503119	bitcoin_beginners	1	138	0	0	6.8	296825	4551	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Fedi Pro Tips: Six Useful Things You Didn’t Know You Could Do
+2026-06-05T23:14:14.361Z	1503322	Music	3	137	0	3	1.1	74100	10305	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Hard Knock Life for Bitcoiners by Xenland [Music Video] NOW WITH MP3 !!!!!!
+2026-06-05T23:14:14.361Z	1503294	bitcoin	1	127	0	4	2.0	1500564	13	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH,SIGNAL	looking for early testers - get pro access for free for life
+2026-06-05T23:14:14.361Z	1503203	lightning	1	117	0	0	5.0	163128	3579	recent@lightning|top@lightning	SIGNAL	Tapnob: Convert Naira to Bitcoin Instantly
+2026-06-05T23:14:14.361Z	1503303	bitcoin	1	102	0	0	1.5	238412	159	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	The Last Honest Block
