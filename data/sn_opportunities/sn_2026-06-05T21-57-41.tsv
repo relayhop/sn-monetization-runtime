@@ -1,0 +1,62 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1502950	bitcoin	1	1198	0	1	10.6	1014665	187	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP324, Miniscript, Changing Consensus segment - Bitcoin Optech Newsletter #408
+1503153	bitcoin	1	974	0	1	4.8	74100	10303	recent@bitcoin|top@bitcoin	SIGNAL	Quantum threat: let's not turn Bitcoin into an altcoin - Antoine Ponsoit
+1503179	lightning	1	933	0	3	4.2	163128	3579	recent@lightning|top@lightning	SIGNAL	zaptipr — send bitcoin on slack with /zap
+1503133	bitcoin	1	808	0	0	5.3	131	80	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	Bips.xyz and nips.nostr.com have been updated
+1503288	meta	1	792	0	0	0.9	92827	2679	recent@meta|top@meta	FRESH,SIGNAL	Issue #60 you know what it is!!
+1503044	bitcoin	1	648	0	3	7.6	699824	153	recent@bitcoin|top@bitcoin	SIGNAL	How I paid with bitcoin using my glasses by Vincenzo Palazzo
+1503042	bitcoin	1	591	0	6	7.7	30782	24833	recent@bitcoin|top@bitcoin	SIGNAL	Scoop up those sats with both hands
+1502963	bitcoin_beginners	1	514	0	0	10.1	30782	24833	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 103
+1503008	bitcoin	1	472	0	0	8.3	74100	10303	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	📣 AMA Announcement: Grubles and co from Second.Tech (Ark) - Tuesday, 10AM
+1503115	AI	1	463	0	7	5.6	1	26550	recent@AI|top@AI	SIGNAL	Have you done anything fun with Claude's dynamic workflows yet?
+1503103	bitcoin	1	444	0	0	5.9	296825	4551	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Cashu For Community Tutorial #5: The Swiss Army Knife of Infrastructure
+1503182	openagents	1	442	0	1	4.1	534967	207	recent@openagents|top@openagents	SIGNAL	[BETA LAUNCH] Episode 229: Autopilot Sites
+1503169	lightning	1	338	0	5	4.4	163128	3579	recent@lightning|top@lightning	SIGNAL	Straight of Hormuz now accept Bitcoin (mainnet & Lightning) as payment method
+1502952	AI	1	284	0	2	10.5	441782	96	recent@lightning|top@lightning|recent@AI	SIGNAL	PPQ.AI sees 800% deposit growth in the last 6 months. Lightning is #1 payment.
+1503177	AI	1	274	0	0	4.2	144357	4242	recent@AI|top@AI	SIGNAL	Is AI Going to Destroy our Lives or Not?
+1503054	AI	1	259	0	1	7.2	74100	10303	recent@tech|top@tech|recent@AI	SIGNAL	Nick Slaney looking for beta testers - $25
+1503208	Memes	2	221	0	1	3.6	1	26550	recent@AI|top@AI	SIGNAL	AI crypto twins
+1503214	AI	1	221	0	1	3.4	401865	8141	recent@AI|top@AI	SIGNAL	Trump Admin, OpenAI Discussing Possible Government Stake in the AI Startup
+1502903	AI	1	213	0	3	11.6	280679	21810	recent@AI|top@AI	SIGNAL	Canada wants to make its own AI, break free from US bots
+1503091	lightning	1	175	0	0	6.2	440729	129	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+1503205	lol	2	170	0	3	3.6	88988	44397	recent@AI|top@AI	SIGNAL	The I is for Indigenous
+1503226	AI	1	164	0	1	3.1	297791	7567	recent@AI|top@AI	SIGNAL	Anthropic urges industry coordination 'pause' in AI development if risks grow
+1503119	bitcoin_beginners	1	138	0	0	5.6	296825	4551	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Fedi Pro Tips: Six Useful Things You Didn’t Know You Could Do
+1503203	lightning	1	117	0	0	3.7	163128	3579	recent@lightning|top@lightning	SIGNAL	Tapnob: Convert Naira to Bitcoin Instantly
+1503303	bitcoin	1	102	0	0	0.3	238412	159	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	The Last Honest Block
+1503255	lightning	1	102	0	0	1.8	440729	129	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today + New Node Spotlight
+1502294	bitcoin	1	4146	0	58	31.0	1502294	29	recent@bitcoin	HOT	Yoo HT AMA LFG!
+1502170	nostr	1	3101	0	25	35.3	93376	56	recent@nostr|recent@privacy	HOT	Carl: the torrent client I always wanted but couldn't find
+1502427	bitcoin	1	2038	0	1	28.8	24585	350	recent@bitcoin|recent@lightning	HOT	Latest Strikes #22 - May 25th - 31st 2026
+1502484	lightning	1	1886	0	5	27.7	263526	360	recent@lightning	HOT	Lightning Observatory - 3D Lightning Network Visualization
+1502494	DIY	3	1746	0	11	27.4	227606	2463	recent@bitcoin|recent@lightning|recent@nostr	HOT,SELF_POST_OPP	YOU will build the roads.
+1502517	bitcoin	1	1426	0	1	27.0	1011637	27	recent@bitcoin|recent@privacy	HOT	A hands-on guide to Silent Payments in Sparrow (BIP-352)
+1502865	bitcoin	1	1301	0	9	12.4	30993	3496	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT	The Economics of Protocol Design: Proposing Lightning over Ark by Rene Pickhardt
+1502555	openagents	1	1076	0	2	25.7	534967	207	recent@openagents	HOT	[BETA LAUNCH] Episode 228: Free Autopilot
+1502490	tech	1	946	0	5	27.6	74100	10303	recent@tech		Mastercard expands settlement capabilities to include stablecoins
+1502579	bitcoin	1	936	0	0	24.9	280679	21810	recent@bitcoin		P2WOTS: Live Signet & Interactive Wallet Demo
+1502592	lightning	1	926	0	0	24.7	280679	21810	recent@lightning		Core Lightning 26.06: "Quantum-Resistant Lightning Channel”
+1502689	news	2	910	0	35	19.2	74100	10303	recent@bitcoin|top@bitcoin		The Orchard Counterfeiting Vulnerability - zooko
+1502381	bitcoin	1	731	0	6	29.8	724606	10613	recent@bitcoin		The Sneaky Return of the Shitcoiners
+1502576	bitcoin	1	711	0	0	25.1	280679	21810	recent@bitcoin		A Bitcoin node monitoring tool and website bitnod.es is launched
+1502306	openagents	1	673	0	1	30.7	144357	4242	recent@openagents		Inside the OpenAgents AfterParty Stream
+1502290	bitcoin	1	645	0	4	31.0	74100	10303	recent@bitcoin|recent@lightning		AvoPay Bitcoin – for WooCommerce & Web API
+1502522	bitcoin	1	509	0	3	26.8	74100	10303	recent@bitcoin		Better and Coinbase Celebrate First Token-backed Mortgage Backed by Fannie Mae
+1502667	bitcoin	1	479	0	2	20.2	798714	1297	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Proof of Work: AudioBook bridging the gap between Photography and Bitcoin
+1502607	tech	1	426	0	0	24.0	161788	9883	recent@tech		Anthropic's open-source framework for AI-powered vulnerability discovery
+1502391	lightning	1	384	0	1	29.7	440729	129	recent@lightning		Biggest Channel Opened Today + New Node Spotlight
+1502501	gaming	3	350	0	1	27.3	1451970	5	recent@bitcoin		CMH World Cup Sweepstake
+1502668	tech	1	295	0	1	20.1	1502668	1	recent@bitcoin|top@bitcoin|recent@lightning		The first known "Zap out" commerce event on Nostr - featuring @Oshi
+1502503	AI	1	261	0	0	27.2	401865	8141	recent@AI		Sweeping Bipartisan AI and Preemption Leg: The Great American AI Act of 2026
+1502866	Music	3	253	0	0	12.4	280679	21810	recent@tech|top@tech		Smartify your vintage linear turntable
+1502588	bitcoin	1	250	0	0	24.7	1401899	156	recent@bitcoin		Bitcoin’s Quiet Role in the World Cup Economy
+1502332	AI	1	125	0	2	30.4	297791	7567	recent@AI		Canada bids to lead middle powers in AI sovereignty race
+1502472	lightning	1	102	0	0	27.9	263526	360	recent@lightning		Lightning Routing: LN is a graph. Sending a payment is finding a path through it
+1503095	AI	1	69	0	0	6.0	1293586	1887	recent@AI|top@AI		What Does an AI Subscription Get You?
+1503117	AI	1	69	0	0	5.6	328182	3685	recent@AI|top@AI		Token bill comes due: Inside the industry scramble to manage AI’s runaway costs
+1502763	bitcoin	1	56	0	0	16.8	296825	4551	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bitcoin Privacy In 2026: How Regular People Use Bitcoin Without Leaving A Trace
+1503294	bitcoin	1	50	0	3	0.7	1500564	12	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH	looking for early testers - get pro access for free for life
+1502939	security	1	46	0	0	10.9	297791	7567	recent@security|top@security		Hackers Exploit Critical Everest Forms Pro WordPress Plugin to Take Over Sites
+1502384	devs	1	0	0	0	29.8	41774	107	recent@devs		Thought Tracks AI Skill: Maps how you reason, tracks how it changes over time
+1503216	AI	1	0	0	2	3.3	1467503	11	recent@AI|top@AI		I built an AI API that pays for itself with Bitcoin
+1502614	AI	1	0	0	0	23.9	280679	21810	recent@AI|top@AI		These LLMs are the best at resisting Russian propaganda
