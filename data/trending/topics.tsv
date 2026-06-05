@@ -1,7 +1,10 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-05T12:38:16.158Z; n=40
-bitcoin	sn:bitcoin	8.34	yes	
-latest strikes	sn:bitcoin	3.31	yes	
+# generated 2026-06-05T17:55:48.976Z; n=40
+bitcoin	sn:bitcoin	8.29	yes	
+linux	hn	4.69	no	RISING
+microsoft	hn	4.3	no	RISING
+launch	hn,sn:openagents	4.18	no	RISING
+dutch	hn	3.76	no	RISING
 lightning observatory	sn:lightning	3.28	no	RISING
 lightning network visualization	sn:lightning	3.28	no	RISING
 world cup pool	sn:Stacker_Sports	3.23	no	RISING
@@ -13,30 +16,27 @@ baby yoda	sn:movies	3.11	no	RISING
 repeat	sn:movies	3.11	no	RISING
 the mandalorian	sn:movies	3.11	no	RISING
 grogu review	sn:movies	3.11	no	RISING
-flocking	sn:Travel	3.09	no	RISING
-sweden	sn:Travel	3.09	no	RISING
-where	sn:Travel	3.09	no	RISING
-swedes go	sn:Travel	3.09	no	RISING
-summer	sn:Travel	3.09	no	RISING
-emily wilson	sn:Travel	3.09	no	RISING
+the economics	sn:bitcoin	3.09	yes	
+protocol design	sn:bitcoin	3.09	yes	
+proposing lightning	sn:bitcoin	3.09	yes	
+rene pickhardt	sn:bitcoin	3.09	yes	
+miniscript	sn:bitcoin	3.08	yes	
+changing consensus	sn:bitcoin	3.08	yes	
+bitcoin optech newsletter	sn:bitcoin	3.08	yes	
 beta	sn:openagents	3.03	no	RISING
-launch	sn:openagents	3.03	no	RISING
-episode	sn:openagents	3.03	yes	
+episode	sn:openagents	3.03	no	RISING
 free autopilot	sn:openagents	3.03	no	RISING
 mastercard	sn:tech	2.98	yes	
 live signet	sn:bitcoin	2.97	yes	
 interactive wallet demo	sn:bitcoin	2.97	yes	
 core lightning	sn:lightning	2.97	no	RISING
 quantum-resistant lightning channel	sn:lightning	2.97	no	RISING
-the orchard counterfeiting vulnerability	sn:news	2.95	yes	
-fighting	sn:Politics_And_Law	2.93	no	RISING
-wrong dystopia	sn:Politics_And_Law	2.93	no	RISING
+the orchard counterfeiting vulnerability	sn:news	2.96	yes	
+hello	sn:art	2.93	no	RISING
+june	sn:art	2.93	yes	
+bips	sn:bitcoin	2.88	yes	
 daily discussion thread	sn:Music	2.87	no	RISING
 music saloon	sn:Music	2.87	no	RISING
-the sneaky return	sn:bitcoin	2.86	yes	
-shitcoiners	sn:bitcoin	2.86	yes	
-quantum computing is having its public market moment	sn:lol	2.85	no	RISING
-other mega	hn	2.83	no	RISING
-denied fast index entry	hn	2.83	no	RISING
-inside	sn:openagents	2.83	no	RISING
-stream	sn:openagents	2.83	no	RISING
+changing	hn	2.86	no	RISING
+ladybird	hn	2.86	no	RISING
+weekly random sports pick	sn:Stacker_Sports	2.86	no	RISING
