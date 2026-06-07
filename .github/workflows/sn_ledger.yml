@@ -21,6 +21,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   snapshot:
