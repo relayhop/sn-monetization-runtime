@@ -5,6 +5,7 @@
 //   - 多排序軸（recent + top/day）捕捉非 recent 高 EV 機會
 //   - 累積式 target log（永不覆寫，全歷史）→ 未來 self_post 主題挖掘
 //   - SIGNAL tag 計算（沿用 v1）
+//   - Log line parsing for OPEN_BOUNTY detection
 // 用法:
 //   node runtime/scripts/sn_radar_v2.mjs --tier 1            # 只 T1，給 15min cron
 //   node runtime/scripts/sn_radar_v2.mjs --tier 1,2          # T1+T2，給 hourly cron
@@ -80,6 +81,37 @@ function classify(item) {
   const t = TIER_OF[item.sub?.name] || 3;
   if (t >= 2 && score >= 200 && ncom >= 5 && ncom <= 20) tags.push('SELF_POST_OPP');
   return { tags, ageHours, score, ncom, tier: t };
+}
+
+// Function to parse log lines and extract relevant information
+function parseLogLine(line) {
+  const parts = line.split('\t');
+  if (parts.length < 12) {
+    throw new Error('Invalid log line format');
+  }
+
+  return {
+    id: parts[0],
+    sub: parts[1],
+    tier: parts[2],
+    score: parts[3],
+    bounty: parts[4],
+    ncom: parts[5],
+    ageH: parts[6],
+    op_since: parts[7],
+    op_nitems: parts[8],
+    hits: parts[9],
+    tags: parts[10].split(','),
+    title: parts[11]
+  };
+}
+
+// Function to check if the item meets OPEN_BOUNTY criteria
+function isOpenBounty(item) {
+  const bounty = Number(item.bounty || 0);
+  const tags = item.tags || [];
+
+  return bounty >= 100 && tags.includes('OPEN_BOUNTY');
 }
 
 (async () => {
