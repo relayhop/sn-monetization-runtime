@@ -6280,3 +6280,16 @@
 2026-06-07T16:58:03.359Z	1504030	AI	1	395	0	0	5.9	12309	3504	recent@tech|top@tech|recent@AI	SIGNAL	AMD Believes Unified Memory Architectures Open Up a "World of Possibilities"
 2026-06-07T16:58:03.359Z	1504015	meta	1	114	0	0	7.0	36151	1504	recent@meta|top@meta	SIGNAL	This Day on SN: June 7
 2026-06-07T16:58:03.359Z	1504050	lightning	1	112	0	2	5.2	263526	363	recent@lightning|top@lightning	SIGNAL	Anonymous cash for Bitcoin Lightning at nearly all Polish ATMs.
+2026-06-07T18:07:24.091Z	1504013	bitcoin	1	1659	0	0	8.4	1014665	188	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Kernel dev/Bitcoin Core maintainer on validation logic in Bitcoin Core
+2026-06-07T18:07:24.091Z	1504024	AI	1	1530	0	1	7.5	80482	984	recent@bitcoin|top@bitcoin|recent@AI	HOT,SIGNAL	AI Stock meltdown? [megathread]
+2026-06-07T18:07:24.091Z	1503996	nostr	1	1029	0	5	9.9	166	36428	recent@nostr|top@nostr	HOT,SIGNAL	Nostrord - decentralized group chat on Nostr
+2026-06-07T18:07:24.091Z	1504143	bitcoin	1	753	0	1	2.6	74100	10338	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	BIP 110 debate between Chris Guida and Supertestnet
+2026-06-07T18:07:24.091Z	1504194	bitcoin_beginners	1	461	0	1	1.2	296825	4560	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	bitblik — pay with bitcoin, anywhere BLIK works
+2026-06-07T18:07:24.091Z	1504030	AI	1	395	0	0	7.0	12309	3504	recent@tech|top@tech|recent@AI	SIGNAL	AMD Believes Unified Memory Architectures Open Up a "World of Possibilities"
+2026-06-07T18:07:24.091Z	1504201	AI	1	329	0	2	1.0	1293586	1898	recent@AI|top@AI	FRESH,SIGNAL	McDonald's testing AI drive-thru order-taking system called ArchIQ
+2026-06-07T18:07:24.091Z	1504130	bitcoin	1	313	0	1	2.9	996769	35	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	🎙️NEW EPISODE: The Bitcoiner Hero's Journey
+2026-06-07T18:07:24.091Z	1504193	tech	1	269	0	3	1.3	1293586	1898	recent@tech|top@tech	FRESH,SIGNAL	China has approved the world’s first invasive brain-computer chip
+2026-06-07T18:07:24.091Z	1504077	nostr	1	230	0	6	4.8	30782	24845	recent@nostr|top@nostr	SIGNAL	nostr mail?
+2026-06-07T18:07:24.091Z	1504102	AI	1	131	0	0	3.5	370699	254	recent@devs|top@devs|recent@AI	SIGNAL	CLI filter that saved 91.8% of my LLM tokens | Hacker News
+2026-06-07T18:07:24.091Z	1504015	meta	1	114	0	0	8.1	36151	1504	recent@meta|top@meta	SIGNAL	This Day on SN: June 7
+2026-06-07T18:07:24.091Z	1504050	lightning	1	112	0	2	6.3	263526	363	recent@lightning|top@lightning	SIGNAL	Anonymous cash for Bitcoin Lightning at nearly all Polish ATMs.
