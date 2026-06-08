@@ -1,42 +1,40 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-07T23:04:57.117Z; n=40
-linux	hn	4.65	no	RISING
-show	hn	4.02	no	RISING
-square adventurers	sn:lightning	3.74	no	RISING
-finally	sn:lightning	3.74	no	RISING
-success	sn:lightning	3.74	no	RISING
-japanese	sn:art	3.62	yes	
-bitcoin	sn:art	3.62	yes	
-english	sn:art	3.62	yes	
-have fun	sn:BooksAndArticles	3.27	no	RISING
-stay poor	sn:BooksAndArticles	3.27	no	RISING
-unhealthy	sn:BooksAndArticles	3.27	no	RISING
-jemima kelly	sn:BooksAndArticles	3.27	no	RISING
-stock	sn:AI	3.22	yes	
-bitcoin kernel	sn:bitcoin	3.22	yes	
-bitcoin core	sn:bitcoin	3.22	yes	
-roland garros championship	sn:Stacker_Sports	3.12	no	RISING
-zverev	sn:Stacker_Sports	3.12	no	RISING
-grand slam	sn:Stacker_Sports	3.12	no	RISING
-star	sn:Stacker_Sports	3.05	no	RISING
-floats	sn:japan	3.04	no	RISING
-japan	sn:japan	3.04	no	RISING
-nostrord	sn:nostr	3.03	yes	
-nostr	sn:nostr	3.03	yes	
-majorana	sn:AI	2.95	yes	
-microsoft	sn:AI	2.95	yes	
-scalable quantum processor with long-lasting qubits	sn:AI	2.95	yes	
-chris guida	sn:bitcoin	2.91	yes	
-supertestnet	sn:bitcoin	2.91	yes	
-bitcoin uncensored episode	sn:bitcoin	2.9	yes	
-public domain image archive	sn:hyperlinks	2.9	no	RISING
-young	sn:Stacker_Sports	2.79	no	RISING
-choose	sn:Stacker_Sports	2.79	no	RISING
-fighter	sn:Stacker_Sports	2.79	no	RISING
-stanley cup finals game	sn:Stacker_Sports	2.79	no	RISING
-overtime	sn:Stacker_Sports	2.79	no	RISING
-the cypherpunk library	sn:BooksAndArticles	2.77	no	RISING
-erik	sn:BooksAndArticles	2.77	no	RISING
-daily discussion thread	sn:Music	2.75	no	RISING
-music saloon	sn:Music	2.75	no	RISING
-msty	sn:Stacker_Stocks	2.75	no	RISING
+# generated 2026-06-08T08:56:13.777Z; n=38
+show	hn	4.85	no	RISING
+building	hn	2.79	no	RISING
+linear	hn	2.61	no	RISING
+international obfuscated	hn	2.59	no	RISING
+code contest	hn	2.59	no	RISING
+ioccc	hn	2.59	no	RISING
+winners	hn	2.59	no	RISING
+lathe	hn	2.48	no	RISING
+dopamine fracking	hn	2.41	no	RISING
+derived	hn	2.36	no	RISING
+pancake	hn	2.36	no	RISING
+making	hn	2.35	no	RISING
+what	hn	2.28	no	RISING
+linux	hn	2.28	no	RISING
+unix	hn	2.28	no	RISING
+the smallest brain you can build	hn	2.27	no	RISING
+perceptron	hn	2.27	no	RISING
+python	hn	2.27	no	RISING
+data breaches later	hn	2.13	no	RISING
+disclosure lag is worse	hn	2.13	no	RISING
+matter wi-fi light bulb	hn	2.04	no	RISING
+rust	hn	2.04	no	RISING
+raspberry pi pico	hn	2.04	no	RISING
+texas	hn	1.98	no	RISING
+powering	hn	1.95	no	RISING
+algorithmic monocultures	hn	1.93	no	RISING
+hiring	hn	1.93	no	RISING
+richard scolyer has died	hn	1.63	no	RISING
+is down	hn	1.6	no	RISING
+playing	hn	1.58	no	RISING
+vision embeddings	hn	1.58	no	RISING
+man-computer symbiosis	hn	1.54	no	RISING
+licklider	hn	1.54	no	RISING
+tiny	hn	1.41	no	RISING
+cuda	hn	1.41	no	RISING
+trusted computing frequently asked questions	hn	1.08	no	RISING
+giant floating victorian drydock	hn	1.04	no	RISING
+the cypherpunk library	hn	0.6	no	RISING
