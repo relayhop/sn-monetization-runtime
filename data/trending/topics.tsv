@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-08T14:06:59.574Z; n=40
-the cypherpunk library	hn,sn:BooksAndArticles	5.18	no	RISING
-show	hn	4.99	no	RISING
-square adventurers	sn:lightning	3.75	no	RISING
-finally	sn:lightning	3.75	no	RISING
-success	sn:lightning	3.75	no	RISING
-have fun	sn:BooksAndArticles	3.29	no	RISING
-stay poor	sn:BooksAndArticles	3.29	no	RISING
-unhealthy	sn:BooksAndArticles	3.29	no	RISING
-jemima kelly	sn:BooksAndArticles	3.29	no	RISING
+# generated 2026-06-08T18:26:04.530Z; n=40
+review	sn:AGORA,sn:gaming	5.96	no	RISING
+bitcoin	sn:bitcoin,sn:bitcoinplusplus	5.93	yes	
+hackalajara	sn:events,sn:Design	5.66	yes	
+guadalajara	sn:events,sn:Design	5.66	yes	
+the cypherpunk library	hn,sn:BooksAndArticles	5.37	no	RISING
+farmer	sn:bitcoin	3.28	yes	
 hiking adventures	sn:Photography	3.19	no	RISING
 ruckle provincial park	sn:Photography	3.19	no	RISING
-bitcoin	sn:bitcoin	3.15	yes	
-farmer	sn:bitcoin	3.15	yes	
+one man fucks over	sn:Stacker_Stocks	3.19	no	RISING
+dudes	sn:Stacker_Stocks	3.19	no	RISING
+strategy	sn:Stacker_Stocks	3.19	no	RISING
 roland garros championship	sn:Stacker_Sports	3.13	no	RISING
 zverev	sn:Stacker_Sports	3.13	no	RISING
 grand slam	sn:Stacker_Sports	3.13	no	RISING
-bitcoin uncensored episode	sn:bitcoin	3.07	yes	
+the satoshi times	sn:bitcoin	3.13	yes	
+mission statement	sn:bitcoin	3.13	yes	
+bitcoin uncensored episode	sn:bitcoin	3.12	yes	
+eddington	sn:movies	3.05	no	RISING
+the new yorker review	sn:movies	3.05	no	RISING
 star	sn:Stacker_Sports	3.05	no	RISING
+last	sn:Stacker_Sports	3.04	no	RISING
 majorana	sn:AI	3	yes	
 microsoft	sn:AI	3	yes	
 scalable quantum processor with long-lasting qubits	sn:AI	3	yes	
-chris guida	sn:bitcoin	2.95	yes	
-supertestnet	sn:bitcoin	2.95	yes	
+books	sn:AGORA	2.98	no	RISING
+cards	sn:AGORA	2.98	no	RISING
+collectables	sn:AGORA	2.98	no	RISING
+other bitcoin commerce stuff	sn:AGORA	2.98	no	RISING
+resident evil	sn:gaming	2.98	no	RISING
+sci-bot	sn:AI	2.94	yes	
+sci-hubs	sn:AI	2.94	yes	
+building	hn	2.93	no	RISING
 erik	sn:BooksAndArticles	2.93	no	RISING
-books	sn:AGORA	2.91	no	RISING
-cards	sn:AGORA	2.91	no	RISING
-collectables	sn:AGORA	2.91	no	RISING
-review	sn:AGORA	2.91	no	RISING
-other bitcoin commerce stuff	sn:AGORA	2.91	no	RISING
-one man fucks over	sn:Stacker_Stocks	2.91	no	RISING
-dudes	sn:Stacker_Stocks	2.91	no	RISING
-strategy	sn:Stacker_Stocks	2.91	no	RISING
-building	hn	2.88	no	RISING
-young	sn:Stacker_Sports	2.85	no	RISING
-choose	sn:Stacker_Sports	2.85	no	RISING
-fighter	sn:Stacker_Sports	2.85	no	RISING
+august	sn:events	2.92	yes	
+dopamine fracking	hn	2.84	no	RISING
 angry pentagon sources leak report of israel	sn:Politics_And_Law	2.83	no	RISING
 unhinged	sn:Politics_And_Law	2.83	no	RISING
 spying on	sn:Politics_And_Law	2.83	no	RISING
 officials	sn:Politics_And_Law	2.83	no	RISING
+economy	sn:AI	2.74	yes	
