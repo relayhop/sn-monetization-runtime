@@ -1,40 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-08T08:56:13.777Z; n=38
-show	hn	4.85	no	RISING
-building	hn	2.79	no	RISING
-linear	hn	2.61	no	RISING
-international obfuscated	hn	2.59	no	RISING
-code contest	hn	2.59	no	RISING
-ioccc	hn	2.59	no	RISING
-winners	hn	2.59	no	RISING
-lathe	hn	2.48	no	RISING
-dopamine fracking	hn	2.41	no	RISING
-derived	hn	2.36	no	RISING
-pancake	hn	2.36	no	RISING
-making	hn	2.35	no	RISING
-what	hn	2.28	no	RISING
-linux	hn	2.28	no	RISING
-unix	hn	2.28	no	RISING
-the smallest brain you can build	hn	2.27	no	RISING
-perceptron	hn	2.27	no	RISING
-python	hn	2.27	no	RISING
-data breaches later	hn	2.13	no	RISING
-disclosure lag is worse	hn	2.13	no	RISING
-matter wi-fi light bulb	hn	2.04	no	RISING
-rust	hn	2.04	no	RISING
-raspberry pi pico	hn	2.04	no	RISING
-texas	hn	1.98	no	RISING
-powering	hn	1.95	no	RISING
-algorithmic monocultures	hn	1.93	no	RISING
-hiring	hn	1.93	no	RISING
-richard scolyer has died	hn	1.63	no	RISING
-is down	hn	1.6	no	RISING
-playing	hn	1.58	no	RISING
-vision embeddings	hn	1.58	no	RISING
-man-computer symbiosis	hn	1.54	no	RISING
-licklider	hn	1.54	no	RISING
-tiny	hn	1.41	no	RISING
-cuda	hn	1.41	no	RISING
-trusted computing frequently asked questions	hn	1.08	no	RISING
-giant floating victorian drydock	hn	1.04	no	RISING
-the cypherpunk library	hn	0.6	no	RISING
+# generated 2026-06-08T14:06:59.574Z; n=40
+the cypherpunk library	hn,sn:BooksAndArticles	5.18	no	RISING
+show	hn	4.99	no	RISING
+square adventurers	sn:lightning	3.75	no	RISING
+finally	sn:lightning	3.75	no	RISING
+success	sn:lightning	3.75	no	RISING
+have fun	sn:BooksAndArticles	3.29	no	RISING
+stay poor	sn:BooksAndArticles	3.29	no	RISING
+unhealthy	sn:BooksAndArticles	3.29	no	RISING
+jemima kelly	sn:BooksAndArticles	3.29	no	RISING
+hiking adventures	sn:Photography	3.19	no	RISING
+ruckle provincial park	sn:Photography	3.19	no	RISING
+bitcoin	sn:bitcoin	3.15	yes	
+farmer	sn:bitcoin	3.15	yes	
+roland garros championship	sn:Stacker_Sports	3.13	no	RISING
+zverev	sn:Stacker_Sports	3.13	no	RISING
+grand slam	sn:Stacker_Sports	3.13	no	RISING
+bitcoin uncensored episode	sn:bitcoin	3.07	yes	
+star	sn:Stacker_Sports	3.05	no	RISING
+majorana	sn:AI	3	yes	
+microsoft	sn:AI	3	yes	
+scalable quantum processor with long-lasting qubits	sn:AI	3	yes	
+chris guida	sn:bitcoin	2.95	yes	
+supertestnet	sn:bitcoin	2.95	yes	
+erik	sn:BooksAndArticles	2.93	no	RISING
+books	sn:AGORA	2.91	no	RISING
+cards	sn:AGORA	2.91	no	RISING
+collectables	sn:AGORA	2.91	no	RISING
+review	sn:AGORA	2.91	no	RISING
+other bitcoin commerce stuff	sn:AGORA	2.91	no	RISING
+one man fucks over	sn:Stacker_Stocks	2.91	no	RISING
+dudes	sn:Stacker_Stocks	2.91	no	RISING
+strategy	sn:Stacker_Stocks	2.91	no	RISING
+building	hn	2.88	no	RISING
+young	sn:Stacker_Sports	2.85	no	RISING
+choose	sn:Stacker_Sports	2.85	no	RISING
+fighter	sn:Stacker_Sports	2.85	no	RISING
+angry pentagon sources leak report of israel	sn:Politics_And_Law	2.83	no	RISING
+unhinged	sn:Politics_And_Law	2.83	no	RISING
+spying on	sn:Politics_And_Law	2.83	no	RISING
+officials	sn:Politics_And_Law	2.83	no	RISING
