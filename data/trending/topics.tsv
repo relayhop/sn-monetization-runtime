@@ -1,13 +1,9 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-09T07:50:16.440Z; n=40
+# generated 2026-06-09T12:37:50.757Z; n=40
 hackalajara	sn:events,sn:Design	6.33	yes	
 guadalajara	sn:events,sn:Design	6.33	yes	
-review	sn:gaming,sn:AGORA	6.06	no	RISING
-show	hn	5.34	no	RISING
-apple	hn	4.48	no	RISING
-august	sn:events	3.36	yes	
-bitcoin	sn:bitcoin	3.32	yes	
-farmer	sn:bitcoin	3.32	yes	
+show	hn	5.47	no	RISING
+august	sn:events	3.37	yes	
 defending bitcoin	sn:the_stacker_muse	3.27	yes	
 an exclusive interview	sn:the_stacker_muse	3.27	yes	
 luke	sn:the_stacker_muse	3.27	yes	
@@ -21,22 +17,26 @@ dudes	sn:Stacker_Stocks	3.21	no	RISING
 strategy	sn:Stacker_Stocks	3.21	no	RISING
 the satoshi times	sn:bitcoin	3.13	yes	
 mission statement	sn:bitcoin	3.13	yes	
+eddington	sn:movies	3.11	no	RISING
+the new yorker review	sn:movies	3.11	no	RISING
+how terry tao became	sn:AI	3.1	yes	
+evangelist	sn:AI	3.1	yes	
+math	sn:AI	3.1	yes	
 last	sn:Stacker_Sports	3.1	no	RISING
-eddington	sn:movies	3.1	no	RISING
-the new yorker review	sn:movies	3.1	no	RISING
 resident evil	sn:gaming	3.08	no	RISING
-books	sn:AGORA	2.98	no	RISING
-cards	sn:AGORA	2.98	no	RISING
-collectables	sn:AGORA	2.98	no	RISING
-other bitcoin commerce stuff	sn:AGORA	2.98	no	RISING
-performative	hn	2.97	no	RISING
-world cup pool	sn:Stacker_Sports	2.97	no	RISING
-group phase submissions open	sn:Stacker_Sports	2.97	no	RISING
+review	sn:gaming	3.08	no	RISING
+thank you cacao	sn:AGORA	3.07	no	RISING
+performative	hn	3.02	no	RISING
+world cup pool	sn:Stacker_Sports	2.98	no	RISING
+group phase submissions open	sn:Stacker_Sports	2.98	no	RISING
 bitcoin lightning hackathon	sn:Design	2.96	no	RISING
+gun lovers	sn:news	2.88	no	RISING
+artists	sn:news	2.88	no	RISING
+rally behind trump	sn:news	2.88	no	RISING
+debanking crusade	sn:news	2.88	no	RISING
+bloomberg	sn:news	2.88	no	RISING
+sound	sn:bitcoin	2.87	yes	
+surveillance is not safety	sn:tech	2.86	yes	
 strategy increases	sn:Stacker_Stocks	2.85	no	RISING
 reserve	sn:Stacker_Stocks	2.85	no	RISING
-gun lovers	sn:news	2.84	no	RISING
-artists	sn:news	2.84	no	RISING
-rally behind trump	sn:news	2.84	no	RISING
-debanking crusade	sn:news	2.84	no	RISING
-bloomberg	sn:news	2.84	no	RISING
+finals game	sn:Stacker_Sports	2.83	no	RISING
