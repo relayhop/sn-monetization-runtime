@@ -51,27 +51,36 @@ jobs:
           echo "tier=$TIER" >> $GITHUB_OUTPUT
           echo "running tier: $TIER"
 
-      - name: Run radar v2
+      - name: Run radars
         id: radar
         run: |
-          mkdir -p data/sn_opportunities data/sn_targets_accumulated
+          mkdir -p data/sn_opportunities data/sn_targets_accumulated data/polar_opportunities
+          
+          # SN Radar
           OUT_DIR=data/sn_opportunities \
           ACCUM_DIR=data/sn_targets_accumulated \
-          node scripts/sn_radar_v2.mjs --tier ${{ steps.tier.outputs.tier }} > /tmp/radar.out 2>&1 || true
-          cat /tmp/radar.out
-          LATEST=$(ls -t data/sn_opportunities/sn_*.tsv 2>/dev/null | head -1)
-          if [ -n "$LATEST" ]; then
-            # column 11 = tags in v2 schema
-            BOUNTIES=$(awk -F'\t' '$11 ~ /OPEN_BOUNTY/' "$LATEST" | head -5)
-            SIGNALS=$(awk -F'\t' '$11 ~ /SIGNAL/' "$LATEST" | head -5)
-            {
-              echo "bounties<<EOF"
-              echo "$BOUNTIES"
-              echo "EOF"
-              echo "signals<<EOF"
-              echo "$SIGNALS"
-              echo "EOF"
-            } >> $GITHUB_OUTPUT
+          node scripts/sn_radar_v2.mjs --tier ${{ steps.tier.outputs.tier }} > /tmp/sn_radar.out 2>&1 || true
+          cat /tmp/sn_radar.out
+          
+          # Polar Radar (New)
+          OUT_DIR=data/polar_opportunities \
+          node scripts/polar_radar.mjs > /tmp/polar_radar.out 2>&1 || true
+          cat /tmp/polar_radar.out
+          
+          LATEST_SN=$(ls -t data/sn_opportunities/sn_*.tsv 2>/dev/null | head -1)
+          if [ -n "$LATEST_SN" ]; then
+            BOUNTIES_SN=$(awk -F'\t' '$11 ~ /OPEN_BOUNTY/' "$LATEST_SN" | head -5)
+            echo "bounties_sn<<EOF" >> $GITHUB_OUTPUT
+            echo "$BOUNTIES_SN" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+          
+          LATEST_POLAR=$(ls -t data/polar_opportunities/polar_*.tsv 2>/dev/null | head -1)
+          if [ -n "$LATEST_POLAR" ]; then
+            BOUNTIES_POLAR=$(awk -F'\t' '$3 ~ /FUNDED/' "$LATEST_POLAR" | head -5)
+            echo "bounties_polar<<EOF" >> $GITHUB_OUTPUT
+            echo "$BOUNTIES_POLAR" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit changes
@@ -82,16 +91,30 @@ jobs:
           git diff --cached --quiet || git commit -m "sn_radar v2 tier=${{ steps.tier.outputs.tier }} $(date -u +%FT%TZ)"
           git push || true
 
-      - name: Open issue if open bounty found
-        if: steps.radar.outputs.bounties != ''
+      - name: Open issue if open SN bounty found
+        if: steps.radar.outputs.bounties_sn != ''
         uses: actions/github-script@v7
         with:
           script: |
-            const body = `New SN OPEN_BOUNTY detected:\n\n\`\`\`\n${{ steps.radar.outputs.bounties }}\n\`\`\``;
+            const body = `New SN OPEN_BOUNTY detected:\n\n\`\`\`\n${{ steps.radar.outputs.bounties_sn }}\n\`\`\``;
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `[radar] SN open bounty ${new Date().toISOString().slice(0,16)}`,
               body,
               labels: ['radar', 'sn', 'bounty']
+            });
+
+      - name: Open issue if open Polar bounty found
+        if: steps.radar.outputs.bounties_polar != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = `New POLAR funded issues detected:\n\n\`\`\`\n${{ steps.radar.outputs.bounties_polar }}\n\`\`\``;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[radar] POLAR open bounty ${new Date().toISOString().slice(0,16)}`,
+              body,
+              labels: ['radar', 'polar', 'bounty']
             });
