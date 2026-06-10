@@ -1,27 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-10T12:56:51.235Z; n=40
-claude fable	hn,sn:AI	6.37	yes	
-what	hn,sn:Stacker_Sports	5.99	yes	
-anthropic	hn,sn:AI	5.24	yes	
-mythos	hn	4.73	no	RISING
-bitcoin	sn:events,sn:bitcoin	4.45	yes	
-rust	hn	4.17	no	RISING
-bitcoin ark	sn:tech	3.87	yes	
-second	sn:tech	3.87	yes	
-predyx	sn:Stacker_Sports	3.5	no	RISING
-update	sn:Stacker_Sports	3.5	no	RISING
-fifa	sn:Stacker_Sports	3.5	no	RISING
-markets	sn:Stacker_Sports	3.5	no	RISING
-next	sn:Stacker_Sports	3.5	no	RISING
-reality test	sn:Stacker_Stocks	3.3	no	RISING
-arthur hayes	sn:Stacker_Stocks	3.3	no	RISING
-sign	sn:bitcoin	3.27	yes	
-choose	sn:bitcoin	3.27	yes	
-earn	sn:bitcoin	3.27	yes	
-amazing	sn:Stacker_Stocks	3.24	no	RISING
-returns	sn:Stacker_Stocks	3.24	no	RISING
-better just do nothing	sn:Stacker_Stocks	3.24	no	RISING
-stuart kirk	sn:Stacker_Stocks	3.24	no	RISING
+# generated 2026-06-10T18:30:59.367Z; n=40
+amazing	sn:Stacker_Stocks	3.32	no	RISING
+returns	sn:Stacker_Stocks	3.32	no	RISING
+better just do nothing	sn:Stacker_Stocks	3.32	no	RISING
+stuart kirk	sn:Stacker_Stocks	3.32	no	RISING
+sign	sn:bitcoin	3.28	yes	
+choose	sn:bitcoin	3.28	yes	
+earn	sn:bitcoin	3.28	yes	
 the profit	sn:the_stacker_muse	3.2	no	RISING
 peril	sn:the_stacker_muse	3.2	no	RISING
 fad chasing	sn:the_stacker_muse	3.2	no	RISING
@@ -29,14 +14,29 @@ prediction marks are amazing	sn:Stacker_Sports	3.17	no	RISING
 dude watches football	sn:Stacker_Sports	3.17	no	RISING
 living	sn:Stacker_Sports	3.17	no	RISING
 dean seal	sn:Stacker_Sports	3.17	no	RISING
-bark	sn:news	3.1	yes	
-steven roose	sn:news	3.1	yes	
-my takeaway	sn:AI	3.01	yes	
-wwdc	sn:AI	3.01	yes	
-apples	sn:AI	3.01	yes	
-strategy	sn:AI	3.01	yes	
-claude mythos	sn:AI	3	yes	
-money	sn:bitcoin	3	yes	
-suggestions	sn:tech	2.97	yes	
-android devices	sn:tech	2.97	yes	
-container machines	hn	2.95	no	RISING
+biggest channel opened today	sn:lightning	3.09	no	RISING
+new node spotlight	sn:lightning	3.09	no	RISING
+container machines	hn	3.05	no	RISING
+jahmyr	sn:Stacker_Sports	3.04	no	RISING
+gibbs	sn:Stacker_Sports	3.04	no	RISING
+year	sn:Stacker_Sports	3.04	no	RISING
+index	sn:Stacker_Sports	3.04	no	RISING
+fund	sn:Stacker_Sports	3.04	no	RISING
+rams	sn:Stacker_Sports	3.04	no	RISING
+defense	sn:Stacker_Sports	3.04	no	RISING
+ready	sn:Stacker_Sports	3.04	no	RISING
+stacker sports summer league	sn:Stacker_Sports	3.03	no	RISING
+money	sn:bitcoin	3.01	yes	
+javier milei	sn:AI	2.94	yes	
+argentina	sn:AI	2.94	yes	
+consumer	sn:econ	2.91	no	RISING
+building	hn	2.88	no	RISING
+html	hn	2.88	no	RISING
+botanix	sn:lol	2.87	yes	
+quantum	sn:bitcoin	2.85	yes	
+lightning	sn:bitcoin	2.85	yes	
+bitcoin optech newsletter	sn:bitcoin	2.85	yes	
+recap	sn:bitcoin	2.85	yes	
+what	sn:meta	2.84	yes	
+lexe uses	sn:lightning	2.82	no	RISING
+run self-custodial lightning	sn:lightning	2.82	no	RISING
