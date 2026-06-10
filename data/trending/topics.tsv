@@ -1,14 +1,13 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-10T08:08:13.018Z; n=40
-what	hn,sn:Stacker_Sports,sn:charts_and_maps	8.68	yes	
-claude fable	hn,sn:AI	6.31	yes	
-wwdc	hn,sn:AI	5.34	yes	
+# generated 2026-06-10T12:56:51.235Z; n=40
+claude fable	hn,sn:AI	6.37	yes	
+what	hn,sn:Stacker_Sports	5.99	yes	
+anthropic	hn,sn:AI	5.24	yes	
+mythos	hn	4.73	no	RISING
+bitcoin	sn:events,sn:bitcoin	4.45	yes	
+rust	hn	4.17	no	RISING
 bitcoin ark	sn:tech	3.87	yes	
 second	sn:tech	3.87	yes	
-rusty russell	sn:lightning	3.63	no	RISING
-eleven years	sn:lightning	3.63	no	RISING
-lightning	sn:lightning	3.63	no	RISING
-blockstream	sn:lightning	3.63	no	RISING
 predyx	sn:Stacker_Sports	3.5	no	RISING
 update	sn:Stacker_Sports	3.5	no	RISING
 fifa	sn:Stacker_Sports	3.5	no	RISING
@@ -16,27 +15,28 @@ markets	sn:Stacker_Sports	3.5	no	RISING
 next	sn:Stacker_Sports	3.5	no	RISING
 reality test	sn:Stacker_Stocks	3.3	no	RISING
 arthur hayes	sn:Stacker_Stocks	3.3	no	RISING
-sign	sn:bitcoin	3.26	yes	
-choose	sn:bitcoin	3.26	yes	
-earn	sn:bitcoin	3.26	yes	
-equity punks	sn:Stacker_Sports	3.23	no	RISING
-bagholders	sn:Stacker_Sports	3.23	no	RISING
-real madrid	sn:Stacker_Sports	3.23	no	RISING
-andrew hill	sn:Stacker_Sports	3.23	no	RISING
-prediction marks are amazing	sn:Stacker_Sports	3.16	no	RISING
-dude watches football	sn:Stacker_Sports	3.16	no	RISING
-living	sn:Stacker_Sports	3.16	no	RISING
-dean seal	sn:Stacker_Sports	3.16	no	RISING
-the profit	sn:the_stacker_muse	3.16	no	RISING
-peril	sn:the_stacker_muse	3.16	no	RISING
-fad chasing	sn:the_stacker_muse	3.16	no	RISING
-how terry tao became	sn:AI	3.16	yes	
-evangelist	sn:AI	3.16	yes	
-math	sn:AI	3.16	yes	
+sign	sn:bitcoin	3.27	yes	
+choose	sn:bitcoin	3.27	yes	
+earn	sn:bitcoin	3.27	yes	
+amazing	sn:Stacker_Stocks	3.24	no	RISING
+returns	sn:Stacker_Stocks	3.24	no	RISING
+better just do nothing	sn:Stacker_Stocks	3.24	no	RISING
+stuart kirk	sn:Stacker_Stocks	3.24	no	RISING
+the profit	sn:the_stacker_muse	3.2	no	RISING
+peril	sn:the_stacker_muse	3.2	no	RISING
+fad chasing	sn:the_stacker_muse	3.2	no	RISING
+prediction marks are amazing	sn:Stacker_Sports	3.17	no	RISING
+dude watches football	sn:Stacker_Sports	3.17	no	RISING
+living	sn:Stacker_Sports	3.17	no	RISING
+dean seal	sn:Stacker_Sports	3.17	no	RISING
 bark	sn:news	3.1	yes	
 steven roose	sn:news	3.1	yes	
-thank you cacao	sn:AGORA	3.08	no	RISING
-canaan avalon	sn:DIY	3.02	yes	
-asic	sn:DIY	3.02	yes	
-scaling	sn:bitcoin	3.01	yes	
-my takeaway	sn:AI	2.99	yes	
+my takeaway	sn:AI	3.01	yes	
+wwdc	sn:AI	3.01	yes	
+apples	sn:AI	3.01	yes	
+strategy	sn:AI	3.01	yes	
+claude mythos	sn:AI	3	yes	
+money	sn:bitcoin	3	yes	
+suggestions	sn:tech	2.97	yes	
+android devices	sn:tech	2.97	yes	
+container machines	hn	2.95	no	RISING
