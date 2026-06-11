@@ -1,26 +1,23 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-11T08:46:51.355Z; n=40
-biggest channel opened today	sn:lightning	5.94	no	RISING
-new node spotlight	sn:lightning	5.94	no	RISING
-anthropic	hn	5.22	yes	
-fable	hn	5.22	yes	
-bitcoin	sn:events,sn:bitcoin	5.13	yes	
-what	hn,sn:meta	4.78	yes	
-html	hn	4.63	no	RISING
-show	hn	4.4	no	RISING
+# generated 2026-06-11T13:59:46.490Z; n=40
+anthropic	hn,sn:AI	7.97	yes	
+fable	hn	5.43	yes	
+linux	hn	3.99	no	RISING
+elites used	sn:the_stacker_muse	3.88	no	RISING
+think about bitcoin	sn:the_stacker_muse	3.88	no	RISING
+the true	sn:bitcoin	3.74	yes	
+accurate history	sn:bitcoin	3.74	yes	
+bitcoin podcasts	sn:bitcoin	3.74	yes	
 stacker sports summer league	sn:Stacker_Sports	3.58	no	RISING
-amazing	sn:Stacker_Stocks	3.41	no	RISING
-returns	sn:Stacker_Stocks	3.41	no	RISING
-better just do nothing	sn:Stacker_Stocks	3.41	no	RISING
-stuart kirk	sn:Stacker_Stocks	3.41	no	RISING
 gold	sn:bitcoin	3.3	yes	
+bitcoin	sn:bitcoin	3.3	yes	
 the debasement trades that failed	sn:bitcoin	3.3	yes	
-making musk	sn:Stacker_Stocks	3.12	no	RISING
-mega-trillionaire	sn:Stacker_Stocks	3.12	no	RISING
-lang	sn:Stacker_Stocks	3.12	no	RISING
-driebusch	sn:Stacker_Stocks	3.12	no	RISING
+agent	hn	3.17	no	RISING
+making musk	sn:Stacker_Stocks	3.13	no	RISING
+mega-trillionaire	sn:Stacker_Stocks	3.13	no	RISING
+lang	sn:Stacker_Stocks	3.13	no	RISING
+driebusch	sn:Stacker_Stocks	3.13	no	RISING
 trump	sn:Politics_And_Law	3.09	no	RISING
-building	hn	3.05	no	RISING
 frogstr	sn:gaming	3.05	yes	
 jahmyr	sn:Stacker_Sports	3.05	no	RISING
 gibbs	sn:Stacker_Sports	3.05	no	RISING
@@ -34,9 +31,12 @@ javier milei	sn:AI	3.03	yes
 argentina	sn:AI	3.03	yes	
 fresh	sn:Stacker_Stocks	3.02	no	RISING
 amazon	sn:Stacker_Stocks	3.02	no	RISING
-civilizations are transaction costs	sn:Politics_And_Law	2.94	no	RISING
-linux	hn	2.92	no	RISING
-game	sn:Stacker_Sports	2.92	no	RISING
-discussion	sn:Stacker_Sports	2.92	no	RISING
-consumer	sn:econ	2.91	no	RISING
-stroll	sn:Photography	2.88	no	RISING
+crime	sn:news	2.99	no	RISING
+cuba	sn:news	2.99	no	RISING
+youth	sn:news	2.99	no	RISING
+civilizations are transaction costs	sn:Politics_And_Law	2.96	no	RISING
+game	sn:Stacker_Sports	2.93	no	RISING
+discussion	sn:Stacker_Sports	2.93	no	RISING
+stroll	sn:Photography	2.93	no	RISING
+savannah	sn:Photography	2.93	no	RISING
+two suitcoiners	sn:bitcoin	2.92	yes	
