@@ -1,6 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-12T23:17:17.143Z; n=40
-bitcoin	sn:tech,sn:bitcoin_beginners	5.58	yes	
+# generated 2026-06-13T07:48:39.587Z; n=40
+statement	hn,sn:AI	6.37	yes	
+fable	hn	5.51	yes	
 alby hub	sn:bitcoin	3.81	yes	
 just-in-time	sn:bitcoin	3.81	yes	
 cards	sn:bitcoin	3.81	yes	
@@ -8,35 +9,34 @@ call	sn:privacy	3.78	no	RISING
 action	sn:privacy	3.78	no	RISING
 stop	sn:privacy	3.78	no	RISING
 regime	sn:privacy	3.78	no	RISING
-back-forward	sn:meta	3.52	yes	
-show	hn	3.41	yes	
-the nerdy escorts cashing in on silicon valley	sn:AI	3.31	yes	
-boom	sn:AI	3.31	yes	
-forbes	sn:AI	3.31	yes	
-anna tong	sn:AI	3.31	yes	
-stacker	sn:science	3.27	no	RISING
-tenure-track	sn:science	3.27	no	RISING
-power-ups	sn:gaming	3.13	no	RISING
+show	hn	3.61	yes	
+back-forward	sn:meta	3.56	yes	
+stacker	sn:science	3.36	no	RISING
+tenure-track	sn:science	3.36	no	RISING
+the nerdy escorts cashing in on silicon valley	sn:AI	3.32	yes	
+boom	sn:AI	3.32	yes	
+forbes	sn:AI	3.32	yes	
+anna tong	sn:AI	3.32	yes	
+mythos	hn	3.3	no	RISING
+power-ups	sn:gaming	3.14	no	RISING
 files	sn:aliens_and_UFOs	3.07	no	RISING
 release	sn:aliens_and_UFOs	3.07	no	RISING
 bitcoin optech newsletter	sn:bitcoin	3.07	yes	
 real businessmen are rare	sn:tech	3.06	yes	
-elon musk	sn:Stacker_Stocks	3.03	no	RISING
+elon musk	sn:Stacker_Stocks	3.04	no	RISING
+zine	sn:meta	3.03	yes	
+extra	sn:meta	3.03	yes	
 stackers	sn:Stacker_Sports	2.99	no	RISING
 last	sn:Stacker_Sports	2.99	no	RISING
 the biggest	sn:charts_and_maps	2.92	no	RISING
 history	sn:charts_and_maps	2.92	no	RISING
 where	sn:charts_and_maps	2.92	no	RISING
 fits in	sn:charts_and_maps	2.92	no	RISING
-fable	hn	2.88	yes	
-daily discussion thread	sn:Music	2.84	no	RISING
-music saloon	sn:Music	2.84	no	RISING
-introducing lightning earn	sn:lightning	2.83	no	RISING
-institutions now participate	sn:lightning	2.83	no	RISING
-infrastructure	sn:lightning	2.83	no	RISING
-crispr	hn	2.8	no	RISING
-the three economic eras	sn:bitcoin_beginners	2.8	no	RISING
-biggest channel opened today	sn:lightning	2.8	no	RISING
-new node spotlight	sn:lightning	2.8	no	RISING
-nostr	sn:tech	2.78	yes	
+crispr	hn	2.9	no	RISING
+open	hn	2.89	no	RISING
+introducing lightning earn	sn:lightning	2.88	no	RISING
+institutions now participate	sn:lightning	2.88	no	RISING
+infrastructure	sn:lightning	2.88	no	RISING
+open source tools	sn:hyperlinks	2.85	no	RISING
+zero bullsh	sn:hyperlinks	2.85	no	RISING
 weekly random sports pick	sn:Stacker_Sports	2.78	no	RISING
