@@ -1,24 +1,30 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-13T17:22:51.905Z; n=40
-show	hn	8.04	yes	
-statement	hn,sn:AI	6.62	yes	
-biggest channel opened today	sn:lightning	5.74	no	RISING
-new node spotlight	sn:lightning	5.74	no	RISING
-world cup	sn:Stacker_Sports,sn:news	5.33	no	RISING
-canada	sn:Stacker_Sports	5.23	no	RISING
-back-forward	sn:meta	3.57	yes	
-fable	hn	3.47	yes	
-mythos	hn	3.47	no	RISING
+# generated 2026-06-13T23:04:46.623Z; n=40
+the miz	sn:Stacker_Sports	5	no	RISING
+show	hn	4.26	yes	
+intel	hn	3.61	no	RISING
+core	sn:bitcoin	3.5	yes	
+ledger	sn:bitcoin	3.5	yes	
+latest strikes	sn:bitcoin	3.33	yes	
+june	sn:bitcoin	3.33	yes	
 praxeology	sn:BooksAndArticles	3.26	no	RISING
 privacy book club	sn:BooksAndArticles	3.26	no	RISING
 part	sn:BooksAndArticles	3.26	yes	
-power-ups	sn:gaming	3.15	no	RISING
-open	hn	3.14	no	RISING
-zine	sn:meta	3.06	yes	
-extra	sn:meta	3.06	yes	
-crispr	hn	2.97	no	RISING
-open source tools	sn:hyperlinks	2.96	no	RISING
-zero bullsh	sn:hyperlinks	2.96	no	RISING
+blockstream borrows billions	sn:bitcoin	3.16	yes	
+hides	sn:bitcoin	3.16	yes	
+chris cook	sn:bitcoin	3.16	yes	
+fraud conviction	sn:bitcoin	3.16	yes	
+statement	sn:AI	3.15	yes	
+magnifica humanitas	sn:AI	3.05	yes	
+state	sn:AI	3.05	yes	
+open source tools	sn:hyperlinks	2.97	no	RISING
+zero bullsh	sn:hyperlinks	2.97	no	RISING
+the great capital rotation	sn:bitcoin	2.96	yes	
+pierre rochard	sn:bitcoin	2.96	yes	
+biggest channel opened today	sn:lightning	2.95	no	RISING
+new node spotlight	sn:lightning	2.95	no	RISING
+built	sn:DIY	2.91	no	RISING
+wireless walkie talkie	sn:DIY	2.91	no	RISING
 april money supply growth hit	sn:econ	2.85	no	RISING
 month high	sn:econ	2.85	no	RISING
 and prices soared	sn:econ	2.85	no	RISING
@@ -26,17 +32,11 @@ anthropeum	sn:hyperlinks	2.84	no	RISING
 historical	sn:hyperlinks	2.84	no	RISING
 bayrob	sn:tech	2.83	yes	
 darknet diaries	sn:tech	2.83	yes	
-electric	hn	2.81	no	RISING
+noise	hn	2.82	no	RISING
+census bureau	hn	2.82	no	RISING
+created	sn:AI	2.82	yes	
+second	sn:bitcoin	2.8	yes	
+went here today	sn:HealthAndFitness	2.79	no	RISING
+still snow white	sn:HealthAndFitness	2.79	no	RISING
 gooooooool	sn:Stacker_Sports	2.78	no	RISING
-testbed	sn:lightning	2.75	no	RISING
-evaluating bitcoin lightning network-based botnets	sn:lightning	2.75	no	RISING
-alekos filini	sn:tech	2.7	yes	
-enclavia	sn:tech	2.7	yes	
-second	sn:bitcoin	2.7	yes	
-toyota hilux	sn:bitcoin	2.7	yes	
-ukraine	sn:bitcoin	2.7	yes	
-peruvian	sn:news	2.69	no	RISING
-bitcoin	sn:videos	2.65	yes	
-truly	sn:AI	2.65	yes	
-environmentally friendly way	sn:AI	2.65	yes	
-malware	hn	2.64	no	RISING
+peruvian	sn:news	2.74	no	RISING
