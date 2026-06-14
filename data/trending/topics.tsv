@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-14T11:58:00.683Z; n=40
-round	sn:Stacker_Sports	5.08	no	RISING
+# generated 2026-06-14T17:21:01.772Z; n=40
+bitcoin	sn:bitcoin,sn:AGORA	5.32	yes	
+week	sn:Stacker_Sports,sn:AGORA	5.24	no	RISING
+june	hn,sn:bitcoin	4.61	yes	
+janeiro	hn	3.81	no	RISING
 core	sn:bitcoin	3.5	yes	
 ledger	sn:bitcoin	3.5	yes	
 latest strikes	sn:bitcoin	3.35	yes	
-june	sn:bitcoin	3.35	yes	
-praxeology	sn:BooksAndArticles	3.29	no	RISING
-privacy book club	sn:BooksAndArticles	3.29	no	RISING
-part	sn:BooksAndArticles	3.29	yes	
-windows	hn	3.23	no	RISING
-blockstream borrows billions	sn:bitcoin	3.19	yes	
-hides	sn:bitcoin	3.19	yes	
-chris cook	sn:bitcoin	3.19	yes	
-fraud conviction	sn:bitcoin	3.19	yes	
+blockstream borrows billions	sn:bitcoin	3.2	yes	
+hides	sn:bitcoin	3.2	yes	
+chris cook	sn:bitcoin	3.2	yes	
+fraud conviction	sn:bitcoin	3.2	yes	
 the great capital rotation	sn:bitcoin	3.11	yes	
 pierre rochard	sn:bitcoin	3.11	yes	
-magnifica humanitas	sn:AI	3.05	yes	
-state	sn:AI	3.05	yes	
-built	sn:DIY	3.04	no	RISING
-wireless walkie talkie	sn:DIY	3.04	no	RISING
+post knicks championship sunday morning	sn:Stacker_Sports	3.09	no	RISING
+built	sn:DIY	3.09	no	RISING
+wireless walkie talkie	sn:DIY	3.09	no	RISING
+bracketology	sn:Stacker_Sports	3.05	no	RISING
 finals game	sn:Stacker_Sports	3.02	no	RISING
 discussion thread	sn:Stacker_Sports	3.02	no	RISING
-biggest channel opened today	sn:lightning	2.95	no	RISING
-new node spotlight	sn:lightning	2.95	no	RISING
-noise	hn	2.92	no	RISING
-census bureau	hn	2.92	no	RISING
-every frame perfect	hn	2.88	no	RISING
+strike	sn:bitcoin	2.98	yes	
+self	sn:bitcoin	2.98	yes	
+saturday newsletter	sn:meta	2.95	yes	
 went here today	sn:HealthAndFitness	2.86	no	RISING
 still snow white	sn:HealthAndFitness	2.86	no	RISING
-amazon	hn	2.85	no	RISING
-anthropic	hn	2.85	yes	
-anthropeum	sn:hyperlinks	2.84	no	RISING
-historical	sn:hyperlinks	2.84	no	RISING
-created	sn:AI	2.82	yes	
-is out	hn	2.8	no	RISING
-second	sn:bitcoin	2.8	yes	
-peruvian	sn:news	2.76	no	RISING
-world cup	sn:news	2.76	no	RISING
-strike	sn:bitcoin	2.76	yes	
-self	sn:bitcoin	2.76	yes	
+biggest channel opened today	sn:lightning	2.86	no	RISING
+new node spotlight	sn:lightning	2.86	no	RISING
+the clash of two inexorable realities	sn:bitcoin	2.83	yes	
+books	sn:BooksAndArticles	2.78	no	RISING
+articles weekly	sn:BooksAndArticles	2.78	no	RISING
+issue	sn:BooksAndArticles	2.78	yes	
 decentralized	sn:nostr	2.76	yes	
+survivor pool	sn:Stacker_Sports	2.75	no	RISING
+pick submissions	sn:Stacker_Sports	2.75	no	RISING
+underground	sn:science	2.74	no	RISING
+exciting news	sn:tech	2.72	yes	
+bitcoin ekasi	sn:tech	2.72	yes	
+stanford	sn:science	2.69	no	RISING
+former	sn:Stacker_Sports	2.67	no	RISING
+aldon smith	sn:Stacker_Sports	2.67	no	RISING
+iron maiden	sn:Music	2.64	no	RISING
