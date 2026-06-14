@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-14T08:16:17.139Z; n=40
-python	hn	3.76	no	RISING
+# generated 2026-06-14T11:58:00.683Z; n=40
+round	sn:Stacker_Sports	5.08	no	RISING
 core	sn:bitcoin	3.5	yes	
 ledger	sn:bitcoin	3.5	yes	
-latest strikes	sn:bitcoin	3.34	yes	
-june	sn:bitcoin	3.34	yes	
+latest strikes	sn:bitcoin	3.35	yes	
+june	sn:bitcoin	3.35	yes	
 praxeology	sn:BooksAndArticles	3.29	no	RISING
 privacy book club	sn:BooksAndArticles	3.29	no	RISING
 part	sn:BooksAndArticles	3.29	yes	
-blockstream borrows billions	sn:bitcoin	3.18	yes	
-hides	sn:bitcoin	3.18	yes	
-chris cook	sn:bitcoin	3.18	yes	
-fraud conviction	sn:bitcoin	3.18	yes	
+windows	hn	3.23	no	RISING
+blockstream borrows billions	sn:bitcoin	3.19	yes	
+hides	sn:bitcoin	3.19	yes	
+chris cook	sn:bitcoin	3.19	yes	
+fraud conviction	sn:bitcoin	3.19	yes	
 the great capital rotation	sn:bitcoin	3.11	yes	
 pierre rochard	sn:bitcoin	3.11	yes	
 magnifica humanitas	sn:AI	3.05	yes	
 state	sn:AI	3.05	yes	
 built	sn:DIY	3.04	no	RISING
 wireless walkie talkie	sn:DIY	3.04	no	RISING
-finals game	sn:Stacker_Sports	3.01	no	RISING
-discussion thread	sn:Stacker_Sports	3.01	no	RISING
+finals game	sn:Stacker_Sports	3.02	no	RISING
+discussion thread	sn:Stacker_Sports	3.02	no	RISING
 biggest channel opened today	sn:lightning	2.95	no	RISING
 new node spotlight	sn:lightning	2.95	no	RISING
-noise	hn	2.91	no	RISING
-census bureau	hn	2.91	no	RISING
+noise	hn	2.92	no	RISING
+census bureau	hn	2.92	no	RISING
+every frame perfect	hn	2.88	no	RISING
 went here today	sn:HealthAndFitness	2.86	no	RISING
 still snow white	sn:HealthAndFitness	2.86	no	RISING
-april money supply growth hit	sn:econ	2.85	no	RISING
-month high	sn:econ	2.85	no	RISING
-and prices soared	sn:econ	2.85	no	RISING
+amazon	hn	2.85	no	RISING
+anthropic	hn	2.85	yes	
 anthropeum	sn:hyperlinks	2.84	no	RISING
 historical	sn:hyperlinks	2.84	no	RISING
-every frame perfect	hn	2.83	no	RISING
-amazon	hn	2.82	no	RISING
-anthropic	hn	2.82	yes	
 created	sn:AI	2.82	yes	
+is out	hn	2.8	no	RISING
 second	sn:bitcoin	2.8	yes	
 peruvian	sn:news	2.76	no	RISING
 world cup	sn:news	2.76	no	RISING
-is out	hn	2.73	no	RISING
-survivor pool	sn:Stacker_Sports	2.73	no	RISING
+strike	sn:bitcoin	2.76	yes	
+self	sn:bitcoin	2.76	yes	
+decentralized	sn:nostr	2.76	yes	
