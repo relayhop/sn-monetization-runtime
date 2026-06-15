@@ -15,3 +15,6 @@ unset GH_TOKEN
 ```bash
 git -C subprojects/sn-monetization/runtime pull --rebase
 ```
+
+## Data additions
+- `data/sn_targets_accumulated/open_bounties.tsv` created to track detected SN OPEN_BOUNTY items from radar scans.
