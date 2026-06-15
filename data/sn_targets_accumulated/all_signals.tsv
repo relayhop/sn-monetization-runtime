@@ -8144,3 +8144,6 @@
 2026-06-15T12:38:47.111Z	1508742	lightning	1	204	0	1	0.3	263526	378	recent@lightning|top@lightning	FRESH,SIGNAL	Pay using Bitcoin Lightning with 94,000,000 GCash users in the Philippines
 2026-06-15T12:38:47.111Z	1508692	bitcoin_Mining	1	112	0	0	3.1	561154	550	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Ocean mining address reuse
 2026-06-15T12:38:47.111Z	1508612	Travel	3	102	0	0	9.1	43424	557	recent@Travel|top@Travel	SIGNAL	Route 66
+2026-06-15T13:41:22.533Z	1508742	lightning	1	346	0	7	1.4	263526	382	recent@lightning|top@lightning	FRESH,SIGNAL	Pay using Bitcoin Lightning with 94,000,000 GCash users in the Philippines
+2026-06-15T13:41:22.533Z	1508750	lightning	1	197	0	0	1.2	263526	382	recent@lightning|top@lightning	FRESH,SIGNAL	Flash is now available in Burkina Faso 🇧🇫 via the Lightning Network
+2026-06-15T13:41:22.533Z	1508692	bitcoin_Mining	1	112	0	1	4.1	561154	550	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Ocean mining address reuse
