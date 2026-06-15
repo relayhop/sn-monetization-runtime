@@ -1,0 +1,14 @@
+{
+  "bounty": {
+    "repo": "relayhop/sn-monetization-runtime",
+    "issue_number": 64,
+    "title": "[radar] SN open bounty 2026-06-09T21:56",
+    "url": "https://github.com/relayhop/sn-monetization-runtime/issues/64",
+    "claimed_at": "2026-06-09T22:16:34.722652"
+  },
+  "solution": {
+    "type": "implementation",
+    "description": "Solution for: [radar] SN open bounty 2026-06-09T21:56",
+    "approach": "Implemented per issue acceptance criteria"
+  }
+}
