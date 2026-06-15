@@ -1,0 +1,3 @@
+# open_bounties.tsv — accumulated OPEN_BOUNTY signals from sn_radar
+# id	sub	tier	stacked	cost	interval	ratio	count1	count2	query	tags	title
+1505292	Memes	2	574	1000	3	7.9	51481	4041	recent@Memes|top@Memes	OPEN_BOUNTY,LOW_COMP,SIGNAL	Meme Bounty - Thanks to REUTERS
