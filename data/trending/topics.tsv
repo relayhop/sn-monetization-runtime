@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-16T19:36:48.000Z; n=40
-bitcoin	sn:bitcoin,sn:bitcoinplusplus	9.24	yes	
-cursor	hn,sn:AI	5.6	yes	
-apple	hn	4.33	no	RISING
-show	hn	3.73	yes	
-scavenger mode	sn:DIY	3.3	no	RISING
-life	sn:DIY	3.3	no	RISING
-this week	sn:bitcoin	3.28	yes	
-bringing	sn:bitcoin	3.28	yes	
-orange dev suite	sn:bitcoin	3.28	yes	
-new specs	sn:bitcoinplusplus	3.09	no	RISING
-marmot	sn:bitcoinplusplus	3.09	no	RISING
-last week	sn:bitcoinplusplus	3.09	no	RISING
-insider reviews	sn:bitcoinplusplus	3.04	no	RISING
-lodging	sn:bitcoinplusplus	3.04	no	RISING
-wayfaring men	sn:bitcoinplusplus	3.04	no	RISING
-max hillebrand	sn:bitcoinplusplus	3.04	no	RISING
-slot miner	sn:bitcoin	3.03	yes	
-the merge	sn:bitcoin	2.98	yes	
-hodlonaut	sn:bitcoin	2.98	yes	
+# generated 2026-06-16T23:23:49.758Z; n=40
+bitcoin	sn:bitcoin	8.88	yes	
+apple	hn	7.22	no	RISING
+this week	sn:bitcoin,sn:Stacker_Sports	5.99	yes	
+cursor	hn,sn:AI	5.8	yes	
+strc	sn:bitcoin	5.56	yes	
+show	hn	4.03	yes	
+google	sn:Stacker_Sports	3.55	no	RISING
+jalen brunson	sn:Stacker_Sports	3.55	no	RISING
+bringing	sn:bitcoin	3.31	yes	
+orange dev suite	sn:bitcoin	3.31	yes	
+the merge	sn:bitcoin	3.29	yes	
+hodlonaut	sn:bitcoin	3.29	yes	
+my week trying	sn:Politics_And_Law	3.17	no	RISING
+get rich	sn:Politics_And_Law	3.17	no	RISING
+prediction markets	sn:Politics_And_Law	3.17	no	RISING
+joe nocera	sn:Politics_And_Law	3.17	no	RISING
+the perfect	sn:Stacker_Stocks	3.13	no	RISING
+money stuff	sn:Stacker_Stocks	3.13	no	RISING
+matt levine	sn:Stacker_Stocks	3.13	no	RISING
+slot miner	sn:bitcoin	3.09	yes	
+insider reviews	sn:bitcoinplusplus	3.07	no	RISING
+lodging	sn:bitcoinplusplus	3.07	no	RISING
+wayfaring men	sn:bitcoinplusplus	3.07	no	RISING
+max hillebrand	sn:bitcoinplusplus	3.07	no	RISING
+world cup pool	sn:Stacker_Sports	2.99	no	RISING
+group phase submissions open	sn:Stacker_Sports	2.99	no	RISING
+running	hn	2.97	no	RISING
 where bisq stands after	sn:bitcoin	2.96	yes	
 security incident	sn:bitcoin	2.96	yes	
 biggest channel opened today	sn:lightning	2.92	no	RISING
 new node spotlight	sn:lightning	2.92	no	RISING
-fabrice bellard	hn	2.9	no	RISING
+cantillon effect	sn:bitcoin	2.9	yes	
 stacker sports pod	sn:podcasts	2.9	no	RISING
 episode	sn:podcasts	2.9	no	RISING
 captain clutch	sn:podcasts	2.9	no	RISING
 streak	sn:podcasts	2.9	no	RISING
 knicks	sn:podcasts	2.9	no	RISING
-chipmaker nvidia	sn:Stacker_Stocks	2.9	no	RISING
-open tab	sn:tech	2.88	yes	
-kevin kelly	sn:tech	2.88	yes	
-strc	sn:bitcoin	2.87	yes	
-cantillon effect	sn:bitcoin	2.87	yes	
-austin bitdevs underground	sn:events	2.84	yes	
-june	sn:events	2.84	yes	
-thursday	sn:events	2.84	yes	
-evolution of the latin alphabet	sn:charts_and_maps	2.84	no	RISING
-known	sn:Stacker_Sports	2.82	no	RISING
-meat wall	sn:Stacker_Sports	2.82	no	RISING
+team japan	sn:Stacker_Sports	2.83	no	RISING
+world cup	sn:Stacker_Sports	2.83	no	RISING
+introducing nixpkgs	sn:security	2.79	no	RISING
