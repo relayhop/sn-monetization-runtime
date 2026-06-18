@@ -1,20 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-18T08:47:41.568Z; n=40
-bitcoin	sn:bitcoin,sn:podcasts,sn:bitcoinplusplus	6.3	yes	
-show	hn	5.76	no	RISING
-linux	hn	3.34	no	RISING
-square	sn:bitcoin	3.31	yes	
-revolution	sn:AI	3.26	yes	
-meme	sn:AI	3.26	yes	
+# generated 2026-06-18T12:52:59.403Z; n=40
+bitcoin	sn:bitcoin,sn:podcasts	5.75	yes	
+biggest channel opened today	sn:lightning	5.54	no	RISING
+new node spotlight	sn:lightning	5.54	no	RISING
+square	sn:bitcoin	3.35	yes	
+revolution	sn:AI	3.28	yes	
+meme	sn:AI	3.28	yes	
+cancer	sn:relationships	3.22	no	RISING
 defining	sn:bitcoin	3.19	yes	
-lore	hn	3.05	no	RISING
-open	hn	3.05	no	RISING
+lore	hn	3.07	no	RISING
+open	hn	3.07	no	RISING
 documentary	sn:bitcoin	3.02	yes	
 bigger than bitcoin	sn:bitcoin	3.02	yes	
 scotland fans drink boston dry	sn:Stacker_Sports	3	no	RISING
 local bars run out	sn:Stacker_Sports	3	no	RISING
 beer	sn:Stacker_Sports	3	no	RISING
-cancer	sn:relationships	2.99	no	RISING
+why we introduced	sn:Stacker_Stocks	3	no	RISING
+markets	sn:Stacker_Stocks	3	no	RISING
+our bitcoin community	sn:Stacker_Stocks	3	no	RISING
+midjourney medical	hn	2.97	no	RISING
 closer look	sn:charts_and_maps	2.97	no	RISING
 blowout	sn:charts_and_maps	2.97	no	RISING
 jobs report	sn:charts_and_maps	2.97	no	RISING
@@ -22,21 +26,17 @@ bitcoin optech newsletter	sn:bitcoin	2.93	yes
 recap podcast	sn:bitcoin	2.93	yes	
 illinois governor signs	sn:bitcoin	2.88	yes	
 crypto transaction tax amid industry opposition	sn:bitcoin	2.88	yes	
-biggest channel opened today	sn:lightning	2.85	no	RISING
-new node spotlight	sn:lightning	2.85	no	RISING
 cryptonomicon	sn:bitcoin	2.84	yes	
-midjourney medical	hn	2.82	no	RISING
-volkswagen	hn	2.82	no	RISING
-missing sats	sn:lightning	2.79	no	RISING
-umbrel	sn:lightning	2.79	no	RISING
+snap	sn:tech	2.82	yes	
+post-smartphone	sn:tech	2.82	yes	
+the fed is working	sn:Politics_And_Law	2.81	no	RISING
+cbdc	sn:Politics_And_Law	2.81	no	RISING
 track	sn:DIY	2.75	no	RISING
+block	sn:AI	2.73	yes	
+builderbot	sn:AI	2.73	yes	
 chemosynthesis	sn:science	2.71	no	RISING
 alternative energy	sn:science	2.71	no	RISING
 deep sea creatires	sn:science	2.71	no	RISING
-browse	sn:privacy	2.69	no	RISING
-web like	sn:privacy	2.69	no	RISING
-ghost	sn:privacy	2.69	no	RISING
-private browsing	sn:privacy	2.69	no	RISING
-tracking protection guide	sn:privacy	2.69	no	RISING
-snap	sn:tech	2.69	yes	
-post-smartphone	sn:tech	2.69	yes	
+leak exposes members	sn:news	2.69	no	RISING
+peter thiel	sn:news	2.69	no	RISING
+secretive	sn:news	2.69	no	RISING
