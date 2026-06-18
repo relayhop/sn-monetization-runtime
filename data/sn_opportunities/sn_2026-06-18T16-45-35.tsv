@@ -1,0 +1,60 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1510641	bitcoin	1	1531	0	1	3.0	1014665	192	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink Engineering: Toby Sharp on Hornet an executable spec for Bitcoin consensus
+1510769	bitcoin	1	947	0	3	1.0	21800	490	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	What’s still missing before a business can run its finances on bitcoin?
+1510787	lightning	1	534	0	5	0.7	263526	394	recent@lightning|top@lightning	FRESH,SIGNAL	even if lightning were actually private, scalable, and reliable (it is not)...
+1510639	nostr	1	461	0	6	3.0	30782	24918	recent@nostr|top@nostr	SIGNAL	Shitcoin Party on nostr!
+1510499	bitcoin	1	334	0	2	8.1	1490792	188	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Solo Mining Beats Every National Lottery - Comparison Table
+1510543	bitcoin	1	269	0	4	5.9	166	36574	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	Interesting game / project - Sats 4 trash
+1510489	bitcoin_beginners	1	262	0	0	8.4	296825	4624	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Zeus Release v13.1.0 : Cashu multi-mint, queue-less NWC, CLINK offer support,
+1510527	meta	1	253	0	16	6.5	30782	24918	recent@meta|top@meta	SIGNAL	Problem zapping from attached wallet on second account
+1510610	AGORA	3	238	0	2	3.8	263526	394	recent@lightning|top@lightning	SIGNAL	Marketing Square Bitcoin Payments
+1510625	lightning	1	180	0	0	3.5	440729	148	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03229f869b17b90d2…)
+1510754	bitcoin	1	140	0	2	1.2	1490792	188	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Peach Web is finally here!!!
+1510552	bitcoin	1	138	0	0	5.6	1490792	188	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The History Of Hong Kong's Bitcoin Meetup
+1510597	bitcoin	1	102	0	0	4.1	280679	22103	recent@lightning|top@lightning	SIGNAL	Running a Business on Alby Hub [Part 1]
+1510433	AI	1	2961	0	16	13.9	900202	2400	recent@AI|top@AI	HOT	The AI Revolution is just a Meme
+1510387	bitcoin	1	2253	0	21	16.5	74100	10593	recent@bitcoin|top@bitcoin	HOT	Square terminals now expose Bitcoin toggle to customers
+1510404	bitcoin	1	1564	0	1	15.4	59752	10	recent@bitcoin|top@bitcoin	HOT	Defining 0x50 0x00 as unstructured taproot annex data
+1510314	bitcoin	1	1039	0	1	20.3	296825	4624	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	[Documentary] Bigger Than Bitcoin
+1509818	lightning	1	924	0	10	34.9	1297604	8	recent@lightning		Short Q&A with AuthenticityBTC and u/Sea_Risk_1293 re: Lightning Node Operations
+1510141	bitcoin	1	850	0	1	24.3	1014665	192	recent@bitcoin		Testnet5, private broadcast bug - Bitcoin Optech Newsletter #409 Recap Podcast
+1509984	bitcoin	1	752	0	10	26.9	74100	10593	recent@bitcoin		Illinois Governor Signs 0.2% Crypto Transaction Tax Amid Industry Opposition
+1509958	lightning	1	699	0	4	27.5	440729	148	recent@lightning		Biggest Channel Opened Today (7.2 BTC) + New Node Spotlight (0317bdd399a5fc850…)
+1510301	bitcoin	1	694	0	16	21.0	182100	824	recent@bitcoin|top@bitcoin		Cryptonomicon "email"
+1510411	tech	1	654	0	7	15.2	1	26665	recent@tech|top@tech		Snap unveils $2,195 AR glasses as CEO bets on post-smartphone future
+1509874	lightning	1	616	0	6	31.5	263526	394	recent@lightning		Missing Sats in Umbrel
+1510338	bitcoin	1	572	0	7	19.7	74100	10593	recent@bitcoin|top@bitcoin		mutual switch unlock renew OR king unveils sweet wine to queen in throne room
+1510428	AI	1	542	0	0	14.6	1	26665	recent@tech|top@tech|recent@AI		Block rolls out Builderbot, a suite of AI-native tools changing how they ship
+1510322	lightning	1	499	0	1	20.1	440729	148	recent@lightning|top@lightning		Biggest Channel Opened Today (5.2 BTC) + New Node Spotlight (03d9ae1a0aab2e0c2…)
+1509941	privacy	1	491	0	2	28.2	166	36574	recent@privacy		Browse the Web Like a Ghost | Private Browsing and Tracking Protection Guide
+1509924	bitcoinplusplus	1	488	0	1	29.1	163128	3587	recent@bitcoinplusplus|recent@lightning		[OFFER] P2P Bitcoin trade IRL @ bitcoin++ Nairobi
+1510151	podcasts	2	475	0	1	24.0	996769	36	recent@bitcoin_beginners		🎙️ From Burma to Freedom: Why Bitcoin Is a Human Rights Tool
+1510438	AI	1	446	0	1	13.7	1242375	98	recent@AI|top@AI		Midjourney unveils medical scanner -- is it a joke?
+1509930	AI	1	445	0	1	28.7	296825	4624	recent@AI		Introducing GLM-5.2: Frontier Intelligence, Open Weights
+1509957	bitcoin	1	432	0	1	27.5	166	36574	recent@bitcoin		A good duo talk with Ben Arc and Knut Svanholm
+1510413	security	1	407	0	3	15.0	1	26665	recent@security|top@security|recent@tech		Group Claims Novo Nordisk Hack stealing 1.3 terabytes of data asking $25m ransom
+1509912	privacy	1	401	0	22	29.8	1278026	588	recent@privacy		The under 16 ban is just the beginning...
+1510197	bitcoin_Mining	1	355	0	0	23.2	280679	22103	recent@bitcoin_Mining|top@bitcoin_Mining		Oman Launches National Bitcoin Mining Pool Omanhash
+1510221	AI	1	340	0	4	22.8	280679	22103	recent@AI|top@AI		Americans predict AI’s impact on society, will be more negative than positive
+1510056	meta	1	323	0	4	25.8	36151	1519	recent@meta		What are you working on this week?
+1510180	Design	2	293	0	5	23.5	383547	3191	recent@lightning|top@lightning|recent@nostr	SELF_POST_OPP	Amethyst v1.12.0 add CLINK nOffers and nDebits
+1509918	bitcoin	1	261	0	0	29.3	296825	4624	recent@bitcoin|recent@bitcoin_beginners		Mostro Release v0.17.5: This release adds anti-abuse bonds.
+1510054	AI	1	210	0	0	25.8	984933	1352	recent@AI		Vozinha becomes an anime hero thanks to AI!
+1510169	bitcoinplusplus	1	102	0	2	23.7	296825	4624	recent@bitcoinplusplus|top@bitcoinplusplus|recent@lightning		What if Lightning could communicate, not just transact?
+1510244	tech	1	97	0	1	22.5	458256	4731	recent@lightning|top@lightning		Binance set to lose permission to operate in EU, sources say
+1509911	AGORA	3	85	0	0	29.9	163128	3587	recent@lightning		opago at BTC Prague 2026 as Official Lightning Service Provider
+1510608	lol	2	69	0	0	3.8	280679	22103	recent@AI|top@AI		AI nose uses 'Smell Language Model' to sniff out signs of disease
+1510824	bitcoin_beginners	1	36	0	0	0.2	296825	4624	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	a joint proposal requiring CADCs issuers to run full KYC/AML
+1510571	tech	1	36	0	0	4.9	296825	4624	recent@bitcoin_beginners|top@bitcoin_beginners		Importing Your Wallet Safely With Agentic AQUA
+1510772	bitcoin_beginners	1	36	0	0	1.0	296825	4624	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Sometimes the internet is completely down
+1509893	bitcoin_beginners	1	36	0	2	30.5	296825	4624	recent@bitcoin_beginners|recent@bitdevs		Mostro is looking for an iOS/macOS developer
+1509926	bitcoin_beginners	1	36	0	0	29.0	296825	4624	recent@bitcoin_beginners		Special welcome message from His Worship, Mayor of Blantyre City, to ABC26
+1510409	lightning	1	21	0	1	15.2	1508500	33	recent@lightning|top@lightning		Is the UX Imperative Killing Lightning's Self-Custody Ideal?
+1510799	bitcoin_beginners	1	0	0	0	0.5	296825	4624	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Bitcoin is Money in This Jungle Town
+1510757	lightning	1	0	0	0	1.2	296825	4624	recent@lightning|top@lightning	FRESH	Voltage Credit: Sending and Receiving Bitcoin, but settlement in Fiat?
+1510531	lightning	1	0	0	0	6.4	296825	4624	recent@lightning|top@lightning		Lightning Earn
+1509992	bitcoin	1	0	0	1	26.7	1505714	8	recent@lightning		Your lightning address is probably broken — and nothing will ever tell you
+1509990	security	1	0	0	0	26.8	280679	22103	recent@security		Windows and Linux users: The deadline to update Secure Boot keys is near
+1510190	AI	1	0	0	0	23.4	297791	7580	recent@devs|top@devs|recent@AI		Air: Multitask with agents, stay in control
+1510813	AI	1	0	0	0	0.4	280679	22103	recent@AI|top@AI	FRESH	A Primer on the Great American Artificial Intelligence Act
+1510557	AI	1	0	0	1	5.5	1507735	11	recent@AI|top@AI		Software development
