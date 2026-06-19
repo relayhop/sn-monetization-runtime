@@ -9145,3 +9145,24 @@
 2026-06-19T17:24:25.000Z	1511385	Design	2	109	0	0	1.7	383547	3213	recent@Design|top@Design	FRESH,SIGNAL	Dither Image
 2026-06-19T17:24:25.000Z	1511274	lightning	1	103	0	0	4.2	440729	158	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (034f7596f74aea269…)
 2026-06-19T17:24:25.000Z	1511443	devs	1	102	0	0	0.7	297791	7581	recent@devs|top@devs	FRESH,SIGNAL	Announcing TypeScript 7.0 RC
+2026-06-19T17:30:18.515Z	1511345	bitcoin	1	4674	0	7	2.8	30782	24928	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Discovering Tampa Bay's Bitcoin Community
+2026-06-19T17:30:18.516Z	1511380	bitcoin	1	2845	0	8	1.8	1511350	6	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	I made a Square Bitcoin savings calculator for merchant onboarding
+2026-06-19T17:30:18.516Z	1511251	bitcoin	1	1552	0	5	5.3	1509182	15	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Influencers: How Much They Paid & How Sponsors Shape what we Consume
+2026-06-19T17:30:18.516Z	1511252	bitcoin	1	1101	0	0	5.3	1014665	193	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP125 signaling, ecosystem software updates - Bitcoin Optech Newsletter #410
+2026-06-19T17:30:18.516Z	1511235	AI	1	865	0	10	5.6	12309	3529	recent@AI|top@AI	SIGNAL	Does anything I write matter anymore?
+2026-06-19T17:30:18.516Z	1511260	bitcoin	1	736	0	5	4.9	166	36626	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Influencers: How Sponsor Money Shapes the Signal
+2026-06-19T17:30:18.516Z	1511144	Design	2	579	0	15	9.0	383547	3213	recent@lightning|top@lightning	SIGNAL,SELF_POST_OPP	Best example of UX and UI in wallets
+2026-06-19T17:30:18.516Z	1511247	AI	1	512	0	10	5.4	12309	3529	recent@tech|top@tech|recent@AI	SIGNAL	Elon Musk says China will have a Fable 5-class AI model ‘probably Q1’ next year
+2026-06-19T17:30:18.516Z	1511197	bitcoin	1	494	0	1	6.8	1490792	195	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Running Boltz, One Of The Oldest And Largest Lightning Nodes - Lightning News
+2026-06-19T17:30:18.516Z	1511320	bitcoin_beginners	1	368	0	0	3.2	296825	4639	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Bitdevs Playbook: A practical guide for running technical BitDevs meetups
+2026-06-19T17:30:18.516Z	1511436	bitcoin	1	277	0	0	0.9	74100	10614	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Nimdolf: Non-interactive Mint Delegation on Liveness Failure - luke childs
+2026-06-19T17:30:18.516Z	1511461	bitcoin	1	240	0	1	0.5	296825	4639	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Coconut Wallet v0.13.0 (Educational App v3.13.0) Update Notice
+2026-06-19T17:30:18.516Z	1511112	bitcoin	1	239	0	1	10.6	296825	4639	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bisq Release v1.10.2: All users are strongly encouraged to update ASAP
+2026-06-19T17:30:18.516Z	1511138	AI	1	183	0	0	9.3	296825	4639	recent@AI|top@AI	SIGNAL	Open Source AI Summit
+2026-06-19T17:30:18.516Z	1511193	bitcoin_beginners	1	165	0	0	7.1	30782	24928	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 105
+2026-06-19T17:30:18.516Z	1511267	bitcoin	1	143	0	10	4.8	163128	3595	recent@lightning|top@lightning	SIGNAL	bitway : Cash out bitcoin at any Multibanco in Portugal
+2026-06-19T17:30:18.516Z	1511340	bitcoin_Mining	1	138	0	0	2.9	280679	22145	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Texas: ERCOT framework boosts Bitcoin miners' data centers
+2026-06-19T17:30:18.516Z	1511205	bitcoin	1	136	0	1	6.4	1490792	195	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Lexe - Lightning wallet
+2026-06-19T17:30:18.516Z	1511375	privacy	1	123	0	1	1.9	12309	3529	recent@privacy|top@privacy	FRESH,SIGNAL	Silk Road - The Informant's Gambit
+2026-06-19T17:30:18.516Z	1511274	lightning	1	103	0	0	4.3	440729	158	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (034f7596f74aea269…)
+2026-06-19T17:30:18.516Z	1511443	devs	1	102	0	0	0.8	297791	7581	recent@devs|top@devs	FRESH,SIGNAL	Announcing TypeScript 7.0 RC
