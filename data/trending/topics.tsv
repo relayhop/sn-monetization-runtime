@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-18T23:45:47.749Z; n=40
-bitcoin	sn:bitcoin,sn:podcasts	15.83	yes	
-show	hn	4.2	no	RISING
-rapha zagury	sn:AMA	3.77	no	RISING
-founder	sn:AMA	3.77	no	RISING
-elektron energy	sn:AMA	3.77	no	RISING
-the man who turned everything	sn:bitcoin	3.52	yes	
-disappeared	sn:bitcoin	3.52	yes	
-revolution	sn:AI	3.47	yes	
-meme	sn:AI	3.47	yes	
-cancer	sn:relationships	3.47	no	RISING
-death	sn:Design	3.37	no	RISING
-bureaucracy	sn:Design	3.37	no	RISING
-square	sn:bitcoin	3.35	yes	
+# generated 2026-06-19T09:05:50.540Z; n=40
+bitcoin	sn:bitcoin	10.59	yes	
+show	hn	4.25	no	RISING
+the man who turned everything	sn:bitcoin	4.07	yes	
+disappeared	sn:bitcoin	4.07	yes	
+rapha zagury	sn:AMA	3.83	no	RISING
+founder	sn:AMA	3.83	no	RISING
+elektron energy	sn:AMA	3.83	no	RISING
+federal reserve	sn:Politics_And_Law	3.7	no	RISING
+death	sn:Design	3.39	no	RISING
+bureaucracy	sn:Design	3.39	no	RISING
 why we introduced	sn:Stacker_Stocks	3.3	no	RISING
 markets	sn:Stacker_Stocks	3.3	no	RISING
 our bitcoin community	sn:Stacker_Stocks	3.3	no	RISING
 brink engineering	sn:bitcoin	3.2	yes	
 toby sharp	sn:bitcoin	3.2	yes	
 hornet	sn:bitcoin	3.2	yes	
-defining	sn:bitcoin	3.19	yes	
+zero-timestamp gossip	sn:lightning	3.1	no	RISING
+saylor	sn:Stacker_Stocks	3.04	no	RISING
 the fed is working	sn:Politics_And_Law	3.03	no	RISING
 cbdc	sn:Politics_And_Law	3.03	no	RISING
-saylor	sn:Stacker_Stocks	3.01	no	RISING
 what	sn:bitcoin	3	yes	
-federal reserve	sn:Politics_And_Law	2.96	no	RISING
 quantum	sn:bitcoin	2.93	yes	
 the history of hong kong	sn:bitcoin	2.92	yes	
 bitcoin meetup	sn:bitcoin	2.92	yes	
-zeus release	sn:bitcoin_beginners	2.91	no	RISING
-cashu	sn:bitcoin_beginners	2.91	no	RISING
-multi-mint	sn:bitcoin_beginners	2.91	no	RISING
-queue-less	sn:bitcoin_beginners	2.91	no	RISING
-clink	sn:bitcoin_beginners	2.91	yes	
-architectural marvels	sn:japan	2.91	no	RISING
-tadao ando	sn:japan	2.91	no	RISING
-zero-timestamp gossip	sn:lightning	2.87	no	RISING
-block	sn:AI	2.86	yes	
-builderbot	sn:AI	2.86	yes	
-swiss	hn	2.82	no	RISING
-snap	sn:tech	2.82	yes	
+architectural marvels	sn:japan	2.92	no	RISING
+tadao ando	sn:japan	2.92	no	RISING
+trojan	hn	2.89	no	RISING
+accountable computing on-chain contracts	sn:bitcoin	2.83	yes	
+agents supervision	sn:bitcoin	2.83	yes	
+america doesn	sn:Politics_And_Law	2.82	no	RISING
+need	sn:Politics_And_Law	2.82	no	RISING
+new east india company	sn:Politics_And_Law	2.82	no	RISING
+ryzen	sn:tech	2.76	yes	
+tonight	sn:events	2.74	yes	
+austin bitdevs underground june edition	sn:events	2.74	yes	
+shitcoin party	sn:nostr	2.68	yes	
+before	sn:Stacker_Stocks	2.66	no	RISING
+china	sn:Stacker_Stocks	2.66	no	RISING
+here	sn:Stacker_Stocks	2.66	no	RISING
+which	sn:Stacker_Sports	2.65	no	RISING
