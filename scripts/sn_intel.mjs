@@ -21,8 +21,9 @@ async function gql(query, variables = {}) {
     headers: { 'content-type': 'application/json', 'apollographql-client-name': 'web', 'user-agent': 'Mozilla/5.0' },
     body: JSON.stringify({ query, variables }),
   });
+  if (!r.ok) return { error: `HTTP ${r.status}`, status: r.status };
   const text = await r.text();
-  try { return JSON.parse(text); } catch { return { raw: text.slice(0,150) }; }
+  try { return JSON.parse(text); } catch { return { error: 'Invalid JSON', raw: text.slice(0,150), status: r.status }; }
 }
 
 async function topUsers() {
