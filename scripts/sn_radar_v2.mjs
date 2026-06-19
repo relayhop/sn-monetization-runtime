@@ -24,8 +24,9 @@ const MAX_COMMENTS_FOR_LOW_COMP = 5;
 const LOOKBACK_HOURS = 36;          // T1 用 36h 而非 24h，看 SIGNAL 邊界
 
 const ARGV = process.argv.slice(2);
+const tierIdx = ARGV.indexOf('--tier');
 const TIER_FLAG = ARGV.find(a => a.startsWith('--tier='))?.slice(7)
-                 || ARGV[ARGV.indexOf('--tier') + 1]
+                 || (tierIdx !== -1 && ARGV[tierIdx + 1])
                  || '1';
 const TIERS = TIER_FLAG.split(',').map(t => t.trim());
 const isJson = ARGV.includes('--json');

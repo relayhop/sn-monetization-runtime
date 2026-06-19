@@ -25,12 +25,21 @@ function extractKeywords(text) {
 }
 
 async function fetchHN() {
-  const ids = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json').then(r => r.json());
-  const top = ids.slice(0, 30);
-  const stories = await Promise.all(top.map(id =>
-    fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r => r.json()).catch(() => null)
-  ));
-  return stories.filter(Boolean).map(s => ({ source: 'hn', text: s.title || '', score: s.score || 0 }));
+  try {
+    const r = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+    if (!r.ok) return [];
+    const ids = await r.json();
+    const top = ids.slice(0, 30);
+    const stories = await Promise.all(top.map(id =>
+      fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`)
+        .then(r => r.ok ? r.json() : null)
+        .catch(() => null)
+    ));
+    return stories.filter(Boolean).map(s => ({ source: 'hn', text: s.title || '', score: s.score || 0 }));
+  } catch (e) {
+    console.error(`[trending] fetchHN error: ${e.message}`);
+    return [];
+  }
 }
 
 async function fetchSNTop() {
@@ -40,8 +49,11 @@ async function fetchSNTop() {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ query: q }),
-    }).then(r => r.json());
-    return (r.data?.items?.items || []).map(i => ({
+    });
+    if (!r.ok) { console.error(`[trending] sn top HTTP ${r.status}`); return []; }
+    const j = await r.json();
+    if (j.errors) { console.error(`[trending] sn top errors: ${JSON.stringify(j.errors)}`); return []; }
+    return (j.data?.items?.items || []).map(i => ({
       source: `sn:${i.sub?.name || 'main'}`,
       text: i.title || '',
       score: i.sats || 0,
@@ -58,9 +70,14 @@ async function fetchSNRecent() {
       const r = await fetch('https://stacker.news/api/graphql', {
         method: 'POST', headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ query: q, variables: { s: sub } }),
-      }).then(r => r.json());
-      for (const it of r.data?.items?.items || []) out.push({ sub, title: it.title || '' });
-    } catch {}
+      });
+      if (!r.ok) continue;
+      const j = await r.json();
+      if (j.errors) continue;
+      for (const it of j.data?.items?.items || []) out.push({ sub, title: it.title || '' });
+    } catch (e) {
+      console.error(`[trending] fetchSNRecent ${sub}: ${e.message}`);
+    }
   }
   return out;
 }
