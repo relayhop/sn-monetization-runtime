@@ -1,32 +1,27 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-21T08:35:02.646Z; n=40
-round	sn:Stacker_Sports	4.93	no	RISING
-show	hn	4.49	no	RISING
-linux	hn	4.44	no	RISING
-what is	sn:Stacker_Stocks	3.25	no	RISING
-point	sn:Stacker_Stocks	3.25	no	RISING
-buffett	sn:Stacker_Stocks	3.25	no	RISING
-old berkshire hathaway	sn:Stacker_Stocks	3.25	no	RISING
-robert armstrong	sn:Stacker_Stocks	3.25	no	RISING
+# generated 2026-06-21T12:10:39.793Z; n=40
+round	sn:Stacker_Sports	4.99	no	RISING
+linux	hn	4.64	no	RISING
+what is	sn:Stacker_Stocks	3.26	no	RISING
+point	sn:Stacker_Stocks	3.26	no	RISING
+buffett	sn:Stacker_Stocks	3.26	no	RISING
+old berkshire hathaway	sn:Stacker_Stocks	3.26	no	RISING
+robert armstrong	sn:Stacker_Stocks	3.26	no	RISING
 new york knicks logo font generator	sn:Stacker_Sports	3.13	no	RISING
 latest strikes	sn:bitcoin	3.06	yes	
 june	sn:bitcoin	3.06	yes	
 daily stock discussion	sn:Stacker_Stocks	3.03	no	RISING
-world cup pool	sn:Stacker_Sports	3	no	RISING
-standings	sn:Stacker_Sports	3	no	RISING
-keir starmer	sn:bitcoin	2.96	yes	
-wanker	sn:bitcoin	2.96	yes	
-nonce	sn:bitcoin	2.96	yes	
-reason	sn:bitcoin	2.96	yes	
-reem ibrahim	sn:bitcoin	2.96	yes	
+keir starmer	sn:bitcoin	2.97	yes	
+wanker	sn:bitcoin	2.97	yes	
+nonce	sn:bitcoin	2.97	yes	
+reason	sn:bitcoin	2.97	yes	
+reem ibrahim	sn:bitcoin	2.97	yes	
 daily putt	sn:gaming	2.76	no	RISING
 help	sn:Stacker_Sports	2.73	no	RISING
+where	sn:bitcoin	2.72	yes	
+bitcoin	sn:bitcoin	2.72	yes	
 tower moment	sn:art	2.7	no	RISING
-where	sn:bitcoin	2.69	yes	
-bitcoin	sn:bitcoin	2.69	yes	
 fountain codes	sn:math	2.61	yes	
-daily discussion thread	sn:Music	2.6	no	RISING
-music saloon	sn:Music	2.6	no	RISING
 radio	sn:podcasts	2.6	no	RISING
 network	sn:podcasts	2.6	no	RISING
 cloak	sn:podcasts	2.6	no	RISING
@@ -35,8 +30,13 @@ guest	sn:podcasts	2.6	no	RISING
 max hillebrand	sn:podcasts	2.6	no	RISING
 vonu	sn:podcasts	2.6	no	RISING
 cities	sn:podcasts	2.6	no	RISING
+survivor pool	sn:Stacker_Sports	2.6	no	RISING
+week	sn:Stacker_Sports	2.6	no	RISING
+pick submissions	sn:Stacker_Sports	2.6	no	RISING
 million-dollar	sn:DIY	2.6	no	RISING
 pcba	sn:DIY	2.6	no	RISING
 precision	sn:DIY	2.6	no	RISING
 just	sn:DIY	2.6	no	RISING
 live	sn:bitcoin	2.59	yes	
+today	sn:bitcoin	2.59	yes	
+saturday newsletter	sn:meta	2.59	yes	
