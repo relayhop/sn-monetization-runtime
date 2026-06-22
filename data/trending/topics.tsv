@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-22T19:28:27.367Z; n=40
-show	hn	6.83	no	RISING
-alan greenspan	hn,sn:news	4.9	no	RISING
+# generated 2026-06-22T23:19:52.840Z; n=40
+show	hn	4.18	no	RISING
 game day	sn:Stacker_Sports	3.43	no	RISING
 place	sn:Stacker_Sports	3.43	no	RISING
 egypt	sn:Stacker_Sports	3.43	no	RISING
 new zealand	sn:Stacker_Sports	3.43	no	RISING
 great way	sn:Stacker_Sports	3.43	no	RISING
 spend father	sn:Stacker_Sports	3.43	no	RISING
-book review	sn:the_stacker_muse	3.4	no	RISING
-the stolguard incident	sn:the_stacker_muse	3.4	no	RISING
-lyn alden	sn:the_stacker_muse	3.4	no	RISING
+book review	sn:the_stacker_muse	3.41	no	RISING
+the stolguard incident	sn:the_stacker_muse	3.41	no	RISING
+lyn alden	sn:the_stacker_muse	3.41	no	RISING
 deep monetary economics	sn:BooksAndArticles	3.27	no	RISING
 oslo	sn:BooksAndArticles	3.27	no	RISING
 satoshi talks	sn:BooksAndArticles	3.27	no	RISING
 btchel	sn:BooksAndArticles	3.27	no	RISING
 news	sn:BooksAndArticles	3.27	no	RISING
 last	sn:Stacker_Sports	3.21	no	RISING
-daily	sn:history	3.08	no	RISING
-lore	sn:history	3.08	no	RISING
-fatf	sn:history	3.08	no	RISING
-extends travel rule	sn:history	3.08	no	RISING
-bitcoin	sn:history	3.08	yes	
-claude identity verification starts july	sn:AI	3.07	yes	
-what facial data anthropic collects	sn:AI	3.07	yes	
+claude identity verification starts july	sn:AI	3.09	yes	
+what facial data anthropic collects	sn:AI	3.09	yes	
+shall	sn:lightning	3.04	no	RISING
+parasite pool got	sn:bitcoin_Mining	3.04	no	RISING
+block	sn:bitcoin_Mining	3.04	yes	
 slop	sn:AI	3.03	yes	
 the economist	sn:AI	3.03	yes	
+steam machine	hn	3.02	no	RISING
+matters more than ever	sn:bitcoin	3.01	yes	
+comparing	sn:AI	3.01	yes	
+claude	sn:AI	3.01	yes	
+part	sn:AI	3.01	yes	
+analysis	sn:AI	3.01	yes	
+deno desktop	hn	3	no	RISING
 privately	sn:bitcoin	3	yes	
-shall	sn:lightning	2.99	no	RISING
-deno desktop	hn	2.97	no	RISING
-matters more than ever	sn:bitcoin	2.97	yes	
-keir starmer	sn:news	2.97	no	RISING
-biggest channel opened today	sn:lightning	2.94	no	RISING
-new node spotlight	sn:lightning	2.94	no	RISING
-sayings	sn:the_stacker_muse	2.91	no	RISING
-gigi	sn:the_stacker_muse	2.91	no	RISING
-match day world cup dallas	sn:Stacker_Sports	2.89	no	RISING
-overton shifting	sn:Politics_And_Law	2.89	no	RISING
-the right left me but	sn:Politics_And_Law	2.89	no	RISING
-left wasn	sn:Politics_And_Law	2.89	no	RISING
-right	sn:Politics_And_Law	2.89	no	RISING
+the heretic	sn:AI	2.98	yes	
+guide	sn:AI	2.98	yes	
+stars part	sn:AI	2.98	yes	
+tracepalooza	sn:AI	2.98	yes	
+bezzle	sn:AI	2.98	yes	
+burry	sn:AI	2.98	yes	
+keir starmer	sn:news	2.98	no	RISING
+sparrow	sn:bitcoin	2.96	yes	
+world cup pool	sn:Stacker_Sports	2.95	no	RISING
