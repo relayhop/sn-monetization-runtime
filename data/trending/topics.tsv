@@ -1,15 +1,16 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-23T07:50:11.595Z; n=40
-show	hn	5.49	no	RISING
-matters more than ever	sn:bitcoin	3.7	yes	
-book review	sn:the_stacker_muse	3.41	no	RISING
-the stolguard incident	sn:the_stacker_muse	3.41	no	RISING
-lyn alden	sn:the_stacker_muse	3.41	no	RISING
+# generated 2026-06-23T12:32:46.375Z; n=40
+show	hn	6.23	no	RISING
+matters more than ever	sn:bitcoin	3.71	yes	
+book review	sn:the_stacker_muse	3.42	no	RISING
+the stolguard incident	sn:the_stacker_muse	3.42	no	RISING
+lyn alden	sn:the_stacker_muse	3.42	no	RISING
 deep monetary economics	sn:BooksAndArticles	3.27	no	RISING
 oslo	sn:BooksAndArticles	3.27	no	RISING
 satoshi talks	sn:BooksAndArticles	3.27	no	RISING
 btchel	sn:BooksAndArticles	3.27	no	RISING
 news	sn:BooksAndArticles	3.27	no	RISING
+steam machine	hn	3.23	no	RISING
 last	sn:Stacker_Sports	3.21	no	RISING
 bagholders	sn:bitcoin	3.21	yes	
 bitcoiners	sn:bitcoin	3.21	yes	
@@ -17,12 +18,11 @@ strategy	sn:bitcoin	3.21	yes
 dilution	sn:bitcoin	3.21	yes	
 service	sn:bitcoin	3.21	yes	
 craig coben	sn:bitcoin	3.21	yes	
-steam machine	hn	3.18	no	RISING
-stretch unpegged	sn:Stacker_Stocks	3.16	no	RISING
-bank runs	sn:Stacker_Stocks	3.16	no	RISING
-strategy bank	sn:Stacker_Stocks	3.16	no	RISING
-money stuff	sn:Stacker_Stocks	3.16	no	RISING
-matt levine	sn:Stacker_Stocks	3.16	no	RISING
+stretch unpegged	sn:Stacker_Stocks	3.18	no	RISING
+bank runs	sn:Stacker_Stocks	3.18	no	RISING
+strategy bank	sn:Stacker_Stocks	3.18	no	RISING
+money stuff	sn:Stacker_Stocks	3.18	no	RISING
+matt levine	sn:Stacker_Stocks	3.18	no	RISING
 women	sn:charts_and_maps	3.12	no	RISING
 claude identity verification starts july	sn:AI	3.09	yes	
 what facial data anthropic collects	sn:AI	3.09	yes	
@@ -35,8 +35,8 @@ tracepalooza	sn:AI	3.07	yes
 bezzle	sn:AI	3.07	yes	
 burry	sn:AI	3.07	yes	
 shall	sn:lightning	3.04	no	RISING
-keir starmer	sn:news	3.01	no	RISING
 comparing	sn:AI	3.01	yes	
 claude	sn:AI	3.01	yes	
 part	sn:AI	3.01	yes	
 analysis	sn:AI	3.01	yes	
+sparrow	sn:bitcoin	3	yes	
