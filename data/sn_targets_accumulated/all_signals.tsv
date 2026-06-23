@@ -10170,3 +10170,18 @@
 2026-06-23T18:08:39.138Z	1513438	econ	2	123	0	0	4.0	88718	44672	recent@econ|top@econ	SIGNAL	How Much Inequality Is There? Depends on How It’s Measured
 2026-06-23T18:08:39.138Z	1513491	news	2	103	0	0	3.0	296825	4682	recent@econ|top@econ|recent@news	SIGNAL	US Senate Bans Federal Reserve CBDC in Housing Bill
 2026-06-23T18:08:39.138Z	1513436	bitcoin	1	100	0	1	4.2	296825	4682	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
+2026-06-23T18:24:46.434Z	1513377	bitcoin_Mining	1	1182	0	14	6.2	30782	24949	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Quick update on my Canaan Avalon 3s miner after 15 months of use
+2026-06-23T18:24:46.434Z	1513478	AI	1	1094	0	2	3.5	238412	174	recent@tech|top@tech|recent@AI	HOT,SIGNAL	AI KYC is Here!
+2026-06-23T18:24:46.434Z	1513293	bitcoin	1	748	0	2	10.3	263526	414	recent@bitcoin|top@bitcoin	SIGNAL	Phishing Attempt: The "Post-Quantum" Snail Mail Scam targeting Coldcards 🐌📦
+2026-06-23T18:24:46.434Z	1513576	AI	1	748	0	3	1.6	74100	10710	recent@AI|top@AI	FRESH,SIGNAL	qwenstradamus — pay a few bucks to get a model trained on your tweets
+2026-06-23T18:24:46.434Z	1513408	lightning	1	696	0	2	5.2	440729	170	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (031995631357d83e3…)
+2026-06-23T18:24:46.434Z	1513476	AskSN	2	674	0	6	3.5	296825	4682	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What Is Bitcoin's Biggest Challenge?
+2026-06-23T18:24:46.434Z	1513351	lol	2	621	0	11	7.5	280679	22190	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	Lawyer wants Satoshi’s anonymous ‘finder’ to drop the mask
+2026-06-23T18:24:46.434Z	1513477	bitcoin	1	578	0	9	3.5	163128	3610	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Ashigaru v1.0 Now Available for for Desktop
+2026-06-23T18:24:46.434Z	1513262	events	3	445	0	1	12.0	1	26701	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Map of BitDevs Meetups Around The World
+2026-06-23T18:24:46.434Z	1513617	bitcoin	1	437	0	1	0.2	74100	10710	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+2026-06-23T18:24:46.434Z	1513410	AI	1	410	0	0	5.1	280679	22190	recent@AI|top@AI	SIGNAL	How to burst the AI bubble: Strike at its roots
+2026-06-23T18:24:46.434Z	1513357	AI	1	240	0	0	7.3	296825	4682	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI	SIGNAL	Japan Drops a Frontier AI Model Ten Days After the U.S. Shut Down Anthropic's
+2026-06-23T18:24:46.434Z	1513525	bitcoin_beginners	1	169	0	3	2.6	280679	22190	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Standard Ep.1 | Your Parents Didn't Save Better Than You
+2026-06-23T18:24:46.434Z	1513372	bitcoin	1	157	0	1	6.4	1490792	223	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Bitcoin Developers Want to Remove an Old Wallet Feature to Improve Privacy
+2026-06-23T18:24:46.434Z	1513436	bitcoin	1	100	0	1	4.4	296825	4682	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
