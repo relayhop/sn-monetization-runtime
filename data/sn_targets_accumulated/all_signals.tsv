@@ -10293,3 +10293,24 @@
 2026-06-23T22:21:23.198Z	1513491	news	2	103	0	0	7.2	296825	4683	recent@econ|top@econ|recent@news	SIGNAL	US Senate Bans Federal Reserve CBDC in Housing Bill
 2026-06-23T22:21:23.198Z	1513536	Politics_And_Law	3	102	0	0	6.3	280679	22192	recent@econ|top@econ	SIGNAL	Federal Government Spending Is a Leaky Bucket
 2026-06-23T22:21:23.198Z	1513436	bitcoin	1	100	0	1	8.4	296825	4683	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
+2026-06-23T23:31:01.003Z	1513377	bitcoin_Mining	1	1344	0	22	11.3	30782	24950	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Quick update on my Canaan Avalon 3s miner after 15 months of use
+2026-06-23T23:31:01.003Z	1513478	AI	1	1219	0	2	8.6	238412	174	recent@tech|top@tech|recent@AI	HOT,SIGNAL	AI KYC is Here!
+2026-06-23T23:31:01.003Z	1513661	privacy	1	1157	0	6	4.2	273359	447	recent@privacy|top@privacy	HOT,SIGNAL	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+2026-06-23T23:31:01.003Z	1513709	bitcoin	1	1138	0	2	2.5	984933	1372	recent@bitcoin|top@bitcoin	HOT,SIGNAL	[HM] - The Hacker Who Left Bitcoin to Go to War
+2026-06-23T23:31:01.003Z	1513683	meta	1	867	0	22	3.2	223678	5715	recent@meta|top@meta	SIGNAL	Downzaps Censoring in Practice
+2026-06-23T23:31:01.003Z	1513645	AI	1	859	0	2	4.5	879734	7471	recent@AI|top@AI	SIGNAL	Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+2026-06-23T23:31:01.003Z	1513576	AI	1	753	0	3	6.7	74100	10732	recent@AI|top@AI	SIGNAL	qwenstradamus — pay a few bucks to get a model trained on your tweets
+2026-06-23T23:31:01.003Z	1513408	lightning	1	696	0	2	10.3	440729	170	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (031995631357d83e3…)
+2026-06-23T23:31:01.003Z	1513476	AskSN	2	674	0	8	8.6	296825	4685	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What Is Bitcoin's Biggest Challenge?
+2026-06-23T23:31:01.003Z	1513477	bitcoin	1	610	0	10	8.6	163128	3610	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Ashigaru v1.0 Now Available for for Desktop
+2026-06-23T23:31:01.003Z	1513410	AI	1	599	0	0	10.3	280679	22193	recent@AI|top@AI	SIGNAL	How to burst the AI bubble: Strike at its roots
+2026-06-23T23:31:01.003Z	1513617	bitcoin	1	536	0	3	5.3	74100	10732	recent@bitcoin|top@bitcoin	SIGNAL	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+2026-06-23T23:31:01.003Z	1513753	bitcoin	1	472	0	0	0.9	296825	4685	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+2026-06-23T23:31:01.003Z	1513640	bitcoin	1	457	0	0	4.7	296825	4685	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Sparrow Wallet on MacOS is safe
+2026-06-23T23:31:01.003Z	1513624	bitcoin	1	341	0	2	5.0	74100	10732	recent@bitcoin|top@bitcoin	SIGNAL	draft escrow module for fedimint - harsh dev
+2026-06-23T23:31:01.003Z	1513736	security	1	280	0	0	1.7	297791	7586	recent@security|top@security	FRESH,SIGNAL	Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+2026-06-23T23:31:01.003Z	1513682	nostr	1	265	0	0	3.3	74100	10732	recent@nostr|top@nostr	SIGNAL	cordn-adhoc - sandwichfarm
+2026-06-23T23:31:01.003Z	1513525	bitcoin_beginners	1	211	0	3	7.7	280679	22193	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Standard Ep.1 | Your Parents Didn't Save Better Than You
+2026-06-23T23:31:01.003Z	1513372	bitcoin	1	168	0	2	11.5	1490792	224	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Bitcoin Developers Want to Remove an Old Wallet Feature to Improve Privacy
+2026-06-23T23:31:01.003Z	1513751	meta	1	102	0	5	1.0	273359	447	recent@meta|top@meta	FRESH,SIGNAL	Capitalize my name?
+2026-06-23T23:31:01.003Z	1513436	bitcoin	1	100	0	1	9.6	296825	4685	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
