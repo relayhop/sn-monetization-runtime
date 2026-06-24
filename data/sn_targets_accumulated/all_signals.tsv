@@ -10314,3 +10314,36 @@
 2026-06-23T23:31:01.003Z	1513372	bitcoin	1	168	0	2	11.5	1490792	224	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Bitcoin Developers Want to Remove an Old Wallet Feature to Improve Privacy
 2026-06-23T23:31:01.003Z	1513751	meta	1	102	0	5	1.0	273359	447	recent@meta|top@meta	FRESH,SIGNAL	Capitalize my name?
 2026-06-23T23:31:01.003Z	1513436	bitcoin	1	100	0	1	9.6	296825	4685	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
+2026-06-24T00:06:27.451Z	1513553	the_stacker_muse	3	8390	0	22	7.7	92827	2717	recent@ideasfromtheedge|top@ideasfromtheedge	HOT,SIGNAL	Thoughts at the close of my First Trimester
+2026-06-24T00:06:27.451Z	1513531	Stacker_Stocks	2	1822	0	2	8.2	724606	10893	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	Den's Strategy Watch: A Distressed Stretch (SA, Stony Chambers)
+2026-06-24T00:06:27.451Z	1513709	bitcoin	1	1510	0	3	3.1	984933	1372	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	[HM] - The Hacker Who Left Bitcoin to Go to War
+2026-06-24T00:06:27.451Z	1513377	bitcoin_Mining	1	1344	0	22	11.9	30782	24950	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Quick update on my Canaan Avalon 3s miner after 15 months of use
+2026-06-24T00:06:27.451Z	1513478	AI	1	1224	0	2	9.2	238412	174	recent@tech|top@tech|recent@AI	HOT,SIGNAL	AI KYC is Here!
+2026-06-24T00:06:27.451Z	1513661	privacy	1	1157	0	6	4.8	273359	447	recent@privacy|top@privacy	HOT,SIGNAL	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+2026-06-24T00:06:27.451Z	1513717	science	2	1050	0	2	2.9	401865	8194	recent@science|top@science	HOT,SIGNAL	China Takes Supercomputer Crown From U.S. for First Time Since 2017 (NYT)
+2026-06-24T00:06:27.451Z	1513683	meta	1	867	0	23	3.8	223678	5715	recent@meta|top@meta	SIGNAL	Downzaps Censoring in Practice
+2026-06-24T00:06:27.451Z	1513645	AI	1	859	0	2	5.1	879734	7471	recent@AI|top@AI	SIGNAL	Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+2026-06-24T00:06:27.452Z	1513576	AI	1	753	0	3	7.3	74100	10732	recent@AI|top@AI	SIGNAL	qwenstradamus — pay a few bucks to get a model trained on your tweets
+2026-06-24T00:06:27.452Z	1513408	lightning	1	696	0	2	10.9	440729	170	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (031995631357d83e3…)
+2026-06-24T00:06:27.452Z	1513476	AskSN	2	679	0	8	9.2	296825	4686	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What Is Bitcoin's Biggest Challenge?
+2026-06-24T00:06:27.452Z	1513477	bitcoin	1	615	0	10	9.2	163128	3610	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Ashigaru v1.0 Now Available for for Desktop
+2026-06-24T00:06:27.452Z	1513410	AI	1	599	0	0	10.8	280679	22193	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	How to burst the AI bubble: Strike at its roots
+2026-06-24T00:06:27.452Z	1513508	charts_and_maps	2	594	0	2	8.6	88718	44685	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Real Wages Fell for the Second Month as Price Inflation Surged
+2026-06-24T00:06:27.452Z	1513703	BooksAndArticles	2	574	0	7	3.1	1493819	25	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	Do you finish every book you start reading?
+2026-06-24T00:06:27.452Z	1513617	bitcoin	1	536	0	3	5.9	74100	10732	recent@bitcoin|top@bitcoin	SIGNAL	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+2026-06-24T00:06:27.452Z	1513753	bitcoin	1	472	0	0	1.5	296825	4686	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+2026-06-24T00:06:27.452Z	1513640	bitcoin	1	462	0	0	5.2	296825	4686	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Sparrow Wallet on MacOS is safe
+2026-06-24T00:06:27.452Z	1513394	history	2	433	0	0	11.4	280679	22193	recent@econ|top@econ|recent@history	SIGNAL	When Congress Waged War on Cheap Groceries
+2026-06-24T00:06:27.452Z	1513624	bitcoin	1	341	0	2	5.5	74100	10732	recent@bitcoin|top@bitcoin	SIGNAL	draft escrow module for fedimint - harsh dev
+2026-06-24T00:06:27.452Z	1513586	Politics_And_Law	3	296	0	0	6.9	88718	44685	recent@econ|top@econ	SIGNAL	The Musk Trillionaire Panic Is a Distraction
+2026-06-24T00:06:27.452Z	1513736	security	1	280	0	0	2.3	297791	7586	recent@security|top@security	SIGNAL	Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+2026-06-24T00:06:27.452Z	1513668	econ	2	274	0	1	4.6	12309	3535	recent@econ|top@econ	SIGNAL	Zuckerberg Wants Prediction Market App For Meta
+2026-06-24T00:06:27.452Z	1513682	nostr	1	265	0	0	3.9	74100	10732	recent@nostr|top@nostr	SIGNAL	cordn-adhoc - sandwichfarm
+2026-06-24T00:06:27.452Z	1513525	bitcoin_beginners	1	211	0	3	8.3	280679	22193	recent@bitcoin_beginners|top@bitcoin_beginners|recent@econ	SIGNAL	The Standard Ep.1 | Your Parents Didn't Save Better Than You
+2026-06-24T00:06:27.452Z	1513499	Design	2	204	0	0	8.7	383547	3231	recent@Design|top@Design	SIGNAL	Product Design Psychology
+2026-06-24T00:06:27.452Z	1513481	news	2	199	0	0	9.1	88718	44685	recent@econ|top@econ|recent@news	SIGNAL	Alan Greenspan Dies at 100
+2026-06-24T00:06:27.452Z	1513438	econ	2	123	0	0	9.9	88718	44685	recent@econ|top@econ	SIGNAL	How Much Inequality Is There? Depends on How It’s Measured
+2026-06-24T00:06:27.452Z	1513491	news	2	103	0	0	8.9	296825	4686	recent@econ|top@econ|recent@news	SIGNAL	US Senate Bans Federal Reserve CBDC in Housing Bill
+2026-06-24T00:06:27.452Z	1513751	meta	1	102	0	5	1.6	273359	447	recent@meta|top@meta	FRESH,SIGNAL	Capitalize my name?
+2026-06-24T00:06:27.452Z	1513536	Politics_And_Law	3	102	0	0	8.0	280679	22193	recent@econ|top@econ	SIGNAL	Federal Government Spending Is a Leaky Bucket
+2026-06-24T00:06:27.452Z	1513436	bitcoin	1	100	0	1	10.1	296825	4686	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
