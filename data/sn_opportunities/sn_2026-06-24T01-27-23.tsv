@@ -1,0 +1,64 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1513709	bitcoin	1	1573	0	3	4.4	984933	1372	recent@bitcoin|top@bitcoin	HOT,SIGNAL	[HM] - The Hacker Who Left Bitcoin to Go to War
+1513478	AI	1	1245	0	2	10.5	238412	174	recent@tech|top@tech|recent@AI	HOT,SIGNAL	AI KYC is Here!
+1513661	privacy	1	1157	0	6	6.2	273359	448	recent@privacy|top@privacy	HOT,SIGNAL	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+1513683	meta	1	909	0	23	5.2	223678	5715	recent@meta|top@meta	SIGNAL	Downzaps Censoring in Practice
+1513645	AI	1	859	0	2	6.5	879734	7471	recent@AI|top@AI	SIGNAL	Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+1513576	AI	1	753	0	3	8.6	74100	10734	recent@AI|top@AI	SIGNAL	qwenstradamus — pay a few bucks to get a model trained on your tweets
+1513476	AskSN	2	679	0	8	10.6	296825	4686	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	What Is Bitcoin's Biggest Challenge?
+1513753	bitcoin	1	634	0	0	2.8	296825	4686	recent@bitcoin|top@bitcoin	SIGNAL	Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+1513477	bitcoin	1	615	0	10	10.5	163128	3610	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Ashigaru v1.0 Now Available for for Desktop
+1513617	bitcoin	1	536	0	3	7.2	74100	10734	recent@bitcoin|top@bitcoin	SIGNAL	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+1513640	bitcoin	1	462	0	0	6.6	296825	4686	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Sparrow Wallet on MacOS is safe
+1513624	bitcoin	1	341	0	2	6.9	74100	10734	recent@bitcoin|top@bitcoin	SIGNAL	draft escrow module for fedimint - harsh dev
+1513736	security	1	280	0	0	3.7	297791	7586	recent@security|top@security	SIGNAL	Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+1513682	nostr	1	265	0	0	5.2	74100	10734	recent@nostr|top@nostr	SIGNAL	cordn-adhoc - sandwichfarm
+1513525	bitcoin_beginners	1	211	0	3	9.7	280679	22193	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Standard Ep.1 | Your Parents Didn't Save Better Than You
+1513751	meta	1	125	0	6	2.9	273359	448	recent@meta|top@meta	SIGNAL	Capitalize my name?
+1513436	bitcoin	1	100	0	1	11.5	296825	4686	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	When Payments Fail, People Die
+1513227	bitcoin	1	6050	0	7	23.0	74100	10734	recent@bitcoin|top@bitcoin|recent@privacy	HOT	State of the transaction privacy work in Bitcoin - delving
+1513175	bitcoin	1	1631	0	4	25.8	724606	10893	recent@bitcoin	HOT	Bagholders and Bitcoiners: Strategy's Dilution as a Service (FT, Craig Coben)
+1513377	bitcoin_Mining	1	1344	0	22	13.3	30782	24950	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Quick update on my Canaan Avalon 3s miner after 15 months of use
+1513036	bitcoin_Mining	1	1210	0	4	30.9	1028548	469	recent@bitcoin_Mining	HOT	Parasite Pool Got a Block!
+1513118	AI	1	1167	0	7	28.1	74100	10734	recent@AI	HOT	The Heretic’s Guide to AI’s Stars Part III: Tracepalooza & the Bezzle - Burry
+1512925	lightning	1	1128	0	4	33.8	263526	414	recent@lightning	HOT	Shall I get my sats out of lightning if we have a chain split?
+1513057	AI	1	1054	0	2	30.2	879734	7471	recent@AI	HOT	Comparing alternative models with Claude in production - Part 1 - Analysis
+1513102	bitcoin	1	1010	0	9	28.9	1278026	608	recent@bitcoin	HOT	craigraw from Sparrow plea for help
+1512886	bitcoin	1	808	0	3	34.4	74100	10734	recent@bitcoin		The Blockstream Mining Note Accusations - BitMex Research
+1513293	bitcoin	1	769	0	2	17.3	263526	414	recent@bitcoin|top@bitcoin		Phishing Attempt: The "Post-Quantum" Snail Mail Scam targeting Coldcards 🐌📦
+1513111	bitcoin_beginners	1	748	0	8	28.6	296825	4686	recent@bitcoin_beginners|recent@lightning		A quick note to Lightning node operators
+1513408	lightning	1	696	0	2	12.2	440729	170	recent@lightning|top@lightning		Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (031995631357d83e3…)
+1513116	nostr	1	678	0	0	28.1	223678	5715	recent@nostr		NIP-SPACES: a sovereign alternative to NIP-05
+1513351	lol	2	621	0	12	14.6	280679	22193	recent@bitcoin|top@bitcoin	SELF_POST_OPP	Lawyer wants Satoshi’s anonymous ‘finder’ to drop the mask
+1513410	AI	1	599	0	0	12.2	280679	22193	recent@AI|top@AI		How to burst the AI bubble: Strike at its roots
+1512849	bitcoin	1	552	0	1	35.1	74100	10734	recent@bitcoin|recent@bitcoin_Mining|recent@bitdevs		Inside P2Pool v2 - Raunak (R27)
+1513021	tech	1	492	0	3	31.2	1293586	1966	recent@tech		Toyota Won’t Replace Every Recalled Tundra V6, and Some Owners Are Fed Up
+1513217	security	1	482	0	7	23.6	133445	10455	recent@security|top@security|recent@privacy		Is vpn.sovereign.engineering no longer selling Mullvad VPN top-ups?
+1512922	bitcoin	1	455	0	0	33.8	178	908	recent@bitcoin		Bitcoin Tech Talk #506: Autonomous Cars, Quebec, Failed Democracy and more!
+1513262	events	3	445	0	1	19.0	1	26707	recent@bitcoin|top@bitcoin|recent@bitdevs		Map of BitDevs Meetups Around The World
+1513166	bitcoin	1	358	0	2	26.4	74100	10734	recent@bitcoin|recent@privacy		CoinJoin.nl
+1513010	AI	1	300	0	0	31.7	1293586	1966	recent@tech|recent@AI		"Cobots" now become the next layer of tech-caused job loss, the future is here
+1513357	AI	1	272	0	0	14.3	296825	4686	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI		Japan Drops a Frontier AI Model Ten Days After the U.S. Shut Down Anthropic's
+1513125	bitcoin	1	259	0	8	28.0	223678	5715	recent@bitcoin		👀100,000,000 handles, anchored in 32 bytes on Bitcoin
+1513124	bitcoin_Mining	1	251	0	6	28.0	1490792	224	recent@bitcoin_Mining		Tether-Backed Adecoagro To Launch Sugarcane-Powered Bitcoin Mining In Brazil
+1512975	nostr	1	194	0	0	32.9	1512975	1	recent@nostr		Local Buys - person-to-person goods/service finder (including farmstands!)
+1512999	AI	1	170	0	0	32.0	1293586	1966	recent@AI		Expanding capacity with a new MS datacenter in Pecos - PR
+1513372	bitcoin	1	168	0	2	13.5	1490792	224	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Bitcoin Developers Want to Remove an Old Wallet Feature to Improve Privacy
+1512921	bitcoin	1	138	0	6	33.8	296825	4686	recent@bitcoin_beginners|recent@lightning		Zappi Wallet
+1512895	bitcoin_beginners	1	138	0	0	34.4	296825	4686	recent@bitcoin_beginners|recent@lightning		Mostro Releasev0.2.1
+1512907	bitcoin_beginners	1	136	0	0	34.1	296825	4686	recent@bitcoin_beginners|recent@lightning		Cashu Release v4.6.0 · cashubtc/cashu-ts
+1513037	bitcoin	1	115	0	0	30.9	296825	4686	recent@bitcoin_beginners		Iran Using Bitcoin To Challenge US sanctions
+1513707	bitcoin	1	79	0	1	4.4	74100	10734	recent@lightning|top@lightning		build an arkade wallet for iOS in 10 minutes using Tether's WDK
+1513346	AI	1	79	0	0	14.7	1490792	224	recent@AI|top@AI		Anthropic poaches Nobel Prize-winning scientist from Google DeepMind
+1513368	AI	1	69	0	0	13.7	5888	276	recent@AI|top@AI		🚀 We’re live: agentic coding in public.
+1512811	bitcoin_Mining	1	54	0	0	36.0	280679	22193	recent@bitcoin_Mining		Bitcoin After Block Rewards
+1513192	bitcoin	1	47	0	0	24.8	1513192	1	recent@bitcoin_beginners		My Pi 5 runs a Bitcoin node and it mines crypto with 4 Zeros simultaneously
+1513760	bitcoin_beginners	1	36	0	0	2.6	296825	4686	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Mostro Release v0.16.0
+1513371	bitcoin	1	36	0	0	13.5	296825	4686	recent@bitcoin_beginners|top@bitcoin_beginners		Trump's Quantum EO Sets 2030 Deadline; Bitcoin Devs Are Already There
+1513130	bitcoin	1	36	0	0	27.7	1490792	224	recent@bitcoin_beginners		The Good Bitcoiner: A Checklist for Lowering Your Time Preference
+1513105	bitcoin	1	36	0	0	28.8	296825	4686	recent@bitcoin_beginners		Seeding Bitcoin
+1513467	AI	1	21	0	0	10.8	296825	4686	recent@AI|top@AI		This Guy Let An AI Agent Handle His Scam Texts For A Week
+1513402	bitcoin	1	10	0	3	12.4	280679	22193	recent@bitdevs|top@bitdevs		Apple threatens Sparrow bitcoin wallet dev with App Store termination
+1513087	devs	1	0	0	0	29.3	297791	7586	recent@devs		Patch the Planet: a Daybreak initiative to support open source maintainers
+1513267	AI	1	0	0	0	18.5	1054143	958	recent@AI|top@AI		Why Wikipedia Won’t Allow AI Edit Articles - Co-Founder Wales
+1513044	openagents	1	0	0	1	30.7	534967	218	recent@openagents		Episode 241: Reviewing Sakana Fugu
