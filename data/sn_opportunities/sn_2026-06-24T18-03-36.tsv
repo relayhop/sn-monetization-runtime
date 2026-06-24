@@ -1,0 +1,58 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1514120	bitcoin	1	10243	0	3	3.1	14476	283	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Forensic Analysis: Hal Finney Actually Missed the Bitcoin Launch
+1513929	the_stacker_muse	3	10181	0	25	9.0	713868	460	recent@bitcoin|top@bitcoin	HOT,SIGNAL	🤔 So You Wanna Work In Bitcoin...
+1514099	bitcoin	1	1744	0	4	3.6	296825	4693	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	BIP110 Fork Simulator: Can BIP110 Lead to Chain Split?
+1513920	Design	2	1435	0	9	9.5	383547	3243	recent@lightning|top@lightning	HOT,SIGNAL,SELF_POST_OPP	Lightning Transport Protocols: BOLT12, CLINK, L402 and NWC Design & Comparison
+1514080	bitcoin	1	886	0	1	4.0	74100	10755	recent@bitcoin|top@bitcoin	SIGNAL	The Julian Assange Film Streamers Wouldn’t Touch Turns To Bitcoin
+1513992	bitcoin_Mining	1	649	0	5	6.6	30782	24954	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Deepsea Dashboard for Ocean mining pool
+1514169	AI	1	425	0	2	1.7	12309	3540	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	OpenAI designed and built their first AI chip: Jalapeño.
+1514123	meta	1	381	0	8	3.1	36151	1527	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1514180	bitcoin	1	282	0	0	1.5	74100	10755	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	Bitcoin Mining Terminal | Hashlabs
+1514000	lightning	1	250	0	3	6.5	263526	422	recent@lightning|top@lightning	SIGNAL	Desktop app supporting LNURL-withdrawal?
+1514136	tech	1	153	0	2	2.8	1514136	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	⚡️ EarnVPN: A VPN that pays you Bitcoin ⚡️
+1513988	lightning	1	138	0	1	6.8	263526	422	recent@lightning|top@lightning	SIGNAL	Mexico's Real-Time Banking Meets Lightning Network [Clip]
+1514202	bitcoin	1	102	0	0	0.5	296825	4693	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Local Signet Stack for Sparrow Wallet - Bitcoin Ubuntu
+1513709	bitcoin	1	1618	0	10	21.0	984933	1386	recent@bitcoin|top@bitcoin	HOT	[HM] - The Hacker Who Left Bitcoin to Go to War
+1513702	bitcoin	1	1480	0	0	21.1	1014665	194	recent@bitcoin|top@bitcoin	HOT	BIP125 signaling, Ark Q&A - Bitcoin Optech Newsletter #410 Recap Podcast
+1513377	bitcoin_Mining	1	1344	0	22	29.9	30782	24954	recent@bitcoin_Mining	HOT	Quick update on my Canaan Avalon 3s miner after 15 months of use
+1513478	AI	1	1245	0	2	27.1	238412	174	recent@tech|recent@AI	HOT	AI KYC is Here!
+1513661	privacy	1	1178	0	7	22.8	273359	449	recent@privacy|top@privacy	HOT	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+1513683	meta	1	930	0	30	21.8	223678	5721	recent@meta|top@meta		Downzaps Censoring in Practice
+1513645	AI	1	859	0	3	23.1	879734	7481	recent@AI|top@AI		Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+1513293	bitcoin	1	769	0	5	33.9	263526	422	recent@bitcoin		Phishing Attempt: The "Post-Quantum" Snail Mail Scam targeting Coldcards 🐌📦
+1513576	AI	1	753	0	3	25.2	74100	10755	recent@AI		qwenstradamus — pay a few bucks to get a model trained on your tweets
+1513408	lightning	1	696	0	2	28.8	440729	171	recent@lightning		Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (031995631357d83e3…)
+1513753	bitcoin	1	691	0	1	19.4	296825	4693	recent@bitcoin|top@bitcoin		Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+1513476	bitcoin	1	679	0	8	27.2	296825	4693	recent@bitcoin|recent@bitcoin_beginners|recent@bitdevs		What Is Bitcoin's Biggest Challenge?
+1513351	lol	2	621	0	13	31.2	280679	22196	recent@bitcoin	SELF_POST_OPP	Lawyer wants Satoshi’s anonymous ‘finder’ to drop the mask
+1513477	bitcoin	1	615	0	10	27.2	163128	3610	recent@bitcoin|recent@privacy		Ashigaru v1.0 Now Available for for Desktop
+1513410	AI	1	599	0	0	28.8	280679	22196	recent@AI		How to burst the AI bubble: Strike at its roots
+1513897	nostr	1	566	0	3	13.0	1028548	472	recent@nostr|top@nostr		A Rather Sovereign Nostr Setup
+1513617	bitcoin	1	536	0	3	23.8	74100	10755	recent@bitcoin|top@bitcoin		[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+1513640	bitcoin	1	462	0	0	23.2	296825	4693	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Sparrow Wallet on MacOS is safe
+1513262	events	3	445	0	1	35.6	1	26711	recent@bitcoin|recent@bitdevs		Map of BitDevs Meetups Around The World
+1513624	bitcoin	1	341	0	2	23.5	74100	10755	recent@bitcoin|top@bitcoin		draft escrow module for fedimint - harsh dev
+1513357	AI	1	322	0	0	30.9	296825	4693	recent@bitcoin_Mining|recent@AI		Japan Drops a Frontier AI Model Ten Days After the U.S. Shut Down Anthropic's
+1513736	security	1	280	0	0	20.3	297791	7589	recent@security|top@security		Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+1513682	nostr	1	265	0	0	21.8	74100	10755	recent@nostr|top@nostr		cordn-adhoc - sandwichfarm
+1513852	privacy	1	245	0	2	15.4	249216	272	recent@privacy|top@privacy		👀 Walt - Private tap-to-pay
+1513525	bitcoin_beginners	1	211	0	3	26.3	280679	22196	recent@bitcoin_beginners		The Standard Ep.1 | Your Parents Didn't Save Better Than You
+1513751	meta	1	182	0	6	19.5	273359	449	recent@meta|top@meta		Capitalize my name?
+1513372	bitcoin	1	168	0	2	30.1	1490792	235	recent@bitcoin_beginners|recent@bitcoin_Mining		Bitcoin Developers Want to Remove an Old Wallet Feature to Improve Privacy
+1513436	bitcoin	1	100	0	1	28.1	296825	4693	recent@bitcoin_beginners|recent@lightning		When Payments Fail, People Die
+1513707	bitcoin	1	79	0	1	21.0	74100	10755	recent@lightning|top@lightning		build an arkade wallet for iOS in 10 minutes using Tether's WDK
+1513346	AI	1	79	0	0	31.3	1490792	235	recent@AI		Anthropic poaches Nobel Prize-winning scientist from Google DeepMind
+1514023	tech	1	78	0	0	5.9	223678	5721	recent@tech|top@tech		Is True Self-Sovereign Identity Finally Possible on Bitcoin?
+1513368	AI	1	69	0	0	30.3	5888	276	recent@AI		🚀 We’re live: agentic coding in public.
+1513919	security	1	50	0	1	9.5	297791	7589	recent@security|top@security		Anthropic’s Mythos model found vulnerabilities in classified U.S. govt systems
+1513941	bitcoin	1	47	0	4	8.4	1490792	235	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Jack Kruse Reveals The Silent ATTACK on Bitcoin No One is Paying Attention To!
+1513918	bitcoin	1	36	0	0	9.6	296825	4693	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Lightning Developer Bootcamp & Upcoming - Africa Free Routing
+1513924	bitcoin_beginners	1	36	0	0	9.3	296825	4693	recent@bitcoin_beginners|top@bitcoin_beginners		The path lies in safeguarding "trust" in money: BIS
+1513760	bitcoin_beginners	1	36	0	0	19.2	296825	4693	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Mostro Release v0.16.0
+1513371	bitcoin	1	36	0	0	30.1	296825	4693	recent@bitcoin_beginners		Trump's Quantum EO Sets 2030 Deadline; Bitcoin Devs Are Already There
+1513467	AI	1	21	0	0	27.4	296825	4693	recent@AI		This Guy Let An AI Agent Handle His Scam Texts For A Week
+1513402	bitcoin	1	10	0	4	29.0	280679	22196	recent@bitdevs		Apple threatens Sparrow bitcoin wallet dev with App Store termination
+1514195	bitcoin	1	0	0	0	0.9	1490792	235	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	COINHUB installs Western Japan's first Bitcoin ATM at Tennoji MIO in Osaka
+1514057	lightning	1	0	0	0	4.8	440729	171	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0312202737ea890de…)
+1514045	AI	1	0	0	0	5.4	296825	4693	recent@AI|top@AI		Aside | The browser built to do real work for you
+1513267	AI	1	0	0	0	35.1	1054143	960	recent@AI		Why Wikipedia Won’t Allow AI Edit Articles - Co-Founder Wales
