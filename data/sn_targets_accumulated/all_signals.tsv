@@ -10385,3 +10385,16 @@
 2026-06-24T04:22:24.148Z	1513851	AskSN	2	197	0	4	1.7	1	26710	recent@AskSN|top@AskSN|recent@history	FRESH,SIGNAL	What do you think your ancient ancestors were like? What of your descendants?
 2026-06-24T04:22:24.148Z	1513751	meta	1	161	0	6	5.9	273359	448	recent@meta|top@meta	SIGNAL	Capitalize my name?
 2026-06-24T04:22:24.148Z	1513797	Stacker_Stocks	2	133	0	1	4.4	9274	23879	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	MSTY Payout #42: Better Late than Never (Holidays!)
+2026-06-24T05:41:16.284Z	1513709	bitcoin	1	1594	0	4	8.6	984933	1372	recent@bitcoin|top@bitcoin	HOT,SIGNAL	[HM] - The Hacker Who Left Bitcoin to Go to War
+2026-06-24T05:41:16.284Z	1513661	privacy	1	1157	0	6	10.4	273359	448	recent@privacy|top@privacy	HOT,SIGNAL	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+2026-06-24T05:41:16.284Z	1513683	meta	1	909	0	26	9.4	223678	5717	recent@meta|top@meta	SIGNAL	Downzaps Censoring in Practice
+2026-06-24T05:41:16.284Z	1513645	AI	1	859	0	3	10.7	879734	7472	recent@AI|top@AI	SIGNAL	Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+2026-06-24T05:41:16.284Z	1513753	bitcoin	1	670	0	1	7.1	296825	4686	recent@bitcoin|top@bitcoin	SIGNAL	Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+2026-06-24T05:41:16.284Z	1513617	bitcoin	1	536	0	3	11.4	74100	10739	recent@bitcoin|top@bitcoin	SIGNAL	[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+2026-06-24T05:41:16.284Z	1513640	bitcoin	1	462	0	0	10.8	296825	4686	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Sparrow Wallet on MacOS is safe
+2026-06-24T05:41:16.284Z	1513624	bitcoin	1	341	0	2	11.1	74100	10739	recent@bitcoin|top@bitcoin	SIGNAL	draft escrow module for fedimint - harsh dev
+2026-06-24T05:41:16.284Z	1513897	nostr	1	315	0	0	0.6	1028548	470	recent@nostr|top@nostr	FRESH,SIGNAL	A Rather Sovereign Nostr Setup
+2026-06-24T05:41:16.284Z	1513736	security	1	280	0	0	7.9	297791	7586	recent@security|top@security	SIGNAL	Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+2026-06-24T05:41:16.284Z	1513682	nostr	1	265	0	0	9.5	74100	10739	recent@nostr|top@nostr	SIGNAL	cordn-adhoc - sandwichfarm
+2026-06-24T05:41:16.284Z	1513852	privacy	1	204	0	1	3.0	249216	272	recent@privacy|top@privacy	SIGNAL	👀 Walt - Private tap-to-pay
+2026-06-24T05:41:16.284Z	1513751	meta	1	182	0	6	7.2	273359	448	recent@meta|top@meta	SIGNAL	Capitalize my name?
