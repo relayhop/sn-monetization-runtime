@@ -10854,3 +10854,19 @@
 2026-06-25T17:20:35.834Z	1514706	bitdevs	1	102	0	0	1.9	995395	73	recent@bitdevs|top@bitdevs	FRESH,SIGNAL	Non-Human Companies & Bitcoin.
 2026-06-25T17:20:35.834Z	1514592	charts_and_maps	2	102	0	3	5.9	280679	22235	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Ranked: Top 25 Private Landowners in the U.S.
 2026-06-25T17:20:35.834Z	1514699	Design	2	102	0	0	2.0	383547	3247	recent@Design|top@Design	SIGNAL	The Last Museum
+2026-06-25T18:21:23.092Z	1514564	Travel	3	17155	0	14	8.1	81644	1066	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	The Situation in Kramatorsk, Ukraine (Part 2)
+2026-06-25T18:21:23.092Z	1514571	privacy	1	11542	0	2	7.9	81644	1066	recent@privacy|top@privacy	HOT,SIGNAL	gmaxwell's FCC submission re: mandating KYC for phones (comments close today!)
+2026-06-25T18:21:23.092Z	1514666	AI	1	1181	0	0	4.1	879734	7494	recent@AI|top@AI	HOT,SIGNAL	Comparing alternative models with Claude - Part 2 - Solution Assessment
+2026-06-25T18:21:23.092Z	1514652	bitcoin	1	1147	0	2	4.7	1014665	195	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Introducing Bedrock: A Deterministic Hypervisor
+2026-06-25T18:21:23.092Z	1514641	bitcoin	1	780	0	10	5.1	74100	10794	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Pruned node reorg UB in Core 31.0 / Knots 29.3 - how a BIP 110 split triggers it
+2026-06-25T18:21:23.092Z	1514628	AI	1	576	0	0	5.4	401865	8197	recent@AI|top@AI	SIGNAL	Critical Day for AI on Capitol Hill Today... First Markup Centered on AI
+2026-06-25T18:21:23.092Z	1514689	meta	1	464	0	19	3.2	30782	24966	recent@meta|top@meta	SIGNAL	Territories On Sale
+2026-06-25T18:21:23.092Z	1514860	AI	1	452	0	0	0.5	74100	10794	recent@AI|top@AI	FRESH,SIGNAL	Federal Judge Allows Search of ChatGPT Records in Crypto Fraud Case
+2026-06-25T18:21:23.092Z	1514705	bitcoin	1	291	0	3	2.9	1490792	243	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	GoMining launches Bitcoin commerce tool that cuts out fiat
+2026-06-25T18:21:23.092Z	1514830	bitcoin_beginners	1	261	0	0	1.0	296825	4706	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	MintRadar - Cashu Mint Monitor
+2026-06-25T18:21:23.092Z	1514513	AI	1	188	0	2	11.4	104755	12453	recent@AI|top@AI	SIGNAL	Rebranding myself with AI
+2026-06-25T18:21:23.092Z	1514657	bitcoin	1	150	0	1	4.4	1490792	243	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Arkade - An operating system for bitcoin and the 1st hardware LN Wallet
+2026-06-25T18:21:23.092Z	1514857	bitcoin_beginners	1	138	0	0	0.6	296825	4706	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	Vinteum General Fund
+2026-06-25T18:21:23.092Z	1514714	AI	1	135	0	3	2.9	88718	44728	recent@AI|top@AI	SIGNAL	The Public Choice Problem of AI Rights
+2026-06-25T18:21:23.092Z	1514561	lightning	1	132	0	6	8.3	163128	3619	recent@lightning|top@lightning	SIGNAL	How to Run Your Own LNproxy Server to enhance your Privacy using Lightning
+2026-06-25T18:21:23.092Z	1514706	bitdevs	1	102	0	0	2.9	995395	73	recent@bitdevs|top@bitdevs	SIGNAL	Non-Human Companies & Bitcoin.
