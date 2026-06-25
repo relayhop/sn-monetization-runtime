@@ -1,24 +1,15 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-25T18:10:27.620Z; n=40
-show	hn	9.54	no	RISING
-daily bitcoin lore	sn:history	9.14	no	RISING
-bitcoin	sn:bitcoin,sn:history	8.53	yes	
-part	sn:Travel,sn:AI	7.31	yes	
-venezuela	sn:news	6.91	no	RISING
-claude	hn,sn:AI	5.93	yes	
-the situation	sn:Travel	4.23	yes	
-kramatorsk	sn:Travel	4.23	yes	
-ukraine	sn:Travel	4.23	yes	
-this square	sn:bitcoin	3.46	yes	
+# generated 2026-06-25T23:18:13.164Z; n=40
+part	sn:Travel,sn:AI	7.33	yes	
+show	hn	7.26	no	RISING
+venezuela	sn:news	6.92	no	RISING
+daily bitcoin lore	sn:history	5.81	no	RISING
+core	sn:bitcoin	5.76	yes	
+japan	hn,sn:Construction_and_Engineering	5.11	no	RISING
+the situation	sn:Travel	4.24	yes	
+kramatorsk	sn:Travel	4.24	yes	
+ukraine	sn:Travel	4.24	yes	
 earthquake	sn:news	3.37	no	RISING
-california regulators send	sn:history	3.34	no	RISING
-foundation cease	sn:history	3.34	no	RISING
-desist	sn:history	3.34	no	RISING
-meets	sn:Stacker_Stocks	3.31	no	RISING
-three	sn:Stacker_Stocks	3.31	no	RISING
-migos	sn:Stacker_Stocks	3.31	no	RISING
-craig coben	sn:Stacker_Stocks	3.31	no	RISING
-david erickson	sn:Stacker_Stocks	3.31	no	RISING
 bagholders beware	sn:Stacker_Stocks	3.19	no	RISING
 strategy is so fucked	sn:Stacker_Stocks	3.19	no	RISING
 craig coven	sn:Stacker_Stocks	3.19	no	RISING
@@ -28,15 +19,24 @@ shandell	sn:HealthAndFitness	3.17	no	RISING
 elliot	sn:HealthAndFitness	3.17	no	RISING
 new bitcoin hub	sn:Education	3.11	no	RISING
 da nang	sn:Education	3.11	no	RISING
-comparing	sn:AI	3.07	yes	
-solution assessment	sn:AI	3.07	yes	
-introducing bedrock	sn:bitcoin	3.04	yes	
-deterministic hypervisor	sn:bitcoin	3.04	yes	
-more details emerge	sn:history	3.03	no	RISING
-preston pysh	sn:history	3.03	no	RISING
-swap	sn:history	3.03	no	RISING
+comparing	sn:AI	3.09	yes	
+claude	sn:AI	3.09	yes	
+solution assessment	sn:AI	3.09	yes	
+introducing bedrock	sn:bitcoin	3.07	yes	
+deterministic hypervisor	sn:bitcoin	3.07	yes	
+more details emerge	sn:history	3.06	no	RISING
+preston pysh	sn:history	3.06	no	RISING
+swap	sn:history	3.06	no	RISING
 most	sn:bitcoin	3.02	yes	
-pruned	sn:bitcoin	2.89	yes	
-core	sn:bitcoin	2.89	yes	
-knots	sn:bitcoin	2.89	yes	
-anthropic	hn	2.85	yes	
+bitcoin	sn:bitcoin	3.02	yes	
+lego pieces showcasing the best	sn:Construction_and_Engineering	3	no	RISING
+territories on sale	sn:meta	2.94	yes	
+herculaneum	hn	2.92	no	RISING
+pruned	sn:bitcoin	2.92	yes	
+knots	sn:bitcoin	2.92	yes	
+price	sn:gaming	2.86	no	RISING
+bad precedent	sn:gaming	2.86	no	RISING
+google trends	hn	2.79	no	RISING
+hacker news	hn	2.79	no	RISING
+shitcoin	sn:lol	2.77	no	RISING
+the history	sn:lol	2.77	no	RISING
