@@ -1,0 +1,54 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1514312	bitcoin	1	2705	0	23	8.3	74100	10771	recent@bitcoin|top@bitcoin	HOT,SIGNAL	"This Square terminal doesn't."
+1514311	bitdevs	1	562	0	0	8.3	163128	3615	recent@bitdevs|top@bitdevs	SIGNAL	Build with Robin: Learn how to contribute to open source before making a PR
+1514264	bitcoin	1	549	0	0	9.1	296825	4698	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Celebrating the Builders of the Bitcoin++ Open Source Edition Hackathon
+1514401	bitcoin	1	407	0	3	5.6	9274	23919	recent@bitcoin|top@bitcoin	SIGNAL	TechLead is back and he capitulated and sold his stack! 😆
+1514202	bitcoin	1	385	0	0	11.1	296825	4698	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Local Signet Stack for Sparrow Wallet - Bitcoin Ubuntu
+1514299	AI	1	361	0	0	8.4	462245	283	recent@nostr|top@nostr|recent@AI	SIGNAL	The Benefits of FOSS — The ContextVM World #11 🌍
+1514317	nostr	1	353	0	5	8.2	1028548	477	recent@nostr|top@nostr	SIGNAL	suggestions for nostr android apps with bunker login
+1514270	lightning	1	348	0	1	9.0	263526	426	recent@lightning|top@lightning	SIGNAL	ZapBox - Bitcoin Lightning Switch for LilyGo and ESP32
+1514291	lightning	1	296	0	7	8.5	163128	3615	recent@lightning|top@lightning	SIGNAL	WestToEast connect Africa mobile money services through the Lightning network
+1514325	nostr	1	180	0	0	8.1	163128	3615	recent@lightning|top@lightning|recent@nostr	SIGNAL	Nairobi2: Ridesharing at Lightning speed. A nostr-native app for Android
+1514340	security	1	150	0	0	7.8	984933	1388	recent@security|top@security	SIGNAL	SignalTrace: The technology that tracks devices from patrol cars
+1514252	bitcoin	1	138	0	0	9.6	296825	4698	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	[HM] The Resilience Blueprint: Wealth, Control, and the Future of Money
+1514195	bitcoin	1	135	0	0	11.4	1490792	235	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	COINHUB installs Western Japan's first Bitcoin ATM at Tennoji MIO in Osaka
+1514336	AI	1	130	0	1	7.9	238412	175	recent@AI|top@AI	SIGNAL	Rational View of AI
+1514422	openagents	1	122	0	0	4.9	534967	219	recent@openagents|top@openagents	SIGNAL	Episode 242: Khala, Collective Intelligence
+1513929	the_stacker_muse	3	11513	0	36	19.5	713868	464	recent@bitcoin|top@bitcoin	HOT	🤔 So You Wanna Work In Bitcoin...
+1514120	bitcoin	1	11076	0	8	13.7	14476	285	recent@bitcoin|top@bitcoin	HOT	Forensic Analysis: Hal Finney Actually Missed the Bitcoin Launch
+1513709	bitcoin	1	2720	0	12	31.6	984933	1388	recent@bitcoin	HOT	[HM] - The Hacker Who Left Bitcoin to Go to War
+1514099	bitcoin	1	1843	0	4	14.2	296825	4698	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	BIP110 Fork Simulator: Can BIP110 Lead to Chain Split?
+1513920	Design	2	1512	0	9	20.0	383547	3243	recent@lightning|top@lightning	HOT,SELF_POST_OPP	Lightning Transport Protocols: BOLT12, CLINK, L402 and NWC Design & Comparison
+1513702	bitcoin	1	1480	0	0	31.7	1014665	194	recent@bitcoin	HOT	BIP125 signaling, Ark Q&A - Bitcoin Optech Newsletter #410 Recap Podcast
+1513661	privacy	1	1178	0	7	33.3	273359	450	recent@privacy	HOT	Backwards compatability ending for Tor versions <0.4.9 on Sept 1
+1514169	AI	1	1037	0	5	12.2	12309	3541	recent@tech|top@tech|recent@AI	HOT	OpenAI designed and built their first AI chip: Jalapeño.
+1514080	bitcoin	1	1024	0	6	14.6	74100	10771	recent@bitcoin|top@bitcoin	HOT	The Julian Assange Film Streamers Wouldn’t Touch Turns To Bitcoin
+1513683	meta	1	930	0	31	32.3	223678	5721	recent@meta		Downzaps Censoring in Practice
+1513992	bitcoin_Mining	1	879	0	5	17.2	30782	24955	recent@bitcoin_Mining|top@bitcoin_Mining		Deepsea Dashboard for Ocean mining pool
+1513645	AI	1	859	0	3	33.6	879734	7482	recent@AI		Gemma 4 WebGPU Kernels - On-device Gemma 4 in the browser - HF Spaces
+1513576	AI	1	753	0	3	35.8	74100	10771	recent@AI		qwenstradamus — pay a few bucks to get a model trained on your tweets
+1513753	bitcoin	1	691	0	1	30.0	296825	4698	recent@bitcoin		Taproot Assets v0.8 and SDK: Building "Stablecoins" at Lightning Speed
+1513897	nostr	1	566	0	3	23.5	1028548	477	recent@nostr|top@nostr		A Rather Sovereign Nostr Setup
+1513617	bitcoin	1	536	0	3	34.4	74100	10771	recent@bitcoin		[BIP Draft] Segregated Data: a prunable, script-isolated block region for data
+1514180	bitcoin	1	489	0	0	12.0	74100	10771	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Bitcoin Mining Terminal | Hashlabs
+1513640	bitcoin	1	462	0	0	33.7	296825	4698	recent@bitcoin|recent@bitcoin_beginners		Sparrow Wallet on MacOS is safe
+1514123	meta	1	438	0	11	13.6	36151	1527	recent@meta|top@meta		What are you working on this week?
+1513624	bitcoin	1	341	0	2	34.1	74100	10771	recent@bitcoin		draft escrow module for fedimint - harsh dev
+1513736	security	1	280	0	0	30.8	297791	7590	recent@security		Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via SSH
+1513682	nostr	1	265	0	0	32.4	74100	10771	recent@nostr		cordn-adhoc - sandwichfarm
+1514000	lightning	1	250	0	3	17.1	263526	426	recent@lightning|top@lightning		Desktop app supporting LNURL-withdrawal?
+1513852	privacy	1	245	0	2	25.9	249216	272	recent@privacy		👀 Walt - Private tap-to-pay
+1513751	meta	1	182	0	6	30.1	273359	450	recent@meta		Capitalize my name?
+1514136	tech	1	175	0	8	13.4	1514136	5	recent@bitcoin|top@bitcoin|recent@lightning		⚡️ EarnVPN: A VPN that pays you Bitcoin ⚡️
+1513988	lightning	1	138	0	1	17.3	263526	426	recent@lightning|top@lightning		Mexico's Real-Time Banking Meets Lightning Network [Clip]
+1513707	bitcoin	1	79	0	1	31.6	74100	10771	recent@lightning		build an arkade wallet for iOS in 10 minutes using Tether's WDK
+1514023	tech	1	78	0	0	16.4	223678	5721	recent@tech|top@tech		Is True Self-Sovereign Identity Finally Possible on Bitcoin?
+1513919	security	1	50	0	1	20.1	297791	7590	recent@security|top@security		Anthropic’s Mythos model found vulnerabilities in classified U.S. govt systems
+1513941	bitcoin	1	47	0	4	19.0	1490792	235	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Jack Kruse Reveals The Silent ATTACK on Bitcoin No One is Paying Attention To!
+1513918	bitcoin	1	36	0	0	20.1	296825	4698	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Lightning Developer Bootcamp & Upcoming - Africa Free Routing
+1513924	bitcoin_beginners	1	36	0	0	19.9	296825	4698	recent@bitcoin_beginners|top@bitcoin_beginners		The path lies in safeguarding "trust" in money: BIS
+1513760	bitcoin_beginners	1	36	0	0	29.7	296825	4698	recent@bitcoin_beginners|recent@lightning		Mostro Release v0.16.0
+1514045	AI	1	21	0	0	15.9	296825	4698	recent@AI|top@AI		Aside | The browser built to do real work for you
+1514328	bitcoin_Mining	1	11	0	0	8.0	1514328	1	recent@bitcoin_Mining|top@bitcoin_Mining		Scratcher
+1514463	bitcoinplusplus	1	0	0	0	2.4	1473003	24	recent@bitcoinplusplus|top@bitcoinplusplus		Performance Comparison: Bitcoin vs. Gold
+1514057	lightning	1	0	0	0	15.4	440729	171	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0312202737ea890de…)
