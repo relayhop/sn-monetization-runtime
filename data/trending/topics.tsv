@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-25T12:21:38.550Z; n=40
-bitcoin	sn:tech,sn:bitcoin,sn:history	10.78	yes	
-show	hn	6.91	no	RISING
-venezuela	sn:news	6.53	no	RISING
-daily bitcoin lore	sn:history	6.11	no	RISING
-forensic analysis	sn:bitcoin	4.05	yes	
-hal finney actually missed	sn:bitcoin	4.05	yes	
-bitcoin launch	sn:bitcoin	4.05	yes	
-the situation	sn:Travel	4.02	yes	
-kramatorsk	sn:Travel	4.02	yes	
-ukraine	sn:Travel	4.02	yes	
-part	sn:Travel	4.02	yes	
+# generated 2026-06-25T18:10:27.620Z; n=40
+show	hn	9.54	no	RISING
+daily bitcoin lore	sn:history	9.14	no	RISING
+bitcoin	sn:bitcoin,sn:history	8.53	yes	
+part	sn:Travel,sn:AI	7.31	yes	
+venezuela	sn:news	6.91	no	RISING
+claude	hn,sn:AI	5.93	yes	
+the situation	sn:Travel	4.23	yes	
+kramatorsk	sn:Travel	4.23	yes	
+ukraine	sn:Travel	4.23	yes	
 this square	sn:bitcoin	3.46	yes	
-earthquake	sn:news	3.35	no	RISING
+earthquake	sn:news	3.37	no	RISING
 california regulators send	sn:history	3.34	no	RISING
 foundation cease	sn:history	3.34	no	RISING
 desist	sn:history	3.34	no	RISING
-meets	sn:Stacker_Stocks	3.3	no	RISING
-three	sn:Stacker_Stocks	3.3	yes	
-migos	sn:Stacker_Stocks	3.3	no	RISING
-craig coben	sn:Stacker_Stocks	3.3	no	RISING
-david erickson	sn:Stacker_Stocks	3.3	no	RISING
-fork simulator	sn:bitcoin	3.27	yes	
-lead	sn:bitcoin	3.27	yes	
-chain split	sn:bitcoin	3.27	yes	
-the nordic node	sn:the_stacker_muse	3.23	no	RISING
-satoshi talks	sn:the_stacker_muse	3.23	no	RISING
-mining controvery	sn:the_stacker_muse	3.23	no	RISING
-suitcoinery	sn:the_stacker_muse	3.23	no	RISING
+meets	sn:Stacker_Stocks	3.31	no	RISING
+three	sn:Stacker_Stocks	3.31	no	RISING
+migos	sn:Stacker_Stocks	3.31	no	RISING
+craig coben	sn:Stacker_Stocks	3.31	no	RISING
+david erickson	sn:Stacker_Stocks	3.31	no	RISING
 bagholders beware	sn:Stacker_Stocks	3.19	no	RISING
 strategy is so fucked	sn:Stacker_Stocks	3.19	no	RISING
 craig coven	sn:Stacker_Stocks	3.19	no	RISING
+opposing work-from-home is just narcissism	sn:HealthAndFitness	3.17	no	RISING
+grant	sn:HealthAndFitness	3.17	no	RISING
+shandell	sn:HealthAndFitness	3.17	no	RISING
+elliot	sn:HealthAndFitness	3.17	no	RISING
 new bitcoin hub	sn:Education	3.11	no	RISING
 da nang	sn:Education	3.11	no	RISING
-slate auto	sn:Stacker_Stocks	3.09	no	RISING
-each	sn:Stacker_Stocks	3.09	no	RISING
-electric truck will	sn:Stacker_Stocks	3.09	no	RISING
-profitable	sn:Stacker_Stocks	3.09	no	RISING
-the julian assange film streamers wouldn	sn:bitcoin	3.02	yes	
-touch turns to bitcoin	sn:bitcoin	3.02	yes	
-jalape	sn:AI	3.02	yes	
+comparing	sn:AI	3.07	yes	
+solution assessment	sn:AI	3.07	yes	
+introducing bedrock	sn:bitcoin	3.04	yes	
+deterministic hypervisor	sn:bitcoin	3.04	yes	
+more details emerge	sn:history	3.03	no	RISING
+preston pysh	sn:history	3.03	no	RISING
+swap	sn:history	3.03	no	RISING
+most	sn:bitcoin	3.02	yes	
+pruned	sn:bitcoin	2.89	yes	
+core	sn:bitcoin	2.89	yes	
+knots	sn:bitcoin	2.89	yes	
+anthropic	hn	2.85	yes	
