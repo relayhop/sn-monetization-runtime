@@ -1,0 +1,62 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1515488	privacy	1	1616	0	9	1.7	74100	10830	recent@privacy|top@privacy	FRESH,HOT,SIGNAL	Praxeology of Privacy Book Club - Part III
+1515223	bitcoin	1	1437	0	0	7.4	1014665	197	recent@bitcoin|top@bitcoin	HOT,SIGNAL	LND zero-timestamp DoS, Stack Exchange Q&A - Bitcoin Optech Newsletter #411
+1515316	lightning	1	1024	0	2	4.7	280679	22255	recent@lightning|top@lightning	HOT,SIGNAL	Async Payments: Getting Paid While Your Node Is Offline | LDK
+1515261	lightning	1	744	0	20	6.2	30782	24986	recent@lightning|top@lightning	SIGNAL	Zeus Problem Connecting to CLN Node After Update
+1515179	meta	1	706	0	11	8.8	879734	7532	recent@AI|top@AI|recent@meta	SIGNAL	~AI fee change
+1515396	AI	1	661	0	5	3.1	879734	7532	recent@AI|top@AI	SIGNAL	Why have papers by one of history’s most famous physicists been retracted?
+1515300	bitcoin	1	494	0	6	5.1	74100	10830	recent@bitcoin|top@bitcoin	SIGNAL	📣 AMA Announcement: Hunter Beast (aka Cryptoquick) 3PM TOMORROW!
+1515211	bitcoin_beginners	1	375	0	2	7.7	30782	24986	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 106
+1515171	bitcoin	1	316	0	1	9.4	30993	3513	recent@bitcoin|top@bitcoin	SIGNAL	Satoshi Island - Citadel 2026
+1515230	AI	1	297	0	3	7.1	280679	22255	recent@AI|top@AI	SIGNAL	Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT
+1515173	AI	1	271	0	7	9.2	238412	182	recent@tech|top@tech|recent@AI	SIGNAL	The slow death of AmericanAI
+1515366	meta	1	221	0	3	3.7	51481	4071	recent@meta|top@meta	SIGNAL	Sorting by "Top Sats"
+1515438	bitcoin_beginners	1	219	0	1	2.4	296825	4715	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	And  Today is a special day for me—it's my birthday.
+1515208	AI	1	184	0	0	7.9	280679	22255	recent@AI|top@AI	SIGNAL	Computer-Use and TOCTOU: What You Click Is Not What You Get!
+1515518	lightning	1	157	0	2	1.1	263526	437	recent@lightning|top@lightning	FRESH,SIGNAL	25:40 - Putting SilentPayments and BOLT12 Lightning Address together
+1515394	lightning	1	114	0	0	3.1	328182	3737	recent@lightning|top@lightning	SIGNAL	Release v13.1.1 · ZeusLN/zeus
+1514564	Travel	3	17620	0	19	32.7	81644	1067	recent@bitcoin	HOT,SELF_POST_OPP	The Situation in Kramatorsk, Ukraine (Part 2)
+1514571	privacy	1	11639	0	3	32.5	81644	1067	recent@privacy	HOT	gmaxwell's FCC submission re: mandating KYC for phones (comments close today!)
+1515075	bitcoin	1	2618	0	8	17.5	1420309	22	recent@bitcoin|top@bitcoin	HOT	Introducing Hal Wallet
+1515069	meta	1	1301	0	30	17.8	900202	2445	recent@meta|top@meta	HOT	More on downzapping: a crazy idea
+1514666	AI	1	1223	0	0	28.8	879734	7532	recent@AI	HOT	Comparing alternative models with Claude - Part 2 - Solution Assessment
+1514652	bitcoin	1	1168	0	2	29.3	1014665	197	recent@bitcoin	HOT	Introducing Bedrock: A Deterministic Hypervisor
+1514985	nostr	1	1011	0	7	21.2	74100	10830	recent@lightning|top@lightning|recent@nostr	HOT	Linky - contacts, cashu, nostr PWA
+1514947	bitcoin	1	1004	0	10	22.3	74100	10830	recent@bitcoin|top@bitcoin	HOT	hodlonaut thread about Core maintainer selection politics
+1514641	bitcoin	1	936	0	14	29.7	74100	10830	recent@bitcoin|recent@bitdevs		Pruned node reorg UB in Core 31.0 / Knots 29.3 - how a BIP 110 split triggers it
+1514689	meta	1	874	0	30	27.8	30782	24986	recent@meta		Territories On Sale
+1514932	bitcoin	1	783	0	0	23.0	296825	4715	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Today in history
+1514628	AI	1	618	0	0	30.1	401865	8203	recent@AI		Critical Day for AI on Capitol Hill Today... First Markup Centered on AI
+1514938	AI	1	558	0	2	22.8	280679	22255	recent@AI|top@AI		Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x
+1514860	AI	1	525	0	1	25.1	74100	10830	recent@AI		Federal Judge Allows Search of ChatGPT Records in Crypto Fraud Case
+1515120	bitcoin	1	485	0	4	14.7	223678	5724	recent@bitcoin|top@bitcoin		bear market blues from Vlad the sad
+1515129	AI	1	431	0	1	14.2	328486	4282	recent@AI|top@AI		ADMIN ASKS OPENAI TO LIMIT RELEASE OF GPT 5.6 MODEL
+1514997	AI	1	318	0	2	20.8	12309	3546	recent@AI|top@AI		The Big Read. The reason China is building most of the world’s robots
+1514868	bitcoin	1	301	0	0	24.7	280679	22255	recent@bitcoin		ASmap Dashboard
+1514705	bitcoin	1	291	0	3	27.6	1490792	244	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoin_Mining		GoMining launches Bitcoin commerce tool that cuts out fiat
+1514830	bitcoin_beginners	1	261	0	0	25.7	296825	4715	recent@bitcoin_beginners		MintRadar - Cashu Mint Monitor
+1514513	AI	1	209	0	2	36.0	104755	12458	recent@AI		Rebranding myself with AI
+1514706	bitdevs	1	187	0	0	27.5	995395	73	recent@bitdevs		Non-Human Companies & Bitcoin.
+1514657	bitcoin	1	150	0	1	29.0	1490792	244	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		Arkade - An operating system for bitcoin and the 1st hardware LN Wallet
+1514980	privacy	1	142	0	1	21.5	238412	182	recent@privacy|top@privacy		Roman Storm 🇺🇸 🌪️ (@rstormsf) on X
+1514857	bitcoin_beginners	1	138	0	0	25.2	296825	4715	recent@bitcoin_beginners|recent@bitdevs		Vinteum General Fund
+1515072	nostr	1	136	0	1	17.7	1512975	4	recent@nostr|top@nostr		WhoIsThat - an app to help you remember details of neighbors and other people
+1514559	meta	1	136	0	0	33.0	36151	1529	recent@meta		This Day on SN: June 25
+1514714	AI	1	135	0	3	27.5	88718	44774	recent@AI		The Public Choice Problem of AI Rights
+1514561	lightning	1	132	0	6	32.9	163128	3620	recent@lightning		How to Run Your Own LNproxy Server to enhance your Privacy using Lightning
+1515070	AI	1	107	0	0	17.8	1054143	964	recent@AI|top@AI		Who will control Africa’s AI infrastructure, and at what cost?
+1515281	lightning	1	83	0	0	5.7	440729	173	recent@lightning|top@lightning		Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (034272d5e69d85cb7…)
+1514914	AGORA	3	76	0	3	23.3	263526	437	recent@lightning|top@lightning		This Friday! Earn sats, spend sats, create. more Bitcoin abundance in your life
+1515459	lightning	1	73	0	1	2.1	263526	437	recent@lightning|top@lightning		New START9 node in the network!  🧡₿🧡
+1515444	AI	1	69	0	0	2.3	1054143	964	recent@AI|top@AI		Will AI create new entry-level jobs?
+1514654	bitcoin	1	47	0	0	29.2	1490792	244	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@lightning		Perception Exits Beta, Launching Agentic Data Layer Integrated by Industry
+1515164	bitcoin_beginners	1	36	0	0	10.4	296825	4715	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Cashu - Pull Request #2049: Payjoin In Development
+1514902	bitcoin	1	36	0	0	23.9	296825	4715	recent@bitcoin_beginners|top@bitcoin_beginners		A Quick Update On Study Hubs
+1514625	bitcoin_beginners	1	36	0	0	30.2	280679	22255	recent@bitcoin_beginners|recent@lightning		How does the Bitcoin Lightning network actually work?
+1514516	bitcoin_beginners	1	36	0	0	35.9	296825	4715	recent@bitcoin_beginners|recent@lightning		The Difference Between Instant Payments and Credit Cards
+1515413	AI	1	36	0	0	2.8	458256	4756	recent@AI|top@AI		Pigeons are surprisingly good at detecting cancer
+1515176	meta	1	36	0	12	9.0	36151	1529	recent@meta|top@meta		This Day on SN: June 26
+1514906	bitcoin	1	0	0	0	23.6	1510905	3	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin Halving Cycles and Their Effects on the Bitcoin Ecosystem
+1514599	bitcoinplusplus	1	0	0	0	31.1	1473003	27	recent@bitcoinplusplus		🌷 Store Fan & Sales Growth Discovery AI Room
+1514911	lightning	1	0	0	2	23.5	263526	437	recent@lightning|top@lightning		Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban
+1514921	lightning	1	0	0	1	23.1	263526	437	recent@lightning|top@lightning		Lightning Labs: Agents 🤝 LN nodes
