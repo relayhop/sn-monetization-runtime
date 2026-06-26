@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-26T07:53:45.081Z; n=40
-part	sn:Travel,sn:AI	7.33	yes	
+# generated 2026-06-26T12:11:25.195Z; n=40
+core	sn:bitcoin	5.93	yes	
 daily bitcoin lore	sn:history	5.84	no	RISING
-core	sn:bitcoin	5.83	yes	
-apple	hn	5.22	no	RISING
-show	hn	4.86	no	RISING
-the situation	sn:Travel	4.25	yes	
-kramatorsk	sn:Travel	4.25	yes	
-ukraine	sn:Travel	4.25	yes	
+show	hn	4.99	no	RISING
+introducing hal wallet	sn:bitcoin	3.4	yes	
+there	sn:Stacker_Stocks	3.22	no	RISING
+treasury company	sn:Stacker_Stocks	3.22	no	RISING
+money stuff	sn:Stacker_Stocks	3.22	no	RISING
+matt levine	sn:Stacker_Stocks	3.22	no	RISING
 opposing work-from-home is just narcissism	sn:HealthAndFitness	3.18	no	RISING
 grant	sn:HealthAndFitness	3.18	no	RISING
 shandell	sn:HealthAndFitness	3.18	no	RISING
 elliot	sn:HealthAndFitness	3.18	no	RISING
-herculaneum	hn	3.09	no	RISING
+herculaneum	hn	3.13	no	RISING
+more	sn:meta	3.09	yes	
 comparing	sn:AI	3.09	yes	
 claude	sn:AI	3.09	yes	
+part	sn:AI	3.09	yes	
 solution assessment	sn:AI	3.09	yes	
-more	sn:meta	3.07	yes	
 introducing bedrock	sn:bitcoin	3.07	yes	
 deterministic hypervisor	sn:bitcoin	3.07	yes	
-introducing hal wallet	sn:bitcoin	3.07	yes	
 more details emerge	sn:history	3.06	no	RISING
 preston pysh	sn:history	3.06	no	RISING
 swap	sn:history	3.06	no	RISING
-there	sn:Stacker_Stocks	3.02	no	RISING
-treasury company	sn:Stacker_Stocks	3.02	no	RISING
-money stuff	sn:Stacker_Stocks	3.02	no	RISING
-matt levine	sn:Stacker_Stocks	3.02	no	RISING
-linky	sn:nostr	3	yes	
-lego pieces showcasing the best	sn:Construction_and_Engineering	3	no	RISING
-japan	sn:Construction_and_Engineering	3	no	RISING
+linky	sn:nostr	3.01	yes	
+om malik	hn	2.98	no	RISING
 pruned	sn:bitcoin	2.96	yes	
 knots	sn:bitcoin	2.96	yes	
 territories on sale	sn:meta	2.94	yes	
-om malik	hn	2.92	no	RISING
 price	sn:gaming	2.89	no	RISING
 bad precedent	sn:gaming	2.89	no	RISING
-supreme court strikes down hawaii	sn:Politics_And_Law	2.82	no	RISING
-gun restrictions	sn:Politics_And_Law	2.82	no	RISING
+void	sn:Construction_and_Engineering	2.89	no	RISING
+singapore	sn:Construction_and_Engineering	2.89	no	RISING
+today	sn:bitcoin	2.88	yes	
+apple	hn	2.87	no	RISING
+supreme court strikes down hawaii	sn:Politics_And_Law	2.83	no	RISING
+gun restrictions	sn:Politics_And_Law	2.83	no	RISING
+critical day	sn:AI	2.79	yes	
+capitol hill today	sn:AI	2.79	yes	
+first markup centered	sn:AI	2.79	yes	
 fhfa	sn:history	2.78	no	RISING
-orders fannie	sn:history	2.78	no	RISING
