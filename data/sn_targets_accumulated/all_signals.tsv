@@ -11178,3 +11178,17 @@
 2026-06-26T15:29:24.951Z	1515148	math	2	137	0	0	9.6	1473003	26	recent@math|top@math	SIGNAL	The Essence of Statistics: Understanding Z-Scores and Confidence Intervals
 2026-06-26T15:29:24.951Z	1515208	AI	1	105	0	0	4.4	280679	22255	recent@AI|top@AI	SIGNAL	Computer-Use and TOCTOU: What You Click Is Not What You Get!
 2026-06-26T15:29:24.951Z	1515250	Design	2	102	0	0	3.0	383547	3254	recent@Design|top@Design	SIGNAL	Your design system has a new author
+2026-06-26T17:03:01.133Z	1515223	bitcoin	1	1437	0	0	5.5	1014665	197	recent@bitcoin|top@bitcoin	HOT,SIGNAL	LND zero-timestamp DoS, Stack Exchange Q&A - Bitcoin Optech Newsletter #411
+2026-06-26T17:03:01.134Z	1515261	lightning	1	744	0	20	4.3	30782	24986	recent@lightning|top@lightning	SIGNAL	Zeus Problem Connecting to CLN Node After Update
+2026-06-26T17:03:01.134Z	1515179	meta	1	706	0	11	6.8	879734	7530	recent@AI|top@AI|recent@meta	SIGNAL	~AI fee change
+2026-06-26T17:03:01.134Z	1515396	AI	1	661	0	5	1.1	879734	7530	recent@AI|top@AI	FRESH,SIGNAL	Why have papers by one of history’s most famous physicists been retracted?
+2026-06-26T17:03:01.134Z	1515300	bitcoin	1	494	0	6	3.2	74100	10823	recent@bitcoin|top@bitcoin	SIGNAL	📣 AMA Announcement: Hunter Beast (aka Cryptoquick) 3PM TOMORROW!
+2026-06-26T17:03:01.134Z	1515316	lightning	1	430	0	1	2.8	280679	22255	recent@lightning|top@lightning	SIGNAL	Async Payments: Getting Paid While Your Node Is Offline | LDK
+2026-06-26T17:03:01.134Z	1515211	bitcoin_beginners	1	375	0	2	5.8	30782	24986	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 106
+2026-06-26T17:03:01.134Z	1515171	bitcoin	1	280	0	0	7.4	30993	3513	recent@bitcoin|top@bitcoin	SIGNAL	Satoshi Island - Citadel 2026
+2026-06-26T17:03:01.134Z	1515230	AI	1	261	0	3	5.1	280679	22255	recent@AI|top@AI	SIGNAL	Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT
+2026-06-26T17:03:01.134Z	1515173	AI	1	235	0	7	7.3	238412	182	recent@tech|top@tech|recent@AI	SIGNAL	The slow death of AmericanAI
+2026-06-26T17:03:01.134Z	1515366	meta	1	221	0	3	1.8	51481	4071	recent@meta|top@meta	FRESH,SIGNAL	Sorting by "Top Sats"
+2026-06-26T17:03:01.134Z	1515438	bitcoin_beginners	1	219	0	1	0.5	296825	4714	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	And  Today is a special day for me—it's my birthday.
+2026-06-26T17:03:01.134Z	1515208	AI	1	184	0	0	5.9	280679	22255	recent@AI|top@AI	SIGNAL	Computer-Use and TOCTOU: What You Click Is Not What You Get!
+2026-06-26T17:03:01.134Z	1515394	lightning	1	114	0	0	1.2	328182	3735	recent@lightning|top@lightning	FRESH,SIGNAL	Release v13.1.1 · ZeusLN/zeus
