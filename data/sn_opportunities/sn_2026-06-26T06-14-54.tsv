@@ -1,0 +1,58 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1515075	bitcoin	1	1171	0	3	4.8	1420309	22	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Introducing Hal Wallet
+1515069	meta	1	1164	0	13	5.1	900202	2440	recent@meta|top@meta	HOT,SIGNAL	More on downzapping: a crazy idea
+1514947	bitcoin	1	729	0	9	9.6	74100	10814	recent@bitcoin|top@bitcoin	SIGNAL	hodlonaut thread about Core maintainer selection politics
+1514938	AI	1	558	0	2	10.0	280679	22241	recent@AI|top@AI	SIGNAL	Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x
+1514985	nostr	1	528	0	7	8.5	74100	10814	recent@lightning|top@lightning|recent@nostr	SIGNAL	Linky - contacts, cashu, nostr PWA
+1514932	bitcoin	1	510	0	0	10.2	296825	4710	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Today in history
+1515120	bitcoin	1	378	0	3	1.9	223678	5723	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	bear market blues from Vlad the sad
+1514868	bitcoin	1	301	0	0	12.0	280679	22241	recent@bitcoin|top@bitcoin	SIGNAL	ASmap Dashboard
+1515129	AI	1	286	0	1	1.5	328486	4281	recent@AI|top@AI	FRESH,SIGNAL	ADMIN ASKS OPENAI TO LIMIT RELEASE OF GPT 5.6 MODEL
+1514997	AI	1	249	0	1	8.1	12309	3545	recent@AI|top@AI	SIGNAL	The Big Read. The reason China is building most of the world’s robots
+1514980	privacy	1	142	0	1	8.8	238412	178	recent@privacy|top@privacy	SIGNAL	Roman Storm 🇺🇸 🌪️ (@rstormsf) on X
+1515072	nostr	1	136	0	1	5.0	1512975	4	recent@nostr|top@nostr	SIGNAL	WhoIsThat - an app to help you remember details of neighbors and other people
+1514564	Travel	3	17620	0	16	20.0	81644	1066	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	The Situation in Kramatorsk, Ukraine (Part 2)
+1514571	privacy	1	11552	0	3	19.8	81644	1066	recent@privacy|top@privacy	HOT	gmaxwell's FCC submission re: mandating KYC for phones (comments close today!)
+1514312	bitcoin	1	2896	0	27	33.9	74100	10814	recent@bitcoin	HOT	"This Square terminal doesn't."
+1514666	AI	1	1223	0	0	16.0	879734	7496	recent@AI|top@AI	HOT	Comparing alternative models with Claude - Part 2 - Solution Assessment
+1514652	bitcoin	1	1168	0	2	16.6	1014665	195	recent@bitcoin|top@bitcoin	HOT	Introducing Bedrock: A Deterministic Hypervisor
+1514481	bitcoin	1	1048	0	7	26.3	1514481	1	recent@bitcoin	HOT	Most of the Bitcoin consensus fight is over one computable number
+1514641	bitcoin	1	915	0	14	17.0	74100	10814	recent@bitcoin|top@bitcoin|recent@bitdevs		Pruned node reorg UB in Core 31.0 / Knots 29.3 - how a BIP 110 split triggers it
+1514689	meta	1	874	0	30	15.1	30782	24969	recent@meta|top@meta		Territories On Sale
+1514628	AI	1	576	0	0	17.3	401865	8197	recent@AI|top@AI		Critical Day for AI on Capitol Hill Today... First Markup Centered on AI
+1514311	bitdevs	1	562	0	0	33.9	163128	3619	recent@bitdevs		Build with Robin: Learn how to contribute to open source before making a PR
+1514264	bitcoin	1	549	0	0	34.7	296825	4710	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoinplusplus		Celebrating the Builders of the Bitcoin++ Open Source Edition Hackathon
+1514860	AI	1	504	0	1	12.4	74100	10814	recent@AI|top@AI		Federal Judge Allows Search of ChatGPT Records in Crypto Fraud Case
+1514401	bitcoin	1	438	0	3	31.3	9274	23959	recent@bitcoin		TechLead is back and he capitulated and sold his stack! 😆
+1514299	AI	1	361	0	0	34.0	462245	283	recent@nostr|recent@AI		The Benefits of FOSS — The ContextVM World #11 🌍
+1514317	nostr	1	353	0	5	33.8	1028548	478	recent@nostr		suggestions for nostr android apps with bunker login
+1514270	lightning	1	348	0	1	34.7	263526	431	recent@lightning		ZapBox - Bitcoin Lightning Switch for LilyGo and ESP32
+1514291	lightning	1	296	0	7	34.1	163128	3619	recent@lightning		WestToEast connect Africa mobile money services through the Lightning network
+1514705	bitcoin	1	291	0	3	14.8	1490792	244	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		GoMining launches Bitcoin commerce tool that cuts out fiat
+1514830	bitcoin_beginners	1	261	0	0	12.9	296825	4710	recent@bitcoin_beginners|top@bitcoin_beginners		MintRadar - Cashu Mint Monitor
+1514336	AI	1	230	0	4	33.5	238412	178	recent@tech|recent@AI		Rational View of AI
+1514252	bitcoin	1	215	0	0	35.2	296825	4710	recent@bitcoin|recent@bitcoin_beginners		[HM] The Resilience Blueprint: Wealth, Control, and the Future of Money
+1514488	bitcoin	1	214	0	0	25.4	296825	4710	recent@bitcoin_beginners|recent@lightning		Community Spotlight: South Africa's Bitcoin Karoo
+1514513	AI	1	209	0	2	23.3	104755	12453	recent@AI|top@AI		Rebranding myself with AI
+1514706	bitdevs	1	187	0	0	14.8	995395	73	recent@bitdevs|top@bitdevs		Non-Human Companies & Bitcoin.
+1514325	nostr	1	180	0	0	33.7	163128	3619	recent@lightning|recent@nostr		Nairobi2: Ridesharing at Lightning speed. A nostr-native app for Android
+1514657	bitcoin	1	150	0	1	16.3	1490792	244	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Arkade - An operating system for bitcoin and the 1st hardware LN Wallet
+1514340	security	1	150	0	0	33.4	984933	1404	recent@security		SignalTrace: The technology that tracks devices from patrol cars
+1514857	bitcoin_beginners	1	138	0	0	12.5	296825	4710	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Vinteum General Fund
+1514559	meta	1	136	0	0	20.2	36151	1528	recent@meta|top@meta		This Day on SN: June 25
+1514714	AI	1	135	0	3	14.8	88718	44733	recent@AI|top@AI		The Public Choice Problem of AI Rights
+1514561	lightning	1	132	0	6	20.2	163128	3619	recent@lightning|top@lightning		How to Run Your Own LNproxy Server to enhance your Privacy using Lightning
+1514422	openagents	1	122	0	0	30.5	534967	219	recent@openagents		Episode 242: Khala, Collective Intelligence
+1514500	AI	1	111	0	0	24.4	61367	208	recent@AI		Elon Musk bought Cursor AI instead of buying 468.75 metric tons of gold
+1515070	AI	1	86	0	0	5.0	1054143	963	recent@AI|top@AI		Who will control Africa’s AI infrastructure, and at what cost?
+1514914	AGORA	3	76	0	3	10.6	263526	431	recent@lightning|top@lightning		This Friday! Earn sats, spend sats, create. more Bitcoin abundance in your life
+1514654	bitcoin	1	47	0	0	16.5	1490792	244	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Perception Exits Beta, Launching Agentic Data Layer Integrated by Industry
+1514902	bitcoin	1	36	0	0	11.2	296825	4710	recent@bitcoin_beginners|top@bitcoin_beginners		A Quick Update On Study Hubs
+1514625	bitcoin_beginners	1	36	0	0	17.4	280679	22241	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		How does the Bitcoin Lightning network actually work?
+1514516	bitcoin_beginners	1	36	0	0	23.2	296825	4710	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The Difference Between Instant Payments and Credit Cards
+1514328	bitcoin_Mining	1	11	0	0	33.7	1514328	1	recent@bitcoin_Mining		Scratcher
+1514906	bitcoin	1	0	0	0	10.9	1510905	3	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin Halving Cycles and Their Effects on the Bitcoin Ecosystem
+1514599	bitcoinplusplus	1	0	0	0	18.4	1473003	26	recent@bitcoinplusplus|top@bitcoinplusplus		🌷 Store Fan & Sales Growth Discovery AI Room
+1514463	bitcoinplusplus	1	0	0	0	28.0	1473003	26	recent@bitcoinplusplus		Performance Comparison: Bitcoin vs. Gold
+1514921	lightning	1	0	0	1	10.4	263526	431	recent@lightning|top@lightning		Lightning Labs: Agents 🤝 LN nodes
+1514911	lightning	1	0	0	1	10.7	263526	431	recent@lightning|top@lightning		Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban
