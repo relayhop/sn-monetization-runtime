@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-27T11:27:06.881Z; n=40
-daily bitcoin lore	sn:history	6.26	no	RISING
-previewing	hn,sn:tech	5.88	yes	
-next-generation	hn,sn:tech	5.88	yes	
-show	hn	3.72	no	RISING
+# generated 2026-06-27T17:10:52.409Z; n=40
+previewing	hn,sn:tech	5.9	yes	
+next-generation	hn,sn:tech	5.9	yes	
+issue	sn:meta,sn:BooksAndArticles	5.44	yes	
+july	hn,sn:econ	5.39	no	RISING
+iran	sn:Politics_And_Law,sn:news	4.2	no	RISING
 praxeology	sn:privacy	3.32	no	RISING
 privacy book club	sn:privacy	3.32	no	RISING
 part	sn:privacy	3.32	yes	
-sends	sn:history	3.3	no	RISING
-seized bitcoin	sn:history	3.3	no	RISING
-coinbase	sn:history	3.3	no	RISING
-passive income is back	sn:Politics_And_Law	3.28	no	RISING
-do nothing	sn:Politics_And_Law	3.28	no	RISING
-our casino economy	sn:Politics_And_Law	3.28	no	RISING
-pinsker	sn:Politics_And_Law	3.28	no	RISING
-zero-timestamp	sn:bitcoin	3.19	yes	
-stack exchange	sn:bitcoin	3.19	yes	
-bitcoin optech newsletter	sn:bitcoin	3.19	yes	
+hang with your tribe	sn:bitcoin	3.27	yes	
+my strike bitcoin backed loan ends	sn:econ	3.27	no	RISING
+review	sn:econ	3.27	no	RISING
+what	sn:econ	3.27	yes	
+next	sn:econ	3.27	no	RISING
 supply inflation	sn:bitcoin	3.17	yes	
 annum	sn:bitcoin	3.17	yes	
+world cup pool	sn:Stacker_Sports	3.13	no	RISING
+last	sn:Stacker_Sports	3.13	no	RISING
+round	sn:Stacker_Sports	3.13	no	RISING
 the white paper quiz	sn:bitcoin_beginners	3.06	no	RISING
 strc	sn:bitcoin	3.04	yes	
 mstr	sn:bitcoin	3.04	yes	
-async payments	sn:lightning	3.02	no	RISING
-getting paid while your node is offline	sn:lightning	3.02	no	RISING
-hit nuclear goal many though impossible	sn:Politics_And_Law	3	no	RISING
-today	sn:bitcoin_beginners	3	yes	
-zeus problem connecting	sn:lightning	2.99	no	RISING
-node after update	sn:lightning	2.99	no	RISING
-the iraqi petroleum geologist who became norway	sn:science	2.97	no	RISING
-greatest value creator	sn:science	2.97	no	RISING
-mining pool goes live	sn:history	2.96	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.94	no	RISING
+daily bitcoin lore	sn:history	2.97	no	RISING
+government	sn:history	2.97	no	RISING
+first bitcoin auction	sn:history	2.97	no	RISING
 android	sn:bitcoin_beginners	2.87	yes	
 satoshi nakamoto	sn:bitcoin_beginners	2.87	no	RISING
-mets	sn:Stacker_Sports	2.82	no	RISING
-carlos mendoza	sn:Stacker_Sports	2.82	no	RISING
+speculative	hn	2.81	no	RISING
 letting	sn:meta	2.78	yes	
-issue	sn:meta	2.78	yes	
 venezuelan	sn:news	2.78	no	RISING
 daily putt	sn:gaming	2.77	no	RISING
+post	sn:gaming	2.77	no	RISING
+scorecard	sn:gaming	2.77	no	RISING
+zaps	sn:gaming	2.77	no	RISING
+micron suggests apple helped cause memory price crisis	sn:tech	2.76	yes	
+quiz	sn:econ	2.72	no	RISING
+no rap songs	sn:Music	2.71	no	RISING
+billboard hot	sn:Music	2.71	no	RISING
+since	sn:Music	2.71	no	RISING
+biggest channel opened today	sn:lightning	2.69	no	RISING
+new node spotlight	sn:lightning	2.69	no	RISING
