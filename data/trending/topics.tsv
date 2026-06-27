@@ -1,31 +1,29 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-27T06:52:36.012Z; n=40
-daily bitcoin lore	sn:history	6.25	no	RISING
-previewing	hn,sn:tech	5.79	yes	
-next-generation	hn,sn:tech	5.79	yes	
-show	hn	5.64	no	RISING
-part	hn,sn:privacy	5.21	yes	
-sends	sn:history	3.29	no	RISING
-seized bitcoin	sn:history	3.29	no	RISING
-coinbase	sn:history	3.29	no	RISING
+# generated 2026-06-27T11:27:06.881Z; n=40
+daily bitcoin lore	sn:history	6.26	no	RISING
+previewing	hn,sn:tech	5.88	yes	
+next-generation	hn,sn:tech	5.88	yes	
+show	hn	3.72	no	RISING
+praxeology	sn:privacy	3.32	no	RISING
+privacy book club	sn:privacy	3.32	no	RISING
+part	sn:privacy	3.32	yes	
+sends	sn:history	3.3	no	RISING
+seized bitcoin	sn:history	3.3	no	RISING
+coinbase	sn:history	3.3	no	RISING
 passive income is back	sn:Politics_And_Law	3.28	no	RISING
 do nothing	sn:Politics_And_Law	3.28	no	RISING
 our casino economy	sn:Politics_And_Law	3.28	no	RISING
 pinsker	sn:Politics_And_Law	3.28	no	RISING
-praxeology	sn:privacy	3.26	no	RISING
-privacy book club	sn:privacy	3.26	no	RISING
 zero-timestamp	sn:bitcoin	3.19	yes	
 stack exchange	sn:bitcoin	3.19	yes	
 bitcoin optech newsletter	sn:bitcoin	3.19	yes	
-supply inflation	sn:bitcoin	3.15	yes	
-annum	sn:bitcoin	3.15	yes	
-the white paper quiz	sn:bitcoin_beginners	3.04	no	RISING
-strc	sn:bitcoin	3.02	yes	
-mstr	sn:bitcoin	3.02	yes	
+supply inflation	sn:bitcoin	3.17	yes	
+annum	sn:bitcoin	3.17	yes	
+the white paper quiz	sn:bitcoin_beginners	3.06	no	RISING
+strc	sn:bitcoin	3.04	yes	
+mstr	sn:bitcoin	3.04	yes	
 async payments	sn:lightning	3.02	no	RISING
 getting paid while your node is offline	sn:lightning	3.02	no	RISING
-void	sn:Construction_and_Engineering	3.02	no	RISING
-singapore	sn:Construction_and_Engineering	3.02	no	RISING
 hit nuclear goal many though impossible	sn:Politics_And_Law	3	no	RISING
 today	sn:bitcoin_beginners	3	yes	
 zeus problem connecting	sn:lightning	2.99	no	RISING
@@ -33,10 +31,12 @@ node after update	sn:lightning	2.99	no	RISING
 the iraqi petroleum geologist who became norway	sn:science	2.97	no	RISING
 greatest value creator	sn:science	2.97	no	RISING
 mining pool goes live	sn:history	2.96	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.89	no	RISING
-android	sn:bitcoin_beginners	2.86	yes	
-satoshi nakamoto	sn:bitcoin_beginners	2.86	no	RISING
+weekly random sports pick	sn:Stacker_Sports	2.94	no	RISING
+android	sn:bitcoin_beginners	2.87	yes	
+satoshi nakamoto	sn:bitcoin_beginners	2.87	no	RISING
 mets	sn:Stacker_Sports	2.82	no	RISING
 carlos mendoza	sn:Stacker_Sports	2.82	no	RISING
 letting	sn:meta	2.78	yes	
 issue	sn:meta	2.78	yes	
+venezuelan	sn:news	2.78	no	RISING
+daily putt	sn:gaming	2.77	no	RISING
