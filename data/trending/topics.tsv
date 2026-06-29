@@ -1,34 +1,32 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-29T08:59:17.547Z; n=40
-daily bitcoin lore	sn:history	5.84	no	RISING
-biggest channel opened today	sn:lightning	5.54	no	RISING
-new node spotlight	sn:lightning	5.54	no	RISING
-what	sn:AI,sn:news	5.12	yes	
+# generated 2026-06-29T14:05:50.990Z; n=40
+what	hn,sn:AI,sn:news	6.16	yes	
+umbrel	sn:tech,sn:bitcoin	5.56	yes	
+world cup	sn:Stacker_Sports	5.4	no	RISING
+bitcoin	sn:bitcoin	4.47	yes	
 forgotten satoshi emails discovered	sn:the_stacker_muse	4.05	yes	
 nicholas bohm	sn:the_stacker_muse	4.05	yes	
 the satoshi times	sn:the_stacker_muse	4.05	yes	
-le paradigme bitcoin	sn:bitcoin	3.37	yes	
-switzerland	sn:bitcoin	3.37	yes	
+five	sn:bitcoin	4	yes	
+wild	sn:bitcoin	4	yes	
+apps to earn bitcoin rewards	sn:bitcoin	4	yes	
 seb bunney	sn:BooksAndArticles	3.24	no	RISING
 book	sn:BooksAndArticles	3.24	no	RISING
 pretty neat trash	sn:BooksAndArticles	3.24	no	RISING
 review	sn:food_and_drinks	3.15	no	RISING
 satoshi coffee co	sn:food_and_drinks	3.15	no	RISING
 ethiopian natural sidamo guji	sn:food_and_drinks	3.15	no	RISING
-dario amodei	sn:AI	3.09	yes	
+cordn	sn:nostr	3.07	yes	
 taproot	sn:bitcoin	3.05	yes	
-greek capital controls trigger bitcoin surge	sn:history	3.05	no	RISING
-earns	sn:tech	3	yes	
-bluetooth	sn:tech	3	yes	
-umbrel	sn:tech	3	yes	
-chess	sn:Stacker_Sports	2.99	no	RISING
-chessiful improvements	sn:Stacker_Sports	2.99	no	RISING
-bitch	sn:Stacker_Sports	2.99	no	RISING
-claude	hn	2.91	yes	
+earns	sn:tech	3.01	yes	
+bluetooth	sn:tech	3.01	yes	
+chess	sn:Stacker_Sports	3	no	RISING
+chessiful improvements	sn:Stacker_Sports	3	no	RISING
+bitch	sn:Stacker_Sports	3	no	RISING
+claude	hn	2.99	yes	
 canada	sn:Stacker_Sports	2.91	no	RISING
-world cup	sn:Stacker_Sports	2.91	no	RISING
-new bitcoin prediction market	sn:lightning	2.87	no	RISING
-glimpse prediction market	sn:lightning	2.87	no	RISING
+new bitcoin prediction market	sn:lightning	2.9	no	RISING
+glimpse prediction market	sn:lightning	2.9	no	RISING
 daily putt	sn:gaming	2.86	no	RISING
 play	sn:gaming	2.86	no	RISING
 putt	sn:gaming	2.86	no	RISING
@@ -36,7 +34,9 @@ score	sn:gaming	2.86	no	RISING
 the lifecycle	sn:AI	2.85	yes	
 apocalypse	sn:AI	2.85	yes	
 ben landau-taylor	sn:AI	2.85	yes	
-summer low during bitcoin	sn:history	2.79	no	RISING
-epic year	sn:history	2.79	no	RISING
-survivor pool	sn:Stacker_Sports	2.69	no	RISING
-week	sn:Stacker_Sports	2.69	no	RISING
+daily bitcoin lore	sn:history	2.81	no	RISING
+summer low during bitcoin	sn:history	2.81	no	RISING
+epic year	sn:history	2.81	no	RISING
+biggest channel opened today	sn:lightning	2.8	no	RISING
+new node spotlight	sn:lightning	2.8	no	RISING
+kids	hn	2.75	no	RISING
