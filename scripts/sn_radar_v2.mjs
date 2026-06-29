@@ -68,8 +68,19 @@ function classify(item) {
   const bounty = Number(item.bounty || 0);
   const ncom = Number(item.ncomments || 0);
   const score = Number(item.sats || 0);
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo) tags.push('OPEN_BOUNTY');
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
+  const text = (item.title + ' ' + (item.body || '')).toLowerCase();
+
+  // Coding detection keywords
+  const codingKeywords = ['code', 'github', 'pr', 'fix', 'feature', 'issue', 'javascript', 'python', 'typescript', 'rust', 'golang', 'node', 'react', 'api', 'bug', 'refactor', 'integration'];
+  const isCoding = codingKeywords.some(k => text.includes(k));
+  
+  // Noise detection keywords
+  const noiseKeywords = ['meme', 'puzzle', 'sports', 'pick \'em', 'trivia', 'photo', 'drawing'];
+  const isNoise = noiseKeywords.some(k => text.includes(k));
+
+  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && isCoding && !isNoise) tags.push('OPEN_BOUNTY');
+  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && ncom <= MAX_COMMENTS_FOR_LOW_COMP && isCoding && !isNoise) tags.push('LOW_COMP');
+  if (isNoise) tags.push('CONTENT_BOUNTY');
   if (item.sub?.name === 'jobs') tags.push('JOB');
   if (ageHours <= 2) tags.push('FRESH');
   if (score >= 1000) tags.push('HOT');
