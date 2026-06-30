@@ -21,8 +21,9 @@ async function gqlAnon(query, variables = {}) {
     },
     body: JSON.stringify({ query, variables }),
   });
+  if (!r.ok) return { error: `HTTP ${r.status}`, status: r.status };
   const text = await r.text();
-  try { return JSON.parse(text); } catch { return { raw: text.slice(0, 200), status: r.status }; }
+  try { return JSON.parse(text); } catch { return { error: 'Invalid JSON', raw: text.slice(0, 200), status: r.status }; }
 }
 
 async function fetchAllUserItems(userName) {
@@ -112,7 +113,16 @@ function summarize(items) {
   const tsvPath = path.join(outDir, `${today}.tsv`);
   const headers = '# id\tkind\tsub\tcost\tsats\tcommentSats\tparentId\tcreatedAt\ttitle';
   const rows = items
-    .sort((a, b) => new Date(a.createdAt) - new Date(b.createdAt))
+    .sort((a, b) => {
+      const aDate = new Date(a.createdAt);
+      const bDate = new Date(b.createdAt);
+      const aTime = aDate.getTime();
+      const bTime = bDate.getTime();
+      // Handle invalid dates (NaN)
+      if (isNaN(aTime)) return isNaN(bTime) ? 0 : 1;
+      if (isNaN(bTime)) return -1;
+      return aTime - bTime;
+    })
     .map(it => [
       it.id, it._kind, it.sub?.name || '-', it.cost || 0, it.sats || 0,
       it.commentSats || 0, it.parentId || '-', it.createdAt,
