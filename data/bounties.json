@@ -1,0 +1,21 @@
+{
+  "bounties": [
+    {
+      "id": 1505292,
+      "category": "Memes",
+      "winners": 2,
+      "current_entries": 595,
+      "max_entries": 1000,
+      "duration_days": 5,
+      "reward_per_winner": 18.9,
+      "total_reward": 51481,
+      "extra_field": 4041,
+      "tags": ["recent@Memes", "top@Memes"],
+      "bounty_types": ["OPEN_BOUNTY", "LOW_COMP", "SELF_POST_OPP"],
+      "title": "Meme Bounty - Thanks to REUTERS",
+      "status": "open",
+      "detected_at": "2026-06-10T08:59:00Z",
+      "source": "SN"
+    }
+  ]
+}
