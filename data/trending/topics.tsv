@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-30T17:54:22.567Z; n=40
-supreme court	hn,sn:Politics_And_Law	4.1	no	RISING
+# generated 2026-06-30T23:13:30.023Z; n=40
+bitcoin	sn:BooksAndArticles,sn:bitcoin	6.15	yes	
 book	sn:BooksAndArticles	3.44	no	RISING
 books	sn:BooksAndArticles	3.44	no	RISING
 bookmarked	sn:BooksAndArticles	3.44	no	RISING
 the philosophy	sn:BooksAndArticles	3.44	no	RISING
-bitcoin	sn:BooksAndArticles	3.44	yes	
-half year update	sn:HealthAndFitness	3.18	no	RISING
-run goal	sn:HealthAndFitness	3.18	no	RISING
-on pace	sn:HealthAndFitness	3.18	no	RISING
-miles	sn:HealthAndFitness	3.18	no	RISING
-is cold-water swimming really good	sn:HealthAndFitness	3.07	no	RISING
-hannah coates	sn:HealthAndFitness	3.07	no	RISING
-qwen	hn	3.04	no	RISING
-fair	sn:Stacker_Sports	3.02	no	RISING
-jeff booth weighs in on	sn:bitcoin	2.98	yes	
-knots	sn:bitcoin	2.98	yes	
-gloria	sn:bitcoin	2.98	yes	
-what charlie	sn:AI	2.92	yes	
-chocolate factory	sn:AI	2.92	yes	
-open	sn:news	2.89	no	RISING
-stripe	sn:news	2.89	no	RISING
-mastercard	sn:news	2.89	yes	
-visa	sn:news	2.89	no	RISING
-blackrock	sn:news	2.89	no	RISING
-coinbase	sn:news	2.89	no	RISING
-california attempt	sn:Politics_And_Law	2.85	no	RISING
-legalize crypto staking appears dead	sn:Politics_And_Law	2.85	no	RISING
-politico pro	sn:Politics_And_Law	2.85	no	RISING
-trump	sn:Politics_And_Law	2.82	no	RISING
-top-level	hn	2.8	no	RISING
-self-hosting	hn	2.8	no	RISING
-free	hn	2.79	no	RISING
-icons	hn	2.79	no	RISING
-european	hn	2.78	no	RISING
-google	hn	2.78	no	RISING
-apple	hn	2.78	no	RISING
+half year update	sn:HealthAndFitness	3.2	no	RISING
+run goal	sn:HealthAndFitness	3.2	no	RISING
+on pace	sn:HealthAndFitness	3.2	no	RISING
+miles	sn:HealthAndFitness	3.2	no	RISING
+best	sn:lightning	3.12	no	RISING
+claude code	hn	3.1	no	RISING
+is cold-water swimming really good	sn:HealthAndFitness	3.09	no	RISING
+hannah coates	sn:HealthAndFitness	3.09	no	RISING
+open	sn:news	3.05	no	RISING
+stripe	sn:news	3.05	no	RISING
+mastercard	sn:news	3.05	yes	
+visa	sn:news	3.05	no	RISING
+blackrock	sn:news	3.05	no	RISING
+coinbase	sn:news	3.05	no	RISING
+the con-man regan	sn:Stacker_Stocks	3.05	no	RISING
+recorded	sn:Stacker_Stocks	3.05	no	RISING
+his own frauds	sn:Stacker_Stocks	3.05	no	RISING
+to teach others	sn:Stacker_Stocks	3.05	no	RISING
+jason zweig	sn:Stacker_Stocks	3.05	no	RISING
+fair	sn:Stacker_Sports	3.04	no	RISING
+jeff booth weighs in on	sn:bitcoin	3	yes	
+knots	sn:bitcoin	3	yes	
+gloria	sn:bitcoin	3	yes	
+what charlie	sn:AI	2.95	yes	
+chocolate factory	sn:AI	2.95	yes	
+claude sonnet	hn	2.89	no	RISING
+malik beasley	sn:Stacker_Sports	2.87	no	RISING
+supreme court	sn:Politics_And_Law	2.87	no	RISING
+trump	sn:Politics_And_Law	2.87	no	RISING
+jonas nick	sn:bitcoin	2.83	yes	
+daily discussion thread	sn:Music	2.82	no	RISING
+music saloon	sn:Music	2.82	no	RISING
 here	sn:AI	2.76	yes	
 codex	sn:AI	2.76	yes	
-monday	sn:HealthAndFitness	2.75	no	RISING
-claude code is steganographically marking requests	hn	2.74	no	RISING
+gemma	sn:AI	2.76	yes	
