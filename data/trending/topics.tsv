@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-01T17:56:28.099Z; n=40
-strategy	sn:Stacker_Stocks,sn:econ	6.45	no	RISING
-july	hn,sn:meta	5.93	yes	
-what	sn:bitcoin,sn:meta	5.67	yes	
-show	hn	3.85	no	RISING
+# generated 2026-07-01T23:16:22.616Z; n=40
+what	hn,sn:bitcoin,sn:meta	8.11	yes	
+strategy	sn:Stacker_Stocks,sn:econ	6.5	no	RISING
+econ posts	sn:econ	6.24	no	RISING
+money stuff	sn:Stacker_Stocks,sn:econ	6.12	no	RISING
+matt levine	sn:Stacker_Stocks,sn:econ	6.12	no	RISING
+july	hn	4.17	yes	
+bitcoin optech newsletter	sn:bitcoin	3.67	yes	
+podcast	sn:bitcoin	3.67	yes	
 top june	sn:econ	3.38	no	RISING
-econ posts	sn:econ	3.38	no	RISING
-the bitcoin bank run	sn:Stacker_Stocks	3.26	no	RISING
-strc	sn:Stacker_Stocks	3.26	no	RISING
-money stuff	sn:Stacker_Stocks	3.26	no	RISING
-matt levine	sn:Stacker_Stocks	3.26	no	RISING
-bitcoin optech newsletter	sn:bitcoin	3.21	yes	
-podcast	sn:bitcoin	3.21	yes	
-death	sn:econ	3.19	no	RISING
-bitcoin treasury company	sn:econ	3.19	no	RISING
-barron	sn:econ	3.19	no	RISING
-tatananni	sn:econ	3.19	no	RISING
-best	sn:lightning	3.13	no	RISING
-the con-man regan	sn:Stacker_Stocks	3.06	no	RISING
-recorded	sn:Stacker_Stocks	3.06	no	RISING
-his own frauds	sn:Stacker_Stocks	3.06	no	RISING
-to teach others	sn:Stacker_Stocks	3.06	no	RISING
-jason zweig	sn:Stacker_Stocks	3.06	no	RISING
-retire	sn:Politics_And_Law	3.05	no	RISING
-seniors	sn:Politics_And_Law	3.05	no	RISING
-student debt	sn:Politics_And_Law	3.05	no	RISING
-oyin adedoyin	sn:Politics_And_Law	3.05	no	RISING
-bitcoin taproot	sn:bitcoin	3	yes	
+the bitcoin bank run	sn:Stacker_Stocks	3.3	no	RISING
+strc	sn:Stacker_Stocks	3.3	no	RISING
+death	sn:econ	3.2	no	RISING
+bitcoin treasury company	sn:econ	3.2	no	RISING
+barron	sn:econ	3.2	no	RISING
+tatananni	sn:econ	3.2	no	RISING
+bitcoin is not freedom	sn:bitcoin	3.17	yes	
+the delusion	sn:bitcoin	3.17	yes	
+digital escape	sn:bitcoin	3.17	yes	
+mises institute	sn:bitcoin	3.17	yes	
+generate your world cup predictions	sn:AI	3.16	yes	
+louis ashworth	sn:AI	3.16	yes	
+reflections upon bitcoin	sn:bitcoin	3.1	yes	
+block size debate	sn:bitcoin	3.1	yes	
+retire	sn:Politics_And_Law	3.07	no	RISING
+seniors	sn:Politics_And_Law	3.07	no	RISING
+student debt	sn:Politics_And_Law	3.07	no	RISING
+oyin adedoyin	sn:Politics_And_Law	3.07	no	RISING
+bitcoin taproot	sn:bitcoin	3.06	yes	
 scraping	sn:Stacker_Stocks	2.96	no	RISING
-department	hn	2.94	no	RISING
-commerce	hn	2.94	no	RISING
-claude fable	hn	2.94	no	RISING
-mythos	hn	2.94	no	RISING
-reflections upon bitcoin	sn:bitcoin	2.93	yes	
-block size debate	sn:bitcoin	2.93	yes	
-jonas nick	sn:bitcoin	2.87	yes	
-gemma	sn:AI	2.87	yes	
-cerebras	sn:AI	2.87	yes	
+photos	sn:Photography	2.85	no	RISING
+venezuela	sn:Photography	2.85	no	RISING
+rajarshi maitra found	sn:bitcoin	2.85	yes	
+point	sn:bitcoin	2.85	yes	
+light	sn:bitcoin	2.85	yes	
+dark cave	sn:bitcoin	2.85	yes	
+quit his job	sn:bitcoin	2.85	yes	
 fun guy	sn:Stacker_Sports	2.84	no	RISING
-photos	sn:Photography	2.83	no	RISING
-venezuela	sn:Photography	2.83	no	RISING
+earth garden	sn:Design	2.84	no	RISING
+the egg clearinghouse	sn:econ	2.82	no	RISING
+eggcellent	sn:econ	2.82	no	RISING
