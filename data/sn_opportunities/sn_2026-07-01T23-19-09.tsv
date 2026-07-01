@@ -1,0 +1,55 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1517846	bitcoin	1	4677	0	2	6.7	1014665	198	recent@bitcoin|top@bitcoin	HOT,SIGNAL	LND DoS bug, libevent removal, Q&A - Bitcoin Optech Newsletter #411 Podcast
+1517824	bitcoin	1	1597	0	5	7.6	1242375	100	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What would you put in your genesis block?
+1517897	bitcoin	1	1497	0	13	4.6	74100	10951	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+1517976	AI	1	1436	0	2	2.7	724606	11086	recent@AI|top@AI	HOT,SIGNAL	Let AI Generate Your World Cup Predictions (FT, Louis Ashworth)
+1517738	bitcoin	1	1259	0	4	9.9	74100	10951	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Reflections Upon Bitcoin's Block Size Debate
+1517928	bitcoin_beginners	1	1010	0	7	3.6	532976	114	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	The role of cash (banknotes) in a post fiat society
+1517875	bitcoin	1	713	0	1	5.5	280679	22311	recent@bitcoin|top@bitcoin	SIGNAL	Rajarshi Maitra Found a Point of Light in the Dark Cave, Quit His Job, and ...
+1517830	AI	1	594	0	4	7.1	74100	10951	recent@AI|top@AI	SIGNAL	Toward Unrestricted Intelligence: Venice Series A - Erik Voorhees
+1517735	lightning	1	574	0	1	10.1	440729	179	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (02719f6b60955e647…)
+1517937	bitcoin	1	572	0	0	3.3	74100	10951	recent@bitcoin|top@bitcoin|recent@mempool	SIGNAL	Satoshi and Hal Finney first describing a mempool in November 2008
+1517717	gaming	3	542	0	3	10.4	163128	3630	recent@lightning|top@lightning	SIGNAL	1-SAT RUNNER
+1517854	bitcoin	1	485	0	0	6.3	74100	10951	recent@bitcoin|top@bitcoin	SIGNAL	Trilithium: Efficient and Universally Composable Distributed ML-DSA Signing
+1517704	bitcoin	1	417	0	5	11.2	238412	188	recent@bitcoin|top@bitcoin	SIGNAL	The Hodl Era Is Over
+1517805	meta	1	411	0	5	8.3	36151	1536	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1518020	bitcoin	1	354	0	7	1.9	223678	5740	recent@bitcoin|top@bitcoin|recent@mempool	FRESH,SIGNAL	Nice watch-only bitcoin wallet
+1517919	tech	1	275	0	1	4.0	144357	4303	recent@tech|top@tech	SIGNAL	Meet Fio: the Catholic alternative to Spotify
+1517886	AI	1	274	0	0	5.0	1293586	1986	recent@AI|top@AI	SIGNAL	Companies rehire workers laid off for AI as automation falls short
+1518025	bitcoin	1	261	0	0	1.7	74100	10951	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	cerberus: Bark BTC-Ark Swap Protocol - stutxo
+1517926	gaming	3	257	0	0	3.7	13531	1659	recent@tech|top@tech	SIGNAL	Xbox testing disc-to-digital feature that digitizes a physical game collection
+1518054	AI	1	185	0	1	0.7	74100	10951	recent@bitcoin|top@bitcoin|recent@AI	FRESH,SIGNAL	Is everybody pivoting to AI?
+1517828	AI	1	105	0	0	7.3	88718	44916	recent@AI|top@AI	SIGNAL	Why Bernie Sanders’s AI Bill Is Fascistic and Dangerous
+1517427	lightning	1	1376	0	13	27.9	263526	445	recent@lightning	HOT	Best Bolt12 wallet
+1517590	bitcoin	1	1135	0	2	20.4	74100	10951	recent@bitcoin|top@bitcoin	HOT	The first Bitcoin Taproot spend transactions - jaonoctus
+1517188	bitcoin	1	1000	0	28	35.9	30782	25028	recent@bitcoin	HOT	Jeff Booth Weighs In On BIP 110, Knots & Gloria
+1517302	AI	1	933	0	3	31.9	74100	10951	recent@AI		What Charlie and the Chocolate Factory says about AI
+1517396	bitcoin	1	786	0	4	28.8	74100	10951	recent@bitcoin|recent@bitdevs		nickler (Jonas Nick) steps down as maintainer of libsecp256k1
+1517500	AI	1	733	0	1	24.5	241	2830	recent@AI		Gemma 4 on Cerebras
+1517685	bitcoin_beginners	1	604	0	3	12.3	104755	12494	recent@bitcoin_beginners|top@bitcoin_beginners		Reconnected my Send capability with Blink
+1517460	bitcoin	1	583	0	2	26.6	8306	1138	recent@bitcoin		BITCOIN SEASON - Bitcoin’s infiltration of America’s sports business | Trailer
+1517304	AI	1	578	0	0	31.9	13531	1659	recent@tech|recent@AI		Here’s a photo of OpenAI’s Codex hardware.
+1517192	AI	1	573	0	2	35.6	401865	8215	recent@AI		Build From Anywhere with Cursor For iOS
+1517401	AI	1	570	0	4	28.7	12309	3564	recent@AI		We can finally say AI isn't killing jobs.
+1517328	bitcoin	1	552	0	3	31.1	74100	10951	recent@bitcoin		BIP Proposal: Bitcoin Infinity (expiring transactions) - Ricard
+1517430	lightning	1	515	0	2	27.7	263526	445	recent@lightning		Some doubts and questions that I have about the Phoenix Wallet.
+1517244	lightning	1	433	0	3	34.1	440729	179	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b07959b27ea0346…)
+1517426	bitcoin	1	396	0	5	27.9	74100	10951	recent@bitcoin|recent@lightning		How to start and run a new Cashu mint (guide) - Orchard
+1517687	AI	1	373	0	0	12.2	280679	22311	recent@AI|top@AI		Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Fest
+1517356	bitcoin	1	337	0	0	29.8	280679	22311	recent@bitcoin		Egge’s Bitcoin Journey: From Marketer to Cashu Maintainer
+1517630	lightning	1	290	0	0	15.5	70864	347	recent@lightning|top@lightning		Release 5.0.1: Valet with flavors - Regtest, Testnet3, Testnet4
+1517350	tech	1	287	0	0	30.2	12309	3564	recent@tech		Sony's First LOFIC Image Sensor Promises Nearly 17 Stops of Dynamic Range
+1517658	meta	1	282	0	0	13.3	36151	1536	recent@meta|top@meta		This Day on SN: July 1
+1517621	AI	1	274	0	4	16.5	1	26768	recent@AI|top@AI		Redeploying Claude Fable 5
+1517359	nostr	1	240	0	0	29.6	1496326	8	recent@nostr		Cordn: New message info sidebar, threads, reactions, and more✨
+1517399	bitcoin_beginners	1	138	0	0	28.7	296825	4746	recent@bitcoin_beginners|recent@lightning		ZAPPI Wallet Betta Is Now Live
+1517232	bitcoin_beginners	1	138	0	1	34.6	296825	4746	recent@bitcoin_beginners		Bitcoin Inheritance Finally Made Simple - Coconut Wallet
+1517606	bitcoin	1	57	0	0	19.2	1517606	3	recent@bitcoin_beginners|top@bitcoin_beginners		Building a non-nonsense "pass-along" Bitcoin brochure. What am I missing?
+1517974	bitcoin_beginners	1	36	0	0	2.7	296825	4746	recent@bitcoin_beginners|top@bitcoin_beginners		The Politics of Post-Quantum Bitcoin
+1517632	bitcoin_beginners	1	36	0	0	15.3	1473003	31	recent@bitcoin_beginners|top@bitcoin_beginners		An analysis of the Funding Rate in cryptocurrency perpetual futures
+1517420	AI	1	36	0	0	28.0	296825	4746	recent@bitcoin_beginners|recent@AI		Mesh-LLM: Distributed AI/LLM for the people. Share compute privately or publicly
+1517474	bitcoin	1	36	0	0	26.2	1495204	11	recent@lightning		Lightning: The Final Frontier
+1517643	bitcoin_beginners	1	19	0	1	14.3	296825	4746	recent@bitcoin_beginners|top@bitcoin_beginners		Why Keonne Rodriguez Is in Prison for Building Samourai Wallet
+1517718	bitcoin_beginners	1	0	0	0	10.4	894285	148	top@bitcoin_beginners		Free Poison — 1. The Free Thing Is The Trap
+1517615	bitcoin	1	0	0	1	18.2	1401899	192	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin Stories — How Iran Became an Accidental Mining Powerhouse
+1517208	AI	1	0	0	0	35.2	280679	22311	recent@AI		BIS | How the AI bubble could pop and take down the global economy
