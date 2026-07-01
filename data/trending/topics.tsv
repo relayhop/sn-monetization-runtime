@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-06-30T23:13:30.023Z; n=40
-bitcoin	sn:BooksAndArticles,sn:bitcoin	6.15	yes	
+# generated 2026-07-01T08:14:11.137Z; n=40
+bitcoin	sn:BooksAndArticles,sn:bitcoin	6.2	yes	
 book	sn:BooksAndArticles	3.44	no	RISING
 books	sn:BooksAndArticles	3.44	no	RISING
 bookmarked	sn:BooksAndArticles	3.44	no	RISING
 the philosophy	sn:BooksAndArticles	3.44	no	RISING
-half year update	sn:HealthAndFitness	3.2	no	RISING
-run goal	sn:HealthAndFitness	3.2	no	RISING
-on pace	sn:HealthAndFitness	3.2	no	RISING
-miles	sn:HealthAndFitness	3.2	no	RISING
-best	sn:lightning	3.12	no	RISING
-claude code	hn	3.1	no	RISING
+claude code	hn	3.28	no	RISING
+half year update	sn:HealthAndFitness	3.24	no	RISING
+run goal	sn:HealthAndFitness	3.24	no	RISING
+on pace	sn:HealthAndFitness	3.24	no	RISING
+miles	sn:HealthAndFitness	3.24	no	RISING
+best	sn:lightning	3.13	no	RISING
+open	sn:news	3.11	no	RISING
+stripe	sn:news	3.11	no	RISING
+mastercard	sn:news	3.11	yes	
+visa	sn:news	3.11	no	RISING
+blackrock	sn:news	3.11	no	RISING
+coinbase	sn:news	3.11	no	RISING
 is cold-water swimming really good	sn:HealthAndFitness	3.09	no	RISING
 hannah coates	sn:HealthAndFitness	3.09	no	RISING
-open	sn:news	3.05	no	RISING
-stripe	sn:news	3.05	no	RISING
-mastercard	sn:news	3.05	yes	
-visa	sn:news	3.05	no	RISING
-blackrock	sn:news	3.05	no	RISING
-coinbase	sn:news	3.05	no	RISING
-the con-man regan	sn:Stacker_Stocks	3.05	no	RISING
-recorded	sn:Stacker_Stocks	3.05	no	RISING
-his own frauds	sn:Stacker_Stocks	3.05	no	RISING
-to teach others	sn:Stacker_Stocks	3.05	no	RISING
-jason zweig	sn:Stacker_Stocks	3.05	no	RISING
+the con-man regan	sn:Stacker_Stocks	3.06	no	RISING
+recorded	sn:Stacker_Stocks	3.06	no	RISING
+his own frauds	sn:Stacker_Stocks	3.06	no	RISING
+to teach others	sn:Stacker_Stocks	3.06	no	RISING
+jason zweig	sn:Stacker_Stocks	3.06	no	RISING
+claude sonnet	hn	3.04	no	RISING
 fair	sn:Stacker_Sports	3.04	no	RISING
 jeff booth weighs in on	sn:bitcoin	3	yes	
 knots	sn:bitcoin	3	yes	
 gloria	sn:bitcoin	3	yes	
-what charlie	sn:AI	2.95	yes	
-chocolate factory	sn:AI	2.95	yes	
-claude sonnet	hn	2.89	no	RISING
-malik beasley	sn:Stacker_Sports	2.87	no	RISING
+what charlie	sn:AI	2.97	yes	
+chocolate factory	sn:AI	2.97	yes	
+bitcoin taproot	sn:bitcoin	2.97	yes	
+scraping	sn:Stacker_Stocks	2.96	no	RISING
+malik beasley	sn:Stacker_Sports	2.88	no	RISING
+jonas nick	sn:bitcoin	2.87	yes	
 supreme court	sn:Politics_And_Law	2.87	no	RISING
 trump	sn:Politics_And_Law	2.87	no	RISING
-jonas nick	sn:bitcoin	2.83	yes	
-daily discussion thread	sn:Music	2.82	no	RISING
-music saloon	sn:Music	2.82	no	RISING
-here	sn:AI	2.76	yes	
-codex	sn:AI	2.76	yes	
-gemma	sn:AI	2.76	yes	
+gemma	sn:AI	2.87	yes	
+cerebras	sn:AI	2.87	yes	
+fun guy	sn:Stacker_Sports	2.83	no	RISING
