@@ -12377,3 +12377,8 @@
 2026-07-01T10:15:08.053Z	1517500	AI	1	733	0	1	11.5	241	2830	recent@AI|top@AI	SIGNAL	Gemma 4 on Cerebras
 2026-07-01T13:11:58.121Z	1517590	bitcoin	1	1008	0	0	10.3	74100	10915	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The first Bitcoin Taproot spend transactions - jaonoctus
 2026-07-01T13:11:58.121Z	1517658	meta	1	246	0	0	3.2	36151	1535	recent@meta|top@meta	SIGNAL	This Day on SN: July 1
+2026-07-01T13:38:43.208Z	1517707	econ	2	2225	0	10	1.1	88718	44888	recent@econ|top@econ	FRESH,HOT,SIGNAL,SELF_POST_OPP	Top June ~Econ Posts
+2026-07-01T13:38:43.208Z	1517590	bitcoin	1	1008	0	0	10.7	74100	10917	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	The first Bitcoin Taproot spend transactions - jaonoctus
+2026-07-01T13:38:43.208Z	1517667	Stacker_Stocks	2	476	0	1	3.4	724606	11058	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	The Bitcoin Bank Run on Strategy and STRC (Money Stuff, Matt Levine)
+2026-07-01T13:38:43.208Z	1517658	meta	1	282	0	0	3.6	36151	1535	recent@meta|top@meta	SIGNAL	This Day on SN: July 1
+2026-07-01T13:38:43.208Z	1517579	history	2	102	0	0	11.4	1401899	191	recent@history|top@history	SIGNAL	Episode #1 of the True Bitcoin Stories series
