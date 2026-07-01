@@ -1,0 +1,47 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1517846	bitcoin	1	1614	0	2	1.4	1014665	198	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	LND DoS bug, libevent removal, Q&A - Bitcoin Optech Newsletter #411 Podcast
+1517824	bitcoin	1	1472	0	0	2.3	1242375	100	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What would you put in your genesis block?
+1517738	bitcoin	1	855	0	0	4.6	74100	10932	recent@bitcoin|top@bitcoin	SIGNAL	Reflections Upon Bitcoin's Block Size Debate
+1517830	AI	1	573	0	4	1.8	74100	10932	recent@AI|top@AI	FRESH,SIGNAL	Toward Unrestricted Intelligence: Venice Series A - Erik Voorhees
+1517854	bitcoin	1	449	0	0	1.0	74100	10932	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Trilithium: Efficient and Universally Composable Distributed ML-DSA Signing
+1517717	gaming	3	428	0	2	5.1	163128	3630	recent@lightning|top@lightning	SIGNAL	1-SAT RUNNER
+1517687	AI	1	326	0	0	6.9	280679	22299	recent@AI|top@AI	SIGNAL	Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Fest
+1517805	meta	1	320	0	0	3.0	36151	1536	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1517630	lightning	1	290	0	0	10.2	70864	347	recent@lightning|top@lightning	SIGNAL	Release 5.0.1: Valet with flavors - Regtest, Testnet3, Testnet4
+1517704	bitcoin	1	284	0	4	5.9	238412	188	recent@bitcoin|top@bitcoin	SIGNAL	The Hodl Era Is Over
+1517658	meta	1	282	0	0	8.0	36151	1536	recent@meta|top@meta	SIGNAL	This Day on SN: July 1
+1517735	lightning	1	215	0	0	4.8	440729	179	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (02719f6b60955e647…)
+1517621	AI	1	196	0	4	11.2	1	26758	recent@AI|top@AI	SIGNAL	Redeploying Claude Fable 5
+1517828	AI	1	105	0	0	2.0	88718	44900	recent@AI|top@AI	SIGNAL	Why Bernie Sanders’s AI Bill Is Fascistic and Dangerous
+1517427	lightning	1	1355	0	10	22.6	263526	445	recent@lightning|top@lightning	HOT	Best Bolt12 wallet
+1517590	bitcoin	1	1008	0	0	15.1	74100	10932	recent@bitcoin|top@bitcoin	HOT	The first Bitcoin Taproot spend transactions - jaonoctus
+1517188	bitcoin	1	1000	0	28	30.6	30782	25025	recent@bitcoin	HOT	Jeff Booth Weighs In On BIP 110, Knots & Gloria
+1517302	AI	1	933	0	3	26.6	74100	10932	recent@AI		What Charlie and the Chocolate Factory says about AI
+1517396	bitcoin	1	744	0	4	23.5	74100	10932	recent@bitcoin|top@bitcoin|recent@bitdevs		nickler (Jonas Nick) steps down as maintainer of libsecp256k1
+1517500	AI	1	733	0	1	19.2	241	2830	recent@AI|top@AI		Gemma 4 on Cerebras
+1517460	bitcoin	1	583	0	2	21.3	8306	1138	recent@bitcoin|top@bitcoin		BITCOIN SEASON - Bitcoin’s infiltration of America’s sports business | Trailer
+1517304	AI	1	578	0	0	26.6	13531	1656	recent@tech|recent@AI		Here’s a photo of OpenAI’s Codex hardware.
+1517192	AI	1	573	0	2	30.3	401865	8213	recent@AI		Build From Anywhere with Cursor For iOS
+1517401	AI	1	570	0	4	23.4	12309	3564	recent@AI|top@AI		We can finally say AI isn't killing jobs.
+1517328	bitcoin	1	552	0	3	25.8	74100	10932	recent@bitcoin		BIP Proposal: Bitcoin Infinity (expiring transactions) - Ricard
+1517430	lightning	1	515	0	2	22.4	263526	445	recent@lightning|top@lightning		Some doubts and questions that I have about the Phoenix Wallet.
+1517244	lightning	1	433	0	3	28.8	440729	179	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b07959b27ea0346…)
+1517426	bitcoin	1	396	0	5	22.6	74100	10932	recent@bitcoin|top@bitcoin|recent@lightning		How to start and run a new Cashu mint (guide) - Orchard
+1517356	bitcoin	1	337	0	0	24.5	280679	22299	recent@bitcoin		Egge’s Bitcoin Journey: From Marketer to Cashu Maintainer
+1517350	tech	1	287	0	0	24.9	12309	3564	recent@tech		Sony's First LOFIC Image Sensor Promises Nearly 17 Stops of Dynamic Range
+1517359	nostr	1	240	0	0	24.3	1496326	8	recent@nostr		Cordn: New message info sidebar, threads, reactions, and more✨
+1517399	bitcoin_beginners	1	138	0	0	23.4	296825	4745	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		ZAPPI Wallet Betta Is Now Live
+1517232	bitcoin_beginners	1	138	0	1	29.3	296825	4745	recent@bitcoin_beginners		Bitcoin Inheritance Finally Made Simple - Coconut Wallet
+1517606	bitcoin	1	57	0	0	13.9	1517606	3	recent@bitcoin_beginners|top@bitcoin_beginners		Building a non-nonsense "pass-along" Bitcoin brochure. What am I missing?
+1517420	AI	1	36	0	0	22.7	296825	4745	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		Mesh-LLM: Distributed AI/LLM for the people. Share compute privately or publicly
+1517144	bitcoin_beginners	1	36	0	0	34.1	296825	4745	recent@bitcoin_beginners|recent@lightning		NostrWolfe — Agent Commerce Layer for Nostr
+1517137	bitcoin_beginners	1	36	0	0	34.5	296825	4745	recent@bitcoin_beginners|recent@lightning		Going live in 5 Hours: The latest project updates about Mostro Community
+1517143	bitcoin_beginners	1	36	0	0	34.2	296825	4745	recent@bitcoin_beginners		Another Bitcoin Education Initiative For Beginners
+1517166	lightning	1	36	0	0	31.7	1517166	1	recent@lightning		https://lightning.news/lightning-the-final-frontier/
+1517643	bitcoin_beginners	1	19	0	1	9.0	296825	4745	recent@bitcoin_beginners|top@bitcoin_beginners		Why Keonne Rodriguez Is in Prison for Building Samourai Wallet
+1517632	bitcoin_beginners	1	0	0	0	10.0	1473003	31	recent@bitcoin_beginners|top@bitcoin_beginners		An analysis of the Funding Rate in cryptocurrency perpetual futures
+1517718	bitcoin_beginners	1	0	0	0	5.1	894285	148	top@bitcoin_beginners		Free Poison — 1. The Free Thing Is The Trap
+1517615	bitcoin	1	0	0	1	12.9	1401899	191	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin Stories — How Iran Became an Accidental Mining Powerhouse
+1517474	bitcoin	1	0	0	0	20.9	1495204	11	recent@lightning|top@lightning		Lightning: The Final Frontier
+1517160	security	1	0	0	0	32.1	297791	7600	recent@security		Why Post-Quantum Cryptography Starts With Credentials
+1517208	AI	1	0	0	0	29.9	280679	22299	recent@AI		BIS | How the AI bubble could pop and take down the global economy
