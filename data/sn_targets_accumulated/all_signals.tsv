@@ -12502,3 +12502,40 @@
 2026-07-01T21:48:58.266Z	1517735	lightning	1	251	0	0	8.6	440729	179	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (02719f6b60955e647…)
 2026-07-01T21:48:58.266Z	1518020	bitcoin	1	138	0	3	0.4	223678	5738	recent@bitcoin|top@bitcoin|recent@mempool	FRESH,SIGNAL	Nice watch-only bitcoin wallet
 2026-07-01T21:48:58.266Z	1517828	AI	1	105	0	0	5.8	88718	44914	recent@AI|top@AI	SIGNAL	Why Bernie Sanders’s AI Bill Is Fascistic and Dangerous
+2026-07-01T22:24:28.259Z	1517846	bitcoin	1	4677	0	2	5.7	1014665	198	recent@bitcoin|top@bitcoin	HOT,SIGNAL	LND DoS bug, libevent removal, Q&A - Bitcoin Optech Newsletter #411 Podcast
+2026-07-01T22:24:28.259Z	1517707	econ	2	2393	0	26	9.9	88718	44915	recent@econ|top@econ	HOT,SIGNAL	Top June ~Econ Posts
+2026-07-01T22:24:28.259Z	1517824	bitcoin	1	1597	0	5	6.7	1242375	100	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What would you put in your genesis block?
+2026-07-01T22:24:28.259Z	1517897	bitcoin	1	1487	0	13	3.7	74100	10946	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+2026-07-01T22:24:28.259Z	1517976	AI	1	1436	0	2	1.8	724606	11086	recent@AI|top@AI|recent@econ	FRESH,HOT,SIGNAL	Let AI Generate Your World Cup Predictions (FT, Louis Ashworth)
+2026-07-01T22:24:28.259Z	1517775	Politics_And_Law	3	1181	0	9	8.2	724606	11086	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Retire the Seniors, Not the Student Debt! (WSJ, Oyin Adedoyin)
+2026-07-01T22:24:28.259Z	1517738	bitcoin	1	1130	0	1	9.0	74100	10946	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	Reflections Upon Bitcoin's Block Size Debate
+2026-07-01T22:24:28.259Z	1517928	bitcoin_beginners	1	1010	0	7	2.7	532976	114	recent@bitcoin_beginners|top@bitcoin_beginners|recent@econ	HOT,SIGNAL	The role of cash (banknotes) in a post fiat society
+2026-07-01T22:24:28.259Z	1517875	bitcoin	1	713	0	1	4.6	280679	22308	recent@bitcoin|top@bitcoin	SIGNAL	Rajarshi Maitra Found a Point of Light in the Dark Cave, Quit His Job, and ...
+2026-07-01T22:24:28.259Z	1517760	Design	2	698	0	0	8.7	383547	3283	recent@Design|top@Design	SIGNAL	Earth Garden
+2026-07-01T22:24:28.259Z	1517993	econ	2	658	0	7	1.5	724606	11086	recent@econ|top@econ	FRESH,SIGNAL,SELF_POST_OPP	The Egg Clearinghouse is Eggcellent (Money Stuff, Matt Levine)
+2026-07-01T22:24:28.259Z	1517685	bitcoin_beginners	1	604	0	3	11.4	104755	12494	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Reconnected my Send capability with Blink
+2026-07-01T22:24:28.259Z	1517830	AI	1	594	0	4	6.2	74100	10946	recent@AI|top@AI	SIGNAL	Toward Unrestricted Intelligence: Venice Series A - Erik Voorhees
+2026-07-01T22:24:28.259Z	1517717	gaming	3	542	0	3	9.5	163128	3630	recent@lightning|top@lightning	SIGNAL	1-SAT RUNNER
+2026-07-01T22:24:28.259Z	1518011	Stacker_Stocks	2	522	0	1	1.3	280679	22308	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks
+2026-07-01T22:24:28.259Z	1517854	bitcoin	1	485	0	0	5.4	74100	10946	recent@bitcoin|top@bitcoin	SIGNAL	Trilithium: Efficient and Universally Composable Distributed ML-DSA Signing
+2026-07-01T22:24:28.259Z	1517937	bitcoin	1	450	0	0	2.4	74100	10946	recent@bitcoin|top@bitcoin|recent@mempool	SIGNAL	Satoshi and Hal Finney first describing a mempool in November 2008
+2026-07-01T22:24:28.259Z	1517704	bitcoin	1	417	0	5	10.2	238412	188	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	The Hodl Era Is Over
+2026-07-01T22:24:28.259Z	1517805	meta	1	411	0	5	7.4	36151	1536	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-07-01T22:24:28.259Z	1517687	AI	1	373	0	0	11.3	280679	22308	recent@AI|top@AI	SIGNAL	Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Fest
+2026-07-01T22:24:28.259Z	1517992	econ	2	343	0	10	1.5	88718	44915	recent@econ|top@econ	FRESH,SIGNAL,SELF_POST_OPP	Top ~Econ Posts of Q2
+2026-07-01T22:24:28.259Z	1517895	science	2	336	0	2	3.8	88718	44915	recent@science|top@science	SIGNAL	World Cup Gets Grass While the NFL Plays on Plastic - Doctor Reveals the Truth
+2026-07-01T22:24:28.259Z	1518017	food_and_drinks	3	335	0	0	1.1	280679	22308	recent@econ|top@econ|recent@charts_and_maps	FRESH,SIGNAL	How does food get traded around the world?
+2026-07-01T22:24:28.259Z	1517699	podcasts	2	317	0	2	10.5	9274	24175	recent@history|top@history|recent@podcasts	SIGNAL	Everything Everywhere Daily:  Bobby Bonilla Day •
+2026-07-01T22:24:28.259Z	1517919	tech	1	275	0	1	3.1	144357	4303	recent@tech|top@tech	SIGNAL	Meet Fio: the Catholic alternative to Spotify
+2026-07-01T22:24:28.259Z	1517886	AI	1	274	0	0	4.1	1293586	1986	recent@AI|top@AI|recent@econ	SIGNAL	Companies rehire workers laid off for AI as automation falls short
+2026-07-01T22:24:28.259Z	1518025	bitcoin	1	261	0	0	0.8	74100	10946	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	cerberus: Bark BTC-Ark Swap Protocol - stutxo
+2026-07-01T22:24:28.259Z	1517926	gaming	3	257	0	0	2.8	13531	1659	recent@tech|top@tech	SIGNAL	Xbox testing disc-to-digital feature that digitizes a physical game collection
+2026-07-01T22:24:28.259Z	1517708	econ	2	253	0	2	9.7	280679	22308	recent@econ|top@econ	SIGNAL	Roundup #84: Bears on bikes
+2026-07-01T22:24:28.259Z	1517735	lightning	1	251	0	0	9.2	440729	179	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (02719f6b60955e647…)
+2026-07-01T22:24:28.259Z	1517881	Stacker_Stocks	2	174	0	0	4.3	280679	22308	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Lime raises $167M in IPO after years of teasing a public debut
+2026-07-01T22:24:28.259Z	1517922	Construction_and_Engineering	2	149	0	3	3.0	280679	22308	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Canada is (Finally) Building a Supertall Skyscraper | The B1M
+2026-07-01T22:24:28.259Z	1518020	bitcoin	1	138	0	4	1.0	223678	5739	recent@bitcoin|top@bitcoin|recent@mempool	FRESH,SIGNAL	Nice watch-only bitcoin wallet
+2026-07-01T22:24:28.259Z	1517852	lol	2	130	0	0	5.5	280679	22308	recent@lol|top@lol	SIGNAL	The weirdest song I ever made
+2026-07-01T22:24:28.259Z	1517828	AI	1	105	0	0	6.4	88718	44915	recent@AI|top@AI	SIGNAL	Why Bernie Sanders’s AI Bill Is Fascistic and Dangerous
+2026-07-01T22:24:28.259Z	1517771	Politics_And_Law	3	105	0	0	8.3	88718	44915	recent@econ|top@econ	SIGNAL	Hantavirus: Market versus Government Disease Control
+2026-07-01T22:24:28.259Z	1517793	history	2	102	0	0	7.9	1512518	31	recent@history|top@history	SIGNAL	Daily Bitcoin Lore (11 years ago): DEA Agent Steals $700K
