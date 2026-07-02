@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-02T07:33:05.682Z; n=40
-what	hn,sn:bitcoin,sn:meta	8.33	yes	
-strategy	sn:Stacker_Stocks,sn:econ	6.51	no	RISING
+# generated 2026-07-02T12:08:47.914Z; n=40
+what	hn,sn:bitcoin,sn:meta	8.41	yes	
 econ posts	sn:econ	6.27	no	RISING
-money stuff	sn:Stacker_Stocks,sn:econ	6.18	no	RISING
-matt levine	sn:Stacker_Stocks,sn:econ	6.18	no	RISING
-july	hn	4.37	yes	
-open-source	hn	4.15	no	RISING
+open-source	hn	4.56	no	RISING
 bitcoin optech newsletter	sn:bitcoin	3.67	yes	
 podcast	sn:bitcoin	3.67	yes	
-money laundering index	sn:bitcoin	3.43	yes	
-orlin grabbe	sn:bitcoin	3.43	yes	
-consensus	sn:bitcoin	3.4	yes	
-cleanup	sn:bitcoin	3.4	yes	
+money laundering index	sn:bitcoin	3.45	yes	
+orlin grabbe	sn:bitcoin	3.45	yes	
+consensus	sn:bitcoin	3.41	yes	
+cleanup	sn:bitcoin	3.41	yes	
 top june	sn:econ	3.38	no	RISING
-the bitcoin bank run	sn:Stacker_Stocks	3.31	no	RISING
-strc	sn:Stacker_Stocks	3.31	no	RISING
-death	sn:econ	3.2	no	RISING
-bitcoin treasury company	sn:econ	3.2	no	RISING
-barron	sn:econ	3.2	no	RISING
-tatananni	sn:econ	3.2	no	RISING
-bitcoin is not freedom	sn:bitcoin	3.19	yes	
-the delusion	sn:bitcoin	3.19	yes	
-digital escape	sn:bitcoin	3.19	yes	
-mises institute	sn:bitcoin	3.19	yes	
-generate your world cup predictions	sn:AI	3.18	yes	
-louis ashworth	sn:AI	3.18	yes	
-reflections upon bitcoin	sn:bitcoin	3.1	yes	
-block size debate	sn:bitcoin	3.1	yes	
+bitcoin is not freedom	sn:bitcoin	3.2	yes	
+the delusion	sn:bitcoin	3.2	yes	
+digital escape	sn:bitcoin	3.2	yes	
+mises institute	sn:bitcoin	3.2	yes	
+generate your world cup predictions	sn:AI	3.19	yes	
+louis ashworth	sn:AI	3.19	yes	
+reflections upon bitcoin	sn:bitcoin	3.13	yes	
+block size debate	sn:bitcoin	3.13	yes	
 retire	sn:Politics_And_Law	3.07	no	RISING
 seniors	sn:Politics_And_Law	3.07	no	RISING
 student debt	sn:Politics_And_Law	3.07	no	RISING
 oyin adedoyin	sn:Politics_And_Law	3.07	no	RISING
-dumb	sn:lightning	3.02	no	RISING
-review	sn:BooksAndArticles	2.92	no	RISING
-accelerando	sn:BooksAndArticles	2.92	no	RISING
-charles stross	sn:BooksAndArticles	2.92	no	RISING
+dumb	sn:lightning	3.06	no	RISING
+review	sn:BooksAndArticles	3	no	RISING
+accelerando	sn:BooksAndArticles	3	no	RISING
+charles stross	sn:BooksAndArticles	3	no	RISING
+trump	sn:charts_and_maps	2.92	yes	
+android developer verification	hn	2.91	no	RISING
+threat	hn	2.91	no	RISING
+protection	hn	2.91	no	RISING
+happy canada day	sn:Stacker_Sports	2.87	no	RISING
+canadian athletes	sn:Stacker_Sports	2.87	no	RISING
 the egg clearinghouse	sn:econ	2.86	no	RISING
 eggcellent	sn:econ	2.86	no	RISING
-happy canada day	sn:Stacker_Sports	2.85	no	RISING
-canadian athletes	sn:Stacker_Sports	2.85	no	RISING
+money stuff	sn:econ	2.86	no	RISING
+matt levine	sn:econ	2.86	no	RISING
+rajarshi maitra found	sn:bitcoin	2.85	yes	
+point	sn:bitcoin	2.85	yes	
+light	sn:bitcoin	2.85	yes	
+dark cave	sn:bitcoin	2.85	yes	
