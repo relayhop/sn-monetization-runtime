@@ -1,0 +1,51 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1518130	bitcoin	1	2676	0	1	2.4	593189	831	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Money Laundering Index (Orlin Grabbe archive, 1990s cypherpunk)
+1518135	bitcoin	1	2538	0	0	2.0	190751	46	recent@bitcoin|top@bitcoin	HOT,SIGNAL	NO CONSENSUS FOR CONSENSUS CLEANUP
+1517897	bitcoin	1	1547	0	14	10.9	74100	10958	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Is Not Freedom: The Delusion of Digital Escape - Mises Institute
+1517976	AI	1	1528	0	2	9.0	724606	11086	recent@AI|top@AI	HOT,SIGNAL	Let AI Generate Your World Cup Predictions (FT, Louis Ashworth)
+1518114	lightning	1	1037	0	4	3.5	223678	5742	recent@lightning|top@lightning	HOT,SIGNAL	1 Dumb mistake = nuked my entire lightning node privacy?
+1517928	bitcoin_beginners	1	1022	0	8	9.9	532976	114	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	The role of cash (banknotes) in a post fiat society
+1517875	bitcoin	1	713	0	1	11.8	280679	22311	recent@bitcoin|top@bitcoin	SIGNAL	Rajarshi Maitra Found a Point of Light in the Dark Cave, Quit His Job, and ...
+1517937	bitcoin	1	572	0	0	9.6	74100	10958	recent@bitcoin|top@bitcoin|recent@mempool	SIGNAL	Satoshi and Hal Finney first describing a mempool in November 2008
+1518020	bitcoin	1	502	0	9	8.2	223678	5742	recent@bitcoin|top@bitcoin|recent@mempool	SIGNAL	Nice watch-only bitcoin wallet
+1518054	AI	1	377	0	1	7.0	74100	10958	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Is everybody pivoting to AI?
+1517886	AI	1	295	0	0	11.3	1293586	1986	recent@AI|top@AI	SIGNAL	Companies rehire workers laid off for AI as automation falls short
+1518087	tech	1	281	0	0	6.3	161788	10039	recent@tech|top@tech	SIGNAL	ZCode – Harness for GLM-5.2
+1517919	tech	1	275	0	2	10.3	144357	4306	recent@tech|top@tech	SIGNAL	Meet Fio: the Catholic alternative to Spotify
+1518025	bitcoin	1	261	0	0	8.0	74100	10958	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	cerberus: Bark BTC-Ark Swap Protocol - stutxo
+1517926	gaming	3	257	0	0	10.0	13531	1659	recent@tech|top@tech	SIGNAL	Xbox testing disc-to-digital feature that digitizes a physical game collection
+1518119	nostr	1	215	0	0	3.3	144357	4306	recent@nostr|top@nostr	SIGNAL	Sidecar | A Classy Nostr Signer - Chrome Web Store
+1517846	bitcoin	1	4700	0	2	13.0	1014665	198	recent@bitcoin|top@bitcoin	HOT	LND DoS bug, libevent removal, Q&A - Bitcoin Optech Newsletter #411 Podcast
+1517824	bitcoin	1	1639	0	6	13.9	1242375	100	recent@bitcoin|top@bitcoin	HOT	What would you put in your genesis block?
+1517427	lightning	1	1376	0	13	34.2	263526	445	recent@lightning	HOT	Best Bolt12 wallet
+1517738	bitcoin	1	1259	0	4	16.3	74100	10958	recent@bitcoin|top@bitcoin	HOT	Reflections Upon Bitcoin's Block Size Debate
+1517590	bitcoin	1	1135	0	2	26.8	74100	10958	recent@bitcoin	HOT	The first Bitcoin Taproot spend transactions - jaonoctus
+1517396	bitcoin	1	786	0	4	35.1	74100	10958	recent@bitcoin|recent@bitdevs		nickler (Jonas Nick) steps down as maintainer of libsecp256k1
+1517500	AI	1	733	0	1	30.9	241	2832	recent@AI		Gemma 4 on Cerebras
+1517685	bitcoin_beginners	1	604	0	5	18.7	104755	12496	recent@bitcoin_beginners|top@bitcoin_beginners		Reconnected my Send capability with Blink
+1517830	AI	1	594	0	4	13.4	74100	10958	recent@AI|top@AI		Toward Unrestricted Intelligence: Venice Series A - Erik Voorhees
+1517460	bitcoin	1	583	0	2	32.9	8306	1138	recent@bitcoin		BITCOIN SEASON - Bitcoin’s infiltration of America’s sports business | Trailer
+1517735	lightning	1	574	0	1	16.4	440729	179	recent@lightning|top@lightning		Biggest Channel Opened Today (7.5 BTC) + New Node Spotlight (02719f6b60955e647…)
+1517401	AI	1	570	0	4	35.0	12309	3564	recent@AI		We can finally say AI isn't killing jobs.
+1517717	gaming	3	542	0	3	16.8	163128	3630	recent@lightning|top@lightning		1-SAT RUNNER
+1517430	lightning	1	515	0	2	34.0	263526	445	recent@lightning		Some doubts and questions that I have about the Phoenix Wallet.
+1517854	bitcoin	1	506	0	0	12.7	74100	10958	recent@bitcoin|top@bitcoin		Trilithium: Efficient and Universally Composable Distributed ML-DSA Signing
+1517704	bitcoin	1	417	0	6	17.5	238412	189	recent@bitcoin|top@bitcoin		The Hodl Era Is Over
+1517805	meta	1	411	0	6	14.6	36151	1536	recent@meta|top@meta		What are you working on this week?
+1517426	bitcoin	1	396	0	5	34.2	74100	10958	recent@bitcoin|recent@lightning		How to start and run a new Cashu mint (guide) - Orchard
+1517687	AI	1	373	0	0	18.5	280679	22311	recent@AI|top@AI		Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Fest
+1517833	gaming	3	341	0	0	13.3	12309	3564	recent@tech|top@tech		Sony is killing discs — and showing us why it’s a terrible idea
+1517621	AI	1	337	0	4	22.8	1	26770	recent@AI|top@AI		Redeploying Claude Fable 5
+1517630	lightning	1	290	0	0	21.9	70864	347	recent@lightning|top@lightning		Release 5.0.1: Valet with flavors - Regtest, Testnet3, Testnet4
+1517658	meta	1	282	0	0	19.6	36151	1536	recent@meta|top@meta		This Day on SN: July 1
+1517359	nostr	1	240	0	0	35.9	1496326	8	recent@nostr		Cordn: New message info sidebar, threads, reactions, and more✨
+1517399	bitcoin_beginners	1	138	0	0	35.0	296825	4746	recent@bitcoin_beginners|recent@lightning		ZAPPI Wallet Betta Is Now Live
+1517828	AI	1	105	0	0	13.7	88718	44918	recent@AI|top@AI		Why Bernie Sanders’s AI Bill Is Fascistic and Dangerous
+1517606	bitcoin	1	57	0	0	25.5	1517606	3	recent@bitcoin_beginners		Building a non-nonsense "pass-along" Bitcoin brochure. What am I missing?
+1517974	bitcoin_beginners	1	36	0	0	9.1	296825	4746	recent@bitcoin_beginners|top@bitcoin_beginners		The Politics of Post-Quantum Bitcoin
+1517632	bitcoin_beginners	1	36	0	0	21.6	1473003	31	recent@bitcoin_beginners|top@bitcoin_beginners		An analysis of the Funding Rate in cryptocurrency perpetual futures
+1517420	AI	1	36	0	0	34.4	296825	4746	recent@bitcoin_beginners|recent@AI		Mesh-LLM: Distributed AI/LLM for the people. Share compute privately or publicly
+1517474	bitcoin	1	36	0	0	32.6	1495204	11	recent@lightning		Lightning: The Final Frontier
+1517643	bitcoin_beginners	1	19	0	1	20.7	296825	4746	recent@bitcoin_beginners|top@bitcoin_beginners		Why Keonne Rodriguez Is in Prison for Building Samourai Wallet
+1517718	bitcoin_beginners	1	0	0	0	16.8	894285	148	top@bitcoin_beginners		Free Poison — 1. The Free Thing Is The Trap
+1517615	bitcoin	1	0	0	1	24.5	1401899	195	recent@bitcoin_Mining		Bitcoin Stories — How Iran Became an Accidental Mining Powerhouse
