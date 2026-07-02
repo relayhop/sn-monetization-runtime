@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-01T23:16:22.616Z; n=40
-what	hn,sn:bitcoin,sn:meta	8.11	yes	
-strategy	sn:Stacker_Stocks,sn:econ	6.5	no	RISING
-econ posts	sn:econ	6.24	no	RISING
-money stuff	sn:Stacker_Stocks,sn:econ	6.12	no	RISING
-matt levine	sn:Stacker_Stocks,sn:econ	6.12	no	RISING
-july	hn	4.17	yes	
+# generated 2026-07-02T07:33:05.682Z; n=40
+what	hn,sn:bitcoin,sn:meta	8.33	yes	
+strategy	sn:Stacker_Stocks,sn:econ	6.51	no	RISING
+econ posts	sn:econ	6.27	no	RISING
+money stuff	sn:Stacker_Stocks,sn:econ	6.18	no	RISING
+matt levine	sn:Stacker_Stocks,sn:econ	6.18	no	RISING
+july	hn	4.37	yes	
+open-source	hn	4.15	no	RISING
 bitcoin optech newsletter	sn:bitcoin	3.67	yes	
 podcast	sn:bitcoin	3.67	yes	
+money laundering index	sn:bitcoin	3.43	yes	
+orlin grabbe	sn:bitcoin	3.43	yes	
+consensus	sn:bitcoin	3.4	yes	
+cleanup	sn:bitcoin	3.4	yes	
 top june	sn:econ	3.38	no	RISING
-the bitcoin bank run	sn:Stacker_Stocks	3.3	no	RISING
-strc	sn:Stacker_Stocks	3.3	no	RISING
+the bitcoin bank run	sn:Stacker_Stocks	3.31	no	RISING
+strc	sn:Stacker_Stocks	3.31	no	RISING
 death	sn:econ	3.2	no	RISING
 bitcoin treasury company	sn:econ	3.2	no	RISING
 barron	sn:econ	3.2	no	RISING
 tatananni	sn:econ	3.2	no	RISING
-bitcoin is not freedom	sn:bitcoin	3.17	yes	
-the delusion	sn:bitcoin	3.17	yes	
-digital escape	sn:bitcoin	3.17	yes	
-mises institute	sn:bitcoin	3.17	yes	
-generate your world cup predictions	sn:AI	3.16	yes	
-louis ashworth	sn:AI	3.16	yes	
+bitcoin is not freedom	sn:bitcoin	3.19	yes	
+the delusion	sn:bitcoin	3.19	yes	
+digital escape	sn:bitcoin	3.19	yes	
+mises institute	sn:bitcoin	3.19	yes	
+generate your world cup predictions	sn:AI	3.18	yes	
+louis ashworth	sn:AI	3.18	yes	
 reflections upon bitcoin	sn:bitcoin	3.1	yes	
 block size debate	sn:bitcoin	3.1	yes	
 retire	sn:Politics_And_Law	3.07	no	RISING
 seniors	sn:Politics_And_Law	3.07	no	RISING
 student debt	sn:Politics_And_Law	3.07	no	RISING
 oyin adedoyin	sn:Politics_And_Law	3.07	no	RISING
-bitcoin taproot	sn:bitcoin	3.06	yes	
-scraping	sn:Stacker_Stocks	2.96	no	RISING
-photos	sn:Photography	2.85	no	RISING
-venezuela	sn:Photography	2.85	no	RISING
-rajarshi maitra found	sn:bitcoin	2.85	yes	
-point	sn:bitcoin	2.85	yes	
-light	sn:bitcoin	2.85	yes	
-dark cave	sn:bitcoin	2.85	yes	
-quit his job	sn:bitcoin	2.85	yes	
-fun guy	sn:Stacker_Sports	2.84	no	RISING
-earth garden	sn:Design	2.84	no	RISING
-the egg clearinghouse	sn:econ	2.82	no	RISING
-eggcellent	sn:econ	2.82	no	RISING
+dumb	sn:lightning	3.02	no	RISING
+review	sn:BooksAndArticles	2.92	no	RISING
+accelerando	sn:BooksAndArticles	2.92	no	RISING
+charles stross	sn:BooksAndArticles	2.92	no	RISING
+the egg clearinghouse	sn:econ	2.86	no	RISING
+eggcellent	sn:econ	2.86	no	RISING
+happy canada day	sn:Stacker_Sports	2.85	no	RISING
+canadian athletes	sn:Stacker_Sports	2.85	no	RISING
