@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-03T12:08:56.468Z; n=40
+# generated 2026-07-03T17:26:08.749Z; n=40
+last	sn:Stacker_Stocks,sn:Stacker_Sports	9.14	no	RISING
 bitcoin	sn:bitcoin_beginners,sn:bitcoin	6.51	yes	
-part	sn:bitcoin_beginners,sn:Politics_And_Law	6.19	no	RISING
-flow	hn	3.93	no	RISING
+everything	sn:BooksAndArticles,sn:AI	5.85	yes	
+part	hn,sn:bitcoin_beginners	5.19	no	RISING
 will	sn:bitcoin_beginners	3.69	no	RISING
-strc	sn:Stacker_Stocks	3.43	no	RISING
-payout	sn:Stacker_Stocks	3.43	no	RISING
-he posts	sn:Stacker_Stocks	3.43	no	RISING
-scores	sn:Stacker_Stocks	3.43	no	RISING
-daily putt	sn:gaming	3.39	no	RISING
-play	sn:gaming	3.39	no	RISING
-putt	sn:gaming	3.39	no	RISING
-score	sn:gaming	3.39	no	RISING
 clowns	sn:Stacker_Stocks	3.25	no	RISING
 saylor	sn:Stacker_Stocks	3.25	no	RISING
 great brotation	sn:Stacker_Stocks	3.25	no	RISING
 financial times	sn:Stacker_Stocks	3.25	no	RISING
 madam tooth	sn:Stacker_Stocks	3.25	no	RISING
 strategy	sn:Stacker_Stocks	3.25	no	RISING
-last	sn:Stacker_Stocks	3.25	no	RISING
 ditch	sn:Stacker_Stocks	3.25	no	RISING
 and very stretched	sn:Stacker_Stocks	3.25	no	RISING
 craig coben	sn:Stacker_Stocks	3.25	no	RISING
+the napsterization	sn:BooksAndArticles	3.23	no	RISING
+secret history	sn:BooksAndArticles	3.23	no	RISING
+polymarket	sn:BooksAndArticles	3.23	no	RISING
+webb	sn:BooksAndArticles	3.23	no	RISING
+goodwin	sn:BooksAndArticles	3.23	no	RISING
 latest strikes	sn:bitcoin	3.19	yes	
 june	sn:bitcoin	3.19	yes	
 is reshaping	sn:AI	3.13	yes	
 economy	sn:AI	3.13	yes	
 good luck measuring how	sn:AI	3.13	yes	
 ben casselman	sn:AI	3.13	yes	
-review	sn:bitcoin_beginners	3.1	no	RISING
-bitcoin-safe	sn:bitcoin_beginners	3.1	yes	
-free multisig companion	sn:bitcoin_beginners	3.1	no	RISING
-hardware wallets	sn:bitcoin_beginners	3.1	no	RISING
-pre-release	sn:lightning	3.08	no	RISING
-dashboard	sn:lightning	3.08	no	RISING
-seeking feedback	sn:lightning	3.08	no	RISING
-node runners	sn:lightning	3.08	no	RISING
-merge mining monitor	sn:bitcoin	2.98	yes	
-virginia	hn	2.92	no	RISING
-breez	sn:bitcoin	2.86	yes	
-class	sn:bitcoin	2.86	yes	
+review	sn:bitcoin_beginners	3.11	no	RISING
+bitcoin-safe	sn:bitcoin_beginners	3.11	yes	
+free multisig companion	sn:bitcoin_beginners	3.11	no	RISING
+hardware wallets	sn:bitcoin_beginners	3.11	no	RISING
+quantum	sn:bitcoin	3.09	yes	
+bitcoin optech newsletter	sn:bitcoin	3.09	yes	
+world cup pool	sn:Stacker_Sports	3.03	no	RISING
+round submissions open	sn:Stacker_Sports	3.03	no	RISING
+half-baked product	hn	2.99	no	RISING
+global population density map	sn:Travel	2.89	no	RISING
+another	sn:Stacker_Sports	2.86	no	RISING
+geyser	sn:bitcoin	2.86	yes	
+venezuela	sn:bitcoin	2.86	yes	
+captcha	sn:gaming	2.86	no	RISING
+hell	sn:gaming	2.86	no	RISING
