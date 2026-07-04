@@ -13394,3 +13394,6 @@
 2026-07-04T10:25:57.374Z	1519224	bitcoin	1	706	0	2	9.1	74100	11012	recent@bitcoin|top@bitcoin	SIGNAL	Clark Moody's dashboard adds node distribution/services
 2026-07-04T10:25:57.374Z	1519188	bitcoin_beginners	1	255	0	2	10.8	296825	4765	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Forgotten Satoshi Emails Discovered | SNL #231
 2026-07-04T10:25:57.374Z	1519306	bitcoin	1	158	0	0	2.2	296825	4765	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	COLDCARD Release: Versions 5.5.1 (Mk4/Mk5) and 1.4.1Q (Q)
+2026-07-04T11:52:30.094Z	1519224	bitcoin	1	716	0	3	10.6	74100	11012	recent@bitcoin|top@bitcoin	SIGNAL	Clark Moody's dashboard adds node distribution/services
+2026-07-04T11:52:30.094Z	1519330	bitcoin	1	700	0	0	1.5	879734	7599	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Activation Client Adoption - epoch 474 - no activations possible
+2026-07-04T11:52:30.094Z	1519306	bitcoin	1	158	0	0	3.6	296825	4765	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	COLDCARD Release: Versions 5.5.1 (Mk4/Mk5) and 1.4.1Q (Q)
