@@ -13331,3 +13331,15 @@
 2026-07-04T00:14:42.791Z	1518892	lightning	1	269	0	1	11.0	440729	181	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02a8b92305801f35a…)
 2026-07-04T00:14:42.791Z	1518881	bitcoin	1	190	0	0	11.5	74100	11008	recent@mempool|top@mempool	SIGNAL	Proof of Sound - Bitcoin network visualization
 2026-07-04T00:14:42.791Z	1518865	bitcoin	1	138	0	0	11.9	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	While we're busy arguing, the fiat overlords are working collaboratively
+2026-07-04T01:19:41.298Z	1519026	meta	1	1548	0	8	8.4	92827	2736	recent@meta|top@meta	HOT,SIGNAL	SNZ takes a holiday
+2026-07-04T01:19:41.298Z	1519063	bitcoin	1	1344	0	4	7.0	74100	11009	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	What is RGB Protocol on Bitcoin? A Complete Guide
+2026-07-04T01:19:41.298Z	1519077	tech	1	1057	0	1	5.9	57444	15638	recent@tech|top@tech	HOT,SIGNAL	Appropriate technology
+2026-07-04T01:19:41.298Z	1519017	bitcoin	1	1030	0	0	8.7	74100	11009	recent@bitcoin|top@bitcoin	HOT,SIGNAL	IP → ASN lookup (asmap) - @0xB10C
+2026-07-04T01:19:41.298Z	1518996	bitcoin_beginners	1	908	0	0	9.1	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	One week left to apply!!! - ABC26
+2026-07-04T01:19:41.298Z	1519068	bitcoin	1	745	0	1	6.6	74100	11009	recent@bitcoin|top@bitcoin	SIGNAL	Why custodians are no fun: Prime Trust's lawsuits against Strike and Swan
+2026-07-04T01:19:41.298Z	1518979	AI	1	559	0	0	9.9	74100	11009	recent@AI|top@AI	SIGNAL	local-llm: Everything I know about running LLMs locally - jamesob
+2026-07-04T01:19:41.298Z	1518897	bitcoin	1	522	0	0	11.9	593189	833	recent@bitcoin|top@bitcoin	SIGNAL	Drapetomania - mental disorder common n the bitcoin community
+2026-07-04T01:19:41.298Z	1518910	lol	2	461	0	0	11.2	74100	11009	recent@bitcoin|top@bitcoin	SIGNAL	bpub: encoding data on bitcoin using valid compressed pubkeys - djkazic
+2026-07-04T01:19:41.298Z	1519056	bitcoin_beginners	1	308	0	1	7.4	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	LNDHUB - Lightning Node Management Platform
+2026-07-04T01:19:41.298Z	1519143	bitcoin	1	288	0	0	4.1	144357	4313	recent@bitcoin|top@bitcoin	SIGNAL	Forgotten Satoshi Emails Discovered | SNL #231
+2026-07-04T01:19:41.298Z	1519188	bitcoin_beginners	1	255	0	1	1.7	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Forgotten Satoshi Emails Discovered | SNL #231
