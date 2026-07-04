@@ -13308,3 +13308,26 @@
 2026-07-03T23:46:48.465Z	1518892	lightning	1	269	0	1	10.6	440729	181	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02a8b92305801f35a…)
 2026-07-03T23:46:48.465Z	1518881	bitcoin	1	190	0	0	11.0	74100	11008	recent@mempool|top@mempool	SIGNAL	Proof of Sound - Bitcoin network visualization
 2026-07-03T23:46:48.465Z	1518865	bitcoin	1	138	0	0	11.5	296825	4758	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	While we're busy arguing, the fiat overlords are working collaboratively
+2026-07-04T00:14:42.791Z	1519172	BooksAndArticles	2	6634	0	1	1.7	88988	45459	recent@econ|top@econ|recent@BooksAndArticles	FRESH,HOT,SIGNAL	Dog Island and the Magic Dog Treat Oven (A walking tale)
+2026-07-04T00:14:42.791Z	1518899	BooksAndArticles	2	1829	0	6	10.6	724606	11141	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	The Napsterization of Everything: Secret History of Polymarket (Webb & Goodwin)
+2026-07-04T00:14:42.791Z	1519026	meta	1	1527	0	8	7.3	92827	2736	recent@meta|top@meta	HOT,SIGNAL	SNZ takes a holiday
+2026-07-04T00:14:42.791Z	1519063	bitcoin	1	1344	0	4	6.0	74100	11008	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	What is RGB Protocol on Bitcoin? A Complete Guide
+2026-07-04T00:14:42.791Z	1519091	BooksAndArticles	2	1240	0	5	4.3	724606	11141	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL,SELF_POST_OPP	The Quiet Death of the Nordic Bitcoin Treasury Companies (BTCHEL, JB)
+2026-07-04T00:14:42.791Z	1518868	bitcoin	1	1235	0	0	11.9	1014665	199	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Quantum and changing consensus segment - Bitcoin Optech Newsletter #412
+2026-07-04T00:14:42.791Z	1519077	tech	1	1057	0	1	4.9	57444	15638	recent@tech|top@tech	HOT,SIGNAL	Appropriate technology
+2026-07-04T00:14:42.791Z	1519017	bitcoin	1	1030	0	0	7.6	74100	11008	recent@bitcoin|top@bitcoin	HOT,SIGNAL	IP → ASN lookup (asmap) - @0xB10C
+2026-07-04T00:14:42.791Z	1518996	bitcoin_beginners	1	908	0	0	8.0	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	One week left to apply!!! - ABC26
+2026-07-04T00:14:42.791Z	1519079	ideasfromtheedge	2	903	0	3	4.7	1242375	102	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	Have drones changed your life?
+2026-07-04T00:14:42.791Z	1518936	Politics_And_Law	3	765	0	4	9.7	88718	44982	recent@econ|top@econ	SIGNAL	Surprise, Surprise. Government Capital Stock Is Deteriorating
+2026-07-04T00:14:42.791Z	1518973	art	3	700	0	3	9.0	713868	471	recent@Education|top@Education|recent@BooksAndArticles	SIGNAL	Why Freedom Creators Need to Publish a Book
+2026-07-04T00:14:42.791Z	1519068	bitcoin	1	695	0	1	5.5	74100	11008	recent@bitcoin|top@bitcoin	SIGNAL	Why custodians are no fun: Prime Trust's lawsuits against Strike and Swan
+2026-07-04T00:14:42.791Z	1518979	AI	1	559	0	0	8.8	74100	11008	recent@AI|top@AI	SIGNAL	local-llm: Everything I know about running LLMs locally - jamesob
+2026-07-04T00:14:42.791Z	1518897	bitcoin	1	522	0	0	10.8	593189	833	recent@bitcoin|top@bitcoin	SIGNAL	Drapetomania - mental disorder common n the bitcoin community
+2026-07-04T00:14:42.791Z	1519004	history	2	480	0	3	7.8	1512518	39	recent@history|top@history	SIGNAL	Daily Bitcoin Lore (12 years ago): Lighthouse and the Bitcoin Funding Problem
+2026-07-04T00:14:42.791Z	1518910	lol	2	461	0	0	10.1	74100	11008	recent@bitcoin|top@bitcoin|recent@lol	SIGNAL	bpub: encoding data on bitcoin using valid compressed pubkeys - djkazic
+2026-07-04T00:14:42.791Z	1518927	history	2	449	0	0	9.7	1512518	39	recent@history|top@history	SIGNAL	Daily Bitcoin Lore (13 years ago): ESEA Secretly Mined Bitcoin on Gamers' PCs
+2026-07-04T00:14:42.791Z	1519116	Design	2	321	0	1	3.8	383547	3296	top@Design	SIGNAL	What creative ideas have you been rambling on?
+2026-07-04T00:14:42.791Z	1519056	bitcoin_beginners	1	308	0	1	6.3	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	LNDHUB - Lightning Node Management Platform
+2026-07-04T00:14:42.791Z	1518892	lightning	1	269	0	1	11.0	440729	181	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02a8b92305801f35a…)
+2026-07-04T00:14:42.791Z	1518881	bitcoin	1	190	0	0	11.5	74100	11008	recent@mempool|top@mempool	SIGNAL	Proof of Sound - Bitcoin network visualization
+2026-07-04T00:14:42.791Z	1518865	bitcoin	1	138	0	0	11.9	296825	4759	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	While we're busy arguing, the fiat overlords are working collaboratively
