@@ -13410,3 +13410,18 @@
 2026-07-04T13:42:17.509Z	1519367	bitdevs	1	121	0	1	2.0	263526	450	recent@bitdevs|top@bitdevs	FRESH,SIGNAL	This is a very strange message.
 2026-07-04T13:42:17.509Z	1519401	lightning	1	102	0	0	0.5	440729	182	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cbe77727e9c0600…)
 2026-07-04T13:42:17.509Z	1519358	lightning	1	102	0	0	2.2	263526	450	recent@lightning|top@lightning	SIGNAL	A Lightning-enabled #Bitcoin ATM is spotted in Australia 🙌
+2026-07-04T14:43:18.603Z	1519387	bitcoin	1	1207	0	0	2.4	1495204	12	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Lightning Network Payments in the Research Peptide Industry
+2026-07-04T14:43:18.604Z	1519404	bitcoin_Mining	1	1113	0	2	1.3	864760	64	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,HOT,SIGNAL	Here we go mining with 2 EH
+2026-07-04T14:43:18.604Z	1519330	bitcoin	1	1049	0	0	4.3	879734	7599	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Activation Client Adoption - epoch 474 - no activations possible
+2026-07-04T14:43:18.604Z	1519389	BooksAndArticles	2	873	0	3	2.2	74100	11015	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Praxeology of Privacy Book Club - Part IV
+2026-07-04T14:43:18.604Z	1519417	history	2	678	0	3	0.8	1512518	41	recent@history|top@history	FRESH,SIGNAL	Daily Bitcoin Lore (11 years ago): BIP66 Activation Causes 6-Block Chainsplit
+2026-07-04T14:43:18.604Z	1519284	the_stacker_muse	3	520	0	3	8.7	1	26785	recent@BooksAndArticles|top@BooksAndArticles|recent@podcasts	SIGNAL	Dave Eggers on Tetragrammaton
+2026-07-04T14:43:18.604Z	1519339	BooksAndArticles	2	499	0	1	4.0	30782	25051	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Books & Articles Weekly, Issue 119
+2026-07-04T14:43:18.604Z	1519306	bitcoin	1	488	0	1	6.5	296825	4765	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	COLDCARD Release: Versions 5.5.1 (Mk4/Mk5) and 1.4.1Q (Q)
+2026-07-04T14:43:18.604Z	1519401	lightning	1	401	0	1	1.5	440729	182	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03cbe77727e9c0600…)
+2026-07-04T14:43:18.604Z	1519377	BooksAndArticles	2	327	0	3	2.6	1264102	43	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	A Lodging Of Wayfaring Men
+2026-07-04T14:43:18.604Z	1519262	Construction_and_Engineering	2	289	0	2	11.0	1	26785	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	The American Housing Corporation - modular homes
+2026-07-04T14:43:18.604Z	1519279	security	1	236	0	1	9.0	1401899	211	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Episode #4 — The Night the Internet Tried to Kill Bitcoin
+2026-07-04T14:43:18.604Z	1519398	Stacker_Stocks	2	204	0	0	1.8	9274	24307	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-07-04T14:43:18.604Z	1519367	bitdevs	1	121	0	1	3.0	263526	450	recent@bitdevs|top@bitdevs	SIGNAL	This is a very strange message.
+2026-07-04T14:43:18.604Z	1519358	lightning	1	102	0	0	3.2	263526	450	recent@lightning|top@lightning	SIGNAL	A Lightning-enabled #Bitcoin ATM is spotted in Australia 🙌
