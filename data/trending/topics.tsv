@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-05T17:11:31.459Z; n=40
-round	sn:Stacker_Sports	7.5	no	RISING
-command	hn,sn:tech	5.22	no	RISING
-conquer generals	hn,sn:tech	5.22	no	RISING
-fable	hn,sn:tech	5.22	yes	
-americans mistakenly idolizing	sn:Politics_And_Law	3.06	no	RISING
-nordics	sn:Politics_And_Law	3.06	no	RISING
-nicholas kristof	sn:Politics_And_Law	3.06	no	RISING
-balogun	sn:Stacker_Sports	2.9	no	RISING
-belgium	sn:Stacker_Sports	2.9	no	RISING
-could the government use tax dollars to bail out bitcoin	sn:bitcoin	2.82	yes	
-ronaldo	sn:Stacker_Sports	2.82	no	RISING
-researchers create self-replicating seedbox	sn:tech	2.82	yes	
-quest	sn:tech	2.82	yes	
-decentralized democracy	sn:tech	2.82	yes	
-saturday newsletter	sn:meta	2.79	yes	
-daily putt	sn:gaming	2.69	no	RISING
-play	sn:gaming	2.69	no	RISING
-putt	sn:gaming	2.69	no	RISING
-score	sn:gaming	2.69	no	RISING
-daily accountability thread	sn:HealthAndFitness	2.67	no	RISING
-anonymous	sn:AI	2.65	yes	
-open-source	sn:AI	2.65	yes	
-convince	sn:bitcoin	2.65	yes	
-world cup day	sn:Stacker_Sports	2.65	no	RISING
-france broke	sn:Stacker_Sports	2.65	no	RISING
-paraguayan wall	sn:Stacker_Sports	2.65	no	RISING
-morocco	sn:Stacker_Sports	2.65	no	RISING
-daily discussion thread	sn:Music	2.61	no	RISING
-music saloon	sn:Music	2.61	no	RISING
-lots	sn:gaming	2.6	yes	
-magic internet math website launch	sn:math	2.58	no	RISING
-latest	sn:Politics_And_Law	2.56	no	RISING
-debanking	sn:Politics_And_Law	2.56	no	RISING
-scandal should give everyone pause	sn:Politics_And_Law	2.56	no	RISING
-fourth	sn:art	2.56	no	RISING
-july photos	sn:art	2.56	no	RISING
-giants	sn:Stacker_Sports	2.56	no	RISING
-fremantle highlights	sn:Stacker_Sports	2.56	no	RISING
-richmond	sn:Stacker_Sports	2.55	no	RISING
-carlton highlights	sn:Stacker_Sports	2.55	no	RISING
+# generated 2026-07-05T23:01:01.767Z; n=40
+daily bitcoin lore	sn:history	10.23	no	RISING
+bitcoin	sn:math,sn:history,sn:AGORA	7.86	yes	
+round	sn:Stacker_Sports	5.13	no	RISING
+open-source	hn,sn:AI	4.38	yes	
+fourth	hn,sn:art	4.14	no	RISING
+july	hn,sn:meta	3.56	yes	
+sunday survey	sn:bitcoin	3.42	yes	
+bitcoin core	sn:bitcoin	3.42	yes	
+latest	sn:Politics_And_Law	3.06	no	RISING
+debanking	sn:Politics_And_Law	3.06	no	RISING
+scandal should give everyone pause	sn:Politics_And_Law	3.06	no	RISING
+researchers create self-replicating seedbox	sn:tech	3.05	yes	
+quest	sn:tech	3.05	yes	
+decentralized democracy	sn:tech	3.05	yes	
+anyone	sn:bitcoin	3.02	yes	
+replay attacks	sn:bitcoin	3.02	yes	
+pegasus	sn:security	3	no	RISING
+hiking adventures	sn:Photography	2.99	no	RISING
+tynehead regional park	sn:Photography	2.99	no	RISING
+show	hn	2.96	no	RISING
+balogun	sn:Stacker_Sports	2.96	no	RISING
+belgium	sn:Stacker_Sports	2.96	no	RISING
+convince	sn:bitcoin	2.89	yes	
+july photos	sn:art	2.87	no	RISING
+organic maps	hn	2.86	no	RISING
+americans	sn:charts_and_maps	2.82	no	RISING
+daily accountability thread	sn:HealthAndFitness	2.73	no	RISING
+the generational force hollowing out	sn:AI	2.72	yes	
+economy	sn:AI	2.72	yes	
+daily putt	sn:gaming	2.71	no	RISING
+play	sn:gaming	2.71	no	RISING
+putt	sn:gaming	2.71	no	RISING
+score	sn:gaming	2.71	no	RISING
+the law that made germany sell	sn:history	2.68	no	RISING
+anonymous	sn:AI	2.67	yes	
+world cup day	sn:Stacker_Sports	2.67	no	RISING
+france broke	sn:Stacker_Sports	2.67	no	RISING
+paraguayan wall	sn:Stacker_Sports	2.67	no	RISING
+morocco	sn:Stacker_Sports	2.67	no	RISING
+daily discussion thread	sn:Music	2.63	no	RISING
