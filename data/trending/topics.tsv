@@ -1,11 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-05T07:25:48.512Z; n=40
-what	hn,sn:science	4.82	yes	
+# generated 2026-07-05T11:35:04.130Z; n=40
+command	hn,sn:tech	5.2	no	RISING
+conquer generals	hn,sn:tech	5.2	no	RISING
+fable	hn,sn:tech	5.2	yes	
+round	sn:Stacker_Sports	4.95	no	RISING
+what	hn,sn:science	4.9	yes	
 lightning network payments	sn:bitcoin	3.21	yes	
 research peptide industry	sn:bitcoin	3.21	yes	
-coldcard	sn:bitcoin	3.21	yes	
-release	sn:bitcoin	3.21	yes	
-versions	sn:bitcoin	3.21	yes	
 praxeology	sn:BooksAndArticles	3.18	no	RISING
 privacy book club	sn:BooksAndArticles	3.18	no	RISING
 part	sn:BooksAndArticles	3.18	no	RISING
@@ -13,30 +14,29 @@ on america	sn:BooksAndArticles	3.17	no	RISING
 past gentlemen	sn:BooksAndArticles	3.17	no	RISING
 their wealth	sn:BooksAndArticles	3.17	no	RISING
 brendan greeley	sn:BooksAndArticles	3.17	no	RISING
-activation client adoption	sn:bitcoin	3.17	yes	
 here	sn:bitcoin_Mining	3.1	yes	
 americans mistakenly idolizing	sn:Politics_And_Law	3.06	no	RISING
 nordics	sn:Politics_And_Law	3.06	no	RISING
 nicholas kristof	sn:Politics_And_Law	3.06	no	RISING
 would	sn:AI	2.92	yes	
-daily discussion thread	sn:Music	2.9	no	RISING
-music saloon	sn:Music	2.9	no	RISING
-world cup pool	sn:Stacker_Sports	2.88	no	RISING
-standings after last	sn:Stacker_Sports	2.88	no	RISING
-round	sn:Stacker_Sports	2.88	no	RISING
 daily bitcoin lore	sn:history	2.88	no	RISING
 activation causes	sn:history	2.88	no	RISING
 block chainsplit	sn:history	2.88	no	RISING
-books	sn:BooksAndArticles	2.81	no	RISING
-articles weekly	sn:BooksAndArticles	2.81	no	RISING
-issue	sn:BooksAndArticles	2.81	yes	
+leaking	hn	2.8	no	RISING
+ronaldo	sn:Stacker_Sports	2.8	no	RISING
 could the government use tax dollars to bail out bitcoin	sn:bitcoin	2.79	yes	
 saturday newsletter	sn:meta	2.79	yes	
-leaking	hn	2.76	no	RISING
-ronaldo	sn:Stacker_Sports	2.76	no	RISING
-command	hn	2.71	no	RISING
-conquer generals	hn	2.71	no	RISING
-fable	hn	2.71	yes	
 saturday	sn:Photography	2.71	no	RISING
 share	sn:Photography	2.71	no	RISING
 biblical loans	sn:Christianity	2.7	no	RISING
+lendasat	sn:Christianity	2.7	no	RISING
+google books	hn	2.69	no	RISING
+turn	sn:AI	2.69	yes	
+merch store	sn:bitcoin	2.68	yes	
+lodging of wayfaring men	sn:BooksAndArticles	2.66	no	RISING
+biggest channel opened today	sn:lightning	2.66	no	RISING
+new node spotlight	sn:lightning	2.66	no	RISING
+daily stock discussion	sn:Stacker_Stocks	2.61	no	RISING
+lots	sn:gaming	2.58	yes	
+world cup best	sn:Stacker_Sports	2.56	no	RISING
+giants	sn:Stacker_Sports	2.56	no	RISING
