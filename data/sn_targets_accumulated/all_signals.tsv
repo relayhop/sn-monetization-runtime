@@ -13937,3 +13937,17 @@
 2026-07-06T22:38:41.149Z	1520364	nostr	1	309	0	3	6.4	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
 2026-07-06T22:38:41.149Z	1520403	bitcoin	1	271	0	2	5.7	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
 2026-07-06T22:38:41.149Z	1520525	bitcoin	1	138	0	3	0.9	223678	5761	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Does Wallet Of Satoshi Have FDIC Insurance?
+2026-07-06T23:46:12.975Z	1520439	bitdevs	1	1273	0	15	5.8	223678	5761	recent@bitdevs|top@bitdevs	HOT,SIGNAL	Thinking about building a new Bitcoin node client in nodejs
+2026-07-06T23:46:12.975Z	1520358	bitcoin	1	777	0	3	7.6	74100	11036	recent@bitcoin|top@bitcoin	SIGNAL	Ledger announces support for two NIST post quantum standards
+2026-07-06T23:46:12.975Z	1520572	bitcoin	1	773	0	1	0.7	724606	11215	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Nordic Node #2 (Six Weeks Overdue?!): Lambs, Bitcoin Adoption, and Criminals
+2026-07-06T23:46:12.975Z	1520483	tech	1	612	0	2	3.6	1293586	1996	recent@tech|top@tech	SIGNAL	US home battery installations hit record high on rising electricity costs
+2026-07-06T23:46:12.975Z	1520511	bitcoin_Mining	1	406	0	2	2.5	341578	5876	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Even Luke Dashjr's father knows this isn't going to work😂
+2026-07-06T23:46:12.975Z	1520241	lightning	1	386	0	2	10.5	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+2026-07-06T23:46:12.975Z	1520265	bitcoin	1	363	0	0	9.5	74100	11036	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+2026-07-06T23:46:12.975Z	1520515	bitcoin	1	342	0	0	2.3	298505	829	recent@bitcoin|top@bitcoin	SIGNAL	AOC Will Send Bitcoin To $1M — Here's The Math | Dave Weisberger
+2026-07-06T23:46:12.975Z	1520296	bitcoin	1	310	0	8	8.7	74100	11036	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+2026-07-06T23:46:12.975Z	1520526	bitcoin	1	309	0	2	1.9	74100	11036	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Cairn — the Bitcoin homescreen
+2026-07-06T23:46:12.975Z	1520364	nostr	1	309	0	3	7.6	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+2026-07-06T23:46:12.975Z	1520403	bitcoin	1	271	0	2	6.8	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
+2026-07-06T23:46:12.975Z	1520589	meta	1	179	0	3	0.2	273359	467	recent@meta|top@meta	FRESH,SIGNAL	Where is DarthCoin?
+2026-07-06T23:46:12.975Z	1520525	bitcoin	1	138	0	7	2.0	223678	5761	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Does Wallet Of Satoshi Have FDIC Insurance?
