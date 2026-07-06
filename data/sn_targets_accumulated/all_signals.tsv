@@ -13907,3 +13907,23 @@
 2026-07-06T21:03:47.408Z	1520364	nostr	1	309	0	3	4.8	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
 2026-07-06T21:03:47.408Z	1520403	bitcoin	1	271	0	2	4.1	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
 2026-07-06T21:03:47.408Z	1520241	lightning	1	123	0	1	7.8	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+2026-07-06T22:22:24.097Z	1520461	Stacker_Stocks	2	1621	0	2	3.4	724606	11209	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	Strategy's Broken Math and Accounting 101 (WSJ, Jonathan Weil)
+2026-07-06T22:22:24.097Z	1520439	bitdevs	1	1273	0	15	4.4	223678	5761	recent@bitdevs|top@bitdevs	HOT,SIGNAL	Thinking about building a new Bitcoin node client in nodejs
+2026-07-06T22:22:24.097Z	1520358	bitcoin	1	695	0	3	6.2	74100	11035	recent@bitcoin|top@bitcoin	SIGNAL	Ledger announces support for two NIST post quantum standards
+2026-07-06T22:22:24.097Z	1520250	Stacker_Stocks	2	675	0	11	8.7	402772	22146	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Strategy Sells 3,588 BTC to Fund Digital Credit Dividends; Now Holds ₿843,775
+2026-07-06T22:22:24.097Z	1520483	tech	1	576	0	2	2.2	1293586	1996	recent@tech|top@tech|recent@Construction_and_Engineering	SIGNAL	US home battery installations hit record high on rising electricity costs
+2026-07-06T22:22:24.097Z	1520429	history	2	527	0	1	4.6	1512518	49	recent@history|top@history	SIGNAL	Daily Bitcoin Lore (10 years ago): Buenos Aires Blocked Uber. Bitcoin Helped.
+2026-07-06T22:22:24.097Z	1520341	Design	2	485	0	0	6.4	383547	3309	recent@Design|top@Design	SIGNAL	Greyscaler
+2026-07-06T22:22:24.097Z	1520262	history	2	436	0	0	8.3	1512518	49	recent@history|top@history	SIGNAL	Daily Bitcoin Lore (16 years ago): Bitcoin v0.3 Released
+2026-07-06T22:22:24.097Z	1520223	news	2	402	0	2	10.1	51481	4078	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news	SIGNAL	Strategy company sold 3,588 bitcoin last week to replenish its dollar reserves
+2026-07-06T22:22:24.097Z	1520265	bitcoin	1	363	0	0	8.1	74100	11035	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+2026-07-06T22:22:24.097Z	1520515	bitcoin	1	342	0	0	0.9	298505	829	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	AOC Will Send Bitcoin To $1M — Here's The Math | Dave Weisberger
+2026-07-06T22:22:24.097Z	1520296	bitcoin	1	310	0	8	7.3	74100	11035	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+2026-07-06T22:22:24.097Z	1520364	nostr	1	309	0	3	6.2	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+2026-07-06T22:22:24.097Z	1520240	Politics_And_Law	3	279	0	6	9.2	401865	8225	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	President Trump to Ring the NYSE and NASDAQ Opening Bell From Oval Office Today
+2026-07-06T22:22:24.097Z	1520403	bitcoin	1	271	0	2	5.4	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
+2026-07-06T22:22:24.097Z	1520217	BooksAndArticles	2	263	0	4	10.2	9274	24409	recent@history|top@history|recent@BooksAndArticles	SIGNAL	Marcus Aurelius Meditations: An audiobook note taking thread
+2026-07-06T22:22:24.097Z	1520293	Memes	2	202	0	7	7.4	36151	1542	recent@Memes|top@Memes	SIGNAL,SELF_POST_OPP	Meme Monday - Top Meme Goes in the Newsletter
+2026-07-06T22:22:24.097Z	1520523	Politics_And_Law	3	163	0	2	0.6	1450322	78	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Invest America
+2026-07-06T22:22:24.097Z	1520241	lightning	1	123	0	1	9.1	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+2026-07-06T22:22:24.097Z	1520525	bitcoin	1	102	0	2	0.6	223678	5761	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Does Wallet Of Satoshi Have FDIC Insurance?
