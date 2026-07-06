@@ -1,0 +1,30 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1520439	bitdevs	1	1171	0	14	3.1	223678	5760	recent@bitdevs|top@bitdevs	HOT,SIGNAL	Thinking about building a new Bitcoin node client in nodejs
+1520169	bitcoin	1	745	0	10	11.3	1520158	6	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Why isn't more of the BTC space using Elixir/OTP?
+1520358	bitcoin	1	695	0	3	4.9	74100	11033	recent@bitcoin|top@bitcoin	SIGNAL	Ledger announces support for two NIST post quantum standards
+1520265	bitcoin	1	363	0	0	6.8	74100	11033	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+1520296	bitcoin	1	310	0	6	6.0	74100	11033	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+1520364	nostr	1	309	0	3	4.8	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+1520403	bitcoin	1	271	0	2	4.1	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
+1520241	lightning	1	123	0	1	7.8	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+1519910	bitcoin	1	2712	0	7	27.4	178	913	recent@bitcoin	HOT	Sunday Survey: Do you think there was affirmative action/DEI in Bitcoin Core?
+1519963	bitcoin	1	1290	0	21	24.3	463	722	recent@bitcoin	HOT	Anyone got plans to dump ecash fork? Replay Attacks etc
+1519779	tech	1	1138	0	1	35.5	7271	764	recent@tech	HOT	Researchers Create Self-Replicating Seedbox in Quest for Decentralized Democracy
+1519962	security	1	1057	0	1	24.3	1507914	8	recent@security	HOT	Pegasus used against EU Pegasus investigator, bold move...
+1519858	bitcoin	1	989	0	7	29.8	223678	5760	recent@bitcoin		Convince my family to accept bitcoin
+1519979	DIY	3	819	0	0	23.2	280679	22369	recent@tech|top@tech		The Future of Flipper Zero Development
+1520129	lightning	1	818	0	1	15.6	263526	452	recent@lightning|top@lightning		Bull Wallet Experience?
+1519972	math	2	646	0	0	23.6	280679	22369	recent@bitcoin|top@bitcoin|recent@bitdevs		Btc-verified: formalizing the Bitcoin protocol
+1519941	AI	1	562	0	2	26.3	12309	3572	recent@AI		The Generational Force Hollowing Out the Economy
+1519890	bitcoin	1	391	0	1	28.5	934367	921	recent@bitcoin		Making JoinMarket makers harder to follow
+1520051	AI	1	368	0	1	21.9	1293586	1996	recent@tech|top@tech|recent@AI		Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots
+1519845	bitdevs	1	281	0	6	30.1	1519718	9	recent@bitdevs		How do add up my spendable wallet here?
+1519819	lightning	1	273	0	1	31.8	440729	184	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03fb9b70c1dd4d409…)
+1519790	meta	1	191	0	2	35.1	36151	1542	recent@meta		This Day on SN: July 5
+1519813	podcasts	2	117	0	0	32.4	1227948	191	recent@bitcoin_beginners		YATA EPISODE #13
+1520247	bitcoin_beginners	1	57	0	0	7.5	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Nutshell Release 0.20.2: Mostly a hardening release for the mint and wallet.
+1520150	bitcoin	1	57	0	0	14.1	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Introduction To Bitcoin
+1520125	bitcoin_beginners	1	46	0	0	17.1	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Deep Dive: Zeus Lightning Wallet Infrastructure
+1519909	bitcoin	1	36	0	0	27.4	296825	4772	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Is Bitcoin the Answer to Malawi's Problem? | She Coder
+1520243	security	1	21	0	0	7.8	297791	7607	recent@security|top@security		Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
+1520470	security	1	0	0	0	1.8	297791	7607	recent@security|top@security	FRESH	Confidential computing's core trust mechanism is broken. The fix may not exist

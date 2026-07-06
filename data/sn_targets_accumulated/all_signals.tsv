@@ -13899,3 +13899,11 @@
 2026-07-06T20:09:46.019Z	1520403	bitcoin	1	250	0	2	3.2	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
 2026-07-06T20:09:46.019Z	1520293	Memes	2	202	0	7	5.2	36151	1542	recent@Memes|top@Memes	SIGNAL,SELF_POST_OPP	Meme Monday - Top Meme Goes in the Newsletter
 2026-07-06T20:09:46.019Z	1520241	lightning	1	123	0	1	6.9	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+2026-07-06T21:03:47.407Z	1520439	bitdevs	1	1171	0	14	3.1	223678	5760	recent@bitdevs|top@bitdevs	HOT,SIGNAL	Thinking about building a new Bitcoin node client in nodejs
+2026-07-06T21:03:47.407Z	1520169	bitcoin	1	745	0	10	11.3	1520158	6	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Why isn't more of the BTC space using Elixir/OTP?
+2026-07-06T21:03:47.407Z	1520358	bitcoin	1	695	0	3	4.9	74100	11033	recent@bitcoin|top@bitcoin	SIGNAL	Ledger announces support for two NIST post quantum standards
+2026-07-06T21:03:47.408Z	1520265	bitcoin	1	363	0	0	6.8	74100	11033	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+2026-07-06T21:03:47.408Z	1520296	bitcoin	1	310	0	6	6.0	74100	11033	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+2026-07-06T21:03:47.408Z	1520364	nostr	1	309	0	3	4.8	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+2026-07-06T21:03:47.408Z	1520403	bitcoin	1	271	0	2	4.1	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
+2026-07-06T21:03:47.408Z	1520241	lightning	1	123	0	1	7.8	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
