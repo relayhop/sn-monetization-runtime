@@ -13865,3 +13865,11 @@
 2026-07-06T17:11:01.346Z	1520217	BooksAndArticles	2	194	0	4	5.1	9274	24392	recent@history|top@history|recent@BooksAndArticles	SIGNAL	Marcus Aurelius Meditations: An audiobook note taking thread
 2026-07-06T17:11:01.346Z	1520403	bitcoin	1	178	0	0	0.2	296825	4771	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Hope With Bitcoin,
 2026-07-06T17:11:01.346Z	1520241	lightning	1	123	0	1	4.0	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+2026-07-06T17:21:29.275Z	1520129	lightning	1	818	0	1	11.9	263526	452	recent@lightning|top@lightning	SIGNAL	Bull Wallet Experience?
+2026-07-06T17:21:29.275Z	1520169	bitcoin	1	745	0	9	7.6	1520158	6	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Why isn't more of the BTC space using Elixir/OTP?
+2026-07-06T17:21:29.275Z	1520358	bitcoin	1	690	0	1	1.2	74100	11032	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Ledger announces support for two NIST post quantum standards
+2026-07-06T17:21:29.275Z	1520265	bitcoin	1	363	0	0	3.1	74100	11032	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+2026-07-06T17:21:29.275Z	1520296	bitcoin	1	274	0	4	2.3	74100	11032	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+2026-07-06T17:21:29.275Z	1520364	nostr	1	273	0	1	1.1	1510840	3	recent@nostr|top@nostr	FRESH,SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+2026-07-06T17:21:29.275Z	1520403	bitcoin	1	178	0	0	0.4	296825	4771	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Hope With Bitcoin,
+2026-07-06T17:21:29.275Z	1520241	lightning	1	123	0	1	4.1	440729	184	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
