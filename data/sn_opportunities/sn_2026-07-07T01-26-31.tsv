@@ -1,0 +1,35 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1520612	bitcoin	1	2800	0	2	1.1	127838	1082	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	On the Lack of Replay Protection
+1520572	bitcoin	1	1325	0	1	2.3	724606	11224	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Nordic Node #2 (Six Weeks Overdue?!): Lambs, Bitcoin Adoption, and Criminals
+1520439	bitdevs	1	1273	0	15	7.4	223678	5761	recent@bitdevs|top@bitdevs	HOT,SIGNAL	Thinking about building a new Bitcoin node client in nodejs
+1520358	bitcoin	1	777	0	3	9.3	74100	11036	recent@bitcoin|top@bitcoin	SIGNAL	Ledger announces support for two NIST post quantum standards
+1520483	tech	1	633	0	3	5.3	1293586	1996	recent@tech|top@tech	SIGNAL	US home battery installations hit record high on rising electricity costs
+1520511	bitcoin_Mining	1	598	0	2	4.1	341578	5876	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Even Luke Dashjr's father knows this isn't going to work😂
+1520265	bitcoin	1	363	0	0	11.2	74100	11036	recent@bitcoin|top@bitcoin	SIGNAL	pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+1520526	bitcoin	1	345	0	2	3.6	74100	11036	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Cairn — the Bitcoin homescreen
+1520515	bitcoin	1	342	0	0	4.0	298505	829	recent@bitcoin|top@bitcoin	SIGNAL	AOC Will Send Bitcoin To $1M — Here's The Math | Dave Weisberger
+1520296	bitcoin	1	310	0	8	10.4	74100	11036	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Trustless: "Non custodial" Bitcoin-only mobile wallet.
+1520364	nostr	1	309	0	3	9.2	1510840	4	recent@nostr|top@nostr	SIGNAL	swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+1520615	AI	1	302	0	0	0.9	1	26795	recent@AI|top@AI	FRESH,SIGNAL	A global workspace in language models
+1520403	bitcoin	1	271	0	2	8.5	296825	4772	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Hope With Bitcoin,
+1520589	meta	1	236	0	4	1.8	273359	467	recent@meta|top@meta	FRESH,SIGNAL	Where is DarthCoin?
+1520525	bitcoin	1	138	0	7	3.7	223678	5761	recent@bitcoin|top@bitcoin	SIGNAL	Does Wallet Of Satoshi Have FDIC Insurance?
+1519910	bitcoin	1	2712	0	7	31.7	178	913	recent@bitcoin	HOT	Sunday Survey: Do you think there was affirmative action/DEI in Bitcoin Core?
+1519963	bitcoin	1	1293	0	22	28.6	463	724	recent@bitcoin	HOT	Anyone got plans to dump ecash fork? Replay Attacks etc
+1519962	security	1	1057	0	1	28.7	1507914	8	recent@security	HOT	Pegasus used against EU Pegasus investigator, bold move...
+1519858	bitcoin	1	989	0	8	34.2	223678	5761	recent@bitcoin		Convince my family to accept bitcoin
+1520129	lightning	1	839	0	1	20.0	263526	452	recent@lightning|top@lightning		Bull Wallet Experience?
+1519979	DIY	3	819	0	0	27.6	280679	22370	recent@tech		The Future of Flipper Zero Development
+1520169	bitcoin	1	765	0	10	15.7	1520158	6	recent@bitcoin|top@bitcoin|recent@bitdevs		Why isn't more of the BTC space using Elixir/OTP?
+1519972	math	2	646	0	0	28.0	280679	22370	recent@bitcoin|recent@bitdevs		Btc-verified: formalizing the Bitcoin protocol
+1519941	AI	1	562	0	2	30.6	12309	3572	recent@AI		The Generational Force Hollowing Out the Economy
+1519890	bitcoin	1	391	0	1	32.9	934367	921	recent@bitcoin		Making JoinMarket makers harder to follow
+1520241	lightning	1	386	0	2	12.2	440729	184	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+1520051	AI	1	368	0	1	26.3	1293586	1996	recent@tech|recent@AI		Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots
+1519845	bitdevs	1	281	0	6	34.4	1519718	9	recent@bitdevs		How do add up my spendable wallet here?
+1520247	bitcoin_beginners	1	57	0	0	11.9	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Nutshell Release 0.20.2: Mostly a hardening release for the mint and wallet.
+1520150	bitcoin	1	57	0	0	18.5	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Introduction To Bitcoin
+1520125	bitcoin_beginners	1	46	0	0	21.4	296825	4772	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Deep Dive: Zeus Lightning Wallet Infrastructure
+1519909	bitcoin	1	36	0	0	31.8	296825	4772	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Is Bitcoin the Answer to Malawi's Problem? | She Coder
+1520243	security	1	21	0	0	12.1	297791	7607	recent@security|top@security		Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
+1520470	security	1	0	0	0	6.1	297791	7607	recent@security|top@security		Confidential computing's core trust mechanism is broken. The fix may not exist
