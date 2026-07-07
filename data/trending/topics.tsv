@@ -1,23 +1,30 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-06T23:07:59.995Z; n=40
-bitcoin	sn:bitdevs,sn:history,sn:bitcoin	8.55	yes	
-strategy	sn:Stacker_Stocks,sn:news	5.97	no	RISING
-daily bitcoin lore	sn:history	5.68	no	RISING
-broken math	sn:Stacker_Stocks	3.21	no	RISING
-accounting	sn:Stacker_Stocks	3.21	no	RISING
-jonathan weil	sn:Stacker_Stocks	3.21	no	RISING
+# generated 2026-07-07T07:38:37.576Z; n=40
+bitcoin	sn:bitdevs,sn:history,sn:bitcoin	8.56	yes	
+strategy	sn:Stacker_Stocks,sn:news	5.98	no	RISING
+daily bitcoin lore	sn:history	5.75	no	RISING
+released	hn,sn:history	4.79	no	RISING
+lack	sn:bitcoin	3.47	yes	
+replay protection	sn:bitcoin	3.47	yes	
+broken math	sn:Stacker_Stocks	3.22	no	RISING
+accounting	sn:Stacker_Stocks	3.22	no	RISING
+jonathan weil	sn:Stacker_Stocks	3.22	no	RISING
+prediction markets	sn:Politics_And_Law	3.19	no	RISING
+falsehood machines	sn:Politics_And_Law	3.19	no	RISING
+money stuff	sn:Politics_And_Law	3.19	no	RISING
+matt levine	sn:Politics_And_Law	3.19	no	RISING
+nordic node	sn:bitcoin	3.12	yes	
+six weeks overdue	sn:bitcoin	3.12	yes	
+lambs	sn:bitcoin	3.12	yes	
+bitcoin adoption	sn:bitcoin	3.12	yes	
+criminals	sn:bitcoin	3.12	yes	
 thinking	sn:bitdevs	3.11	no	RISING
-safe	sn:food_and_drinks	3.04	no	RISING
-norway	sn:food_and_drinks	3.04	yes	
-fifa	sn:Stacker_Sports	2.99	no	RISING
-trump	sn:Stacker_Sports	2.99	yes	
-infantino	sn:Stacker_Sports	2.99	no	RISING
-released	sn:history	2.96	no	RISING
-the world update	sn:Stacker_Sports	2.93	no	RISING
-bull wallet experience	sn:lightning	2.92	no	RISING
+the world update	sn:Stacker_Sports	2.94	no	RISING
+subscribe	sn:art	2.93	yes	
+bitcoin art magazine newsletter	sn:art	2.93	yes	
+ledger	sn:bitcoin	2.89	yes	
+nist	sn:bitcoin	2.89	yes	
 elixir	sn:bitcoin	2.88	yes	
-ledger	sn:bitcoin	2.84	yes	
-nist	sn:bitcoin	2.84	yes	
 strategy sells	sn:Stacker_Stocks	2.83	no	RISING
 fund digital credit dividends	sn:Stacker_Stocks	2.83	no	RISING
 now holds	sn:Stacker_Stocks	2.83	no	RISING
@@ -25,18 +32,11 @@ world cup day	sn:Stacker_Sports	2.83	no	RISING
 brazil	sn:Stacker_Sports	2.83	yes	
 farewell	sn:Stacker_Sports	2.83	no	RISING
 norway rows towards england	sn:Stacker_Sports	2.83	no	RISING
-xbox	sn:gaming	2.82	yes	
-trump shares image of	sn:Politics_And_Law	2.75	no	RISING
-bill featuring his signature	sn:Politics_And_Law	2.75	no	RISING
-survivor pool	sn:Stacker_Sports	2.73	no	RISING
-we have	sn:Stacker_Sports	2.73	no	RISING
-winner	sn:Stacker_Sports	2.73	no	RISING
-buenos aires blocked uber	sn:history	2.72	no	RISING
-bitcoin helped	sn:history	2.72	no	RISING
-greyscaler	sn:Design	2.69	no	RISING
-china	sn:news	2.68	no	RISING
-pacific	sn:news	2.68	no	RISING
-resetting xbox	hn	2.63	no	RISING
-even luke dashjr	sn:bitcoin_Mining	2.61	no	RISING
-sell	sn:AGORA	2.6	no	RISING
-samsung	sn:AGORA	2.6	no	RISING
+xbox	sn:gaming	2.83	yes	
+buenos aires blocked uber	sn:history	2.79	no	RISING
+bitcoin helped	sn:history	2.79	no	RISING
+last	sn:Stacker_Sports	2.78	no	RISING
+sell	sn:AGORA	2.78	no	RISING
+samsung	sn:AGORA	2.78	no	RISING
+ultra	sn:AGORA	2.78	no	RISING
+shipping	sn:AGORA	2.78	no	RISING
