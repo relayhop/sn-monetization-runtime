@@ -1,0 +1,49 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1521114	math	2	2851	0	1	1.0	273359	470	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,HOT,SIGNAL	How Bitcoin’s privacy was upgraded
+1520959	bitcoin	1	1955	0	3	5.3	724606	11264	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Sanctions Don't Work: Greek Shipping Companies Making Bank on Russian Oil (FT)
+1520942	bitcoin	1	1345	0	32	5.8	74100	11056	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Is it time for the heretics BIP repo yet?
+1521003	lightning	1	1024	0	3	4.4	249216	273	recent@lightning|top@lightning	HOT,SIGNAL	🗨️⚡ Radar — Chats and sats in one place
+1520862	bitcoin	1	830	0	6	8.7	74100	11056	recent@bitcoin|top@bitcoin	SIGNAL	📣 AMA ANNOUNCEMENT: Rollo McFloogle, getonzerofiat.com - Sunday, 3PM!
+1520790	bitcoin_beginners	1	734	0	1	11.9	296825	4780	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Update from Bisq security audit
+1520821	bitcoin_Mining	1	690	0	1	10.5	238412	192	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Fiat Energy
+1520982	bitcoin	1	521	0	4	4.9	13531	1669	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Blink SV is killing KYC-free Lightning wallets
+1520871	bitcoin	1	495	0	7	8.4	74100	11056	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Miner Stress Hits 'Historically Rare' Level as 20% of Miners Operate at a Loss
+1520831	AI	1	456	0	0	10.0	401865	8231	recent@AI|top@AI	SIGNAL	Secret Claude Tracker Shocks Users After Anthropic’s Anti-Surveillance Stance
+1520794	bitcoin	1	343	0	0	11.7	296825	4780	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Free Samourai: Plan + $30,000 Prize | Truthcoin.Info
+1520883	lightning	1	336	0	3	8.0	263526	453	recent@lightning|top@lightning	SIGNAL	Finally: Auto-Renew Subscriptions on Bitcoin Lightning (via CLINK)
+1520789	AI	1	312	0	0	12.0	280679	22383	recent@tech|top@tech|recent@AI	SIGNAL	AMD Ryzen AI Halo review: AMD builds a DGX Spark of its own
+1520895	bitcoin	1	304	0	4	7.7	699824	157	recent@bitcoin|top@bitcoin	SIGNAL	Radar Chat: New Messenger App from Cake 🍰
+1520972	tech	1	296	0	2	5.1	13531	1669	recent@tech|top@tech	SIGNAL	A tough chart about the RAM crisis.
+1521001	Geyser_community	3	246	0	0	4.5	296825	4780	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Introducing Recoverable Grants. Can crowdfunding get any better, than this?
+1521040	bitcoin_beginners	1	238	0	0	3.0	296825	4780	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Announcing the Bitshala BOSS Summit 2026
+1520806	lightning	1	235	0	1	11.0	440729	185	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (038db03c5a5ddb0bc…)
+1520823	bitcoin_beginners	1	230	0	1	10.4	296825	4780	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Tap to Pay with Bitcoin Ecash
+1520801	podcasts	2	201	0	0	11.5	296825	4780	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The suitcoiners essentially recreated the ICO market. | The Bitcoin Podcast
+1520996	AI	1	175	0	0	4.6	370699	287	recent@AI|top@AI	SIGNAL	An Interactive Tomato Farm Overseen By AI
+1520612	bitcoin	1	5248	0	19	23.9	127838	1095	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	On the Lack of Replay Protection
+1520572	bitcoin	1	1325	0	1	25.1	724606	11264	recent@bitcoin	HOT	Nordic Node #2 (Six Weeks Overdue?!): Lambs, Bitcoin Adoption, and Criminals
+1520439	bitdevs	1	1273	0	19	30.2	223678	5762	recent@bitdevs	HOT	Thinking about building a new Bitcoin node client in nodejs
+1520658	art	3	955	0	7	20.0	1256355	119	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SELF_POST_OPP	Subscribe to the Bitcoin Art Magazine Newsletter ⚡
+1520358	bitcoin	1	777	0	4	32.1	74100	11056	recent@bitcoin		Ledger announces support for two NIST post quantum standards
+1520652	AI	1	711	0	5	21.8	30782	25076	recent@AI|top@AI		Air Force Engineer Accused Of Cutting Down AI Cameras Becomes Unlikely Hero
+1520483	tech	1	654	0	3	28.1	1293586	1996	recent@tech		US home battery installations hit record high on rising electricity costs
+1520511	bitcoin_Mining	1	619	0	4	26.9	341578	5878	recent@bitcoin_Mining		Even Luke Dashjr's father knows this isn't going to work😂
+1520241	lightning	1	443	0	2	35.0	440729	185	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03886889de219866e…)
+1520526	bitcoin	1	417	0	4	26.4	74100	11056	recent@bitcoin|recent@bitdevs		Cairn — the Bitcoin homescreen
+1520615	AI	1	416	0	8	23.7	1	26802	recent@AI|top@AI		A global workspace in language models
+1520515	bitcoin	1	363	0	0	26.7	298505	829	recent@bitcoin		AOC Will Send Bitcoin To $1M — Here's The Math | Dave Weisberger
+1520265	bitcoin	1	363	0	0	34.0	74100	11056	recent@bitcoin		pricenode-attestation: Attestation for Bisq pricenode data - BcnBitcoinOnly
+1520296	bitcoin	1	310	0	8	33.2	74100	11056	recent@bitcoin|recent@lightning		Trustless: "Non custodial" Bitcoin-only mobile wallet.
+1520364	nostr	1	309	0	3	32.0	1510840	4	recent@nostr		swift-nostr v0.6.0: NIP-46 remote signing — no nsec in your app
+1520403	bitcoin	1	271	0	2	31.3	296825	4780	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		Hope With Bitcoin,
+1520589	meta	1	256	0	9	24.6	273359	470	recent@meta		Where is DarthCoin?
+1520525	bitcoin	1	164	0	12	26.4	223678	5762	recent@bitcoin		Does Wallet Of Satoshi Have FDIC Insurance?
+1520743	meta	1	118	0	0	14.2	36151	1543	recent@meta|top@meta		This Day on SN: July 7
+1520247	bitcoin_beginners	1	57	0	0	34.7	296825	4780	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Nutshell Release 0.20.2: Mostly a hardening release for the mint and wallet.
+1520649	bitcoin	1	51	0	2	22.2	1517740	3	recent@lightning|top@lightning		I built a Lightning-native Bitcoin prediction market for Africa & here's why
+1520904	lightning	1	21	0	0	7.4	280679	22383	recent@lightning|top@lightning		Lightning Network Liquidity Management: The Work Behind One Simple Payments API
+1520243	security	1	21	0	0	34.9	297791	7609	recent@security		Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices
+1521112	tech	1	0	0	0	1.2	1497665	9	recent@bitdevs|top@bitdevs	FRESH	satd 0.4.0 released - Bitcoin node software with transaction filtering language
+1520470	security	1	0	0	0	28.9	297791	7609	recent@security		Confidential computing's core trust mechanism is broken. The fix may not exist
+1521055	devs	1	0	0	0	2.0	297791	7609	recent@devs|top@devs		Rust language rises to top 10 in Tiobe popularity index
+1521074	AI	1	0	0	0	1.7	1490792	247	recent@AI|top@AI	FRESH	What’s at the center of Claude’s mind?
