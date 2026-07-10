@@ -14973,3 +14973,16 @@
 2026-07-10T14:49:03.418Z	1522258	bitcoin	1	102	0	0	5.4	1495204	15	recent@lightning|top@lightning	SIGNAL	The Evolution Of The Bitcoin Lightning Network
 2026-07-10T14:49:03.418Z	1522330	security	1	102	0	0	2.7	297791	7617	recent@security|top@security|recent@devs	SIGNAL	GhostLock (CVE-2026-43499) kernel privilege escalation: Call for testing
 2026-07-10T14:49:03.418Z	1522420	Stacker_Stocks	2	100	0	1	0.4	280679	22408	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	NIKE | Can someone explain this?
+2026-07-10T16:07:33.000Z	1522410	AI	1	1704	0	5	1.9	724606	11347	recent@AI|top@AI	FRESH,HOT,SIGNAL	It's Not Clear Where the Returns to AI Go (Economic Forces, Brian Albrecht)
+2026-07-10T16:07:33.000Z	1522318	bitcoin	1	700	0	0	4.8	1014665	201	recent@bitcoin|top@bitcoin	SIGNAL	Fountain codes for IBD - Bitcoin Optech Newsletter #413
+2026-07-10T16:07:33.000Z	1522462	lightning	1	633	0	3	0.8	1028548	495	recent@lightning|top@lightning	FRESH,SIGNAL	Taproot Lightning Channel Question
+2026-07-10T16:07:33.000Z	1522342	DIY	3	286	0	0	3.6	719829	313	recent@devs|top@devs	SIGNAL	Behind the scenes at Plunda HQ - getting things setup!
+2026-07-10T16:07:33.000Z	1522228	AI	1	286	0	0	8.6	1054143	973	recent@AI|top@AI	SIGNAL	Meta jumps into AI coding market in effort to chase Anthropic and OpenAI
+2026-07-10T16:07:33.000Z	1522234	lightning	1	153	0	3	7.9	263526	463	recent@lightning|top@lightning	SIGNAL	Revolut + Lightning: Good News or a Trojan Horse for Bitcoin Privacy?
+2026-07-10T16:07:33.000Z	1522236	bitcoin_beginners	1	138	0	0	7.8	296825	4806	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Block #2 on hosted Public-Pool. By a lone Bitaxe.
+2026-07-10T16:07:33.000Z	1522230	bitcoin_beginners	1	138	0	0	8.4	296825	4806	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Project Solar Mining introduces a smart, self-regulating mining pool
+2026-07-10T16:07:33.000Z	1522493	bitcoin	1	136	0	1	0.3	296825	4806	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Why Are Shitcoin Promoters Paid More Than Bitcoin Educators?
+2026-07-10T16:07:33.000Z	1522278	bitcoin_beginners	1	128	0	0	6.1	30782	25089	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 108
+2026-07-10T16:07:33.000Z	1522471	bitcoin	1	121	0	1	0.7	24585	357	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Latest Strikes 27 - June 29th - July 5th 2026
+2026-07-10T16:07:33.000Z	1522258	bitcoin	1	102	0	0	6.7	1495204	15	recent@lightning|top@lightning	SIGNAL	The Evolution Of The Bitcoin Lightning Network
+2026-07-10T16:07:33.000Z	1522330	security	1	102	0	0	4.0	297791	7617	recent@security|top@security|recent@devs	SIGNAL	GhostLock (CVE-2026-43499) kernel privilege escalation: Call for testing
