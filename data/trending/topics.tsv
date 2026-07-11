@@ -1,7 +1,8 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-11T06:12:51.451Z; n=40
+# generated 2026-07-11T11:05:14.504Z; n=40
 what	sn:Stacker_Sports,sn:AI	5.96	yes	
-show	hn	4.79	no	RISING
+daily discussion thread	sn:Music	4.9	no	RISING
+music saloon	sn:Music	4.9	no	RISING
 not clear where	sn:AI	3.34	yes	
 returns	sn:AI	3.34	yes	
 economic forces	sn:AI	3.34	yes	
@@ -14,23 +15,20 @@ built	sn:Stacker_Sports	3.11	no	RISING
 world cup monster	sn:Stacker_Sports	3.11	no	RISING
 files	sn:aliens_and_UFOs	3.09	no	RISING
 release	sn:aliens_and_UFOs	3.09	yes	
+taproot lightning channel question	sn:lightning	3.08	no	RISING
 silver bulleting model say about	sn:Stacker_Sports	3.07	no	RISING
 world cup finish	sn:Stacker_Sports	3.07	no	RISING
-underwater suit-wearing cyborg insect capable	sn:science	3.05	no	RISING
-hours-long diving	sn:science	3.05	no	RISING
+apple	hn	3.05	no	RISING
+ex-employees	hn	3.05	no	RISING
+fire up	sn:meta	3.04	yes	
+printer	sn:meta	3.04	yes	
 china lands	sn:science	3.01	no	RISING
 reusable rocket	sn:science	3.01	no	RISING
 first time joining	sn:science	3.01	no	RISING
 blue origin	sn:science	3.01	no	RISING
 behind	sn:DIY	3	no	RISING
 plunda	sn:DIY	3	no	RISING
-taproot lightning channel question	sn:lightning	2.99	no	RISING
-fire up	sn:meta	2.96	yes	
-printer	sn:meta	2.96	yes	
-on being	sn:mostly_harmless	2.94	no	RISING
-right size	sn:mostly_harmless	2.94	no	RISING
-apple	hn	2.93	no	RISING
-ex-employees	hn	2.93	no	RISING
+show	hn	2.93	no	RISING
 getting	hn	2.93	no	RISING
 how england began	sn:BooksAndArticles	2.92	no	RISING
 nick higham	sn:BooksAndArticles	2.92	no	RISING
@@ -39,4 +37,6 @@ george woudhuysen	sn:BooksAndArticles	2.92	no	RISING
 latest strikes	sn:bitcoin	2.9	yes	
 june	sn:bitcoin	2.9	yes	
 july	sn:bitcoin	2.9	yes	
-theymos	sn:bitcoin	2.89	yes	
+theymos	sn:bitcoin	2.9	yes	
+replit	sn:AI	2.88	yes	
+women over	sn:charts_and_maps	2.85	no	RISING
