@@ -15280,3 +15280,7 @@
 2026-07-11T15:08:06.926Z	1522826	Stacker_Stocks	2	126	0	0	9.8	1054143	974	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	S&P 500 closes higher to notch a winning week, helped by tech gains
 2026-07-11T15:08:06.926Z	1522854	news	2	109	0	0	7.4	297791	7619	recent@news|top@news	SIGNAL	Meta removes controversial AI feature on Instagram after backlash
 2026-07-11T15:59:07.881Z	1522887	bitcoin	1	138	0	1	4.8	1495204	16	recent@lightning|top@lightning	SIGNAL	The History Of Hong Kong's Bitcoin Meetup
+2026-07-11T17:04:45.324Z	1522935	lightning	1	425	0	0	3.9	440729	190	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0236a6dc4eb78d701…)
+2026-07-11T17:04:45.324Z	1522984	privacy	1	162	0	3	1.5	1507914	10	recent@privacy|top@privacy	FRESH,SIGNAL	Dear EU lawmakers, please split your commits... Claude: done
+2026-07-11T17:04:45.324Z	1522887	bitcoin	1	138	0	1	5.9	1495204	16	recent@lightning|top@lightning	SIGNAL	The History Of Hong Kong's Bitcoin Meetup
+2026-07-11T17:04:45.324Z	1522855	lightning	1	100	0	0	9.1	163128	3643	recent@lightning|top@lightning	SIGNAL	🚨 Umbrel: All Tor connectivity broken, LN channels offline, onion services dead
