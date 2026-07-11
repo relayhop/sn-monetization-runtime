@@ -1,0 +1,61 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1522410	AI	1	2131	0	9	9.9	724606	11359	recent@AI|top@AI	HOT,SIGNAL	It's Not Clear Where the Returns to AI Go (Economic Forces, Brian Albrecht)
+1522462	lightning	1	976	0	7	8.9	1028548	496	recent@lightning|top@lightning	SIGNAL	Taproot Lightning Channel Question
+1522471	bitcoin	1	802	0	1	8.8	24585	357	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Latest Strikes 27 - June 29th - July 5th 2026
+1522670	bitcoin	1	776	0	5	4.1	1	26818	recent@bitcoin|top@bitcoin	SIGNAL	Theymos AMA from 2013
+1522514	AI	1	709	0	29	8.0	88718	45220	recent@AI|top@AI	SIGNAL	What's the best Replit-like tool?
+1522342	DIY	3	645	0	0	11.7	719829	313	recent@devs|top@devs	SIGNAL	Behind the scenes at Plunda HQ - getting things setup!
+1522638	math	2	501	0	0	4.9	74100	11104	recent@bitcoin|top@bitcoin	SIGNAL	BIP Draft: Full-Aggregation of BIP 340 Signatures - fjahr
+1522574	bitcoin	1	447	0	1	7.1	74100	11104	recent@bitcoin|top@bitcoin	SIGNAL	📣 AMA Announcement: Luke de Wolf, author of Defending Bitcoin - 1PM MONDAY!
+1522649	nostr	1	204	0	0	4.7	16035	43	recent@nostr|top@nostr	SIGNAL	Community organizers: help us build Flotilla by signing up for an interview
+1522577	bitcoin_beginners	1	150	0	4	7.0	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin is a Ponzi Scheme
+1522493	bitcoin	1	136	0	2	8.3	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Why Are Shitcoin Promoters Paid More Than Bitcoin Educators?
+1521798	tech	1	3409	0	3	35.6	1495204	15	recent@lightning|recent@tech	HOT	Running Boltz, One Of The Oldest And Largest Lightning Nodes
+1522136	math	2	3175	0	2	23.7	1522136	1	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	The secp256k1 first commit: modular inversion via Fermat's Little Theorem
+1521827	Travel	3	2489	0	21	34.4	1521827	5	recent@privacy|recent@tech	HOT	I built a no-KYC travel eSIM you can buy with Bitcoin - no email, no account
+1522005	the_stacker_muse	3	2417	0	4	27.9	984933	1503	recent@bitcoin	HOT	[HM] - The Man Immortalized on the Blockchain
+1521963	meta	1	1872	0	10	29.5	48657	14160	recent@meta	HOT	Stacker News Monthly: May / June 2026 Doubleheader!
+1522318	bitcoin	1	1533	0	1	12.9	1014665	201	recent@bitcoin|top@bitcoin	HOT	Fountain codes for IBD - Bitcoin Optech Newsletter #413
+1521807	bitcoin	1	1507	0	2	35.2	30782	25091	recent@bitcoin	HOT	Programming Blockchain (Get past the title)
+1521903	bitcoin	1	1457	0	21	31.0	1202928	221	recent@bitcoin|recent@lightning	HOT	PREDYX Is Already the Strongest BIP-110 Signal — 2+ BTC in Trading Volume ⚡
+1522258	bitcoin	1	1138	0	0	14.8	1495204	15	recent@bitcoin|top@bitcoin|recent@lightning	HOT	The Evolution Of The Bitcoin Lightning Network
+1522108	privacy	1	844	0	18	24.8	1242375	106	recent@privacy		The surveillance state is getting more aggressive, how will you defend yourself?
+1522053	bitcoin	1	720	0	4	25.7	74100	11104	recent@bitcoin|recent@bitcoin_Mining		Turn excess solar into sats - schnitzel
+1522197	AI	1	658	0	7	21.0	1	26818	recent@AI|top@AI		Robot hands with 25 degrees of freedom, gear tendons, and force feedback
+1521832	bitcoin	1	651	0	0	34.2	74100	11104	recent@bitcoin		Bypassing Tangem Card Security with a Laser Attack | Ledger Donjon
+1521817	lightning	1	610	0	2	34.9	440729	188	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03eb782adce5c2bae…)
+1521949	tech	1	497	0	2	29.8	161788	10085	recent@tech		GPT-5.6
+1521865	bitcoin	1	444	0	1	32.2	133081	676	recent@bitcoin		The Ultimate Bitcoin Backup: Computing Codex32 Seed Shares with Pen and Paper.
+1522278	bitcoin_beginners	1	322	0	2	14.2	30782	25091	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 108
+1522228	AI	1	286	0	0	16.7	1054143	973	recent@AI|top@AI		Meta jumps into AI coding market in effort to chase Anthropic and OpenAI
+1521792	AI	1	235	0	0	35.8	280679	22408	recent@AI		Set up OpenClaw on your Raspberry Pi
+1522105	AI	1	189	0	0	24.9	9274	24610	recent@AI		McLaren Construction deploys autonomous robots on its sites
+1522243	bitcoin_beginners	1	153	0	0	15.3	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin for Individuals - Bitcoin
+1522234	lightning	1	153	0	5	16.0	263526	465	recent@lightning|top@lightning		Revolut + Lightning: Good News or a Trojan Horse for Bitcoin Privacy?
+1522236	bitcoin_beginners	1	138	0	0	15.8	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Block #2 on hosted Public-Pool. By a lone Bitaxe.
+1522230	bitcoin_beginners	1	138	0	0	16.5	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Project Solar Mining introduces a smart, self-regulating mining pool
+1522120	bitcoin_beginners	1	138	0	1	24.3	1444593	78	recent@bitcoin_beginners		🔒 Errores para perder tus bitcoin. Confiar en tu memoria
+1521830	security	1	110	0	0	34.3	297791	7618	recent@security|recent@devs		How to implement a continuous offensive security testing program
+1522330	security	1	102	0	0	12.1	297791	7618	recent@security|top@security|recent@devs		GhostLock (CVE-2026-43499) kernel privilege escalation: Call for testing
+1521873	bitcoin	1	82	0	0	32.0	296825	4809	recent@bitcoin_beginners|recent@lightning		Block to pay $45 million after states say it made false security promises
+1522678	bitcoin	1	79	0	0	3.8	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		On this day, Satoshi explained why Bitcoin is safe from quantum computing
+1522545	AI	1	69	0	1	7.5	927054	53	recent@AI|top@AI		Your AI agent does "research" on content farm slop. Made it stop for ~150 sats.
+1522338	AI	1	69	0	0	11.8	347614	1509	recent@AI|top@AI		Apple Exploring Ways to Run Much Larger AI Models Directly on iPhones
+1522245	AI	1	69	0	0	15.1	297791	7618	recent@AI|top@AI		Fidji Simo steps down from OpenAI's no. 2 role
+1522358	news	2	46	0	1	11.3	1490792	266	recent@bitcoin_beginners|top@bitcoin_beginners		DAC8: Stop mass surveillance of crypto holders
+1522365	bitcoin	1	46	0	1	11.0	1490792	266	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		OCEAN has added two new Stratum endpoints: bip110 and no-signal
+1521917	AI	1	40	0	0	30.4	296825	4809	recent@AI		World's First Fully Robotic Pharmacy Automates Prescription Dispensing
+1522292	bitcoin_beginners	1	36	0	1	13.9	1472202	6	recent@bitcoin_beginners|top@bitcoin_beginners		¡NUEVO! Tutorial Blue Wallet. Una de las wallets más simples que probamos.
+1522232	bitcoin_beginners	1	36	0	1	16.1	296825	4809	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		New app lets you send bitcoin without internet by tapping together the NFC chips
+1522372	lightning	1	21	0	1	11.0	440729	188	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02203e5af7c8e8529…)
+1522605	AI	1	12	0	5	6.6	1522269	5	recent@AI|top@AI		Which AI coding assistant actually saves you the most time in 2026?
+1522691	bitcoin_Mining	1	0	0	0	3.4	296825	4809	recent@bitcoin_Mining|top@bitcoin_Mining		SimpleMining.io - Buy, Host, and Repair Bitcoin Miners
+1522496	bitcoin	1	0	0	3	8.3	263526	465	recent@lightning|top@lightning		We don't appreciate enough how much incredible commerce gets unlocked w/ Bitcoin
+1522658	lightning	1	0	0	2	4.3	263526	465	recent@lightning|top@lightning		He sent a friend $5 over Lightning. Strike froze it and ask sender's legal name
+1521809	lightning	1	0	0	1	35.1	263526	465	recent@lightning		Hosted Bitcoin Lightning Node with Clovyr
+1522035	nostr	1	0	0	0	26.1	1521619	7	recent@nostr		You don't have to choose between X and Nostr.
+1522295	devs	1	0	0	0	13.8	5888	277	recent@devs|top@devs		#MOSHCODING — Code hard. Mosh harder.
+1521930	tech	1	0	0	0	30.2	296825	4809	recent@devs		Lan Chat: Serverless LAN IPv6-only multicast chat & voice app in Rust
+1521823	AI	1	0	0	0	34.6	297791	7618	recent@devs|recent@AI		GitHub Copilot in Visual Studio Code, June 2026 releases
+1521974	AI	1	0	0	0	29.3	296825	4809	recent@AI		TEE-Encrypted LLMs Now Available Via Routstr: E2EE, Pay-per-Request, No Accounts
+1521860	AI	1	0	0	0	32.5	296825	4809	recent@AI		Routstr - Decentralized AI Inference Router
