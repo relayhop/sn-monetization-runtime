@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-12T11:09:10.822Z; n=40
-show	hn	6.56	no	RISING
-daily bitcoin lore	sn:history	5.83	no	RISING
-england	sn:Stacker_Sports	5.72	no	RISING
-norway	sn:Stacker_Sports	5.72	no	RISING
-france	hn,sn:Stacker_Sports	3.54	no	RISING
+# generated 2026-07-12T16:58:34.756Z; n=40
+show	hn	5.52	no	RISING
+round	sn:Stacker_Sports	5.11	no	RISING
 praxeology	sn:BooksAndArticles	3.15	no	RISING
 privacy book club	sn:BooksAndArticles	3.15	no	RISING
 part	sn:BooksAndArticles	3.15	no	RISING
-ready	sn:Stacker_Sports	3.14	no	RISING
-rumble	sn:Stacker_Sports	3.14	no	RISING
-lynsey chutel	sn:Stacker_Sports	3.14	no	RISING
-banned book library	sn:DIY	3.13	no	RISING
-join	sn:Stacker_Sports	3.07	no	RISING
-last	sn:Stacker_Sports	3.07	no	RISING
-adam back out scalping	sn:bitcoin	3.05	yes	
-knotzies	sn:bitcoin	3.05	yes	
-respectfully	sn:bitcoin	3.05	yes	
-of course	sn:bitcoin	3.05	yes	
-bitcoin gets slashdotted	sn:history	2.99	no	RISING
-website crashes	sn:history	2.99	no	RISING
-my personal math comparing	sn:Construction_and_Engineering	2.98	no	RISING
-traditional house	sn:Construction_and_Engineering	2.98	no	RISING
-foldable home	sn:Construction_and_Engineering	2.98	no	RISING
-dear	sn:privacy	2.93	no	RISING
-claude	sn:privacy	2.93	yes	
-library	sn:BooksAndArticles	2.92	no	RISING
-ben brown	sn:BooksAndArticles	2.92	no	RISING
-trump calls bitcoin	sn:history	2.84	no	RISING
-based	sn:history	2.84	no	RISING
-thin air	sn:history	2.84	no	RISING
+banned book library	sn:DIY	3.14	no	RISING
+daily bitcoin lore	sn:history	3.11	no	RISING
+buy bitcoin sign photobombs	sn:history	3.11	no	RISING
+fed chair	sn:history	3.11	no	RISING
+world cup pool	sn:Stacker_Sports	3.06	no	RISING
+standings	sn:Stacker_Sports	3.06	no	RISING
+hard things worth doing	sn:HealthAndFitness	3.05	no	RISING
+the economics	sn:HealthAndFitness	3.05	no	RISING
+friendship	sn:HealthAndFitness	3.05	no	RISING
+roland fryer	sn:HealthAndFitness	3.05	no	RISING
+library	sn:BooksAndArticles	2.93	no	RISING
+ben brown	sn:BooksAndArticles	2.93	no	RISING
+senator lindsey graham	sn:news	2.87	no	RISING
+clink	sn:lightning	2.86	no	RISING
+plugin	sn:lightning	2.86	no	RISING
+lightning subscription	sn:lightning	2.86	no	RISING
+server	sn:lightning	2.86	no	RISING
+freeport	sn:lightning	2.82	no	RISING
+nostr	sn:lightning	2.82	yes	
+built-in	sn:lightning	2.82	no	RISING
+self-custodial	sn:lightning	2.82	no	RISING
+bacillus	sn:mostly_harmless	2.81	no	RISING
+mosquito bits	sn:mostly_harmless	2.81	no	RISING
+safe	sn:bitcoin	2.76	yes	
+coin-splitting using	sn:bitcoin	2.76	yes	
+chain-unique dust input	sn:bitcoin	2.76	yes	
+robin linus	sn:bitcoin	2.76	yes	
 new predyx	sn:Stacker_Sports	2.76	no	RISING
+france	sn:Stacker_Sports	2.76	no	RISING
 spain	sn:Stacker_Sports	2.76	no	RISING
-beautiful stone driveway	sn:Photography	2.75	no	RISING
-trying	sn:Animal_World	2.75	no	RISING
-disgusting	sn:Stacker_Sports	2.74	no	RISING
-books	sn:BooksAndArticles	2.72	no	RISING
-articles weekly	sn:BooksAndArticles	2.72	no	RISING
-issue	sn:BooksAndArticles	2.72	no	RISING
-navajo nation	sn:news	2.69	no	RISING
-broadband community	sn:news	2.69	no	RISING
+off-grid	sn:science	2.76	yes	
+sunday survey	sn:bitcoin	2.75	yes	
+where	sn:bitcoin	2.75	yes	
+bitcoin	sn:bitcoin	2.75	yes	
+international superstar soccer	sn:gaming	2.71	no	RISING
