@@ -15581,3 +15581,11 @@
 2026-07-12T17:43:01.917Z	1523534	bitcoin_Mining	1	550	0	0	0.5	864760	67	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Rigly back it it today to try again to mine a block
 2026-07-12T17:43:01.917Z	1523370	lightning	1	296	0	0	4.5	440729	191	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03828271e1600f9d8…)
 2026-07-12T17:43:01.917Z	1523320	bitcoin	1	212	0	0	6.6	1495204	17	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	How Banks Can Add Bitcoin Without Replacing Their Core System
+2026-07-12T18:38:35.715Z	1523551	bitcoin	1	711	0	2	1.1	74100	11131	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	THIS WEEK: AMA Extravaganza! McFloogle, de Wolf, Filini, Mechanic, Sztorc!
+2026-07-12T18:38:35.715Z	1523534	bitcoin_Mining	1	697	0	1	1.4	864760	67	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Rigly back it it today to try again to mine a block
+2026-07-12T18:38:35.715Z	1523508	bitcoin	1	682	0	4	1.9	178	914	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Sunday Survey: Where did you acquire Bitcoin last?
+2026-07-12T18:38:35.715Z	1523296	lightning	1	658	0	19	9.9	163128	3644	recent@lightning|top@lightning	SIGNAL	Freeport: P2P marketplace over Nostr with a built-in self-custodial LN wallet
+2026-07-12T18:38:35.715Z	1523335	science	2	571	0	0	6.9	30993	3526	recent@tech|top@tech	SIGNAL	Mad scientist's homestead is parking size, off-grid system
+2026-07-12T18:38:35.715Z	1523480	bitcoin	1	570	0	4	2.6	74100	11131	recent@bitcoin|top@bitcoin	SIGNAL	Safe eCash/BTC Coin-Splitting Using a Chain-Unique Dust Input - Robin Linus
+2026-07-12T18:38:35.715Z	1523370	lightning	1	296	0	0	5.4	440729	191	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03828271e1600f9d8…)
+2026-07-12T18:38:35.715Z	1523320	bitcoin	1	212	0	0	7.6	1495204	17	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	How Banks Can Add Bitcoin Without Replacing Their Core System
