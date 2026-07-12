@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-12T16:58:34.756Z; n=40
-show	hn	5.52	no	RISING
-round	sn:Stacker_Sports	5.11	no	RISING
-praxeology	sn:BooksAndArticles	3.15	no	RISING
-privacy book club	sn:BooksAndArticles	3.15	no	RISING
-part	sn:BooksAndArticles	3.15	no	RISING
+# generated 2026-07-12T22:49:33.540Z; n=40
+rollo	sn:AMA	3.61	no	RISING
+catholic	sn:AMA	3.61	yes	
+bitcoiner	sn:AMA	3.61	no	RISING
+pioneer	sn:AMA	3.61	no	RISING
+podcaster	sn:AMA	3.61	no	RISING
+daily stock discussion	sn:Stacker_Stocks	3.18	no	RISING
+daily bitcoin lore	sn:history	3.15	no	RISING
+buy bitcoin sign photobombs	sn:history	3.15	no	RISING
+fed chair	sn:history	3.15	no	RISING
 banned book library	sn:DIY	3.14	no	RISING
-daily bitcoin lore	sn:history	3.11	no	RISING
-buy bitcoin sign photobombs	sn:history	3.11	no	RISING
-fed chair	sn:history	3.11	no	RISING
+hard things worth doing	sn:HealthAndFitness	3.12	no	RISING
+the economics	sn:HealthAndFitness	3.12	no	RISING
+friendship	sn:HealthAndFitness	3.12	no	RISING
+roland fryer	sn:HealthAndFitness	3.12	no	RISING
 world cup pool	sn:Stacker_Sports	3.06	no	RISING
 standings	sn:Stacker_Sports	3.06	no	RISING
-hard things worth doing	sn:HealthAndFitness	3.05	no	RISING
-the economics	sn:HealthAndFitness	3.05	no	RISING
-friendship	sn:HealthAndFitness	3.05	no	RISING
-roland fryer	sn:HealthAndFitness	3.05	no	RISING
+week	sn:bitcoin	3.05	yes	
+extravaganza	sn:bitcoin	3.05	yes	
+wolf	sn:bitcoin	3.05	yes	
+filini	sn:bitcoin	3.05	yes	
+mechanic	sn:bitcoin	3.05	yes	
+sztorc	sn:bitcoin	3.05	yes	
+sunday survey	sn:bitcoin	2.95	yes	
+where	sn:bitcoin	2.95	yes	
+bitcoin	sn:bitcoin	2.95	yes	
 library	sn:BooksAndArticles	2.93	no	RISING
 ben brown	sn:BooksAndArticles	2.93	no	RISING
-senator lindsey graham	sn:news	2.87	no	RISING
-clink	sn:lightning	2.86	no	RISING
-plugin	sn:lightning	2.86	no	RISING
-lightning subscription	sn:lightning	2.86	no	RISING
-server	sn:lightning	2.86	no	RISING
-freeport	sn:lightning	2.82	no	RISING
-nostr	sn:lightning	2.82	yes	
-built-in	sn:lightning	2.82	no	RISING
-self-custodial	sn:lightning	2.82	no	RISING
-bacillus	sn:mostly_harmless	2.81	no	RISING
-mosquito bits	sn:mostly_harmless	2.81	no	RISING
-safe	sn:bitcoin	2.76	yes	
-coin-splitting using	sn:bitcoin	2.76	yes	
-chain-unique dust input	sn:bitcoin	2.76	yes	
-robin linus	sn:bitcoin	2.76	yes	
-new predyx	sn:Stacker_Sports	2.76	no	RISING
-france	sn:Stacker_Sports	2.76	no	RISING
-spain	sn:Stacker_Sports	2.76	no	RISING
-off-grid	sn:science	2.76	yes	
-sunday survey	sn:bitcoin	2.75	yes	
-where	sn:bitcoin	2.75	yes	
-bitcoin	sn:bitcoin	2.75	yes	
-international superstar soccer	sn:gaming	2.71	no	RISING
+celebrating	sn:AI	2.9	yes	
+summer	sn:AI	2.9	yes	
+ludd	sn:AI	2.9	yes	
+the economist	sn:AI	2.9	yes	
+senator lindsey graham	sn:news	2.89	no	RISING
+clink	sn:lightning	2.88	no	RISING
+plugin	sn:lightning	2.88	no	RISING
+lightning subscription	sn:lightning	2.88	no	RISING
+server	sn:lightning	2.88	no	RISING
+rigly	sn:bitcoin_Mining	2.86	no	RISING
+freeport	sn:lightning	2.83	no	RISING
+nostr	sn:lightning	2.83	yes	
+built-in	sn:lightning	2.83	no	RISING
