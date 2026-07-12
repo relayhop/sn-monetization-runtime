@@ -15507,3 +15507,8 @@
 2026-07-12T11:20:41.366Z	1523262	mostly_harmless	2	205	0	0	5.1	1	26828	recent@science|top@science|recent@mostly_harmless	SIGNAL	Bacillus thuringiensis israelensis (BTI) aka Mosquito Bits
 2026-07-12T11:20:41.366Z	1523236	meta	1	197	0	0	8.6	1	26828	recent@meta|top@meta	SIGNAL	SN Saturday Newsletter 7/11/26
 2026-07-12T11:20:41.366Z	1523320	bitcoin	1	100	0	0	0.3	1495204	17	recent@lightning|top@lightning	FRESH,SIGNAL	How Banks Can Add Bitcoin Without Replacing Their Core System
+2026-07-12T12:02:20.008Z	1523252	bitcoin	1	401	0	1	8.2	74100	11121	recent@bitcoin|top@bitcoin	SIGNAL	Babilonia: Coinjoin as a wager - waxwing
+2026-07-12T12:02:20.008Z	1523296	lightning	1	399	0	2	3.3	163128	3644	recent@lightning|top@lightning	SIGNAL	Freeport: P2P marketplace over Nostr with a built-in self-custodial LN wallet
+2026-07-12T12:02:20.008Z	1523268	lightning	1	285	0	0	5.5	263526	467	recent@lightning|top@lightning	SIGNAL	CLINK Plugin to enable Lightning Subscription payments on BTCPay Server
+2026-07-12T12:02:20.008Z	1523236	meta	1	218	0	0	9.3	1	26828	recent@meta|top@meta	SIGNAL	SN Saturday Newsletter 7/11/26
+2026-07-12T12:02:20.008Z	1523320	bitcoin	1	207	0	0	1.0	1495204	17	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	How Banks Can Add Bitcoin Without Replacing Their Core System
