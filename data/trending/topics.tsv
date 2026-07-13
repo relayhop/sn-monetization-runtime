@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-12T22:49:33.540Z; n=40
-rollo	sn:AMA	3.61	no	RISING
-catholic	sn:AMA	3.61	yes	
-bitcoiner	sn:AMA	3.61	no	RISING
-pioneer	sn:AMA	3.61	no	RISING
-podcaster	sn:AMA	3.61	no	RISING
-daily stock discussion	sn:Stacker_Stocks	3.18	no	RISING
+# generated 2026-07-13T06:52:49.520Z; n=40
+bitcoin quest	sn:Geyser_community,sn:AI,sn:tech	6.84	yes	
+what	hn,sn:gaming	5.22	yes	
+rollo	sn:AMA	3.83	no	RISING
+catholic	sn:AMA	3.83	yes	
+bitcoiner	sn:AMA	3.83	no	RISING
+pioneer	sn:AMA	3.83	no	RISING
+podcaster	sn:AMA	3.83	no	RISING
+retro gaming	sn:gaming	3.71	no	RISING
+week	sn:bitcoin	3.3	yes	
+extravaganza	sn:bitcoin	3.3	yes	
+wolf	sn:bitcoin	3.3	yes	
+filini	sn:bitcoin	3.3	yes	
+mechanic	sn:bitcoin	3.3	yes	
+sztorc	sn:bitcoin	3.3	yes	
+daily stock discussion	sn:Stacker_Stocks	3.19	no	RISING
 daily bitcoin lore	sn:history	3.15	no	RISING
 buy bitcoin sign photobombs	sn:history	3.15	no	RISING
 fed chair	sn:history	3.15	no	RISING
-banned book library	sn:DIY	3.14	no	RISING
 hard things worth doing	sn:HealthAndFitness	3.12	no	RISING
 the economics	sn:HealthAndFitness	3.12	no	RISING
 friendship	sn:HealthAndFitness	3.12	no	RISING
 roland fryer	sn:HealthAndFitness	3.12	no	RISING
+chainalysis	sn:bitcoin	3.11	yes	
+spark	sn:bitcoin	3.11	yes	
 world cup pool	sn:Stacker_Sports	3.06	no	RISING
 standings	sn:Stacker_Sports	3.06	no	RISING
-week	sn:bitcoin	3.05	yes	
-extravaganza	sn:bitcoin	3.05	yes	
-wolf	sn:bitcoin	3.05	yes	
-filini	sn:bitcoin	3.05	yes	
-mechanic	sn:bitcoin	3.05	yes	
-sztorc	sn:bitcoin	3.05	yes	
+parents	sn:gaming	3.03	no	RISING
+corner	sn:gaming	3.03	no	RISING
+frustration tolerance thanks	sn:gaming	3.03	no	RISING
+celebrating	sn:AI	2.95	yes	
+summer	sn:AI	2.95	yes	
+ludd	sn:AI	2.95	yes	
+the economist	sn:AI	2.95	yes	
 sunday survey	sn:bitcoin	2.95	yes	
 where	sn:bitcoin	2.95	yes	
 bitcoin	sn:bitcoin	2.95	yes	
-library	sn:BooksAndArticles	2.93	no	RISING
-ben brown	sn:BooksAndArticles	2.93	no	RISING
-celebrating	sn:AI	2.9	yes	
-summer	sn:AI	2.9	yes	
-ludd	sn:AI	2.9	yes	
-the economist	sn:AI	2.9	yes	
+new features	sn:Geyser_community	2.94	yes	
 senator lindsey graham	sn:news	2.89	no	RISING
-clink	sn:lightning	2.88	no	RISING
-plugin	sn:lightning	2.88	no	RISING
-lightning subscription	sn:lightning	2.88	no	RISING
-server	sn:lightning	2.88	no	RISING
 rigly	sn:bitcoin_Mining	2.86	no	RISING
 freeport	sn:lightning	2.83	no	RISING
-nostr	sn:lightning	2.83	yes	
-built-in	sn:lightning	2.83	no	RISING
