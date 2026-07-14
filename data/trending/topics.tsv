@@ -1,7 +1,8 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-14T06:10:31.777Z; n=40
-show	hn	8.89	no	RISING
-sega	hn	4.46	no	RISING
+# generated 2026-07-14T11:25:00.086Z; n=40
+saylor	sn:Stacker_Stocks,sn:lol	5.79	yes	
+daily bitcoin lore	sn:history	5.42	no	RISING
+nvidia	hn,sn:AI	4.41	yes	
 luke	sn:security	3.72	yes	
 wolf	sn:security	3.72	yes	
 author	sn:security	3.72	yes	
@@ -14,29 +15,28 @@ pilita clark	sn:Politics_And_Law	3.12	no	RISING
 melting ice cube no more	sn:Stacker_Stocks	3.1	no	RISING
 we stack fiat	sn:Stacker_Stocks	3.1	no	RISING
 strategy	sn:Stacker_Stocks	3.1	no	RISING
-saylor	sn:Stacker_Stocks	3.1	yes	
-sats	sn:food_and_drinks	3.08	yes	
-your	sn:food_and_drinks	3.08	yes	
-alcohol-free	sn:food_and_drinks	3.08	no	RISING
-world cup pool	sn:Stacker_Sports	3.08	no	RISING
-picks submissions open	sn:Stacker_Sports	3.08	no	RISING
 who made madam toothfairy make sense	sn:Politics_And_Law	3.05	no	RISING
 katie martin	sn:Politics_And_Law	3.05	no	RISING
 prediction markets	sn:Politics_And_Law	3.05	no	RISING
-do you have doubts about	sn:the_stacker_muse	3.03	no	RISING
-fitfluencers	sn:the_stacker_muse	3.03	no	RISING
-sebastian langdell	sn:the_stacker_muse	3.03	no	RISING
+do you have doubts about	sn:the_stacker_muse	3.04	no	RISING
+fitfluencers	sn:the_stacker_muse	3.04	no	RISING
+sebastian langdell	sn:the_stacker_muse	3.04	no	RISING
+ocean mining	sn:bitcoin	3.03	yes	
+august	sn:bitcoin	3.03	yes	
+september	sn:bitcoin	3.03	yes	
 wall	sn:AI	3.02	yes	
-ocean mining	sn:bitcoin	3.01	yes	
-august	sn:bitcoin	3.01	yes	
-september	sn:bitcoin	3.01	yes	
-the world update	sn:Stacker_Sports	2.99	no	RISING
-venezuelans turn	sn:bitcoin	2.91	yes	
-bitcoin	sn:bitcoin	2.91	yes	
-fund earthquake relief	sn:bitcoin	2.91	yes	
-trust is lost from both financial markets and sports	sn:Stacker_Sports	2.84	no	RISING
-rent	sn:HealthAndFitness	2.82	no	RISING
+the world update	sn:Stacker_Sports	3	no	RISING
+venezuelans turn	sn:bitcoin	2.94	yes	
+bitcoin	sn:bitcoin	2.94	yes	
+fund earthquake relief	sn:bitcoin	2.94	yes	
+russian refinery runs plunge	sn:charts_and_maps	2.82	no	RISING
+lowest	sn:charts_and_maps	2.82	no	RISING
+more than two decades	sn:charts_and_maps	2.82	no	RISING
+bitrust starter grant	sn:bitcoin_beginners	2.82	no	RISING
 last	sn:Stacker_Sports	2.8	no	RISING
-bitrust starter grant	sn:bitcoin_beginners	2.79	no	RISING
-russian refinery runs plunge	sn:charts_and_maps	2.78	no	RISING
-lowest	sn:charts_and_maps	2.78	no	RISING
+mick jagger has some sage advice for trump-hater springsteen	sn:Music	2.76	no	RISING
+another day another security incident	sn:Politics_And_Law	2.76	no	RISING
+nostr	sn:podcasts	2.74	yes	
+november	sn:podcasts	2.74	yes	
+countdown	sn:history	2.74	no	RISING
+brazil	sn:history	2.74	no	RISING
