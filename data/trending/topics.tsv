@@ -1,8 +1,10 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-15T06:14:07.370Z; n=40
+# generated 2026-07-15T11:35:29.850Z; n=40
 should	sn:Travel,sn:Animal_World	5.73	no	RISING
-maya	hn,sn:math	4.84	no	RISING
-open-source	hn	4.47	no	RISING
+underground	sn:bitcoin,sn:AI	5.65	yes	
+claude	hn	5.32	no	RISING
+maya	hn,sn:math	5	no	RISING
+show	hn	3.4	no	RISING
 road	sn:bitcoinplusplus	3.31	no	RISING
 cisa	sn:bitcoinplusplus	3.31	no	RISING
 last week	sn:bitcoinplusplus	3.31	no	RISING
@@ -19,7 +21,6 @@ billion data centre lease	sn:news	3.12	no	RISING
 shares surge	sn:news	3.12	no	RISING
 clsk	sn:news	3.12	no	RISING
 austin	sn:bitcoin	3.01	yes	
-underground	sn:bitcoin	3.01	yes	
 july edition	sn:bitcoin	3.01	yes	
 thursday	sn:bitcoin	3.01	yes	
 july	sn:bitcoin	3.01	yes	
@@ -34,9 +35,8 @@ floating freedom	sn:Construction_and_Engineering	2.95	no	RISING
 core dev says	sn:bitdevs	2.94	no	RISING
 quiet part out loud	sn:bitdevs	2.94	no	RISING
 jon atack	sn:bitdevs	2.94	no	RISING
-your	hn	2.89	yes	
-electric	sn:charts_and_maps	2.88	no	RISING
-latin america	sn:charts_and_maps	2.88	no	RISING
-sjors provoost	sn:bitcoin	2.88	yes	
-bitcoin optech newsletter	sn:bitcoin	2.88	yes	
-recap podcast	sn:bitcoin	2.88	yes	
+your	hn	2.92	no	RISING
+maternity photo shoot	sn:Photography	2.92	no	RISING
+sjors provoost	sn:bitcoin	2.89	yes	
+bitcoin optech newsletter	sn:bitcoin	2.89	yes	
+recap podcast	sn:bitcoin	2.89	yes	
