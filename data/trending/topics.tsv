@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-15T17:17:34.747Z; n=40
-what	hn,sn:Stacker_Sports	3.68	yes	
+# generated 2026-07-15T22:57:57.818Z; n=40
+show	hn	6.37	no	RISING
+what	sn:Stacker_Sports,sn:meta	5.27	yes	
 enclavia	sn:AMA	3.55	no	RISING
 portal	sn:AMA	3.55	no	RISING
+book review	sn:the_stacker_muse	3.37	no	RISING
+junglekeeper	sn:the_stacker_muse	3.37	no	RISING
+paul rosolie	sn:the_stacker_muse	3.37	no	RISING
+part	sn:the_stacker_muse	3.37	no	RISING
+passion	sn:the_stacker_muse	3.37	no	RISING
+life journey	sn:the_stacker_muse	3.37	no	RISING
+ark support	sn:bitcoin	3.32	yes	
 america is	sn:Politics_And_Law	3.23	no	RISING
 europe	sn:Politics_And_Law	3.23	no	RISING
 intelligentsia	sn:Politics_And_Law	3.23	no	RISING
 martin wolf	sn:Politics_And_Law	3.23	no	RISING
+venezuela	sn:Politics_And_Law	3.22	no	RISING
 free channels	sn:lightning	3.22	no	RISING
 liquidity giveaway	sn:lightning	3.22	no	RISING
-how banks make money	sn:Stacker_Stocks	3.15	no	RISING
-stock trading	sn:Stacker_Stocks	3.15	no	RISING
-money stuff	sn:Stacker_Stocks	3.15	no	RISING
-matt levine	sn:Stacker_Stocks	3.15	no	RISING
-please sign change	sn:bitcoin	3.14	yes	
-org petition to stop bitcoin spam	sn:bitcoin	3.14	yes	
+bitcoin history month prizes	sn:the_stacker_muse	3.15	yes	
+please sign change	sn:bitcoin	3.15	no	RISING
+org petition to stop bitcoin spam	sn:bitcoin	3.15	no	RISING
 naming	sn:Design	3.14	no	RISING
-ark support	sn:bitcoin	3.1	yes	
-orange	sn:bitcoin	3.08	yes	
-juice	sn:bitcoin	3.08	yes	
-raises	sn:bitcoin	3.08	yes	
-million	sn:bitcoin	3.08	yes	
-bitcoin treasury permanent capital company	sn:bitcoin	3.08	yes	
+orange	sn:bitcoin	3.14	yes	
+juice	sn:bitcoin	3.14	yes	
+raises	sn:bitcoin	3.14	yes	
+million	sn:bitcoin	3.14	yes	
+bitcoin treasury permanent capital company	sn:bitcoin	3.14	yes	
 maternity photo shoot	sn:Photography	3	no	RISING
-mitchell suchner	sn:Construction_and_Engineering	2.95	no	RISING
-arkpad vision	sn:Construction_and_Engineering	2.95	no	RISING
-floating freedom	sn:Construction_and_Engineering	2.95	no	RISING
-sjors provoost	sn:bitcoin	2.94	yes	
-bitcoin optech newsletter	sn:bitcoin	2.94	yes	
-recap podcast	sn:bitcoin	2.94	yes	
-core dev says	sn:bitdevs	2.94	no	RISING
-quiet part out loud	sn:bitdevs	2.94	no	RISING
-jon atack	sn:bitdevs	2.94	no	RISING
-debate	sn:Animal_World	2.91	no	RISING
-should	sn:Animal_World	2.91	no	RISING
-jurassic park	hn	2.89	no	RISING
-new york	sn:AI	2.85	yes	
+world cup pool	sn:Stacker_Sports	2.94	no	RISING
+standings after semifinals	sn:Stacker_Sports	2.94	no	RISING
+my first vibe coded	sn:bitcoin	2.93	yes	
+the bitcoin price database	sn:bitcoin	2.93	yes	
 midsummer classic	sn:Stacker_Sports	2.84	no	RISING
 discussion thread	sn:Stacker_Sports	2.84	no	RISING
-the softfork that tried to police	sn:bitcoin	2.76	yes	
-junk data	sn:bitcoin	2.76	yes	
+sleep	hn	2.8	no	RISING
+bubble and its buildout is accelerating	sn:AI	2.8	yes	
+world cup	sn:Stacker_Sports	2.79	no	RISING
+sunday	sn:Stacker_Sports	2.79	no	RISING
+proving ownership after	sn:math	2.75	yes	
+post-quantum	sn:math	2.75	yes	
