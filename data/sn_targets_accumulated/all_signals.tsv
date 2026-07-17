@@ -17679,3 +17679,29 @@
 2026-07-17T22:02:03.514Z	1526528	AI	1	126	0	0	5.7	12315	2259	recent@AI|top@AI|recent@econ	SIGNAL	China Erases America's AI Lead, Goldman Says 'Age Of Scaling' Is Over
 2026-07-17T22:02:03.514Z	1526524	econ	2	111	0	0	5.7	1293586	2026	recent@econ|top@econ	SIGNAL	Snap-On succeeds where many fall down selling too broadly
 2026-07-17T22:02:03.514Z	1526353	Design	2	102	0	0	9.6	383547	3362	recent@Design|top@Design	SIGNAL	Against bigness
+2026-07-17T22:32:59.407Z	1526644	bitcoin	1	3812	0	95	4.6	1526644	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP110 AMA w/Mechanic
+2026-07-17T22:32:59.407Z	1526515	bitcoin	1	3358	0	14	6.5	30782	25151	recent@bitcoin|top@bitcoin	HOT,SIGNAL	My Visit To BitdevsNYC
+2026-07-17T22:32:59.407Z	1526499	bitcoin	1	1710	0	1	6.7	74100	11291	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Core App looking good + download page for signet preview
+2026-07-17T22:32:59.407Z	1526793	bitcoin	1	1555	0	2	2.9	273359	498	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	The Four Horsemen
+2026-07-17T22:32:59.407Z	1526349	bitcoin	1	1152	0	0	10.3	1014665	204	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin protocol formal verification work - Bitcoin Optech Newsletter #414
+2026-07-17T22:32:59.407Z	1526433	bitcoin	1	1091	0	7	7.9	1526429	5	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Roughneck Chronicles 1
+2026-07-17T22:32:59.407Z	1526569	AI	1	920	0	2	5.6	241	2847	recent@AI|top@AI	SIGNAL	Kimi K3 one-shots MacOS 27 simulator... 🤯
+2026-07-17T22:32:59.407Z	1526844	meta	1	863	0	2	1.9	92827	2755	recent@meta|top@meta	FRESH,SIGNAL	Zap me once, shame on me - go ahead and zap me twice for SNZ #65
+2026-07-17T22:32:59.407Z	1526577	bitcoin	1	592	0	17	5.5	1526577	7	recent@bitcoin|top@bitcoin	SIGNAL	BTCDash — free live Bitcoin dashboard: 70+ metrics
+2026-07-17T22:32:59.408Z	1526326	Design	2	544	0	0	11.5	383547	3362	recent@lightning|top@lightning|recent@nostr	SIGNAL	Plektos - Decentralized Meetup Event Calendar & Lightning Ticket sales
+2026-07-17T22:32:59.408Z	1526379	lightning	1	515	0	1	9.3	440729	196	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0379d7b6e38ba3c9a…)
+2026-07-17T22:32:59.408Z	1526664	bitcoin	1	466	0	1	4.5	593189	840	recent@bitcoin|top@bitcoin	SIGNAL	Cloudflare is "opening our Monetization Gateway"
+2026-07-17T22:32:59.408Z	1526816	AI	1	450	0	2	2.7	440139	4197	recent@tech|top@tech|recent@AI	SIGNAL	1Password now lets Claude sign in to websites without seeing your passwords
+2026-07-17T22:32:59.408Z	1526489	bitcoin	1	426	0	4	7.0	74100	11291	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Foundry lets miners decide BIP-110 signaling via hashrate-weighted vote - Bugle
+2026-07-17T22:32:59.408Z	1526520	privacy	1	367	0	1	6.3	273359	498	recent@privacy|top@privacy	SIGNAL	WabiSabi -> ZeroLink -> WabiSabi is better than WabiSabi alone
+2026-07-17T22:32:59.408Z	1526373	bitcoin	1	337	0	0	9.5	74100	11291	recent@bitcoin|top@bitcoin	SIGNAL	Peer-to-Peer #1: Tech Authoritarianism here. Now what? - CoinCenter
+2026-07-17T22:32:59.408Z	1526405	AI	1	316	0	2	8.4	12309	3587	recent@AI|top@AI	SIGNAL	Nvidia and Japan unveil world's first national AI infrastructure
+2026-07-17T22:32:59.408Z	1526747	tech	1	305	0	0	3.6	126503	791	recent@tech|top@tech	SIGNAL	New spinning drone hides in plain sight
+2026-07-17T22:32:59.408Z	1526788	AI	1	257	0	2	2.9	9274	24956	recent@AI|top@AI	SIGNAL	Investors Are Growing Wary of AI-Related Debt | The Motley Fool
+2026-07-17T22:32:59.408Z	1526713	AI	1	250	0	0	3.9	9274	24956	recent@AI|top@AI	SIGNAL	✴️ claude how do i write an ipo - Snacks
+2026-07-17T22:32:59.408Z	1526340	bitcoin_beginners	1	237	0	0	11.0	30782	25151	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 109
+2026-07-17T22:32:59.408Z	1526344	AI	1	226	0	1	10.7	4078	5366	recent@AI|top@AI	SIGNAL	Linus Torvalds on AI
+2026-07-17T22:32:59.408Z	1526591	AI	1	176	0	0	5.2	7693	2383	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	My second vibe-coded app: The Bitcoin Time Machine
+2026-07-17T22:32:59.408Z	1526367	bitcoin_Mining	1	171	0	0	9.8	417655	12	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	New research points to widespread vardiff controller inefficiencies
+2026-07-17T22:32:59.408Z	1526347	Geyser_community	3	159	0	2	10.4	296825	4872	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Book Review: Proof Of Work by Paco De La India
+2026-07-17T22:32:59.408Z	1526528	AI	1	126	0	0	6.2	12315	2259	recent@AI|top@AI	SIGNAL	China Erases America's AI Lead, Goldman Says 'Age Of Scaling' Is Over
