@@ -1,32 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-17T06:16:26.825Z; n=40
+# generated 2026-07-17T11:21:27.367Z; n=40
 daily bitcoin lore	sn:history	5.79	no	RISING
 announcement	sn:bitcoin,sn:AMA	5.61	yes	
-when the financial system can	sn:bitcoin	4.03	yes	
-reach people in crisis	sn:bitcoin	4.03	yes	
-bitcoin can	sn:bitcoin	4.03	yes	
 book review	sn:BooksAndArticles	3.39	no	RISING
 junglekeeper	sn:BooksAndArticles	3.39	no	RISING
 paul rosolie	sn:BooksAndArticles	3.39	no	RISING
 part	sn:BooksAndArticles	3.39	no	RISING
 the economics	sn:BooksAndArticles	3.39	no	RISING
 forests	sn:BooksAndArticles	3.39	no	RISING
-kimi	hn	3.16	yes	
-open frontier intelligence	hn	3.16	no	RISING
+kimi	hn	3.23	yes	
+open frontier intelligence	hn	3.23	no	RISING
 computer	sn:AI	3.08	yes	
 cops	sn:AI	3.08	yes	
 inside	sn:AI	3.08	yes	
-hedge	sn:Politics_And_Law	3.08	no	RISING
-real-world event	sn:Politics_And_Law	3.08	no	RISING
-kalshi	sn:Politics_And_Law	3.08	no	RISING
-elias schisgall	sn:Politics_And_Law	3.08	no	RISING
+video	sn:gaming	3.04	no	RISING
+bethesda game studios	sn:gaming	3.04	no	RISING
 book	sn:bitcoin	3.04	yes	
 books	sn:bitcoin	3.04	yes	
 hijacking bitcoin	sn:bitcoin	3.04	yes	
 the hidden history	sn:bitcoin	3.04	yes	
 roger ver	sn:bitcoin	3.04	yes	
-video	sn:gaming	3.03	no	RISING
-bethesda game studios	sn:gaming	3.03	no	RISING
 there	sn:Politics_And_Law	3.01	no	RISING
 no justification	sn:Politics_And_Law	3.01	no	RISING
 social security	sn:Politics_And_Law	3.01	no	RISING
@@ -34,9 +27,16 @@ abolish immediately	sn:Politics_And_Law	3.01	no	RISING
 savidge	sn:Politics_And_Law	3.01	no	RISING
 namecheap	sn:history	3.01	no	RISING
 zero-confirmation bitcoin bet	sn:history	3.01	no	RISING
-stablecoins	sn:lightning	2.95	no	RISING
-lightning	sn:lightning	2.95	no	RISING
+stablecoins	sn:lightning	2.99	no	RISING
+lightning	sn:lightning	2.99	no	RISING
 mechanic	sn:bitcoin	2.93	yes	
 friday	sn:bitcoin	2.93	yes	
 linus torvalds	sn:AI	2.92	yes	
 president trump impending mistake	sn:Politics_And_Law	2.91	no	RISING
+tonight	sn:Politics_And_Law	2.91	no	RISING
+speech	sn:Politics_And_Law	2.91	no	RISING
+teleprompter operator allegedly made kalshi bets	sn:Stacker_Sports	2.88	no	RISING
+trump statements	sn:Stacker_Sports	2.88	no	RISING
+joe rips bukele	sn:bitcoin	2.86	yes	
+new one	sn:bitcoin	2.86	yes	
+microsoft comic chat	hn	2.85	no	RISING
