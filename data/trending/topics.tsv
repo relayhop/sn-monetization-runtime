@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-17T22:50:40.680Z; n=40
-bitcoin	sn:bitcoin	5.83	yes	
-kimi	hn,sn:AI	5.34	yes	
-show	hn	4.64	no	RISING
-mechanic	sn:bitcoin	3.58	yes	
-my visit to	sn:bitcoin	3.53	yes	
-book review	sn:BooksAndArticles	3.3	no	RISING
-tamers	sn:BooksAndArticles	3.3	no	RISING
-entroy	sn:BooksAndArticles	3.3	no	RISING
-juraj bednar	sn:BooksAndArticles	3.3	no	RISING
-bitcoin core app	sn:bitcoin	3.23	yes	
-the four horsemen	sn:bitcoin	3.19	yes	
-boomers were supposed	sn:econ	3.16	no	RISING
-downsize	sn:econ	3.16	no	RISING
-they are buying bigger homes instead	sn:econ	3.16	no	RISING
+# generated 2026-07-18T06:05:08.063Z; n=40
+book review	sn:BooksAndArticles,sn:AI	6.32	yes	
+bitcoin	sn:bitcoin	5.95	yes	
+kimi	hn,sn:AI	5.48	yes	
+anti-air	sn:bitcoin	5.02	yes	
+kyiv	sn:bitcoin	5.02	yes	
+show	hn	4.06	no	RISING
+my visit to	sn:bitcoin	3.55	yes	
+the four horsemen	sn:bitcoin	3.49	yes	
+what miners need	sn:bitcoin	3.36	yes	
+know	sn:bitcoin	3.36	yes	
+tamers	sn:BooksAndArticles	3.34	no	RISING
+entroy	sn:BooksAndArticles	3.34	no	RISING
+juraj bednar	sn:BooksAndArticles	3.34	no	RISING
+bitcoin core app	sn:bitcoin	3.27	yes	
+boomers were supposed	sn:econ	3.2	no	RISING
+downsize	sn:econ	3.2	no	RISING
+they are buying bigger homes instead	sn:econ	3.2	no	RISING
 bitcoin optech newsletter	sn:bitcoin	3.06	yes	
+inaccurate estimated billing data	hn	3.05	no	RISING
 roughneck chronicles	sn:bitcoin	3.04	yes	
-inaccurate estimated billing data	hn	2.99	no	RISING
-one-shots	sn:AI	2.96	yes	
-america	sn:Politics_And_Law	2.92	no	RISING
-gerontocracy goes deeper	sn:Politics_And_Law	2.92	no	RISING
-aging politicians	sn:Politics_And_Law	2.92	no	RISING
-president trump impending mistake	sn:Politics_And_Law	2.91	no	RISING
-tonight	sn:Politics_And_Law	2.91	no	RISING
-speech	sn:Politics_And_Law	2.91	no	RISING
+one-shots	sn:AI	3	yes	
+ivan illich tools	sn:AI	2.98	yes	
+conviviality	sn:AI	2.98	yes	
+random sports pick	sn:Stacker_Sports	2.86	no	RISING
 help	sn:Stacker_Sports	2.84	no	RISING
 last	sn:Stacker_Sports	2.84	no	RISING
 some	sn:Stacker_Stocks	2.83	no	RISING
 junk-like	sn:Stacker_Stocks	2.83	no	RISING
-july photos	sn:art	2.82	no	RISING
-random sports pick	sn:Stacker_Sports	2.78	no	RISING
+daily discussion thread	sn:Music	2.76	no	RISING
+music saloon	sn:Music	2.76	no	RISING
+foundry	sn:bitcoin	2.74	yes	
+hashrate-weighted	sn:bitcoin	2.74	yes	
+bugle	sn:bitcoin	2.74	yes	
 plektos	sn:Design	2.74	yes	
 decentralized meetup event calendar	sn:Design	2.74	yes	
 lightning ticket	sn:Design	2.74	yes	
-lightning	sn:lightning	2.74	no	RISING
-brazil	sn:lightning	2.74	no	RISING
-daily discussion thread	sn:Music	2.72	no	RISING
-music saloon	sn:Music	2.72	no	RISING
-world cup pool	sn:Stacker_Sports	2.68	no	RISING
-the final	sn:Stacker_Sports	2.68	no	RISING
-global comparison	sn:charts_and_maps	2.65	no	RISING
+vibe-coded	sn:AI	2.72	yes	
+the bitcoin time machine	sn:AI	2.72	yes	
+world cup pool	sn:Stacker_Sports	2.7	no	RISING
+the final	sn:Stacker_Sports	2.7	no	RISING
