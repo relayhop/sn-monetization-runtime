@@ -1,27 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-19T06:29:52.884Z; n=40
+# generated 2026-07-19T11:08:15.691Z; n=40
 paul sztorc	sn:AMA	3.92	yes	
-my local bar	sn:the_stacker_muse	3.59	no	RISING
-closing	sn:the_stacker_muse	3.59	no	RISING
-on schelling points	sn:the_stacker_muse	3.59	no	RISING
-decline	sn:the_stacker_muse	3.59	no	RISING
-third spaces	sn:the_stacker_muse	3.59	no	RISING
-increased	sn:meta	3.2	yes	
+my local bar	sn:the_stacker_muse	3.6	no	RISING
+closing	sn:the_stacker_muse	3.6	no	RISING
+on schelling points	sn:the_stacker_muse	3.6	no	RISING
+decline	sn:the_stacker_muse	3.6	no	RISING
+third spaces	sn:the_stacker_muse	3.6	no	RISING
+increased	sn:meta	3.22	yes	
 football never coming home	sn:Stacker_Sports	3.2	no	RISING
 gideon rachman	sn:Stacker_Sports	3.2	no	RISING
-question	sn:lightning	3.2	no	RISING
+question	sn:lightning	3.2	yes	
 phoenix wallet	sn:lightning	3.2	no	RISING
 drug trials	sn:science	3.13	no	RISING
 more real-world use cases	sn:science	3.13	no	RISING
 prediction markets	sn:science	3.13	no	RISING
 the guardian	sn:science	3.13	no	RISING
-keeping cool	sn:history	3.11	no	RISING
-the air conditioner that changed america	sn:history	3.11	no	RISING
 saturday newsletter	sn:meta	3.09	yes	
-windows update	hn	3.04	no	RISING
-reasons	sn:lol	3.03	yes	
-bad idea	sn:lol	3.03	yes	
-michael saylor	sn:lol	3.03	yes	
+reasons	sn:lol	3.04	yes	
+bad idea	sn:lol	3.04	yes	
+michael saylor	sn:lol	3.04	yes	
 will moonshot	sn:AI	3.01	yes	
 kimi	sn:AI	3.01	yes	
 real luxury	sn:the_stacker_muse	3.01	no	RISING
@@ -30,8 +27,8 @@ just evil parasites	sn:HealthAndFitness	3	no	RISING
 they	sn:HealthAndFitness	3	no	RISING
 unhealthy	sn:HealthAndFitness	3	no	RISING
 the economist	sn:HealthAndFitness	3	no	RISING
-iraq-syria	sn:news	2.97	no	RISING
-strait hormuz	sn:news	2.97	no	RISING
+iraq-syria	sn:news	2.98	no	RISING
+strait hormuz	sn:news	2.98	no	RISING
 late-upgrade chainstate validation gap	sn:bitcoin	2.93	yes	
 saturday	sn:Photography	2.93	no	RISING
 share	sn:Photography	2.93	no	RISING
@@ -40,3 +37,6 @@ organized crime	sn:Politics_And_Law	2.87	no	RISING
 the microsoft antitrust case	sn:Politics_And_Law	2.87	no	RISING
 books	sn:BooksAndArticles	2.85	no	RISING
 articles weekly	sn:BooksAndArticles	2.85	no	RISING
+issue	sn:BooksAndArticles	2.85	no	RISING
+msty	sn:Stacker_Stocks	2.84	no	RISING
+payout	sn:Stacker_Stocks	2.84	no	RISING
