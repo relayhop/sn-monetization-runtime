@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-19T16:57:51.220Z; n=40
-bitcoin	sn:bitcoin	5.85	yes	
-what	hn,sn:bitcoin	5.22	yes	
-episode	sn:podcasts,sn:news	5.21	no	RISING
-round	sn:Stacker_Sports	4.94	no	RISING
-saylor	sn:the_stacker_muse	3.38	yes	
-weird	sn:the_stacker_muse	3.38	yes	
-reasons against	sn:the_stacker_muse	3.38	yes	
-increased	sn:meta	3.22	yes	
-lightning	sn:bitcoin	3.12	yes	
-sats	sn:bitcoin	3.12	yes	
-saturday newsletter	sn:meta	3.09	yes	
-reasons	sn:lol	3.04	yes	
-bad idea	sn:lol	3.04	yes	
-michael saylor	sn:lol	3.04	yes	
+# generated 2026-07-19T22:52:23.219Z; n=40
+bitcoin	sn:bitcoin,sn:Design	8.71	yes	
+world cup final	sn:Stacker_Sports	6.21	no	RISING
+what	hn,sn:bitcoin	5.59	yes	
+episode	sn:podcasts,sn:news	5.34	no	RISING
+world cup	sn:Stacker_Sports,sn:charts_and_maps	4.68	no	RISING
+show	hn	4.22	no	RISING
+saylor	sn:the_stacker_muse	3.46	yes	
+weird	sn:the_stacker_muse	3.46	yes	
+reasons against	sn:the_stacker_muse	3.46	yes	
+discussion thread	sn:Stacker_Sports	3.32	no	RISING
+lightning	sn:bitcoin	3.27	yes	
+sats	sn:bitcoin	3.27	yes	
+down	sn:meta	3.26	yes	
+mania	sn:meta	3.26	yes	
+increased	sn:meta	3.23	yes	
+stacker sports pod	sn:podcasts	3.16	no	RISING
+need	sn:podcasts	3.16	no	RISING
+quest	sn:podcasts	3.16	no	RISING
+baseball banter	sn:podcasts	3.16	no	RISING
+fountain	sn:podcasts	3.16	no	RISING
+daily stock discussion	sn:Stacker_Stocks	3.06	no	RISING
 daily putt	sn:gaming	3.04	no	RISING
 play	sn:gaming	3.04	no	RISING
 putt	sn:gaming	3.04	no	RISING
 score	sn:gaming	3.04	no	RISING
-daily stock discussion	sn:Stacker_Stocks	3.04	no	RISING
-stacker sports pod	sn:podcasts	3.03	no	RISING
-need	sn:podcasts	3.03	no	RISING
-quest	sn:podcasts	3.03	no	RISING
-baseball banter	sn:podcasts	3.03	no	RISING
-fountain	sn:podcasts	3.03	no	RISING
-real luxury	sn:the_stacker_muse	3.01	no	RISING
-late-upgrade chainstate validation gap	sn:bitcoin	2.93	yes	
-government	sn:Politics_And_Law	2.87	no	RISING
-organized crime	sn:Politics_And_Law	2.87	no	RISING
-the microsoft antitrust case	sn:Politics_And_Law	2.87	no	RISING
-transcribe	hn	2.82	no	RISING
-sunday survey	sn:bitcoin	2.82	yes	
-the predatory logic	sn:Politics_And_Law	2.78	no	RISING
-state	sn:Politics_And_Law	2.78	no	RISING
-speech recognition	hn	2.71	no	RISING
-jordan	sn:news	2.71	no	RISING
-qwen	hn	2.68	no	RISING
-batch pricing tool	sn:mostly_harmless	2.67	no	RISING
-world cup	sn:Stacker_Sports	2.67	no	RISING
-jamie redknapp	sn:Stacker_Sports	2.67	no	RISING
-thomas tuchel	sn:Stacker_Sports	2.67	no	RISING
+sunday survey	sn:bitcoin	3.01	yes	
+qwen	hn	2.87	no	RISING
+josh kerr	sn:Stacker_Sports	2.82	no	RISING
+jordan	sn:news	2.73	no	RISING
+batch pricing tool	sn:mostly_harmless	2.72	no	RISING
+karl anthony towns	sn:Stacker_Sports	2.67	no	RISING
+daily discussion thread	sn:Music	2.63	no	RISING
+music saloon	sn:Music	2.63	no	RISING
+extreme	sn:charts_and_maps	2.59	no	RISING
+midi	hn	2.58	no	RISING
+hardware	hn	2.58	no	RISING
+claude code	hn	2.56	no	RISING
+rust	hn	2.56	no	RISING
+blender	hn	2.52	no	RISING
+costco	sn:econ	2.51	no	RISING
