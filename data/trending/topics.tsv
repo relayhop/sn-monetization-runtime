@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-20T12:16:41.710Z; n=40
+# generated 2026-07-20T18:02:48.486Z; n=40
 world cup final	sn:Stacker_Sports	6.23	no	RISING
-world cup	sn:Stacker_Sports,sn:charts_and_maps	4.83	no	RISING
-daily putt	sn:gaming	4.81	no	RISING
-play	sn:gaming	4.81	no	RISING
-putt	sn:gaming	4.81	no	RISING
-score	sn:gaming	4.81	no	RISING
-what	hn	3.99	yes	
-steak	sn:the_stacker_muse	3.54	yes	
-shake	sn:the_stacker_muse	3.54	yes	
-first time	sn:the_stacker_muse	3.54	yes	
-saylor	sn:the_stacker_muse	3.48	yes	
-weird	sn:the_stacker_muse	3.48	yes	
-reasons against	sn:the_stacker_muse	3.48	yes	
-show	hn	3.4	no	RISING
+quiet	sn:AI,sn:bitcoin	5.71	yes	
+hacker	hn,sn:bitcoin	5.19	yes	
+romania	hn,sn:bitcoin	5.19	yes	
+potential	hn	4.36	no	RISING
+steak	sn:the_stacker_muse	3.57	yes	
+shake	sn:the_stacker_muse	3.57	yes	
+first time	sn:the_stacker_muse	3.57	yes	
+rdts	sn:bitcoin	3.41	yes	
+bitcoin center seoul	sn:events	3.35	yes	
+space	sn:events	3.35	yes	
+seoul	sn:events	3.35	yes	
+korea	sn:events	3.35	yes	
+world cup pool	sn:Stacker_Sports	3.34	no	RISING
+undisciplined	sn:Stacker_Sports	3.34	no	RISING
 discussion thread	sn:Stacker_Sports	3.33	no	RISING
-down	sn:meta	3.27	yes	
-mania	sn:meta	3.27	yes	
-photographin	sn:Photography	3.19	no	RISING
-spain	sn:Stacker_Sports	2.96	no	RISING
-world	sn:Stacker_Sports	2.96	no	RISING
-champions	sn:Stacker_Sports	2.96	no	RISING
-qwen	hn	2.95	no	RISING
-rdts	sn:bitcoin	2.9	yes	
-world cup pool	sn:Stacker_Sports	2.87	no	RISING
-undisciplined	sn:Stacker_Sports	2.87	no	RISING
-young chinese forced	sn:AI	2.8	yes	
-relationships	sn:AI	2.8	yes	
-vulnerability disclosure	sn:lightning	2.78	no	RISING
-twin memory exhaustion	sn:lightning	2.78	no	RISING
-vulnerabilities	sn:lightning	2.78	no	RISING
-lunch	sn:science	2.77	no	RISING
-oceanographer	sn:science	2.77	no	RISING
-campaigner sylvia earle	sn:science	2.77	no	RISING
-bitcoin	sn:Design	2.77	yes	
-claude code	hn	2.74	no	RISING
-rust	hn	2.74	no	RISING
-aging	sn:Politics_And_Law	2.73	no	RISING
-about politics	sn:Politics_And_Law	2.73	no	RISING
-total factor productivity	sn:Politics_And_Law	2.73	no	RISING
-fern	sn:Politics_And_Law	2.73	no	RISING
+photographin	sn:Photography	3.23	no	RISING
+world cup day	sn:Stacker_Sports	3.1	no	RISING
+we are world champions	sn:Stacker_Sports	3.1	no	RISING
+boomers	sn:Politics_And_Law	3.07	no	RISING
+earned	sn:Politics_And_Law	3.07	no	RISING
+right	sn:Politics_And_Law	3.07	no	RISING
+live	sn:Politics_And_Law	3.07	no	RISING
+high life	sn:Politics_And_Law	3.07	no	RISING
+telegraph	sn:Politics_And_Law	3.07	no	RISING
+melissa twigg	sn:Politics_And_Law	3.07	no	RISING
+daily bitcoin lore	sn:history	3.06	no	RISING
+ethereum hard-forks	sn:history	3.06	no	RISING
+reverse the	sn:history	3.06	no	RISING
+hack	sn:history	3.06	no	RISING
+slovakia	sn:bitcoin	3.03	yes	
+aging	sn:Politics_And_Law	2.99	no	RISING
+about politics	sn:Politics_And_Law	2.99	no	RISING
+total factor productivity	sn:Politics_And_Law	2.99	no	RISING
+fern	sn:Politics_And_Law	2.99	no	RISING
+villaverde	sn:Politics_And_Law	2.99	no	RISING
+lunch	sn:science	2.96	no	RISING
+oceanographer	sn:science	2.96	no	RISING
+campaigner sylvia earle	sn:science	2.96	no	RISING
+suspect detonates incendiary device outside manhattan federal building	sn:news	2.96	no	RISING
