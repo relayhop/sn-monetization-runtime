@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-20T06:45:50.334Z; n=40
-world cup final	sn:Stacker_Sports	6.22	no	RISING
-bitcoin	sn:bitcoin,sn:Design	5.83	yes	
-episode	sn:podcasts,sn:news	5.39	no	RISING
-steak	sn:the_stacker_muse	3.5	yes	
-shake	sn:the_stacker_muse	3.5	yes	
-first time	sn:the_stacker_muse	3.5	yes	
-saylor	sn:the_stacker_muse	3.47	yes	
-weird	sn:the_stacker_muse	3.47	yes	
-reasons against	sn:the_stacker_muse	3.47	yes	
+# generated 2026-07-20T12:16:41.710Z; n=40
+world cup final	sn:Stacker_Sports	6.23	no	RISING
+world cup	sn:Stacker_Sports,sn:charts_and_maps	4.83	no	RISING
+daily putt	sn:gaming	4.81	no	RISING
+play	sn:gaming	4.81	no	RISING
+putt	sn:gaming	4.81	no	RISING
+score	sn:gaming	4.81	no	RISING
+what	hn	3.99	yes	
+steak	sn:the_stacker_muse	3.54	yes	
+shake	sn:the_stacker_muse	3.54	yes	
+first time	sn:the_stacker_muse	3.54	yes	
+saylor	sn:the_stacker_muse	3.48	yes	
+weird	sn:the_stacker_muse	3.48	yes	
+reasons against	sn:the_stacker_muse	3.48	yes	
+show	hn	3.4	no	RISING
 discussion thread	sn:Stacker_Sports	3.33	no	RISING
-show	hn	3.31	no	RISING
-lightning	sn:bitcoin	3.3	yes	
-sats	sn:bitcoin	3.3	yes	
 down	sn:meta	3.27	yes	
 mania	sn:meta	3.27	yes	
-stacker sports pod	sn:podcasts	3.22	no	RISING
-need	sn:podcasts	3.22	no	RISING
-quest	sn:podcasts	3.22	no	RISING
-baseball banter	sn:podcasts	3.22	no	RISING
-fountain	sn:podcasts	3.22	no	RISING
-photographin	sn:Photography	3.18	no	RISING
-daily stock discussion	sn:Stacker_Stocks	3.06	no	RISING
-daily putt	sn:gaming	3.04	no	RISING
-play	sn:gaming	3.04	no	RISING
-putt	sn:gaming	3.04	no	RISING
-score	sn:gaming	3.04	no	RISING
-qwen	hn	2.93	no	RISING
-spain	sn:Stacker_Sports	2.92	no	RISING
-world	sn:Stacker_Sports	2.92	no	RISING
-champions	sn:Stacker_Sports	2.92	no	RISING
-vulnerability disclosure	sn:lightning	2.76	no	RISING
-twin memory exhaustion	sn:lightning	2.76	no	RISING
-vulnerabilities	sn:lightning	2.76	no	RISING
-rdts	sn:bitcoin	2.73	yes	
-batch pricing tool	sn:mostly_harmless	2.72	no	RISING
-claude code	hn	2.68	no	RISING
-rust	hn	2.68	no	RISING
-what	hn	2.67	yes	
-midi	hn	2.67	no	RISING
-hardware	hn	2.67	no	RISING
+photographin	sn:Photography	3.19	no	RISING
+spain	sn:Stacker_Sports	2.96	no	RISING
+world	sn:Stacker_Sports	2.96	no	RISING
+champions	sn:Stacker_Sports	2.96	no	RISING
+qwen	hn	2.95	no	RISING
+rdts	sn:bitcoin	2.9	yes	
+world cup pool	sn:Stacker_Sports	2.87	no	RISING
+undisciplined	sn:Stacker_Sports	2.87	no	RISING
+young chinese forced	sn:AI	2.8	yes	
+relationships	sn:AI	2.8	yes	
+vulnerability disclosure	sn:lightning	2.78	no	RISING
+twin memory exhaustion	sn:lightning	2.78	no	RISING
+vulnerabilities	sn:lightning	2.78	no	RISING
+lunch	sn:science	2.77	no	RISING
+oceanographer	sn:science	2.77	no	RISING
+campaigner sylvia earle	sn:science	2.77	no	RISING
+bitcoin	sn:Design	2.77	yes	
+claude code	hn	2.74	no	RISING
+rust	hn	2.74	no	RISING
+aging	sn:Politics_And_Law	2.73	no	RISING
+about politics	sn:Politics_And_Law	2.73	no	RISING
+total factor productivity	sn:Politics_And_Law	2.73	no	RISING
+fern	sn:Politics_And_Law	2.73	no	RISING
