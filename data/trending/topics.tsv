@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-21T17:19:50.967Z; n=40
-prediction markets	sn:bitcoin,sn:econ	5.88	yes	
-daily bitcoin lore	sn:history	5.79	no	RISING
-lightning network	sn:bitcoin,sn:lightning	4.62	yes	
-show	hn	3.8	no	RISING
+# generated 2026-07-21T22:56:59.425Z; n=40
+bitcoin	sn:bitcoin,sn:BooksAndArticles	6.62	yes	
+show	hn	5.99	no	RISING
+gemini	hn	4.37	no	RISING
 where	sn:tech	3.66	yes	
-janusz	sn:bitcoin	3.41	yes	
-saylors bitcoin rollercoaster	sn:Stacker_Stocks	3.31	no	RISING
-vicky ge huang	sn:Stacker_Stocks	3.31	no	RISING
-tether	sn:news	3.2	yes	
-elektron	sn:news	3.2	yes	
-mallers	sn:news	3.2	yes	
-bitcoin puzzle	sn:bitcoin	3.15	yes	
+announcing wavelength	sn:bitcoin	3.57	yes	
+easy mode	sn:bitcoin	3.57	yes	
+agents	sn:bitcoin	3.57	yes	
+humans	sn:bitcoin	3.57	yes	
+janusz	sn:bitcoin	3.42	yes	
+tether	sn:news	3.22	yes	
+elektron	sn:news	3.22	yes	
+mallers	sn:news	3.22	yes	
+bitcoin puzzle	sn:bitcoin	3.21	yes	
 find	sn:lightning	3.14	no	RISING
 taproot	sn:lightning	3.14	no	RISING
-bitcoin	sn:BooksAndArticles	3.06	yes	
 prologue	sn:BooksAndArticles	3.06	no	RISING
-hedging ice cream sales	sn:econ	3.02	no	RISING
-money stuff	sn:econ	3.02	no	RISING
-matt levine	sn:econ	3.02	no	RISING
-share	sn:AI	3.01	yes	
-households	sn:AI	3.01	yes	
-paid	sn:AI	3.01	yes	
-subscriptions	sn:AI	3.01	yes	
-hansa shutdown reveals dutch police honeypot	sn:history	2.98	no	RISING
-chinese	hn	2.96	no	RISING
-gambling	sn:bitcoin	2.86	yes	
-kimi work	hn	2.81	no	RISING
-jelly	hn	2.8	no	RISING
-soft	hn	2.8	no	RISING
-html	hn	2.8	no	RISING
+prediction markets	sn:bitcoin	2.87	yes	
+gambling	sn:bitcoin	2.87	yes	
 normalization	sn:Animal_World	2.8	no	RISING
-miners	sn:history	2.8	no	RISING
-pleads guilty	sn:history	2.8	no	RISING
-wire fraud	sn:history	2.8	no	RISING
-daily discussion thread	sn:Music	2.75	no	RISING
-music saloon	sn:Music	2.75	no	RISING
-how texas police spent	sn:tech	2.74	yes	
-million	sn:tech	2.74	yes	
-four chevy tahoes	sn:tech	2.74	yes	
-the drive	sn:tech	2.74	yes	
+announcement	sn:bitcoin	2.79	yes	
+michael schmid	sn:bitcoin	2.79	yes	
+schnitzel	sn:bitcoin	2.79	yes	
+thursday	sn:bitcoin	2.79	yes	
+against claudefishing	sn:AI	2.78	yes	
+chris best	sn:AI	2.78	yes	
+politico	sn:Politics_And_Law	2.76	no	RISING
+over	sn:Politics_And_Law	2.76	no	RISING
+non-citizens registered	sn:Politics_And_Law	2.76	no	RISING
+vote	sn:Politics_And_Law	2.76	no	RISING
+software error	sn:Politics_And_Law	2.76	no	RISING
+hummingbird	sn:bitcoin_beginners	2.76	no	RISING
+the bitcoin jungle story	sn:bitcoin_beginners	2.76	no	RISING
+full	sn:bitcoin_beginners	2.76	no	RISING
+movie	sn:bitcoin_beginners	2.76	no	RISING
+documentary	sn:bitcoin_beginners	2.76	no	RISING
+keagan	sn:bitcoin	2.76	yes	
+andrew toth	sn:bitcoin	2.76	yes	
+bitcoin optech newsletter	sn:bitcoin	2.76	yes	
+recap podcast	sn:bitcoin	2.76	yes	
+flash	hn	2.75	no	RISING
