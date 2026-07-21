@@ -1,0 +1,69 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1529607	bitcoin	1	3681	0	7	5.8	280679	22511	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Announcing Wavelength: Bitcoin on Easy Mode for Agents and Humans 〰️⚡
+1529353	bitcoin	1	2601	0	11	10.6	74100	11422	recent@bitcoin|top@bitcoin|recent@privacy	HOT,SIGNAL	Janusz/lx_dev unveils privacy preserving bitcoin exchange using mercury layer
+1529336	news	2	1670	0	15	11.0	74100	11422	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Tether, Elektron, XXI merger called off, Mallers steps down
+1529472	bitcoin	1	1627	0	4	8.0	68842	612	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I built a browser solver for Bitcoin Puzzle 71: One GPU needs a ~million years
+1529374	bitcoin	1	738	0	9	10.2	2795	1382	recent@bitcoin|top@bitcoin	SIGNAL	Prediction Markets vs Gambling - Do you know the difference?
+1529540	bitcoin	1	622	0	3	7.0	74100	11422	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	📣 AMA Announcement: Michael Schmid aka Schnitzel the heatpunk! - THURSDAY 10AM
+1529654	AI	1	595	0	4	4.7	74100	11422	recent@AI|top@AI	SIGNAL	Against Claudefishing - Chris Best
+1529679	lol	2	587	0	2	4.0	74100	11422	recent@bitcoin|top@bitcoin	SIGNAL	OP_PLENTY - encode arb. data in *contiguous* bytes. Up to 2MB, BIP110 compliant
+1529724	bitcoin	1	579	0	0	3.0	1014665	205	recent@bitcoin|top@bitcoin	SIGNAL	Keagan McClelland and Andrew Toth - Bitcoin Optech Newsletter #414 Recap Podcast
+1529706	bitcoin_beginners	1	569	0	0	3.5	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Hummingbird: The Bitcoin Jungle Story | FULL MOVIE | Documentary
+1529616	bitcoin	1	521	0	1	5.6	176202	40	recent@bitcoin|top@bitcoin	SIGNAL	👀 The new version of the BULL Wallet is out!
+1529639	AI	1	510	0	3	5.2	280679	22511	recent@AI|top@AI	SIGNAL	Autonomous AI Intrusions Are Here: Lessons from the Hugging Face Compromise
+1529381	lightning	1	474	0	2	10.0	440729	202	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (025501f56b72e7b99…)
+1529631	AI	1	451	0	2	5.4	74100	11422	recent@nostr|top@nostr|recent@devs	SIGNAL	buzz: A hive mind communication platform - Block
+1529476	bitcoin	1	425	0	0	8.0	401865	8299	recent@bitcoin|top@bitcoin	SIGNAL	Morning Minute: The Clarity Act Has New Life - Decrypt
+1529738	bitcoin	1	413	0	2	2.7	328486	4468	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Lighting Labs has fallen
+1529804	bitcoin	1	408	0	1	1.2	553	3508	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Lightning channel factories based on Wavelength (Ark from Lightning Labs)
+1529363	bitcoin	1	384	0	4	10.4	462245	293	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	SIGNAL	Native Cashu — Last Week in Bitcoin (Jul 13 - 19)
+1529736	bitcoin	1	331	0	1	2.7	887826	94	recent@bitcoin|top@bitcoin	SIGNAL	bitcoin-only directory is back! Ported from Vue/Nuxt to Hugo and ready to roll!
+1529777	bitcoin_Mining	1	295	0	1	1.6	185956	165	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	HashHammer: DTV Electronics' Next Solo Miner [SAMPLES]
+1529449	AI	1	238	0	1	8.6	140698	1082	recent@AI|top@AI	SIGNAL	Another ‘DeepSeek moment’? What China’s Kimi K3 means for the global AI industry
+1529645	AI	1	161	0	3	5.0	280679	22511	recent@AI|top@AI	SIGNAL	When Donald Met Kimi
+1529545	bitcoin_beginners	1	156	0	0	6.9	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Btrust is excited to support the Genesis Workshop in Mauritius
+1529357	news	2	156	0	0	10.5	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Jack Mallers steps down as CEO of Twenty One
+1529839	AI	1	146	0	0	0.6	9274	25195	recent@AI|top@AI	FRESH,SIGNAL	When can a power company take your land for data center infrastructure?
+1529417	bitcoin_beginners	1	109	0	11	9.3	1529139	16	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	What do you wish you knew during your first week on Stacker News?
+1529655	lightning	1	102	0	7	4.7	296825	4906	recent@lightning|top@lightning	SIGNAL	Introducing Ark in Alby Hub - a New Payment Backend
+1529346	lightning	1	101	0	0	10.8	440729	202	recent@lightning|top@lightning	SIGNAL	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 959005
+1529728	AI	1	100	0	0	2.8	1054143	985	recent@AI|top@AI	SIGNAL	Japan’s AI gamble: Can technology offset the cost of an ageing society?
+1528989	tech	1	4606	0	38	24.0	88718	45611	recent@tech|top@tech	HOT	Where do ISP's get their internet from?
+1528896	bitcoin	1	2244	0	28	25.4	74100	11422	recent@bitcoin	HOT	How many onchain transactions have you done in the last month?
+1528682	bitcoin	1	1830	0	27	30.6	74100	11422	recent@bitcoin	HOT	Another Bitcoin company pivots to AI
+1529269	bitcoin_beginners	1	1451	0	28	12.5	30782	25205	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	How do bitcoin only hardware wallets handle hard forks?
+1529242	lightning	1	1395	0	2	13.5	934367	934	recent@lightning|top@lightning	HOT	Find LN nodes that support Taproot channels (better privacy)
+1528695	AI	1	1355	0	7	30.4	12315	2299	recent@AI	HOT	AI disproved the Jacobian conjecture
+1528542	AI	1	1189	0	3	33.0	303620	6195	recent@AI	HOT	Quiet, My Exoself
+1528547	bitcoin	1	1063	0	2	32.9	593189	843	recent@bitcoin	HOT	Slovakia’s land registry hit by biggest cyberattack in country’s history (2025)
+1528939	AI	1	1026	0	8	24.6	241	2862	recent@AI	HOT	Share of US Households with Paid AI Subscriptions
+1528556	bitcoin	1	728	0	5	32.9	593189	843	recent@bitcoin		Hacker wipes Romania's entire land registry database
+1528587	AI	1	718	0	5	32.1	401865	8299	recent@AI		AMD Launches its First Rack AI System Helios to Rival Nvidia w/ Microsoft Buying
+1528500	bitcoin	1	577	0	4	34.4	74100	11422	recent@bitcoin_Mining		Hammer Miner BC04 Review | Quiet 6 TH/s Home Bitcoin Miner
+1529187	tech	1	544	0	4	16.6	6263	10495	recent@tech|top@tech		How Texas Police Spent $4.5 Million on Four Chevy Tahoes | The Drive
+1529109	news	2	481	0	8	21.0	74100	11422	recent@bitcoin|top@bitcoin	SELF_POST_OPP	Dutch crypto platform Knaken declared bankrupt, €7m missing - DutchNews.nl
+1529072	AI	1	444	0	3	21.8	9274	25195	recent@AI|top@AI		Is Kimi K3 the next DeepSeek Moment - Snacks
+1528908	bitcoin	1	405	0	6	25.1	74100	11422	recent@bitcoin|recent@lightning		What Does BIP110 Mean for the Lightning Network? - Amboss
+1528504	lightning	1	399	0	1	34.0	440729	202	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (025d5cf3f190de306…)
+1529178	lightning	1	339	0	13	16.9	263526	502	recent@lightning|top@lightning		What's stopping lightning from becoming a common payment?
+1528715	bitcoin_beginners	1	334	0	3	29.8	296825	4906	recent@bitcoin_beginners|recent@lightning		Getting Started with LDK Node: Building a Lightning Node in Rust
+1528800	bitcoin	1	308	0	10	27.5	739506	134	recent@bitcoin		BTC vote: Do you support the Senate version of the CLARITY Act?
+1528867	openagents	1	290	0	3	26.1	534967	220	recent@openagents		Episode 259: Verifiable Software
+1528724	bitcoin_beginners	1	268	0	3	29.6	296825	4906	recent@bitcoin_beginners		"Michael Saylor is the Next Rockefeller. And that is not a good thing"
+1528953	bitcoin	1	242	0	3	24.5	74100	11422	recent@bitcoin		Bitcoin Butlers — Self-Custody Made Simple
+1528736	bitcoin_beginners	1	161	0	2	29.4	296825	4906	recent@bitcoin_beginners|recent@bitcoin_Mining		Why mempool.space Matters for Bitcoin Users
+1528757	podcasts	2	138	0	0	28.8	296825	4906	recent@bitcoin_beginners|recent@lightning		Podcasts about Cashu and Privacy - Cashu.space
+1529221	AI	1	125	0	0	14.4	1054143	985	recent@AI|top@AI		China’s AI roadmap amid global search for responsible innovation
+1529188	AI	1	125	0	0	16.6	934367	934	recent@AI|top@AI		DSpark: DeepSeek-V4's Insane Inference Optimization Breakthrough - YouTube
+1528748	bitcoin_beginners	1	78	0	1	29.0	296825	4906	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitcoinplusplus		Build Your Own Blocks: Set Up DMND End to End with StratumV2
+1529241	security	1	67	0	3	13.6	1490792	305	recent@security|top@security		The EU is about to sell our most sensitive data to the US for visa-free travel
+1529455	bitcoin_beginners	1	57	0	0	8.5	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Kigali Lightning Developer Bootcamp - Africa Free Routing
+1529643	AI	1	36	0	0	5.1	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Buzz — Your people, your agents, your project — all in one place.
+1529648	bitcoin_beginners	1	36	0	0	4.9	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		We’re excited to premiere BTCPay Day 2026 - full video
+1529535	bitcoin_beginners	1	36	0	0	7.1	296825	4906	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		PoWBoT Stats
+1528530	bitcoin_beginners	1	36	0	0	33.3	296825	4906	recent@bitcoin_beginners		Export Deterministic Entropy (BIP-85)
+1529378	bitcoin	1	21	0	0	10.1	1054143	985	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		NEW BITCOIN TRADE OPEN NOW [PUMP INCOMING]
+1529052	AI	1	21	0	0	22.2	1435686	101	recent@AI|top@AI		clankfeed.com — L402-gated Nostr social forum for AI agents
+1529852	bitcoin_beginners	1	0	0	1	0.1	900202	2492	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	To dump, or not to dump, that is the question....
+1529854	bitcoin_Mining	1	0	0	0	0.0	341578	5886	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH	Solar Bitcoin mining shack tour
+1529212	AI	1	0	0	1	15.1	263526	502	recent@lightning|top@lightning|recent@AI		Lightning Labs AI + BTC Community Call 🤖 RSVP 🗓️ Wed, July 29th 🕘 6pm UTC
