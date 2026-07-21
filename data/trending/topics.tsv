@@ -1,17 +1,11 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-21T06:27:43.280Z; n=40
-daily bitcoin lore	sn:history	6.12	no	RISING
+# generated 2026-07-21T11:46:13.237Z; n=40
+daily bitcoin lore	sn:history	8.92	no	RISING
 quiet	sn:AI,sn:bitcoin	5.84	yes	
-hacker	hn,sn:bitcoin	5.66	yes	
-romania	hn,sn:bitcoin	5.66	yes	
-where	sn:tech	3.65	yes	
-bitcoin center seoul	sn:events	3.43	yes	
-space	sn:events	3.43	yes	
-seoul	sn:events	3.43	yes	
-korea	sn:events	3.43	yes	
-world cup pool	sn:Stacker_Sports	3.36	no	RISING
-undisciplined	sn:Stacker_Sports	3.36	no	RISING
-show	hn	3.34	no	RISING
+hacker	hn,sn:bitcoin	5.68	yes	
+romania	hn,sn:bitcoin	5.68	yes	
+show	hn	3.87	no	RISING
+where	sn:tech	3.66	yes	
 saylors bitcoin rollercoaster	sn:Stacker_Stocks	3.31	no	RISING
 vicky ge huang	sn:Stacker_Stocks	3.31	no	RISING
 another bitcoin	sn:bitcoin	3.26	yes	
@@ -20,8 +14,6 @@ ethereum hard-forks	sn:history	3.14	no	RISING
 reverse the	sn:history	3.14	no	RISING
 hack	sn:history	3.14	no	RISING
 jacobian	sn:AI	3.13	yes	
-world cup day	sn:Stacker_Sports	3.11	no	RISING
-we are world champions	sn:Stacker_Sports	3.11	no	RISING
 suspect detonates incendiary device outside manhattan federal building	sn:news	3.08	no	RISING
 my exoself	sn:AI	3.08	yes	
 boomers	sn:Politics_And_Law	3.07	no	RISING
@@ -31,12 +23,20 @@ live	sn:Politics_And_Law	3.07	no	RISING
 high life	sn:Politics_And_Law	3.07	no	RISING
 telegraph	sn:Politics_And_Law	3.07	no	RISING
 melissa twigg	sn:Politics_And_Law	3.07	no	RISING
+bitcoin	sn:BooksAndArticles	3.06	yes	
+prologue	sn:BooksAndArticles	3.06	no	RISING
+china	hn	3.05	yes	
+open-weights	hn	3.05	no	RISING
 slovakia	sn:bitcoin	3.03	yes	
-china	hn	3.02	yes	
-open-weights	hn	3.02	no	RISING
 hedging ice cream sales	sn:econ	3.02	no	RISING
 prediction markets	sn:econ	3.02	no	RISING
 money stuff	sn:econ	3.02	no	RISING
 matt levine	sn:econ	3.02	no	RISING
-share	sn:AI	2.99	yes	
-households	sn:AI	2.99	yes	
+share	sn:AI	3.01	yes	
+households	sn:AI	3.01	yes	
+paid	sn:AI	3.01	yes	
+subscriptions	sn:AI	3.01	yes	
+hansa shutdown reveals dutch police honeypot	sn:history	2.98	no	RISING
+strategy increases	sn:Stacker_Stocks	2.9	no	RISING
+reserve	sn:Stacker_Stocks	2.9	no	RISING
+million	sn:Stacker_Stocks	2.9	no	RISING
