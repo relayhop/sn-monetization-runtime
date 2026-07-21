@@ -1,35 +1,22 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-21T11:46:13.237Z; n=40
-daily bitcoin lore	sn:history	8.92	no	RISING
-quiet	sn:AI,sn:bitcoin	5.84	yes	
-hacker	hn,sn:bitcoin	5.68	yes	
-romania	hn,sn:bitcoin	5.68	yes	
-show	hn	3.87	no	RISING
+# generated 2026-07-21T17:19:50.967Z; n=40
+prediction markets	sn:bitcoin,sn:econ	5.88	yes	
+daily bitcoin lore	sn:history	5.79	no	RISING
+lightning network	sn:bitcoin,sn:lightning	4.62	yes	
+show	hn	3.8	no	RISING
 where	sn:tech	3.66	yes	
+janusz	sn:bitcoin	3.41	yes	
 saylors bitcoin rollercoaster	sn:Stacker_Stocks	3.31	no	RISING
 vicky ge huang	sn:Stacker_Stocks	3.31	no	RISING
-another bitcoin	sn:bitcoin	3.26	yes	
-last	sn:Stacker_Sports	3.25	no	RISING
-ethereum hard-forks	sn:history	3.14	no	RISING
-reverse the	sn:history	3.14	no	RISING
-hack	sn:history	3.14	no	RISING
-jacobian	sn:AI	3.13	yes	
-suspect detonates incendiary device outside manhattan federal building	sn:news	3.08	no	RISING
-my exoself	sn:AI	3.08	yes	
-boomers	sn:Politics_And_Law	3.07	no	RISING
-earned	sn:Politics_And_Law	3.07	no	RISING
-right	sn:Politics_And_Law	3.07	no	RISING
-live	sn:Politics_And_Law	3.07	no	RISING
-high life	sn:Politics_And_Law	3.07	no	RISING
-telegraph	sn:Politics_And_Law	3.07	no	RISING
-melissa twigg	sn:Politics_And_Law	3.07	no	RISING
+tether	sn:news	3.2	yes	
+elektron	sn:news	3.2	yes	
+mallers	sn:news	3.2	yes	
+bitcoin puzzle	sn:bitcoin	3.15	yes	
+find	sn:lightning	3.14	no	RISING
+taproot	sn:lightning	3.14	no	RISING
 bitcoin	sn:BooksAndArticles	3.06	yes	
 prologue	sn:BooksAndArticles	3.06	no	RISING
-china	hn	3.05	yes	
-open-weights	hn	3.05	no	RISING
-slovakia	sn:bitcoin	3.03	yes	
 hedging ice cream sales	sn:econ	3.02	no	RISING
-prediction markets	sn:econ	3.02	no	RISING
 money stuff	sn:econ	3.02	no	RISING
 matt levine	sn:econ	3.02	no	RISING
 share	sn:AI	3.01	yes	
@@ -37,6 +24,19 @@ households	sn:AI	3.01	yes
 paid	sn:AI	3.01	yes	
 subscriptions	sn:AI	3.01	yes	
 hansa shutdown reveals dutch police honeypot	sn:history	2.98	no	RISING
-strategy increases	sn:Stacker_Stocks	2.9	no	RISING
-reserve	sn:Stacker_Stocks	2.9	no	RISING
-million	sn:Stacker_Stocks	2.9	no	RISING
+chinese	hn	2.96	no	RISING
+gambling	sn:bitcoin	2.86	yes	
+kimi work	hn	2.81	no	RISING
+jelly	hn	2.8	no	RISING
+soft	hn	2.8	no	RISING
+html	hn	2.8	no	RISING
+normalization	sn:Animal_World	2.8	no	RISING
+miners	sn:history	2.8	no	RISING
+pleads guilty	sn:history	2.8	no	RISING
+wire fraud	sn:history	2.8	no	RISING
+daily discussion thread	sn:Music	2.75	no	RISING
+music saloon	sn:Music	2.75	no	RISING
+how texas police spent	sn:tech	2.74	yes	
+million	sn:tech	2.74	yes	
+four chevy tahoes	sn:tech	2.74	yes	
+the drive	sn:tech	2.74	yes	
