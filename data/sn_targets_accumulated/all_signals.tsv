@@ -19620,3 +19620,20 @@
 2026-07-22T22:13:15.002Z	1530027	bitcoin	1	102	0	1	10.8	126503	793	recent@lightning|top@lightning	SIGNAL	BlueWallet v8.0.1 is out
 2026-07-22T22:13:15.002Z	1530143	Design	2	102	0	1	7.8	383547	3387	recent@Design|top@Design	SIGNAL	noclip
 2026-07-22T22:13:15.002Z	1530244	lightning	1	100	0	1	4.7	280679	22527	recent@lightning|top@lightning	SIGNAL	Rebalancing a Lightning Network Triangle
+2026-07-22T22:44:11.535Z	1530128	bitcoin	1	3036	0	11	8.7	74100	11452	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Have you ever looked up the onchain history of bitcoins you received?
+2026-07-22T22:44:11.536Z	1530172	bitcoin	1	1820	0	19	7.6	30782	25216	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Paying With Bicoin Through Square - I wasn't prepared
+2026-07-22T22:44:11.536Z	1530217	bitcoin	1	1041	0	1	6.2	1014665	206	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brink announces grant for Martin Zumsande: P2P, validation, testing, review
+2026-07-22T22:44:11.536Z	1530019	bitcoin	1	1019	0	3	11.7	879734	7834	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Activation Client Adoption - epoch 475 - no activations possible
+2026-07-22T22:44:11.536Z	1530198	bitcoin	1	931	0	2	7.0	74100	11452	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	OCEAN announces new end-to-end encrypted pool dashboard
+2026-07-22T22:44:11.536Z	1530256	AI	1	789	0	1	4.8	280679	22527	recent@AI|top@AI	SIGNAL	How much energy do data centers and artificial intelligence use?
+2026-07-22T22:44:11.536Z	1530049	AI	1	669	0	1	10.7	51481	4096	recent@tech|top@tech|recent@AI	SIGNAL	OpenAI AI models went rogue during testing, 'Agent Escaped Containment'
+2026-07-22T22:44:11.536Z	1530076	bitcoin	1	627	0	10	9.6	273359	536	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	THE BLACK HOLE
+2026-07-22T22:44:11.536Z	1530224	bitcoin	1	503	0	1	5.9	74100	11452	recent@bitcoin|top@bitcoin	SIGNAL	Did Fake Satoshi Con Ben Affleck? - David Z Morris
+2026-07-22T22:44:11.536Z	1530118	Design	2	423	0	0	8.9	163128	3664	recent@lightning|top@lightning	SIGNAL	Mochi: The Lightning Creator Platform is Back!
+2026-07-22T22:44:11.536Z	1530325	bitcoin_beginners	1	403	0	0	2.1	296825	4912	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Financial Privacy Report | Home
+2026-07-22T22:44:11.536Z	1530165	tutorials	2	394	0	13	7.8	273359	536	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL,SELF_POST_OPP	Wasabi v2.8.1 - Stable release, receive Taproot by default
+2026-07-22T22:44:11.536Z	1530015	bitcoin	1	257	0	2	11.8	1530015	1	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Payments Service Design
+2026-07-22T22:44:11.536Z	1530167	meta	1	244	0	4	7.7	36151	1563	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-07-22T22:44:11.536Z	1530296	art	3	122	0	0	3.2	1524149	9	recent@nostr|top@nostr	SIGNAL	Airbrush ArtMusic - Unstuck My Mind
+2026-07-22T22:44:11.536Z	1530027	bitcoin	1	102	0	1	11.3	126503	793	recent@lightning|top@lightning	SIGNAL	BlueWallet v8.0.1 is out
+2026-07-22T22:44:11.536Z	1530244	lightning	1	100	0	1	5.3	280679	22527	recent@lightning|top@lightning	SIGNAL	Rebalancing a Lightning Network Triangle
