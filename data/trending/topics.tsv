@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-22T06:27:36.867Z; n=40
-gemini	hn	6.88	no	RISING
-judge	hn,sn:Politics_And_Law	5.13	no	RISING
-claude	hn	4.65	yes	
-kimi	hn	4.38	yes	
-fable	hn	4.38	no	RISING
-show	hn	3.76	no	RISING
-the slappy jones	sn:bitcoin	3.6	yes	
-rollo mcfloogle	sn:bitcoin	3.6	yes	
+# generated 2026-07-22T11:46:57.463Z; n=40
+gemini	hn	7.15	no	RISING
+judge	hn,sn:Politics_And_Law	5.31	no	RISING
+claude	hn	4.94	yes	
+show	hn	4	no	RISING
+the slappy jones	sn:bitcoin	3.63	yes	
+rollo mcfloogle	sn:bitcoin	3.63	yes	
 announcing wavelength	sn:bitcoin	3.57	yes	
 bitcoin	sn:bitcoin	3.57	yes	
 easy mode	sn:bitcoin	3.57	yes	
 agents	sn:bitcoin	3.57	yes	
 humans	sn:bitcoin	3.57	yes	
 janusz	sn:bitcoin	3.42	yes	
+bitcoin puzzle	sn:bitcoin	3.23	yes	
 tether	sn:news	3.22	yes	
 elektron	sn:news	3.22	yes	
 mallers	sn:news	3.22	yes	
-bitcoin puzzle	sn:bitcoin	3.22	yes	
-find	sn:lightning	3.14	no	RISING
-taproot	sn:lightning	3.14	no	RISING
-where	sn:aliens_and_UFOs	2.99	yes	
-seti	sn:aliens_and_UFOs	2.99	no	RISING
-hugging face	hn	2.98	no	RISING
-baking	sn:art	2.97	no	RISING
+hugging face	hn	3.1	no	RISING
+baking	sn:art	3.01	no	RISING
+where	sn:aliens_and_UFOs	3	yes	
+seti	sn:aliens_and_UFOs	3	no	RISING
 against claudefishing	sn:AI	2.96	yes	
 chris best	sn:AI	2.96	yes	
 prediction markets	sn:bitcoin	2.95	yes	
 gambling	sn:bitcoin	2.95	yes	
+solar bitcoin	sn:bitcoin_Mining	2.93	no	RISING
+advertise	hn	2.92	no	RISING
 politico	sn:Politics_And_Law	2.89	no	RISING
 over	sn:Politics_And_Law	2.89	no	RISING
 non-citizens registered	sn:Politics_And_Law	2.89	no	RISING
 vote	sn:Politics_And_Law	2.89	no	RISING
 software error	sn:Politics_And_Law	2.89	no	RISING
-solar bitcoin	sn:bitcoin_Mining	2.85	no	RISING
+flash	hn	2.85	no	RISING
+flash-lite	hn	2.85	no	RISING
+flash cyber	hn	2.85	no	RISING
+kimi	hn	2.84	yes	
+is competitive	hn	2.84	no	RISING
+fable	hn	2.84	no	RISING
+fable is	hn	2.84	no	RISING
 keagan	sn:bitcoin	2.83	yes	
 andrew toth	sn:bitcoin	2.83	yes	
-bitcoin optech newsletter	sn:bitcoin	2.83	yes	
-recap podcast	sn:bitcoin	2.83	yes	
-flash	hn	2.82	no	RISING
-flash-lite	hn	2.82	no	RISING
