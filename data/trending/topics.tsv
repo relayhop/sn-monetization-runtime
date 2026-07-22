@@ -1,9 +1,6 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-22T11:46:57.463Z; n=40
-gemini	hn	7.15	no	RISING
-judge	hn,sn:Politics_And_Law	5.31	no	RISING
-claude	hn	4.94	yes	
-show	hn	4	no	RISING
+# generated 2026-07-22T17:19:18.701Z; n=40
+show	hn	6.36	no	RISING
 the slappy jones	sn:bitcoin	3.63	yes	
 rollo mcfloogle	sn:bitcoin	3.63	yes	
 announcing wavelength	sn:bitcoin	3.57	yes	
@@ -11,32 +8,35 @@ bitcoin	sn:bitcoin	3.57	yes
 easy mode	sn:bitcoin	3.57	yes	
 agents	sn:bitcoin	3.57	yes	
 humans	sn:bitcoin	3.57	yes	
-janusz	sn:bitcoin	3.42	yes	
-bitcoin puzzle	sn:bitcoin	3.23	yes	
-tether	sn:news	3.22	yes	
-elektron	sn:news	3.22	yes	
-mallers	sn:news	3.22	yes	
-hugging face	hn	3.1	no	RISING
+paying with bicoin through square	sn:bitcoin	3.24	yes	
+hugging face	hn	3.17	no	RISING
+postgres	hn	3.12	no	RISING
+the nordic node	sn:BooksAndArticles	3.08	no	RISING
+dilution	sn:BooksAndArticles	3.08	no	RISING
+week keeps	sn:BooksAndArticles	3.08	no	RISING
+saylorbois weak	sn:BooksAndArticles	3.08	no	RISING
+sprint	sn:HealthAndFitness	3.03	no	RISING
+two percent	sn:HealthAndFitness	3.03	no	RISING
+michael easter	sn:HealthAndFitness	3.03	no	RISING
+brink	sn:bitcoin	3.02	yes	
+martin zumsande	sn:bitcoin	3.02	yes	
 baking	sn:art	3.01	no	RISING
+activation client adoption	sn:bitcoin	3.01	yes	
 where	sn:aliens_and_UFOs	3	yes	
 seti	sn:aliens_and_UFOs	3	no	RISING
-against claudefishing	sn:AI	2.96	yes	
-chris best	sn:AI	2.96	yes	
-prediction markets	sn:bitcoin	2.95	yes	
-gambling	sn:bitcoin	2.95	yes	
+america	sn:econ	2.99	no	RISING
+enterprising spirit is booming after decades-long slump	sn:econ	2.99	no	RISING
+times	sn:econ	2.99	no	RISING
+against claudefishing	sn:AI	2.97	yes	
+chris best	sn:AI	2.97	yes	
+ocean	sn:bitcoin	2.97	yes	
+end-to	sn:bitcoin	2.97	yes	
 solar bitcoin	sn:bitcoin_Mining	2.93	no	RISING
-advertise	hn	2.92	no	RISING
-politico	sn:Politics_And_Law	2.89	no	RISING
-over	sn:Politics_And_Law	2.89	no	RISING
-non-citizens registered	sn:Politics_And_Law	2.89	no	RISING
-vote	sn:Politics_And_Law	2.89	no	RISING
-software error	sn:Politics_And_Law	2.89	no	RISING
-flash	hn	2.85	no	RISING
-flash-lite	hn	2.85	no	RISING
-flash cyber	hn	2.85	no	RISING
-kimi	hn	2.84	yes	
-is competitive	hn	2.84	no	RISING
-fable	hn	2.84	no	RISING
-fable is	hn	2.84	no	RISING
-keagan	sn:bitcoin	2.83	yes	
-andrew toth	sn:bitcoin	2.83	yes	
+the myth	sn:Politics_And_Law	2.92	no	RISING
+free-riding billionaire	sn:Politics_And_Law	2.92	no	RISING
+paul mueller	sn:Politics_And_Law	2.92	no	RISING
+agent escaped containment	sn:AI	2.82	yes	
+chilling new clues challenge suicide claim in los alamos lab worker	sn:news	2.82	no	RISING
+death	sn:news	2.82	no	RISING
+lightning	sn:bitcoin	2.8	yes	
+wavelength	sn:bitcoin	2.8	yes	
