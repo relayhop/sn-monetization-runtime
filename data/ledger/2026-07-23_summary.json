@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1530073,
+    "category": "Construction_and_Engineering",
+    "subcategory": 2,
+    "some_int": 305,
+    "amount": 1000,
+    "count": 1,
+    "score": 11.1,
+    "parent_id": 1528230,
+    "some_other": 17,
+    "tags": ["OPEN_BOUNTY", "LOW_COMP", "SIGNAL"],
+    "title": "Best script/tool for PLC sequence & single-line diagrams?"
+  },
+  {
+    "id": 1529977,
+    "category": "Construction_and_Engineering",
+    "subcategory": 2,
+    "some_int": 385,
+    "amount": 1000,
+    "count": 4,
+    "score": 16.3,
+    "parent_id": 1528230,
+    "some_other": 17,
+    "tags": ["OPEN_BOUNTY", "LOW_COMP"],
+    "title": "Explain the basic operation of a PLC in industrial automation"
+  },
+  {
+    "id": 1529499,
+    "category": "Construction_and_Engineering",
+    "subcategory": 2,
+    "some_int": 338,
+    "amount": 1000,
+    "count": 2,
+    "score": 32.6,
+    "parent_id": 1528230,
+    "some_other": 17,
