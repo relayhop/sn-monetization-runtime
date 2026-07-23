@@ -1,18 +1,20 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-23T06:30:05.203Z; n=40
-html	hn	5.46	no	RISING
-show	hn	4.92	no	RISING
-making	hn	4.15	no	RISING
+# generated 2026-07-23T11:49:57.180Z; n=40
+html	hn	5.65	no	RISING
+show	hn	5.12	no	RISING
+making	hn	4.48	no	RISING
+wasabi wallet	sn:bitcoin	3.67	yes	
+bitcoin show	sn:bitcoin	3.54	yes	
+tell twitter space	sn:bitcoin	3.54	yes	
+sunday	sn:bitcoin	3.54	yes	
 paying with bicoin through square	sn:bitcoin	3.28	yes	
-book	sn:BooksAndArticles	3.22	no	RISING
-books	sn:BooksAndArticles	3.22	no	RISING
-fiat ruins everything	sn:BooksAndArticles	3.22	no	RISING
-jimmy song	sn:BooksAndArticles	3.22	no	RISING
-wasabi wallet	sn:bitcoin	3.19	yes	
+book	sn:BooksAndArticles	3.23	no	RISING
+books	sn:BooksAndArticles	3.23	no	RISING
+fiat ruins everything	sn:BooksAndArticles	3.23	no	RISING
+jimmy song	sn:BooksAndArticles	3.23	no	RISING
 the myth	sn:Politics_And_Law	3.16	no	RISING
 free-riding billionaire	sn:Politics_And_Law	3.16	no	RISING
 paul mueller	sn:Politics_And_Law	3.16	no	RISING
-ascii	hn	3.13	no	RISING
 sprint	sn:HealthAndFitness	3.1	no	RISING
 two percent	sn:HealthAndFitness	3.1	no	RISING
 michael easter	sn:HealthAndFitness	3.1	no	RISING
@@ -20,23 +22,21 @@ the nordic node	sn:BooksAndArticles	3.09	no	RISING
 dilution	sn:BooksAndArticles	3.09	no	RISING
 week keeps	sn:BooksAndArticles	3.09	no	RISING
 saylorbois weak	sn:BooksAndArticles	3.09	no	RISING
-bitcoin show	sn:bitcoin	3.06	yes	
-tell twitter space	sn:bitcoin	3.06	yes	
-sunday	sn:bitcoin	3.06	yes	
+daily bitcoin lore	sn:history	3.03	no	RISING
+the paper that proved bitcoin isn	sn:history	3.03	no	RISING
+anonymous	sn:history	3.03	no	RISING
 brink	sn:bitcoin	3.02	yes	
 martin zumsande	sn:bitcoin	3.02	yes	
-daily bitcoin lore	sn:history	3.02	no	RISING
-the paper that proved bitcoin isn	sn:history	3.02	no	RISING
-anonymous	sn:history	3.02	no	RISING
-activation client adoption	sn:bitcoin	3.01	yes	
-runner	sn:Photography	2.99	no	RISING
+runner	sn:Photography	3.01	no	RISING
+woocommerce	sn:bitcoin	3.01	yes	
 america	sn:econ	2.99	no	RISING
 enterprising spirit is booming after decades-long slump	sn:econ	2.99	no	RISING
 times	sn:econ	2.99	no	RISING
+terence tao	hn	2.97	no	RISING
+jacobian conjecture	hn	2.97	no	RISING
 ocean	sn:bitcoin	2.97	yes	
 end-to	sn:bitcoin	2.97	yes	
-terence tao	hn	2.89	no	RISING
-jacobian conjecture	hn	2.89	no	RISING
-bento	hn	2.88	no	RISING
-john	hn	2.84	no	RISING
-dvorak	hn	2.84	no	RISING
+bento	hn	2.94	no	RISING
+john	hn	2.9	no	RISING
+dvorak	hn	2.9	no	RISING
+agent escaped containment	sn:AI	2.84	yes	
