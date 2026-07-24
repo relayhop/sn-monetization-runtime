@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-23T22:56:42.955Z; n=40
-show	hn	7.61	no	RISING
-what	hn,sn:movies	5.87	yes	
+# generated 2026-07-24T06:25:49.257Z; n=40
+what	hn,sn:movies	8	yes	
+show	hn	7.72	no	RISING
+research	sn:AI	4.2	yes	
+public	sn:AI	4.2	yes	
+the golden triangle	sn:AI	4.2	yes	
+research assistants	sn:AI	4.2	yes	
 woocommerce	sn:bitcoin	4.19	yes	
-research	sn:AI	4.19	yes	
-public	sn:AI	4.19	yes	
-the golden triangle	sn:AI	4.19	yes	
-research assistants	sn:AI	4.19	yes	
-bitcoin show	sn:bitcoin	4.18	yes	
-tell twitter space	sn:bitcoin	4.18	yes	
-sunday	sn:bitcoin	4.18	yes	
-learn	hn	4.09	no	RISING
+deep dive	sn:Stacker_Stocks	4.04	no	RISING
+strategy returns	sn:Stacker_Stocks	4.04	no	RISING
+financial wizardry	sn:Stacker_Stocks	4.04	no	RISING
+pull request	sn:nostr	4.03	yes	
+nostr-protocol	sn:nostr	4.03	yes	
 michael	sn:bitcoin	4.01	yes	
 schnitzel	sn:bitcoin	4.01	yes	
 heatpunk	sn:bitcoin	4.01	yes	
 engineer	sn:bitcoin	4.01	yes	
 maxi	sn:bitcoin	4.01	yes	
-pull request	sn:nostr	4.01	yes	
-nostr-protocol	sn:nostr	4.01	yes	
-deep dive	sn:Stacker_Stocks	4.01	no	RISING
-strategy returns	sn:Stacker_Stocks	4.01	no	RISING
-financial wizardry	sn:Stacker_Stocks	4.01	no	RISING
-bitcoin security consortium announcement	sn:bitcoin	3.85	yes	
-open	hn	3.56	no	RISING
+bitcoin security consortium announcement	sn:bitcoin	3.86	yes	
+the proverbial barber orange pill	sn:the_stacker_muse	3.66	yes	
+playing	sn:lightning	3.55	no	RISING
+wavelength	sn:lightning	3.55	no	RISING
 nolan	sn:movies	3.48	no	RISING
 odyssey	sn:movies	3.48	no	RISING
-playing	sn:lightning	3.46	no	RISING
-wavelength	sn:lightning	3.46	no	RISING
+introducing	sn:bitcoin	3.48	yes	
+hledger-btc	sn:bitcoin	3.48	yes	
 why fascists admired keynes	sn:econ	3.44	no	RISING
 economics	sn:econ	3.44	no	RISING
-the proverbial barber orange pill	sn:the_stacker_muse	3.42	yes	
-global	sn:charts_and_maps	3.39	no	RISING
+global	sn:charts_and_maps	3.42	no	RISING
 went looking	sn:bitcoin	3.35	yes	
 paul sztorc	sn:bitcoin	3.35	yes	
 ended up rethinking bitcoin	sn:bitcoin	3.35	yes	
-runner	sn:Photography	3.34	no	RISING
 ding-dong	sn:Politics_And_Law	3.31	no	RISING
 witch is dead	sn:Politics_And_Law	3.31	no	RISING
 madam toothfairy	sn:Politics_And_Law	3.31	no	RISING
-latest strikes	sn:bitcoin	3.08	yes	
-july	sn:bitcoin	3.08	yes	
+drew	sn:gaming	3.21	no	RISING
+should	sn:AskSN	3.13	no	RISING
+shots	sn:AskSN	3.13	no	RISING
+you won	sn:Politics_And_Law	3.09	no	RISING
+believe what this tradfi journo said about prediction markets	sn:Politics_And_Law	3.09	no	RISING
+bitcoin inquisition	sn:bitcoin	3.09	yes	
