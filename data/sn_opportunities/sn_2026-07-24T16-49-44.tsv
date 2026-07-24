@@ -1,0 +1,69 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1531592	bitcoin	1	11234	0	0	3.3	1014665	217	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Full signature aggregation BIP draft - Bitcoin Optech Newsletter #415
+1531543	bitcoin	1	4498	0	4	4.2	133081	688	top@bitcoin	HOT,SIGNAL	Bitcoin Optech Newsletter #415
+1531804	news	2	3253	0	1	0.6	74100	11510	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Clams v1: Local-First Accounting for Bitcoin, Lightning, and Liquid
+1531695	podcasts	2	2816	0	0	1.6	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,HOT,SIGNAL	CD209: MATTHEW VUK - BARK - BITCOIN PAYMENTS ON ARK
+1531597	news	2	2735	0	4	3.1	126503	795	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
+1531455	meta	1	2721	0	66	6.8	372287	3353	recent@meta|top@meta	HOT,SIGNAL	Bot & Slop we should mute
+1531428	bitcoin	1	2431	0	0	8.2	296825	4947	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Today in History - Bitcoin: The Trust Anchor in a Sea of Blockchains (2016)
+1531498	tech	1	2308	0	1	5.5	296825	4947	recent@devs|top@devs|recent@tech	HOT,SIGNAL	The Tor Project Sunsetting Tor 0.4.8 – Please update to 0.4.9 by September
+1531606	bitcoin	1	2129	0	13	3.0	1242375	123	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Do you mine bitcoin?
+1531749	bitcoin	1	1426	0	1	1.1	1242375	123	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Why is there so much overlap between Christians and BIP110?
+1531790	bitcoin	1	628	0	1	0.8	74100	11510	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	templatehash — Ark + OP_TEMPLATEHASH
+1531534	bitcoin_beginners	1	527	0	3	4.5	30782	25228	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Top Posts Of The Week
+1531813	bitcoin	1	510	0	2	0.5	223678	5820	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Passphrase Magazine #4 just dropped - passphrasemagazine.io
+1531580	lightning	1	506	0	0	3.6	440729	205	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (032554ee7e8302f67…)
+1531599	bitcoin_Mining	1	446	0	0	3.1	74100	11510	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	📣 AMA Announcement: Nick Hansen, CEO of Luxor!
+1531415	bitcoin	1	432	0	0	9.7	296825	4947	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Consensus "is NOT Changed by Proof Of Node"
+1531410	AI	1	378	0	0	10.1	1054143	996	recent@AI|top@AI	SIGNAL	From Search Engines to AI: Are We Watching the Next Big Shift in How We Think?
+1531567	bitcoin	1	365	0	1	3.8	900202	2520	recent@bitcoin|top@bitcoin	SIGNAL	Jack Mallers is one of the good ones
+1531704	lol	2	331	0	2	1.5	74100	11510	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	JXL-n-hide: Ultra high res image files embedded contiguously in BIP110-valid txs
+1531570	AI	1	299	0	1	3.8	296825	4947	recent@tech|top@tech|recent@AI	SIGNAL	AI may exceed the sum of human intelligence in around five years. - Elon Musk
+1531518	bitcoin	1	247	0	1	5.1	296825	4947	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Why Bip110 Can't stop spam
+1531411	bitcoin_beginners	1	229	0	2	9.9	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Introducing Vinteum’s New Fellowship Cycle
+1531664	AI	1	228	0	1	2.0	280679	22572	recent@AI|top@AI	FRESH,SIGNAL	AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems
+1531636	lol	2	146	0	1	2.4	280679	22572	recent@AI|top@AI	SIGNAL	Meta launched a new AI optimism ad set to a song about human extinction
+1531454	meta	1	132	0	0	6.8	36151	1565	recent@meta|top@meta	SIGNAL	This Day on SN: July 24
+1531823	AI	1	125	0	1	0.3	296825	4947	recent@AI|top@AI	FRESH,SIGNAL	OpenWorker — AI that gets your everyday tasks done
+1531601	AI	1	114	0	2	3.0	296825	4947	recent@AI|top@AI	SIGNAL	Struggling farmers unlock $20,000 in credit by putting cows on the blockchain
+1530917	AI	1	15855	0	11	23.8	48657	14296	recent@AI|top@AI	HOT	Research in Public #19:  The Golden Triangle for AI Research Assistants
+1530614	bitcoin	1	15411	0	61	29.5	59594	6867	recent@bitcoin	HOT	Woocommerce and BTCpay server
+1531046	nostr	1	11195	0	8	21.5	163128	3670	recent@lightning|top@lightning|recent@nostr	HOT	Add BOLT12 zaps by benthecarman · Pull Request #2421 · nostr-protocol/nips
+1530763	bitcoin	1	10304	0	48	25.8	1529619	24	recent@bitcoin|recent@bitcoin_Mining	HOT	Michael / Schnitzel - Heatpunk, 256Foundation Engineer, OpenSource Maxi - AMA!
+1530818	bitcoin	1	7376	0	33	25.3	1014665	217	recent@bitcoin	HOT	Bitcoin Security Consortium Announcement
+1531033	the_stacker_muse	3	4610	0	15	21.8	900202	2520	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	The Proverbial Barber Orange Pill
+1530989	lightning	1	4051	0	9	22.5	665515	61	recent@lightning|top@lightning	HOT	Playing with Wavelength
+1530684	bitcoin	1	3262	0	33	28.0	1278026	675	recent@bitcoin|recent@bitcoin_beginners	HOT	I Went Looking at Paul Sztorc's eCash and Ended Up Rethinking Bitcoin
+1530798	bitcoin	1	3044	0	6	25.5	1525529	3	recent@bitcoin	HOT	Introducing hledger-btc
+1530644	bitcoin	1	3027	0	16	28.8	74100	11510	recent@bitcoin	HOT	BitMEX is shutting down
+1530664	bitcoin	1	1216	0	0	28.6	280679	22572	recent@bitcoin	HOT	Bitcoin Inquisition 29.4
+1530642	bitcoin	1	1212	0	0	28.8	24585	359	recent@lightning	HOT	Latest Strikes #28 & #29 - July 6th-19th 2026
+1530939	bitcoin_beginners	1	1172	0	0	23.4	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	HOT	btcpayserver Release Version 2.4.1
+1530567	AI	1	1160	0	6	31.6	12315	2311	recent@AI	HOT	AI solved another 6 open Erdős problems
+1530938	AI	1	1099	0	0	23.4	724606	11722	recent@AI|top@AI	HOT	The Economics and History of Ludditism (The Economist)
+1530524	food_and_drinks	3	875	0	8	34.9	263526	509	recent@lightning	SELF_POST_OPP	Yggr - coffee, for sats
+1531290	news	2	613	0	1	14.9	74100	11510	recent@bitcoin|top@bitcoin		Galaxy Launches Bitcoin Quantum Readiness Initiative
+1531371	bitcoin_Mining	1	600	0	5	13.7	74100	11510	recent@bitcoin_Mining|top@bitcoin_Mining		Mining Disrupt Conference YouTube channel terminated during conferencd
+1531252	AI	1	537	0	8	16.5	144357	4390	recent@AI|top@AI		Cofounder of Hugging Face hacked by OpenAI models says it is 'a wake-up call'
+1530918	AI	1	457	0	0	23.7	12309	3593	recent@tech|top@tech|recent@AI		Behind the scenes at Nvidia's Engineering SuperLab
+1530693	lightning	1	454	0	1	27.6	440729	205	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0322ae64a96867071…)
+1531403	bitcoin	1	286	0	0	12.1	296825	4947	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Bisq Release v1.10.4: Important update
+1531397	bitcoin	1	282	0	0	12.7	296825	4947	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Btrust Announce First Batch of 2026 Event Grants: Supporting Bitcoin Devs Growth
+1530512	bitcoin_beginners	1	173	0	4	35.7	1529139	20	recent@bitcoin_beginners		If You Had to Learn Bitcoin Again, Where Would You Start?
+1531392	bitcoin_beginners	1	120	0	0	12.9	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin Dev Kit CLI Release version 4.0.0
+1530967	bitcoin	1	106	0	0	22.9	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		BIP 110, Bitcoin Cycles, Fiscal Dominance, AI Trade - Lyn Aden
+1530714	lightning	1	102	0	0	26.8	263526	509	recent@lightning		Rani the Rooster: Tiny 5 sat Lightning demo for Bitcoin mums and dads
+1531613	Geyser_community	3	93	0	0	2.9	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Bitcoin In Action. Ep.64
+1531019	nostr	1	78	0	4	22.1	1496326	11	recent@nostr|top@nostr|recent@privacy		Cordn native Android app is here 📱
+1531548	tech	1	72	0	0	4.2	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Radicle Explorer: The distributed code network. For humans and machines alike.
+1531591	Geyser_community	3	72	0	0	3.3	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Happy Weekend, Friends
+1531432	bitcoin	1	57	0	0	7.9	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Announcing the First Round of 2026 Bitcoin Developer Education Grant Recipients
+1531520	bitcoin_beginners	1	36	0	1	5.0	1444593	90	recent@bitcoin_beginners|top@bitcoin_beginners		👇 15'  te lleva elevar la seguridad de tu exchange.
+1531407	bitcoin_beginners	1	36	0	0	10.9	1529139	20	recent@bitcoin_beginners|top@bitcoin_beginners		What was your first Bitcoin concept that changed how you think about money
+1530535	bitcoin	1	36	0	0	34.0	1510905	6	recent@bitcoin_beginners		Why the Younger Generation Should Understand Bitcoin Technology
+1530529	lightning	1	10	0	1	34.4	263526	509	recent@lightning		Lightning Labs’ Wavelength Puts Self-Custodial Bitcoin In Every App
+1531811	bitcoin_beginners	1	0	0	0	0.5	296825	4947	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH	Cashu.Me Release v0.2.0
+1531602	nostr	1	0	0	1	3.0	163128	3670	recent@lightning|top@lightning		After Indian ban BitChat get Mirrored to Radicle ⚡️ Donate Sats to Keep it Alive
+1531641	AI	1	0	0	1	2.4	296825	4947	recent@AI|top@AI		The End of Rented Intelligence: Keep Your Business AI To Yourself
+1531409	AI	1	0	0	0	10.1	296825	4947	recent@AI|top@AI		Block's Buzz Release Desktop v0.4.24
+1530531	AI	1	0	0	1	34.2	1054143	996	recent@AI		OpenAI says its AI model ‘went rogue’: What do we know?
