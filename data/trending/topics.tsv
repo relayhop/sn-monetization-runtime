@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-24T11:41:42.508Z; n=40
-what	hn,sn:movies	8.23	yes	
-history	sn:bitcoin,sn:AI	6.36	yes	
-the economist	sn:AI,sn:Politics_And_Law	5.9	yes	
-show	hn	4.83	no	RISING
-flux	hn	4.53	no	RISING
-research	sn:AI	4.2	yes	
-public	sn:AI	4.2	yes	
-the golden triangle	sn:AI	4.2	yes	
-research assistants	sn:AI	4.2	yes	
-pull request	sn:nostr	4.04	yes	
-nostr-protocol	sn:nostr	4.04	yes	
+# generated 2026-07-24T17:37:40.913Z; n=40
+bitcoin	sn:news,sn:podcasts,sn:bitcoin	13.87	yes	
+flux	hn	5.15	no	RISING
+claude opus	hn	4.2	no	RISING
+pull request	sn:nostr	4.05	yes	
+nostr-protocol	sn:nostr	4.05	yes	
+full	sn:bitcoin	4.05	yes	
+bitcoin optech newsletter	sn:bitcoin	4.05	yes	
 deep dive	sn:Stacker_Stocks	4.04	no	RISING
 strategy returns	sn:Stacker_Stocks	4.04	no	RISING
 financial wizardry	sn:Stacker_Stocks	4.04	no	RISING
-michael	sn:bitcoin	4.01	yes	
-schnitzel	sn:bitcoin	4.01	yes	
-heatpunk	sn:bitcoin	4.01	yes	
-engineer	sn:bitcoin	4.01	yes	
-maxi	sn:bitcoin	4.01	yes	
-bitcoin security consortium announcement	sn:bitcoin	3.87	yes	
 the proverbial barber orange pill	sn:the_stacker_muse	3.66	yes	
-playing	sn:lightning	3.6	no	RISING
-wavelength	sn:lightning	3.6	no	RISING
-nolan	sn:movies	3.48	no	RISING
-odyssey	sn:movies	3.48	no	RISING
-introducing	sn:bitcoin	3.48	yes	
-hledger-btc	sn:bitcoin	3.48	yes	
+playing	sn:lightning	3.61	no	RISING
+wavelength	sn:lightning	3.61	no	RISING
+clams	sn:news	3.52	yes	
+local-first accounting	sn:news	3.52	yes	
+lightning	sn:news	3.52	yes	
+liquid	sn:news	3.52	yes	
+slop	sn:meta	3.5	yes	
+matthew	sn:podcasts	3.49	no	RISING
+bark	sn:podcasts	3.49	no	RISING
+payments	sn:podcasts	3.49	no	RISING
+global	sn:charts_and_maps	3.46	no	RISING
+poolin	sn:news	3.45	no	RISING
+chapter	sn:news	3.45	no	RISING
 why fascists admired keynes	sn:econ	3.44	no	RISING
 economics	sn:econ	3.44	no	RISING
-global	sn:charts_and_maps	3.44	no	RISING
-window tax	sn:history	3.37	no	RISING
-went looking	sn:bitcoin	3.35	yes	
-paul sztorc	sn:bitcoin	3.35	yes	
-ended up rethinking bitcoin	sn:bitcoin	3.35	yes	
-today	sn:bitcoin	3.32	yes	
-bitcoin	sn:bitcoin	3.32	yes	
-the trust anchor	sn:bitcoin	3.32	yes	
-blockchains	sn:bitcoin	3.32	yes	
-ding-dong	sn:Politics_And_Law	3.31	no	RISING
-witch is dead	sn:Politics_And_Law	3.31	no	RISING
+window tax	sn:history	3.43	no	RISING
+today	sn:bitcoin	3.4	yes	
+history	sn:bitcoin	3.4	yes	
+the trust anchor	sn:bitcoin	3.4	yes	
+blockchains	sn:bitcoin	3.4	yes	
+should	sn:AskSN	3.37	no	RISING
+shots	sn:AskSN	3.37	no	RISING
+the tor project sunsetting tor	sn:tech	3.37	yes	
+please	sn:tech	3.37	yes	
+september	sn:tech	3.37	yes	
+tokenized stock	sn:Stacker_Stocks	3.29	no	RISING
+securitize	sn:Stacker_Stocks	3.29	no	RISING
+secz	sn:Stacker_Stocks	3.29	no	RISING
+my challenging experience	sn:Stacker_Stocks	3.29	no	RISING
