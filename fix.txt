@@ -1,0 +1,203 @@
+```javascript
+/**
+ * Complete Solution for [radar] SN open bounty 2026-08-14T15:33
+ * Detects and parses SN_OPEN_BOUNTY data efficiently
+ */
+
+class BountyDetector {
+  constructor(config = {}) {
+    this.config = {
+      minScore: config.minScore || 1,
+      targetName: config.targetName || 'bitcoin_Mining',
+      tags: config.tags || ['recent', 'top'],
+      ...config
+    };
+  }
+
+  parseBountyRow(row) {
+    if (!row || typeof row !== 'object') {
+      return null;
+    }
+
+    const fields = row.fields || row.raw || [];
+    const parsed = {
+      id: Number(fields[0]) || fields[0],
+      name: fields[1] || '',
+      score: Number(fields[2]) || 0,
+      quantity: Number(fields[3]) || 1,
+      amount: Number(fields[4]) || 0,
+      reward: Number(fields[5]) || 0,
+      commission: Number(fields[6]) || 0,
+      index: Number(fields[7]) || 0,
+      weight: Number(fields[8]) || 1,
+      tags: fields[9] || '',
+      status: fields[10] || '',
+      category: fields[11] || ''
+    };
+
+    return parsed;
+  }
+
+  extractTags(tagsStr) {
+    if (!tagsStr) return [];
+    return tagsStr.split('|').map(tag => {
+      const [prefix, name] = tag.split('@');
+      return { prefix, name };
+    });
+  }
+
+  validateStatus(status) {
+    if (!status) return false;
+    const statuses = ['OPEN_BOUNTY', 'LOW_COMP', 'FRESH'];
+    return statuses.some(s => status.includes(s));
+  }
+
+  isBounty(parsed) {
+    return this.validateStatus(parsed.status) &&
+           parsed.score >= this.config.minScore &&
+           !isNaN(parsed.id);
+  }
+
+  matchesName(bounty) {
+    if (!bounty.name) return true;
+    return bounty.name.includes(this.config.targetName);
+  }
+
+  matchesTags(bounty) {
+    const tags = this.extractTags(bounty.tags);
+    return tags.some(tag => 
+      this.config.tags.some(t => tag.name.includes(t))
+    );
+  }
+
+  detectBounty(row) {
+    if (!row) return null;
+
+    // Handle different input formats
+    let parsed;
+
+    if (Array.isArray(row)) {
+      parsed = this.parseBountyRow({ raw: row });
+    } else {
+      parsed = this.parseBountyRow(row);
+    }
+
+    if (!parsed) return null;
+
+    parsed.tagMap = this.extractTags(parsed.tags);
+    parsed.isMatch = this.isBounty(parsed);
+    parsed.nameMatch = this.matchesName(parsed);
+    parsed.tagMatch = this.matchesTags(parsed);
+
+    return parsed;
+  }
+
+  filterBounties(bounties) {
+    return bounties
+      .map(b => this.detectBounty(b))
+      .filter(b => b.isMatch);
+  }
+
+  groupBounties(bounties, by = 'name') {
+    const grouped = bounties.reduce((acc, b) => {
+      const key = b[by] || b.name || 'unknown';
+      if (!acc[key]) acc[key] = [];
+      acc[key].push(b);
+      return acc;
+    }, {});
+    return grouped;
+  }
+
+  getBountyStats(bounties) {
+    const detected = bounties.filter(b => b && b.isMatch);
+    return {
+      total: bounties.length,
+      detected: detected.length,
+      unique: new Set(detected.map(b => b.name)).size,
+      totalReward: detected.reduce((sum, b) => sum + (b.amount || 0), 0),
+      avgCommission: detected.length 
+        ? Number((detected.reduce((sum, b) => sum + (b.commission || 0), 0) / detected.length).toFixed(2))
+        : 0
+    };
+  }
+}
+
+// Export and setup for common usage
+const BOUNTY_DETECTOR = new BountyDetector({
+  targetName: 'bitcoin_Mining',
+  minScore: 1,
+  tags: ['recent', 'top']
+});
+
+// Event system for reactive detection
+class BountyEventEmitter {
+  constructor(detector) {
+    this.detector = detector || BOUNTY_DETECTOR;
+    this.listeners = new Map();
+  }
+
+  on(event, callback) {
+    if (!this.listeners.has(event)) this.listeners.set(event, []);
+    this.listeners.get(event).push(callback);
+    return this;
+  }
+
+  off(event, callback) {
+    if (!this.listeners.has(event)) return this;
+    this.listeners.get(event) = this.listeners.get(event).filter(cb => cb !== callback);
+    return this;
+  }
+
+  emit(event, payload) {
+    this.listeners.get(event)?.forEach(cb => cb(payload));
+    return this;
+  }
+
+  // Trigger when new row is added
+  detect(row, event = 'bountyDetected') {
+    const result = this.detector.detectBounty(row);
+    if (result && result.isMatch) {
+      this.emit(event, result);
+      return result;
+    }
+    return result;
+  }
+
+  // Batch detection
+  detectAll(rows, event = 'bountiesDetected') {
+    const results = rows.map(r => this.detector.detectBounty(r));
+    const matches = results.filter(r => r?.isMatch);
+
+    if (matches.length > 0) {
+      this.emit(event, { matches, total: results.length });
+    }
+    return matches.length > 0 ? matches : results;
+  }
+}
+
+// Utility factory function
+function createBountySystem(options = {}) {
+  const detector = new BountyDetector(options);
+  const emitter = new BountyEventEmitter(detector);
+
+  // Chain configuration
+  detector.listeners = emitter.listeners;
+  
+  return emitter;
+}
+
+// Export for ES6 and common usage
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { BOUNTY_DETECTOR, BountyDetector, BountyEventEmitter, createBountySystem };
+}
+
+// Example usage
+if (typeof window !== 'undefined') {
+  window.BOUNTY_DETECTOR = BOUNTY_DETECTOR;
+}
+
+// Default export
+if (typeof module !== 'undefined') {
+  module.exports = { ...BOUNTY_DETECTOR };
+}
+```
