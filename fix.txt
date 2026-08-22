@@ -1,0 +1,69 @@
+```javascript
+class RadarBountyParser {
+    constructor(rawLine) {
+        if (!rawLine) {
+            this.raw = '';
+            return;
+        }
+        
+        // Split by Tab, handling the specific 12-column structure
+        const cols = rawLine.split(/\t/);
+        
+        // Ensure we have at least 12 columns, pad if necessary
+        const getCol = (index, def) => (cols[index] !== undefined ? cols[index] : def);
+
+        this.raw = rawLine;
+        this.id = getCol(0, ''); // 1548010
+        this.name = getCol(1, ''); // bitcoin_Mining
+        this.count = getCol(2, ''); // 1
+        this.rank = getCol(3, ''); // 41
+        this.value = getCol(4, ''); // 1000
+        this.offset = getCol(5, ''); // 0
+        this.ratio = getCol(6, ''); // 0.2
+        this.secondaryId = getCol(7, ''); // 1548010
+        this.depth = getCol(8, ''); // 1
+        this.tags = getCol(9, ''); // recent@bitcoin_Mining|top@bitcoin_Mining
+        this.status = getCol(10, ''); // OPEN_BOUNTY,LOW_COMP,FRESH
+        this.label = getCol(11, ''); // Mining
+
+        // Specific logic for "SN" detection: Parse the status into flags
+        if (this.status) {
+            this.flags = this.status.split(',').map(s => s.trim());
+        }
+
+        // Specific logic for Tag normalization
+        if (this.tags) {
+            this.tagSet = this.tags.split('|');
+        }
+        
+        // Define the state as "OPEN" specifically for the radar logic
+        this.isOpen = this.flags.includes('OPEN_BOUNTY');
+        this.isFresh = this.flags.includes('FRESH');
+    }
+
+    get parsed() {
+        return {
+            id: this.id,
+            name: this.name,
+            type: this.label,
+            ...this
+        };
+    }
+
+    hasState(state) {
+        return this.flags.includes(state);
+    }
+
+    [Symbol.iterator]() {
+        yield this;
+    }
+}
+
+// Instantiate with the exact raw data from the Details
+const bounty = new RadarBountyParser(
+    `1548010	bitcoin_Mining	1	41	1000	0	0.2	1548010	1	recent@bitcoin_Mining|top@bitcoin_Mining	OPEN_BOUNTY,LOW_COMP,FRESH	Mining`
+);
+
+// Log the complete working object
+console.log(JSON.stringify(bounty.parsed, null, 2));
+```
