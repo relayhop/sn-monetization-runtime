@@ -1,0 +1,108 @@
+```javascript
+class SNBountyDetector {
+    constructor() {
+        this.detectedBounties = [];
+        this.settings = {
+            delimiter: '\t',
+            minColumns: 12,
+            categories: ['OPEN_BOUNTY', 'LOW_COMP', 'FRESH']
+        };
+    }
+
+    parseBountyLine(line) {
+        const parts = line.trim().split(this.settings.delimiter);
+        
+        if (parts.length < this.settings.minColumns) {
+            return { success: false, message: `Line has ${parts.length} columns, expected minimum ${this.settings.minColumns}` };
+        }
+
+        const parsed = {
+            id: parseInt(parts[0], 10),
+            category: parts[1],
+            weight: parseInt(parts[2], 10),
+            score: parseInt(parts[3], 10),
+            amount: parts[4],
+            timestamp: parts[5] || parts[7], // Handle dual timestamps
+            count: parseInt(parts[7], 10),
+            uniqueId: parts[8] || parts[6],
+            active: parseInt(parts[9], 10),
+            tags: parts[10].split('|').map(t => t.split('@')[1].replace(/top|recent/, '').trim()),
+            name: parts[11].trim()
+        };
+
+        return { success: true, data: parsed };
+    }
+
+    detectPattern(lines) {
+        const results = [];
+        const seenIds = new Map();
+
+        for (const line of lines) {
+            const result = this.parseBountyLine(line);
+            
+            if (result.success) {
+                const { id } = result.data;
+                
+                if (seenIds.has(id)) {
+                    seenIds.get(id).push(line);
+                } else {
+                    seenIds.set(id, [line]);
+                }
+            }
+        }
+
+        return results;
+    }
+
+    getBountySummary(bounty) {
+        return `
+            [radar] SN open bounty detected
+            
+            ID: ${bounty.id} | Category: ${bounty.category} | Amount: ${bounty.amount}
+            Weight: ${bounty.weight} | Score: ${bounty.score} | Count: ${bounty.count}
+            
+            Tags: ${bounty.tags ? bounty.tags.join(', ') : 'Multiple'}
+            Name: ${bounty.name}
+            
+            Status: ${bounty.name.toUpperCase()} | Stage: ${bounty.category.toUpperCase()}
+            
+            Example Line: ${bounty.rawLine}`;
+    }
+
+    formatOutput(bounty) {
+        return bounty
+            ? [
+                '1548010\tbitcoin_Mining\t1\t41\t1000\t0\t0.2\t1548010\t1\trecent@bitcoin_Mining|top@bitcoin_Mining\tOPEN_BOUNTY,LOW_COMP,FRESH\tMining'
+              ].forEach(line => {
+                const parsed = this.parseBountyLine(line);
+                if (parsed.success) {
+                    console.log(this.getBountySummary(parsed.data));
+                    return;
+                }
+              })
+            : console.log('No bounty detected or empty data');
+    }
+
+    // Main entry point for direct usage
+    analyze(lines) {
+        if (!Array.isArray(lines)) lines = [lines];
+        
+        return lines.map(line => this.parseBountyLine(line))
+                     .filter(result => result.success)
+                     .map(r => ({...r, raw: line}));
+    }
+
+    // Example usage
+    static run(line) {
+        const detector = new SNBountyDetector();
+        const parsed = detector.analyze(line);
+        return parsed[0]?.data || parsed[0];
+    }
+}
+
+// Fix the specific issue from the bounty data
+const bountyLine = '1548010\tbitcoin_Mining\t1\t41\t1000\t0\t0.2\t1548010\t1\trecent@bitcoin_Mining|top@bitcoin_Mining\tOPEN_BOUNTY,LOW_COMP,FRESH\tMining';
+
+const fixedBounty = SNBountyDetector.run(bountyLine);
+console.log(JSON.stringify(fixedBounty, null, 2));
+```
