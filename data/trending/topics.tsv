@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-23T10:23:07.324Z; n=40
-daily discussion thread	sn:Music	5.08	no	RISING
-music saloon	sn:Music	5.08	no	RISING
-nobody	sn:meta	3.87	yes	
-motorola	sn:security	3.74	yes	
-pixels	sn:security	3.74	yes	
-escape	sn:Travel	3.5	no	RISING
-matrix	sn:Travel	3.5	no	RISING
-natural springs	sn:Travel	3.5	no	RISING
-adam smith	sn:BooksAndArticles	3.36	no	RISING
-political economy quackery	sn:BooksAndArticles	3.36	no	RISING
-times	sn:BooksAndArticles	3.36	no	RISING
-james grant	sn:BooksAndArticles	3.36	no	RISING
-avalon nano	sn:AskSN	3.26	no	RISING
-non-supported	sn:AskSN	3.26	no	RISING
-the transition	sn:AGORA	3.24	no	RISING
-post-capitalist economy	sn:AGORA	3.24	no	RISING
-grug speak	sn:bitdevs	3.11	no	RISING
-grug outside	sn:bitdevs	3.11	no	RISING
-grug happy	sn:bitdevs	3.11	no	RISING
-second	sn:bitcoin	3.09	yes	
-final eulogy	sn:bitcoin	3.09	yes	
-bitcoin maximalism	sn:bitcoin	3.09	yes	
-noones app	sn:bitcoin	3.08	yes	
-consensus	sn:Design	3.06	yes	
-health	sn:Design	3.06	yes	
-bitcoin	sn:Design	3.06	yes	
-twitter	sn:Design	3.06	yes	
+# generated 2026-08-23T16:24:58.302Z; n=40
+bitcoin	sn:AGORA,sn:bitcoin	5.4	yes	
+free	sn:bitdevs,sn:AI	5.25	yes	
+escape	sn:Travel	3.52	no	RISING
+matrix	sn:Travel	3.52	no	RISING
+natural springs	sn:Travel	3.52	no	RISING
+some	sn:bitcoin	3.3	yes	
+avalon nano	sn:AskSN	3.28	no	RISING
+non-supported	sn:AskSN	3.28	no	RISING
+the transition	sn:AGORA	3.25	no	RISING
+post-capitalist economy	sn:AGORA	3.25	no	RISING
+clink	sn:AGORA	3.07	no	RISING
+nostr	sn:AGORA	3.07	yes	
+lightning	sn:AGORA	3.07	yes	
+how our meetup buys pizza	sn:bitcoin	3.02	yes	
 live turtle museum	sn:Animal_World	3.02	no	RISING
 singapore	sn:Animal_World	3.02	no	RISING
-national	sn:Politics_And_Law	2.96	no	RISING
-erpo	sn:Politics_And_Law	2.96	no	RISING
-protective orders	sn:Politics_And_Law	2.96	no	RISING
-lifesaver or second amendment end around	sn:Politics_And_Law	2.96	no	RISING
-french revolution was not	sn:Politics_And_Law	2.88	no	RISING
-libertarian revolution	sn:Politics_And_Law	2.88	no	RISING
-mining pool health report	sn:bitcoin_Mining	2.8	no	RISING
-week	sn:bitcoin_Mining	2.8	no	RISING
+spending sunday	sn:AGORA	2.82	no	RISING
+what have you bought	sn:AGORA	2.82	no	RISING
+week	sn:AGORA	2.82	no	RISING
+sunday survey	sn:bitcoin	2.82	yes	
+is bitcoin maximalism	sn:bitcoin	2.82	yes	
+mailstr	sn:bitdevs	2.81	yes	
+bitshala	sn:bitdevs	2.81	yes	
 breaking	sn:news	2.74	no	RISING
 switzerland	sn:news	2.74	no	RISING
 bans	sn:news	2.74	no	RISING
+mammography	sn:news	2.74	no	RISING
+medical	sn:news	2.74	no	RISING
+fraud	sn:news	2.74	no	RISING
+unveiled	sn:news	2.74	no	RISING
+daily discussion thread	sn:Music	2.66	no	RISING
+music saloon	sn:Music	2.66	no	RISING
+claude	sn:AI	2.65	yes	
+dan tentler	sn:AI	2.65	yes	
+security fest	sn:AI	2.65	yes	
+hister	hn	2.64	no	RISING
+scrap	hn	2.59	no	RISING
+new release	sn:bitcoin	2.57	yes	
+zeus	sn:bitcoin	2.57	yes	
+oversized	sn:bitcoin_beginners	2.57	no	RISING
