@@ -40479,3 +40479,11 @@
 2026-08-23T14:00:53.018Z	1553088	bitcoin_beginners	1	235	0	0	10.1	296825	5184	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Bisq Release v1.10.6 ·
 2026-08-23T14:00:53.018Z	1553246	AGORA	3	202	0	0	2.2	263526	593	recent@lightning|top@lightning	SIGNAL	be-BOP now supports CLINK for Nostr-native Lightning payments
 2026-08-23T14:00:53.018Z	1553233	bitdevs	1	100	0	1	2.6	74100	12122	recent@bitdevs|top@bitdevs	SIGNAL	Mailstr - KYC Free emails bridged to your nostr keys - Bitshala
+2026-08-23T14:31:33.628Z	1553301	bitcoin	1	1310	0	1	0.3	30782	25533	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Some sad news
+2026-08-23T14:31:33.628Z	1553251	bitcoin	1	1192	0	1	2.6	366634	122	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	mempool.bitmixlist.org - A mempool.space mirror
+2026-08-23T14:31:33.628Z	1553296	bitcoin	1	975	0	1	0.4	1490792	416	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	I'll sleep at a bitcoiner
+2026-08-23T14:31:33.628Z	1553139	nostr	1	301	0	0	7.6	163128	3774	recent@nostr|top@nostr	SIGNAL	Postr: compose a kind-1 note and send it to your relays
+2026-08-23T14:31:33.628Z	1553168	AI	1	282	0	4	5.6	30993	3691	recent@devs|top@devs|recent@AI	SIGNAL	Claude is your insider threat now - Dan Tentler - Security Fest 2026
+2026-08-23T14:31:33.628Z	1553246	AGORA	3	253	0	0	2.7	263526	593	recent@lightning|top@lightning	SIGNAL	be-BOP now supports CLINK for Nostr-native Lightning payments
+2026-08-23T14:31:33.628Z	1553088	bitcoin_beginners	1	235	0	0	10.6	296825	5184	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Bisq Release v1.10.6 ·
+2026-08-23T14:31:33.628Z	1553233	bitdevs	1	100	0	1	3.1	74100	12125	recent@bitdevs|top@bitdevs	SIGNAL	Mailstr - KYC Free emails bridged to your nostr keys - Bitshala
