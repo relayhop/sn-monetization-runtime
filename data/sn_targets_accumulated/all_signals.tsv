@@ -40600,3 +40600,18 @@
 2026-08-23T16:54:09.247Z	1553139	nostr	1	301	0	0	10.0	163128	3775	recent@nostr|top@nostr	SIGNAL	Postr: compose a kind-1 note and send it to your relays
 2026-08-23T16:54:09.247Z	1553322	bitcoin_beginners	1	182	0	2	2.0	375687	3140	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Why is my Zeus ln-address failing?
 2026-08-23T16:54:09.247Z	1553182	meta	1	109	0	0	6.9	36151	1603	recent@meta|top@meta	SIGNAL	This Day on SN: August 23
+2026-08-23T17:23:11.501Z	1553301	bitcoin	1	2114	0	12	3.1	30782	25537	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Some sad news
+2026-08-23T17:23:11.501Z	1553296	bitcoin	1	1238	0	3	3.3	1490792	418	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	I'll sleep at a bitcoiner
+2026-08-23T17:23:11.501Z	1553251	bitcoin	1	1197	0	1	5.4	366634	122	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	mempool.bitmixlist.org - A mempool.space mirror
+2026-08-23T17:23:11.501Z	1553246	AGORA	3	1165	0	4	5.6	263526	594	recent@lightning|top@lightning	HOT,SIGNAL	be-BOP now supports CLINK for Nostr-native Lightning payments
+2026-08-23T17:23:11.501Z	1553328	bitcoin	1	1157	0	4	2.2	5621	389	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How Our Meetup Buys Pizza
+2026-08-23T17:23:11.501Z	1553294	bitcoin	1	654	0	2	3.4	178	928	recent@bitcoin|top@bitcoin	SIGNAL	Sunday Survey: Is Bitcoin Maximalism dead?
+2026-08-23T17:23:11.501Z	1553233	bitdevs	1	648	0	2	6.0	74100	12125	recent@bitdevs|top@bitdevs|recent@nostr	SIGNAL	Mailstr - KYC Free emails bridged to your nostr keys - Bitshala
+2026-08-23T17:23:11.501Z	1553168	AI	1	448	0	4	8.4	30993	3691	recent@devs|top@devs|recent@AI	SIGNAL	Claude is your insider threat now - Dan Tentler - Security Fest 2026
+2026-08-23T17:23:11.501Z	1553204	bitcoin	1	377	0	2	6.8	46077	176	recent@bitcoin|top@bitcoin	SIGNAL	If AI is creating abundance how does it impact Bitcoin?
+2026-08-23T17:23:11.501Z	1553250	bitcoin_beginners	1	373	0	2	5.5	296825	5184	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	OVERSIZED OP_RETURN — human-readable text Block 963,629 · 1 output(s)
+2026-08-23T17:23:11.501Z	1553288	tech	1	349	0	1	3.5	6263	10506	recent@tech|top@tech	SIGNAL	"We are watching medicine pivot on its axis"
+2026-08-23T17:23:11.501Z	1553139	nostr	1	301	0	0	10.5	163128	3775	recent@nostr|top@nostr	SIGNAL	Postr: compose a kind-1 note and send it to your relays
+2026-08-23T17:23:11.501Z	1553322	bitcoin_beginners	1	185	0	2	2.5	375687	3140	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Why is my Zeus ln-address failing?
+2026-08-23T17:23:11.501Z	1553384	AI	1	125	0	0	0.4	370699	321	recent@AI|top@AI	FRESH,SIGNAL	Btop for AI usage — TUI dashboard for LLM tokens, costs, and rate-limit windows
+2026-08-23T17:23:11.501Z	1553182	meta	1	109	0	0	7.4	36151	1603	recent@meta|top@meta	SIGNAL	This Day on SN: August 23
