@@ -1,0 +1,55 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1553512	bitcoin	1	3140	0	2	1.5	553	3533	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	The Ark Protocol: VTXOs and the Virtual Transaction Tree
+1553301	bitcoin	1	2491	0	24	7.8	30782	25541	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Some sad news
+1553501	meta	1	1695	0	5	1.8	92827	2818	recent@meta|top@meta	FRESH,HOT,SIGNAL	An amAzing rate for SNZ #68! 🗞️🗞️🗞️ all 8 pages of F U N now available
+1553296	bitcoin	1	1259	0	3	7.9	1490792	419	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	I'll sleep at a bitcoiner
+1553251	bitcoin	1	1218	0	2	10.1	366634	122	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	mempool.bitmixlist.org - A mempool.space mirror
+1553246	AGORA	3	1207	0	5	10.2	263526	594	recent@lightning|top@lightning	HOT,SIGNAL,SELF_POST_OPP	be-BOP now supports CLINK for Nostr-native Lightning payments
+1553328	bitcoin	1	1178	0	9	6.9	5621	392	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How Our Meetup Buys Pizza
+1553294	bitcoin	1	763	0	4	8.0	178	928	recent@bitcoin|top@bitcoin	SIGNAL	Sunday Survey: Is Bitcoin Maximalism dead?
+1553233	bitdevs	1	669	0	4	10.6	74100	12126	recent@bitdevs|top@bitdevs|recent@nostr	SIGNAL	Mailstr - KYC Free emails bridged to your nostr keys - Bitshala
+1553433	AskSN	2	649	0	11	4.0	296825	5190	recent@tech|top@tech	SIGNAL,SELF_POST_OPP	Which Linux distro are you daily driving?
+1553288	tech	1	449	0	1	8.1	6263	10506	recent@tech|top@tech	SIGNAL	"We are watching medicine pivot on its axis"
+1553250	bitcoin_beginners	1	439	0	3	10.1	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	OVERSIZED OP_RETURN — human-readable text Block 963,629 · 1 output(s)
+1553204	bitcoin	1	377	0	4	11.5	46077	177	recent@bitcoin|top@bitcoin	SIGNAL	If AI is creating abundance how does it impact Bitcoin?
+1553384	AI	1	319	0	0	5.1	370699	321	recent@AI|top@AI	SIGNAL	Btop for AI usage — TUI dashboard for LLM tokens, costs, and rate-limit windows
+1553517	bitcoin	1	306	0	1	1.3	341578	5921	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	what would you call the shitcoin fork?
+1553489	AI	1	304	0	0	2.1	12309	3630	recent@tech|top@tech|recent@AI	SIGNAL	At China's robot Olympics
+1553405	AI	1	210	0	0	4.7	1490792	419	recent@AI|top@AI	SIGNAL	Trends in Artificial Intelligence
+1553322	bitcoin_beginners	1	185	0	2	7.1	375687	3140	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Why is my Zeus ln-address failing?
+1553446	bitcoin_beginners	1	175	0	0	3.4	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	But leave Bitcoin alone.  Because you don’t regulate mathematics.
+1553492	AskSN	2	166	0	0	2.0	1208996	458	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Survey 🤔⚡⚡
+1553435	bitcoin	1	125	0	0	3.8	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Bitcoin Hard Fork: eCash Alpha Is Live
+1553302	AI	1	100	0	2	7.7	6263	10506	recent@AI|top@AI	SIGNAL	The AI Crypto Macro Nexus Point: Why Bitcoin Matters to Investors | Jordi Visser
+1552780	meta	1	7599	0	57	31.4	74100	12126	recent@bitcoin|recent@meta	HOT	NOBODY likes the idea of pay to post (outside SN)
+1552754	security	1	5548	0	5	32.2	12309	3630	recent@security|recent@privacy|recent@tech	HOT	Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels
+1552951	AskSN	2	1909	0	6	24.4	88718	46742	recent@bitcoin_Mining	HOT,SELF_POST_OPP	Avalon Nano 3s "non-supported adapter"
+1552645	bitdevs	1	1284	0	5	35.6	238412	237	recent@bitdevs|recent@devs	HOT	Grug Speak, Grug Outside, Grug Happy | dergigi.com
+1552847	bitcoin	1	1229	0	4	29.7	163128	3776	recent@bitcoin|recent@lightning	HOT	A Second and Final Eulogy for Bitcoin Maximalism
+1552647	bitcoin	1	1214	0	9	35.5	74100	12126	recent@bitcoin	HOT	Noones App shuts down
+1552738	Design	2	1136	0	2	32.8	163128	3776	recent@bitcoin	HOT	Consensus.Health site to gauge Bitcoin consensus based on Twitter (X) reputation
+1552686	bitcoin_Mining	1	689	0	13	34.3	273359	933	recent@bitcoin_Mining|recent@mempool		Mining Pool Health Report [Week 5]
+1553168	AI	1	448	0	4	13.0	30993	3691	recent@devs|top@devs|recent@AI		Claude is your insider threat now - Dan Tentler - Security Fest 2026
+1552905	bitcoin	1	371	0	0	27.2	296825	5190	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		New Release: ZEUS v13.2.0
+1553139	nostr	1	301	0	0	15.1	163128	3776	recent@nostr|top@nostr		Postr: compose a kind-1 note and send it to your relays
+1552895	meta	1	276	0	3	27.7	1	27192	recent@meta		SN Saturday Newsletter 8/22/26
+1552929	AI	1	273	0	1	25.5	296825	5190	recent@AI		Ox Alpha - A mysterious Free AI Model for Coding & Agentic Work
+1552914	nostr	1	236	0	0	26.4	1552013	25	recent@nostr		Nostr NIP-15 store with auto sats checkout
+1553088	bitcoin_beginners	1	235	0	1	18.1	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bisq Release v1.10.6 ·
+1552828	AI	1	187	0	1	30.3	458256	4876	recent@AI		The Biggest Risks to the U.S. Economy in 2026
+1552932	Memes	2	161	0	0	25.3	296825	5190	recent@bitcoin_beginners		Bitcoin Meme Maker is now live on iOS and Android.
+1552634	bitcoin_beginners	1	157	0	2	35.9	1552562	7	recent@bitcoin_beginners		Waiting for my moment to become a holder (from Cuba)
+1552802	bitcoin	1	154	0	1	30.7	375687	3140	recent@bitcoin_beginners		Update: Anti-abuse deposit. MOSTRO P2P 🧟⚡
+1552748	bitcoin_beginners	1	126	0	0	32.5	238412	237	recent@bitcoin_beginners		Simulacra
+1552713	tech	1	123	0	0	33.6	12309	3630	recent@privacy|recent@tech		As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings
+1552891	bitcoin_beginners	1	122	0	0	27.8	296825	5190	recent@bitcoin_beginners|recent@lightning		Bisq Release v2.1.12
+1553182	meta	1	109	0	0	12.0	36151	1603	recent@meta|top@meta		This Day on SN: August 23
+1553034	bitcoin	1	76	0	0	20.8	1553034	15	recent@lightning|top@lightning		Surviving in Northern Gaza: How Bitcoin & Lightning Keep Hope Alive
+1553424	bitcoin	1	72	0	0	4.2	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners		15-year holder dumps 131, Bitcoin worth Enough to retire?
+1553239	bitcoin	1	36	0	0	10.4	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Not the perfect way of course. Nice try — No KYC, Lightning-Powered | Freedomia
+1553216	bitcoin_beginners	1	36	0	0	11.1	296825	5190	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Weekly Brief 2026/34
+1552883	bitcoin	1	36	0	0	28.1	296825	5190	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Tragedy Of The Commons In Open Source Software, Explain Through Bitcoin Wallets
+1552915	bitcoin_Mining	1	36	0	3	26.2	223678	6035	recent@bitcoin_Mining		~500 PH for today, wow!
+1553377	nostr	1	21	0	1	5.4	163128	3776	recent@lightning|top@lightning		Nostr data you and your agent can instantly work with
+1553019	lightning	1	21	0	1	21.3	1519080	84	recent@lightning|top@lightning		⚡ LCC v0.1.3 — built for node runners who don't want to live in the terminal
+1552749	AI	1	10	0	0	32.4	1054143	1132	recent@AI		Namibia terminates $2.4 million AI crop monitoring contract with US firm
