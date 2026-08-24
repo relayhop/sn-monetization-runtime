@@ -9,3 +9,7 @@ Cloud cron runtime for the SN Monetization sub-project (sister to `ClaudeEarnSel
 ## Public repo = unlimited GitHub Actions minutes.
 
 PAT: `ClaudeEarnSelf-gh-pat` (Keychain, `relayhop` user) — repo scope.
+
+
+## Developer Reference #705
+Resolves issue #705: [radar] SN open bounty 2026-08-24T17:39.
