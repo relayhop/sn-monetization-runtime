@@ -42460,3 +42460,15 @@
 2026-08-25T17:39:37.233Z	1554597	AskSN	2	138	0	6	3.9	1054143	1145	recent@AskSN|top@AskSN	SIGNAL	Do You Believe in Ghosts, or Is It Just Our Imagination?
 2026-08-25T17:39:37.233Z	1554702	Stacker_Stocks	2	129	0	0	1.8	1054143	1145	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names
 2026-08-25T17:39:37.233Z	1554747	podcasts	2	125	0	0	0.4	51481	4150	recent@privacy|top@privacy|recent@podcasts	FRESH,SIGNAL	WhatBitcoinDid-The Plan to Put Bitcoin in Every Conversation | Seth For Privacy
+2026-08-25T17:48:51.375Z	1554539	bitcoin	1	5249	0	9	5.2	57444	15811	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Non-custodial prediction markets on Ark?
+2026-08-25T17:48:51.376Z	1554566	bitcoin	1	1178	0	1	4.6	74100	12147	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin Supply Check - BitMex Research
+2026-08-25T17:48:51.376Z	1554657	AI	1	830	0	1	2.8	19732	166	recent@AI|top@AI	SIGNAL	Tutorial: How to access your locally run AI models remotely
+2026-08-25T17:48:51.376Z	1554591	AI	1	785	0	10	4.2	724606	12308	recent@AI|top@AI	SIGNAL	America Can't Outgrow $40 Trillion in Debt (TDE, Pete Earle)
+2026-08-25T17:48:51.376Z	1554663	tech	1	682	0	1	2.7	161788	10305	recent@tech|top@tech	SIGNAL	Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+2026-08-25T17:48:51.376Z	1554520	AI	1	632	0	1	5.6	74100	12147	recent@AI|top@AI	SIGNAL	AI Grinding for Fun and Cryptanalysis
+2026-08-25T17:48:51.376Z	1554713	bitcoin	1	497	0	3	1.7	30782	25547	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Can't Connect Zeus Wallet to my LND node with LNC anymore?
+2026-08-25T17:48:51.376Z	1554736	tech	1	429	0	0	0.8	1512975	15	recent@tech|top@tech	FRESH,SIGNAL	EmailOSINT: The story behind any email address
+2026-08-25T17:48:51.376Z	1554556	bitcoin	1	327	0	0	4.9	1490792	428	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Core considers removing CJDNS support
+2026-08-25T17:48:51.376Z	1554733	tutorials	2	277	0	0	1.0	1287051	9	recent@bitcoin|top@bitcoin|recent@security	FRESH,SIGNAL	Penlock: fast & easy seedphrase by hand!
+2026-08-25T17:48:51.376Z	1554430	nostr	1	237	0	2	10.3	163128	3779	recent@lightning|top@lightning|recent@nostr	SIGNAL	Zap Alerts - Bitcoin Lightning Stream Alerts for OBS via Nostr
+2026-08-25T17:48:51.376Z	1554747	podcasts	2	125	0	0	0.5	51481	4150	recent@privacy|top@privacy	FRESH,SIGNAL	WhatBitcoinDid-The Plan to Put Bitcoin in Every Conversation | Seth For Privacy
