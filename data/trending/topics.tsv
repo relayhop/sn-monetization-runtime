@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-25T04:38:11.865Z; n=40
-what	hn,sn:AskSN	7.44	yes	
-good	hn,sn:Politics_And_Law,sn:Stacker_Stocks	7.34	no	RISING
-bitcoin	sn:Politics_And_Law,sn:bitcoin	5.85	yes	
-show	hn	4.51	no	RISING
-paint	hn	4.44	no	RISING
+# generated 2026-08-25T10:32:13.081Z; n=40
+what	hn,sn:AskSN	7.91	yes	
+good	sn:Stacker_Stocks,sn:Politics_And_Law	6.51	no	RISING
+bitcoin	sn:Politics_And_Law,sn:bitcoin	6.39	yes	
+show	hn	5.65	no	RISING
+paint	hn	4.86	no	RISING
+identity theft story	sn:security	3.48	yes	
+on sunday	sn:security	3.48	yes	
 stacker sports summer league	sn:Stacker_Sports	3.32	no	RISING
 current standings	sn:Stacker_Sports	3.32	no	RISING
 who owns all	sn:econ	3.31	no	RISING
 government bonds	sn:econ	3.31	no	RISING
 daire	sn:econ	3.31	no	RISING
-swaps	sn:bitcoin	3.18	yes	
-back	sn:bitcoin	3.18	yes	
-bull	sn:bitcoin	3.18	yes	
+swaps	sn:bitcoin	3.31	yes	
+back	sn:bitcoin	3.31	yes	
+bull	sn:bitcoin	3.31	yes	
+insider trading	sn:Stacker_Stocks	3.3	no	RISING
+complete coincidence	sn:Stacker_Stocks	3.3	no	RISING
+money stuff	sn:Stacker_Stocks	3.3	no	RISING
+matt levine	sn:Stacker_Stocks	3.3	no	RISING
+siphoning off aid money	sn:Politics_And_Law	3.21	no	RISING
+robin wigglesworth	sn:Politics_And_Law	3.21	no	RISING
+ocean	sn:bitcoin_Mining	3.19	no	RISING
 last	sn:Stacker_Sports	3.17	no	RISING
-siphoning off aid money	sn:Politics_And_Law	3.15	no	RISING
-robin wigglesworth	sn:Politics_And_Law	3.15	no	RISING
 public pool	sn:bitcoin_Mining	3.15	no	RISING
 pplns	sn:bitcoin_Mining	3.15	no	RISING
 since when	sn:bitcoin_Mining	3.15	no	RISING
-insider trading	sn:Stacker_Stocks	3.14	no	RISING
-complete coincidence	sn:Stacker_Stocks	3.14	no	RISING
-money stuff	sn:Stacker_Stocks	3.14	no	RISING
-matt levine	sn:Stacker_Stocks	3.14	no	RISING
-ocean	sn:bitcoin_Mining	3.09	no	RISING
-how europe	hn	3.05	no	RISING
-micro-entrepreneurs	hn	3.05	no	RISING
-did you know	sn:AskSN	3.02	yes	
-cypherpunk	sn:AskSN	3.02	yes	
-iran blew up	sn:Politics_And_Law	3.02	no	RISING
-navy	sn:Politics_And_Law	3.02	no	RISING
-supply hub	sn:Politics_And_Law	3.02	no	RISING
-lincoln	sn:Politics_And_Law	3.02	no	RISING
-crew paid	sn:Politics_And_Law	3.02	no	RISING
-price	sn:Politics_And_Law	3.02	no	RISING
+how europe	hn	3.14	no	RISING
+micro-entrepreneurs	hn	3.14	no	RISING
+did you know	sn:AskSN	3.03	yes	
+cypherpunk	sn:AskSN	3.03	yes	
+xiaomi	hn	2.95	no	RISING
+apple	hn	2.95	yes	
+screen	hn	2.95	no	RISING
 how tether	sn:bitcoin	2.95	yes	
 uruguay	sn:bitcoin	2.95	yes	
-xiaomi	hn	2.89	no	RISING
-apple	hn	2.89	yes	
+how much	sn:AI	2.9	yes	
+internet is written with	sn:AI	2.9	yes	
 baseball	sn:Stacker_Sports	2.89	no	RISING
 phenomenal	sn:Stacker_Sports	2.89	no	RISING
+flock has	sn:AI	2.87	yes	
