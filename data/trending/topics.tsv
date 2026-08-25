@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-25T16:36:38.870Z; n=40
-ultra	hn,sn:tech	8.11	yes	
-bessent	sn:Politics_And_Law,sn:econ	6.1	no	RISING
-apple	hn	5.66	yes	
-paint	hn	5.15	no	RISING
-windows	hn	3.6	no	RISING
+# generated 2026-08-25T22:26:45.109Z; n=40
+ultra	hn,sn:tech	8.6	yes	
+bessent	sn:Politics_And_Law,sn:econ	6.11	no	RISING
+show	hn	4.5	no	RISING
 identity theft story	sn:security	3.55	yes	
 on sunday	sn:security	3.55	yes	
-swaps	sn:bitcoin	3.32	yes	
-back	sn:bitcoin	3.32	yes	
-bull	sn:bitcoin	3.32	yes	
-good	sn:Stacker_Stocks	3.3	no	RISING
-insider trading	sn:Stacker_Stocks	3.3	no	RISING
-complete coincidence	sn:Stacker_Stocks	3.3	no	RISING
-money stuff	sn:Stacker_Stocks	3.3	no	RISING
-matt levine	sn:Stacker_Stocks	3.3	no	RISING
-treasury stunt	sn:Politics_And_Law	3.22	no	RISING
-kind	sn:Politics_And_Law	3.22	no	RISING
-ridiculous	sn:Politics_And_Law	3.22	no	RISING
-alphaville	sn:Politics_And_Law	3.22	no	RISING
-toby nangle	sn:Politics_And_Law	3.22	no	RISING
+getting bitcoin	sn:bitcoin	3.25	yes	
+post	sn:econ	3.23	no	RISING
+yishan	sn:econ	3.23	no	RISING
+treasury stunt	sn:Politics_And_Law	3.23	no	RISING
+kind	sn:Politics_And_Law	3.23	no	RISING
+ridiculous	sn:Politics_And_Law	3.23	no	RISING
+alphaville	sn:Politics_And_Law	3.23	no	RISING
+toby nangle	sn:Politics_And_Law	3.23	no	RISING
 bitcoin	sn:bitcoin	3.22	yes	
-how europe	hn	3.19	no	RISING
-micro-entrepreneurs	hn	3.19	no	RISING
-post	sn:econ	3.16	no	RISING
-yishan	sn:econ	3.16	no	RISING
-public pool	sn:bitcoin_Mining	3.15	no	RISING
-pplns	sn:bitcoin_Mining	3.15	no	RISING
-since when	sn:bitcoin_Mining	3.15	no	RISING
-bitcoin supply check	sn:bitcoin	3.07	yes	
-research	sn:bitcoin	3.07	yes	
-did you know	sn:AskSN	3.04	yes	
-cypherpunk	sn:AskSN	3.04	yes	
-xiaomi	hn	2.98	no	RISING
+bitcoin supply check	sn:bitcoin	3.12	yes	
+research	sn:bitcoin	3.12	yes	
+louisiana	sn:science	3.01	yes	
+dolly parton	hn	3	no	RISING
+python	hn	2.98	no	RISING
+apple	hn	2.94	yes	
 tutorial	sn:AI	2.92	yes	
-photos	hn	2.91	no	RISING
-guid	hn	2.91	no	RISING
 america can	sn:AI	2.9	yes	
 outgrow	sn:AI	2.9	yes	
 trillion	sn:AI	2.9	yes	
 debt	sn:AI	2.9	yes	
+pete earle	sn:AI	2.9	yes	
+long-term	sn:Travel	2.9	no	RISING
+drunken druckenmiller dunk	sn:econ	2.88	no	RISING
+robin wigglesworth	sn:econ	2.88	no	RISING
+connect zeus wallet	sn:bitcoin	2.87	yes	
+bonds	sn:Stacker_Stocks	2.85	no	RISING
+financial engineering	sn:Stacker_Stocks	2.85	no	RISING
+future	sn:Stacker_Stocks	2.85	yes	
+money stuff	sn:Stacker_Stocks	2.85	no	RISING
+matt levine	sn:Stacker_Stocks	2.85	no	RISING
+apple introduces new mac studio	sn:tech	2.83	yes	
+new mac studio	hn	2.82	no	RISING
+grinding	sn:AI	2.8	yes	
+cryptanalysis	sn:AI	2.8	yes	
+live turtle museum	sn:Animal_World	2.72	no	RISING
