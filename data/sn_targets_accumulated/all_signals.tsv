@@ -42400,3 +42400,26 @@
 2026-08-25T16:47:53.084Z	1554380	lightning	1	247	0	1	11.2	263526	602	recent@lightning|top@lightning	SIGNAL	Channel MaxHTLC
 2026-08-25T16:47:53.084Z	1554430	nostr	1	237	0	2	9.3	163128	3779	recent@lightning|top@lightning|recent@nostr	SIGNAL	Zap Alerts - Bitcoin Lightning Stream Alerts for OBS via Nostr
 2026-08-25T16:47:53.084Z	1554384	nostr	1	161	0	0	11.0	263526	602	recent@lightning|top@lightning|recent@nostr	SIGNAL	MostroEuropa: European Mostro Community trading P2P over Nostr + Lightning
+2026-08-25T16:49:29.316Z	1554539	bitcoin	1	5228	0	9	4.2	57444	15811	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Non-custodial prediction markets on Ark?
+2026-08-25T16:49:29.316Z	1554494	AskSN	2	4607	0	41	5.3	59594	7005	recent@AskSN|top@AskSN	HOT,SIGNAL	Has anyone ever felt disconnected from where you were born and grew up?
+2026-08-25T16:49:29.316Z	1554375	security	1	3584	0	10	11.6	698001	9487	recent@security|top@security|recent@AI	HOT,SIGNAL	RBD’s Identity Theft Story: On Sunday I became a victim of identity theft
+2026-08-25T16:49:29.316Z	1554544	Politics_And_Law	3	1675	0	2	4.1	724606	12308	recent@econ|top@econ	HOT,SIGNAL	Mr. Bessent's Treasury Stunt is KIND OF Ridiculous (FT Alphaville, Toby Nangle)
+2026-08-25T16:49:29.316Z	1554423	econ	2	1428	0	14	9.9	74100	12147	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Post-scarcity abundance begins first as youth unemployment - Yishan
+2026-08-25T16:49:29.316Z	1554566	bitcoin	1	1178	0	1	3.6	74100	12147	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin Supply Check - BitMex Research
+2026-08-25T16:49:29.316Z	1554657	AI	1	830	0	1	1.8	19732	166	recent@AI|top@AI	FRESH,SIGNAL	Tutorial: How to access your locally run AI models remotely
+2026-08-25T16:49:29.316Z	1554591	AI	1	785	0	8	3.2	724606	12308	recent@AI|top@AI|recent@econ	SIGNAL	America Can't Outgrow $40 Trillion in Debt (TDE, Pete Earle)
+2026-08-25T16:49:29.316Z	1554571	econ	2	752	0	0	3.6	724606	12308	recent@econ|top@econ	SIGNAL	Drunken Druckenmiller Dunk on Bessent (FT, Robin Wigglesworth)
+2026-08-25T16:49:29.316Z	1554520	AI	1	632	0	1	4.6	74100	12147	recent@AI|top@AI|recent@math	SIGNAL	AI Grinding for Fun and Cryptanalysis
+2026-08-25T16:49:29.316Z	1554663	tech	1	613	0	1	1.7	161788	10305	recent@tech|top@tech	FRESH,SIGNAL	Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+2026-08-25T16:49:29.316Z	1554500	BooksAndArticles	2	451	0	0	5.2	498251	869	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Don’t Let The Values Of The Dystopian Society Shape How You Live Your Life
+2026-08-25T16:49:29.316Z	1554716	Stacker_Stocks	2	384	0	1	0.7	934429	324	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Corporate spending on Anthropic models has risen by about 40% since June.
+2026-08-25T16:49:29.316Z	1554556	bitcoin	1	327	0	0	4.0	1490792	428	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Core considers removing CJDNS support
+2026-08-25T16:49:29.316Z	1554380	lightning	1	247	0	1	11.2	263526	602	recent@lightning|top@lightning	SIGNAL	Channel MaxHTLC
+2026-08-25T16:49:29.316Z	1554549	news	2	240	0	5	4.1	51481	4149	recent@news|top@news	SIGNAL,SELF_POST_OPP	Mystery as U.S. military transport plane lands in Moscow
+2026-08-25T16:49:29.316Z	1554430	nostr	1	237	0	2	9.4	163128	3779	recent@lightning|top@lightning|recent@nostr	SIGNAL	Zap Alerts - Bitcoin Lightning Stream Alerts for OBS via Nostr
+2026-08-25T16:49:29.316Z	1554667	AskSN	2	220	0	0	1.6	296825	5209	recent@AskSN|top@AskSN	FRESH,SIGNAL	[AskSN] Is This One Of The Most Dangerous Interview Ever Recorded?
+2026-08-25T16:49:29.316Z	1554699	Stacker_Stocks	2	185	0	0	0.9	934429	324	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Demand for gold call options has skyrocketed.
+2026-08-25T16:49:29.316Z	1554384	nostr	1	161	0	0	11.0	263526	602	recent@lightning|top@lightning|recent@nostr	SIGNAL	MostroEuropa: European Mostro Community trading P2P over Nostr + Lightning
+2026-08-25T16:49:29.316Z	1554577	news	2	160	0	0	3.5	1490792	428	recent@news|top@news	SIGNAL	Twitch and Amazon hit with lawsuit for training AI with streamers' content
+2026-08-25T16:49:29.316Z	1554597	AskSN	2	138	0	6	3.1	1054143	1143	recent@AskSN|top@AskSN	SIGNAL	Do You Believe in Ghosts, or Is It Just Our Imagination?
+2026-08-25T16:49:29.316Z	1554702	Stacker_Stocks	2	129	0	0	0.9	1054143	1143	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names
