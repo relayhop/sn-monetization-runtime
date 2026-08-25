@@ -42233,3 +42233,8 @@
 2026-08-25T08:53:42.910Z	1554380	lightning	1	201	0	1	3.3	263526	600	recent@lightning|top@lightning	SIGNAL	Channel MaxHTLC
 2026-08-25T08:53:42.910Z	1554240	Stacker_Stocks	2	157	0	0	11.7	1054143	1136	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	S&P 500 falls to start the week, dragged down by a sell-off in chip stocks
 2026-08-25T08:53:42.910Z	1554384	nostr	1	125	0	0	3.1	263526	600	recent@lightning|top@lightning|recent@nostr	SIGNAL	MostroEuropa: European Mostro Community trading P2P over Nostr + Lightning
+2026-08-25T09:08:45.295Z	1554375	security	1	2779	0	7	3.9	698001	9487	recent@security|top@security|recent@AI	HOT,SIGNAL	RBD’s Identity Theft Story: On Sunday I became a victim of identity theft
+2026-08-25T09:08:45.295Z	1554367	bitcoin	1	987	0	3	4.8	1550281	9	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin explained as a live 3D machine
+2026-08-25T09:08:45.295Z	1554247	AskSN	2	243	0	4	11.6	1546838	6	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Nostr + Lightning: Building the Future of Social Networks
+2026-08-25T09:08:45.295Z	1554380	lightning	1	201	0	1	3.5	263526	600	recent@lightning|top@lightning	SIGNAL	Channel MaxHTLC
+2026-08-25T09:08:45.295Z	1554384	nostr	1	125	0	0	3.3	263526	600	recent@lightning|top@lightning|recent@nostr	SIGNAL	MostroEuropa: European Mostro Community trading P2P over Nostr + Lightning
