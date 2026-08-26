@@ -43183,3 +43183,16 @@
 2026-08-26T10:19:39.835Z	1555083	bitcoin	1	327	0	2	4.0	1555083	12	recent@bitcoin|top@bitcoin	SIGNAL	phoenixd swap-in stays stuck if --auto-liquidity=off
 2026-08-26T10:19:39.836Z	1554937	nostr	1	261	0	1	11.8	252116	18	recent@nostr|top@nostr	SIGNAL	Notary - A Native Nostr Signer For MacOS [Keep your key outside of any client]
 2026-08-26T10:19:39.836Z	1554998	bitcoin	1	234	0	0	10.6	1552562	16	recent@bitcoin|top@bitcoin	SIGNAL	Coinbase-backed crypto advocacy group endorses 32 US midterm candidates
+2026-08-26T10:46:43.782Z	1555030	econ	2	2105	0	3	9.6	375005	2154	recent@econ|top@econ	HOT,SIGNAL	An example of the importance of decentralized platforms
+2026-08-26T10:46:43.782Z	1555068	AI	1	1279	0	0	6.0	144357	4473	recent@bitcoin|top@bitcoin|recent@AI	HOT,SIGNAL	AI Startup Rodeo is back in Austin...second time is a charm. ⚡️🤠
+2026-08-26T10:46:43.782Z	1554977	bitcoin	1	1107	0	2	11.4	28117	3562	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Covenants.diy: a node editor for covenant scripts
+2026-08-26T10:46:43.782Z	1554990	Construction_and_Engineering	2	652	0	4	11.1	9274	26691	recent@econ|top@econ|recent@Construction_and_Engineering	SIGNAL	US led record global hotel construction pipeline in Q2 2026
+2026-08-26T10:46:43.782Z	1555119	meta	1	609	0	38	2.8	74100	12170	recent@meta|top@meta|recent@AskSN	SIGNAL	What are the norms of Stacker News?
+2026-08-26T10:46:43.782Z	1555107	news	2	554	0	2	3.7	74100	12170	recent@news|top@news	SIGNAL	Roman Storm retrial rescheduled for April 26, 2027
+2026-08-26T10:46:43.782Z	1555171	Politics_And_Law	3	471	0	1	0.7	724606	12325	recent@econ|top@econ	FRESH,SIGNAL	Will Iceland Join the EU? (FT, Constanze Stelzenmüller)
+2026-08-26T10:46:43.782Z	1555083	bitcoin	1	363	0	2	4.5	1555083	12	recent@bitcoin|top@bitcoin	SIGNAL	phoenixd swap-in stays stuck if --auto-liquidity=off
+2026-08-26T10:46:43.782Z	1554987	Construction_and_Engineering	2	265	0	1	11.2	9274	26691	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Walmart is 3D printing the future of big box stores
+2026-08-26T10:46:43.782Z	1555176	Design	2	261	0	1	0.6	163128	3782	recent@tech|top@tech|recent@Design	FRESH,SIGNAL	DEF CON :: noRecognition : Could a pattern on clothing fool Facial Recognition?
+2026-08-26T10:46:43.782Z	1554998	bitcoin	1	234	0	0	11.0	1552562	16	recent@bitcoin|top@bitcoin	SIGNAL	Coinbase-backed crypto advocacy group endorses 32 US midterm candidates
+2026-08-26T10:46:43.782Z	1555059	Construction_and_Engineering	2	234	0	0	6.9	1022234	580	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 8/25/26
+2026-08-26T10:46:43.782Z	1555157	BooksAndArticles	2	147	0	0	1.3	147412	1437	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	Continuity of Control #1 H. G. Wells – Conspiracy in Broad Daylight
