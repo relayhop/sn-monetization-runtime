@@ -1,0 +1,61 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1555068	AI	1	1406	0	0	11.1	144357	4473	recent@bitcoin|top@bitcoin|recent@AI	HOT,SIGNAL	AI Startup Rodeo is back in Austin...second time is a charm. ⚡️🤠
+1555439	bitcoin	1	1152	0	7	0.6	223678	6049	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Take your CLN node offline.
+1555119	meta	1	827	0	75	7.9	74100	12181	recent@meta|top@meta	SIGNAL	What are the norms of Stacker News?
+1555410	Memes	2	622	0	1	1.1	328182	3899	recent@bitdevs|top@bitdevs|recent@devs	FRESH,SIGNAL	life of a software dev
+1555382	bitcoin	1	548	0	0	1.6	1014665	230	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	T-bast, Salvatore, spacebear - Bitcoin Optech Newsletter #419 Recap Podcast
+1555176	Design	2	365	0	1	5.7	163128	3785	recent@tech|top@tech	SIGNAL	DEF CON :: noRecognition : Could a pattern on clothing fool Facial Recognition?
+1555083	bitcoin	1	363	0	2	9.6	1555083	14	recent@bitcoin|top@bitcoin	SIGNAL	phoenixd swap-in stays stuck if --auto-liquidity=off
+1555282	AI	1	353	0	1	3.1	9274	26701	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI	SIGNAL	TeraWulf Advances 51k BTC Data Center at Former Kentucky Smelter
+1555423	meta	1	286	0	4	0.9	36151	1608	recent@meta|top@meta	FRESH,SIGNAL	What are you working on this week?
+1555409	security	1	170	0	2	1.1	297791	7656	recent@security|top@security	FRESH,SIGNAL	Ring hopes new encryption tech will ease security cameras surveillance fears
+1555256	Design	2	167	0	2	3.8	163128	3785	recent@lightning|top@lightning|recent@nostr	SIGNAL	Nostr Boutique: your decentralized, permissionless ecommerce portal w/ simple UX
+1555069	bitcoin	1	129	0	1	10.9	296825	5213	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	9000 Bitcoins | StoneMan
+1555265	AI	1	125	0	0	3.6	328182	3899	recent@AI|top@AI	SIGNAL	Granite 4.2 brings native reasoning to enterprise agents
+1555166	meta	1	107	0	0	5.9	36151	1608	recent@meta|top@meta	SIGNAL	This Day on SN: August 26
+1554539	bitcoin	1	5466	0	15	27.3	57444	15818	recent@bitcoin	HOT	Non-custodial prediction markets on Ark?
+1554375	security	1	3584	0	14	34.7	698001	9495	recent@security|recent@AI	HOT	RBD’s Identity Theft Story: On Sunday I became a victim of identity theft
+1554938	meta	1	2090	0	12	17.3	191840	7788	recent@meta|top@meta	HOT	@nitter is dead again
+1554844	bitcoin	1	1913	0	10	20.4	74100	12181	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Getting Bitcoin · It’s time to take bitcoin seriously.
+1554367	bitcoin	1	1661	0	12	35.6	1550281	12	recent@bitcoin	HOT	Bitcoin explained as a live 3D machine
+1554566	bitcoin	1	1345	0	4	26.7	74100	12181	recent@bitcoin|recent@bitcoin_beginners	HOT	Bitcoin Supply Check - BitMex Research
+1554977	bitcoin	1	1128	0	2	16.5	28117	3562	recent@bitcoin|top@bitcoin	HOT	Covenants.diy: a node editor for covenant scripts
+1554781	science	2	1109	0	3	21.6	328182	3899	recent@tech|top@tech	HOT	SpaceX intends to invest up to $100 billion in massive Louisiana spaceport
+1554837	bitcoin	1	851	0	1	20.6	296825	5213	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		The v3b weak seed sweeper | 1.771BTC RBF'ed txns were all consumed in miner fees
+1554657	AI	1	830	0	2	24.9	19732	166	recent@AI		Tutorial: How to access your locally run AI models remotely
+1554591	AI	1	785	0	15	26.3	724606	12336	recent@AI		America Can't Outgrow $40 Trillion in Debt (TDE, Pete Earle)
+1554713	bitcoin	1	754	0	11	23.8	30782	25558	recent@bitcoin|top@bitcoin		Can't Connect Zeus Wallet to my LND node with LNC anymore?
+1554663	tech	1	682	0	1	24.7	161788	10310	recent@tech		Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+1554520	AI	1	632	0	2	27.7	74100	12181	recent@AI		AI Grinding for Fun and Cryptanalysis
+1554736	tech	1	465	0	0	22.9	1512975	15	recent@tech|top@tech		EmailOSINT: The story behind any email address
+1554733	tutorials	2	436	0	7	23.1	1287051	12	recent@bitcoin|top@bitcoin|recent@security	SELF_POST_OPP	Penlock: fast & easy seedphrase by hand!
+1554771	art	3	405	0	2	21.9	798714	1374	recent@bitcoin_beginners|top@bitcoin_beginners		Orange pilling one chapter at a time
+1554865	AI	1	355	0	1	19.7	12309	3631	recent@AI|top@AI		OpenAI recently finished its next >10T pretrain, codename "Bel"
+1554556	bitcoin	1	327	0	0	27.0	1490792	433	recent@bitcoin|recent@bitcoin_beginners|recent@bitdevs		Bitcoin Core considers removing CJDNS support
+1554937	nostr	1	282	0	1	17.4	252116	18	recent@nostr|top@nostr		Notary - A Native Nostr Signer For MacOS [Keep your key outside of any client]
+1554846	AI	1	275	0	0	20.3	297791	7656	recent@AI|top@AI		Anthropic Expands Mythos 5 Access While Keeping the Model Restricted
+1554380	lightning	1	268	0	2	34.3	263526	603	recent@lightning		Channel MaxHTLC
+1554430	nostr	1	237	0	3	32.4	163128	3785	recent@lightning|recent@nostr		Zap Alerts - Bitcoin Lightning Stream Alerts for OBS via Nostr
+1554998	bitcoin	1	234	0	0	16.1	1552562	16	recent@bitcoin|top@bitcoin		Coinbase-backed crypto advocacy group endorses 32 US midterm candidates
+1554468	meta	1	177	0	1	29.9	36151	1608	recent@meta		This Day on SN: August 25
+1554719	bitcoin	1	166	0	1	23.7	375687	3150	recent@bitcoin_beginners|top@bitcoin_beginners		Update: v1.4.0 MostroP2P/mobile
+1554384	nostr	1	161	0	0	34.1	263526	603	recent@lightning|recent@nostr		MostroEuropa: European Mostro Community trading P2P over Nostr + Lightning
+1554747	podcasts	2	146	0	3	22.6	51481	4155	recent@privacy|top@privacy		WhatBitcoinDid-The Plan to Put Bitcoin in Every Conversation | Seth For Privacy
+1554835	AI	1	125	0	3	20.6	1532699	245	recent@AI|top@AI		What If the Next AI Data Center Is Sitting in Your Backyard?
+1554683	Music	3	92	0	1	24.3	1054143	1153	recent@AI		Australia’s Top Music Charts Ban AI songs
+1554600	bitcoin_Mining	1	61	0	1	26.1	864760	78	recent@bitcoin_Mining		GM hash stackin' beasts
+1554636	bitcoin	1	57	0	0	25.2	296825	5213	recent@bitcoin_beginners|recent@bitcoin_Mining		Bitcoin Mining Decentralization Check: Read the landscape
+1554712	bitcoin_beginners	1	57	0	0	23.8	296825	5213	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Mostro Mobile v1.4.0 is out!
+1554697	bitcoin_beginners	1	57	0	0	24.0	296825	5213	recent@bitcoin_beginners|recent@lightning		SideSwap - Settlement infrastructure of the Liquid Network
+1554553	bitcoin	1	51	0	1	27.0	163128	3785	recent@lightning		Bitcoin Train Stop #313 - Spark: Conditional Self-Custody
+1555372	podcasts	2	36	0	0	1.8	1227948	203	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	YATA Episode 16
+1554933	bitcoin	1	36	0	1	17.6	1490792	433	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Slovak Developer Embeds Image in BTC  Transaction Without Taproot or OP_RETURN
+1554821	bitcoin	1	36	0	0	20.9	296825	5213	recent@bitcoin_beginners|top@bitcoin_beginners		The Bitcoin Reformation
+1554679	bitcoin_beginners	1	36	0	1	24.4	296825	5213	recent@bitcoin_beginners|recent@lightning		"You got paid in Bitcoin. The Bitcoin never moved". Still attracted to Fake L2s?
+1554624	bitcoin_beginners	1	36	0	0	25.4	296825	5213	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Monthly Cashu Dev Call this Thursday at 16:00 UTC
+1555139	bitdevs	1	21	0	2	7.3	263526	603	recent@bitdevs|top@bitdevs|recent@lightning		What if adding Bitcoin and Lightning payments to your app was actually... easy?
+1554724	AI	1	21	0	0	23.5	296825	5213	recent@AI|top@AI		God’s Eye View V1 is open source
+1554569	AI	1	21	0	1	26.7	984933	2157	recent@AI		Unbelievable, scammer sells baby dinosaurs created with AI
+1554625	lightning	1	10	0	3	25.4	263526	603	recent@lightning		Has anyone actually seen a scam that specifically requested Lightning payment?
+1554838	bitcoin	1	0	0	0	20.6	272410	1257	recent@lightning|top@lightning		Zap Tracker - All-in-One Lightning Network Dashboard
+1554578	AI	1	0	0	0	26.5	934367	995	recent@AI		A Simple Global Git Hook to Block Sensitive Strings
