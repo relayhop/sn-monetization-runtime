@@ -1,13 +1,10 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-26T04:39:07.585Z; n=40
-ultra	hn,sn:tech	8.71	yes	
-show	hn	7.48	no	RISING
+# generated 2026-08-26T10:34:45.334Z; n=40
+ultra	hn,sn:tech	8.78	yes	
 bessent	sn:Politics_And_Law,sn:econ	6.11	no	RISING
-identity theft story	sn:security	3.55	yes	
-on sunday	sn:security	3.55	yes	
-getting bitcoin	sn:bitcoin	3.27	yes	
-post	sn:econ	3.23	no	RISING
-yishan	sn:econ	3.23	no	RISING
+mazda cafe	sn:Travel	3.31	no	RISING
+japan	sn:Travel	3.31	yes	
+getting bitcoin	sn:bitcoin	3.28	yes	
 treasury stunt	sn:Politics_And_Law	3.23	no	RISING
 kind	sn:Politics_And_Law	3.23	no	RISING
 ridiculous	sn:Politics_And_Law	3.23	no	RISING
@@ -15,10 +12,13 @@ alphaville	sn:Politics_And_Law	3.23	no	RISING
 toby nangle	sn:Politics_And_Law	3.23	no	RISING
 bitcoin supply check	sn:bitcoin	3.13	yes	
 research	sn:bitcoin	3.13	yes	
-dolly parton	hn	3.12	no	RISING
+startup rodeo	sn:AI	3.09	yes	
+austin	sn:AI	3.09	yes	
+apple	hn	3.06	yes	
 louisiana	sn:science	3.05	yes	
 covenants	sn:bitcoin	3.04	yes	
-apple	hn	3.01	yes	
+nitter	hn	2.99	no	RISING
+legoland discovery centre	sn:Stacker_Sports	2.97	no	RISING
 tutorial	sn:AI	2.92	yes	
 america can	sn:AI	2.9	yes	
 outgrow	sn:AI	2.9	yes	
@@ -26,17 +26,17 @@ trillion	sn:AI	2.9	yes
 debt	sn:AI	2.9	yes	
 pete earle	sn:AI	2.9	yes	
 long-term	sn:Travel	2.9	no	RISING
+new mac studio	hn	2.89	no	RISING
 connect zeus wallet	sn:bitcoin	2.88	yes	
+uscp	sn:Politics_And_Law	2.88	no	RISING
+arrests driver	sn:Politics_And_Law	2.88	no	RISING
+guillotine	sn:Politics_And_Law	2.88	no	RISING
+truckbed	sn:Politics_And_Law	2.88	no	RISING
 drunken druckenmiller dunk	sn:econ	2.88	no	RISING
 robin wigglesworth	sn:econ	2.88	no	RISING
-new mac studio	hn	2.86	no	RISING
-nitter	hn	2.86	no	RISING
+do you believe	sn:AskSN	2.87	no	RISING
+ghosts	sn:AskSN	2.87	no	RISING
+is it just our imagination	sn:AskSN	2.87	no	RISING
 bonds	sn:Stacker_Stocks	2.85	no	RISING
 financial engineering	sn:Stacker_Stocks	2.85	no	RISING
 future	sn:Stacker_Stocks	2.85	yes	
-money stuff	sn:Stacker_Stocks	2.85	no	RISING
-matt levine	sn:Stacker_Stocks	2.85	no	RISING
-do you believe	sn:AskSN	2.85	no	RISING
-ghosts	sn:AskSN	2.85	no	RISING
-is it just our imagination	sn:AskSN	2.85	no	RISING
-apple introduces new mac studio	sn:tech	2.83	yes	
