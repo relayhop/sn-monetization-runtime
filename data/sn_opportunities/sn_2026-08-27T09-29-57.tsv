@@ -1,0 +1,97 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1555850	bitcoin	1	5349	0	4	9.9	93884	96	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Don't switch your Core Lightning node off, restart it with --offline instead
+1555802	math	2	1472	0	2	10.9	74100	12196	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	BIP SHRINCS (draft)
+1555798	privacy	1	982	0	4	10.9	513690	1683	recent@privacy|top@privacy	SIGNAL	All Proton services are down
+1555896	science	2	729	0	3	8.3	51481	4158	recent@science|top@science|recent@Construction_and_Engineering	SIGNAL	No more Starlink launches on Falcon 9 from Florida
+1555902	AI	1	524	0	1	7.9	328182	3906	recent@AI|top@AI	SIGNAL	The Hugging Face incident and the road ahead
+1555871	Stacker_Stocks	2	425	0	1	9.1	934429	326	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Nvidia is the worst-performing semiconductor stock in the United States in 2026.
+1555978	AskSN	2	401	0	2	1.0	102558	1123	recent@AskSN|top@AskSN	FRESH,SIGNAL	What the f#*k is AURA FARMING?
+1555784	news	2	372	0	4	11.5	1	27206	recent@tech|top@tech|recent@news	SIGNAL	French Top Court Gets It Right, Strikes Down Social Media Ban For Youths
+1555869	Photography	3	349	0	2	9.1	984933	2163	recent@history|top@history	SIGNAL	Early autochrome colour photo of Notre Dame Cathedral in Paris, 1920
+1555829	bitcoin	1	240	0	0	10.4	513690	1683	recent@lightning|top@lightning	SIGNAL	Let's welcome SATS Routing - a new Boltz backend
+1555897	AI	1	218	0	0	8.3	297791	7659	recent@AI|top@AI	SIGNAL	Xiaomi's first high-bandwidth Al accelerator chip designed for on-device LLMs
+1555976	art	3	146	0	0	1.2	988069	289	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	Dear citizens of the universe and beyond
+1555907	news	2	114	0	1	7.8	328182	3906	recent@news|top@news	SIGNAL	New Twitter launches, says Musk's X gave up the name
+1555439	bitcoin	1	4828	0	68	18.2	223678	6076	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Take your CLN node offline.
+1555677	bitcoin	1	3731	0	3	14.0	223678	6076	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Upgrade your Eclair node (lol)
+1555588	econ	2	3319	0	6	15.9	724606	12342	recent@econ|top@econ	HOT,SELF_POST_OPP	On the Economics of Inflation-Protected Securities
+1555119	meta	1	2697	0	92	25.5	74100	12196	recent@meta|recent@AskSN	HOT	What are the norms of Stacker News?
+1555382	bitcoin	1	2433	0	0	19.2	1014665	230	recent@bitcoin|top@bitcoin	HOT	T-bast, Salvatore, spacebear - Bitcoin Optech Newsletter #419 Recap Podcast
+1554938	meta	1	2337	0	13	34.9	191840	7797	recent@meta	HOT	@nitter is dead again
+1555030	econ	2	2105	0	5	32.3	375005	2156	recent@econ	HOT,SELF_POST_OPP	An example of the importance of decentralized platforms
+1555107	news	2	1999	0	21	26.4	74100	12196	recent@news	HOT	Roman Storm retrial rescheduled for April 26, 2027
+1555668	bitcoin_Mining	1	1928	0	1	14.2	1028548	576	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Testing out Gridpool.net
+1555171	Politics_And_Law	3	1563	0	16	23.4	724606	12342	recent@econ|top@econ	HOT,SELF_POST_OPP	Will Iceland Join the EU? (FT, Constanze Stelzenmüller)
+1555625	bitcoin	1	1543	0	7	14.8	30782	25565	recent@bitcoin|top@bitcoin	HOT	The Bitcoin Reformation
+1555068	AI	1	1406	0	2	28.7	144357	4477	recent@bitcoin|recent@AI	HOT	AI Startup Rodeo is back in Austin...second time is a charm. ⚡️🤠
+1555456	bitcoin	1	1231	0	10	18.0	996769	53	recent@bitcoin|top@bitcoin|recent@podcasts	HOT	How Bitcoin Can Be Co-opted Without Being Destroyed - Efrat Fenigson
+1555410	Memes	2	1130	0	11	18.7	328182	3906	recent@bitdevs|top@bitdevs|recent@devs	HOT,SELF_POST_OPP	life of a software dev
+1554977	bitcoin	1	1128	0	2	34.1	28117	3565	recent@bitcoin	HOT	Covenants.diy: a node editor for covenant scripts
+1555266	Construction_and_Engineering	2	807	0	2	21.2	9274	26722	recent@econ|top@econ|recent@Construction_and_Engineering		Construction Starts Rebound 25.6% in July
+1555059	Construction_and_Engineering	2	740	0	1	29.6	1022234	580	recent@Construction_and_Engineering		PoW 8/25/26
+1555324	charts_and_maps	2	729	0	0	20.0	984933	2163	recent@charts_and_maps|top@charts_and_maps		Steep rise in electric vehicle sales
+1555666	news	2	674	0	4	14.3	9274	26722	recent@econ|top@econ|recent@news		Colorado River cuts to drive up AZ water prices
+1555610	charts_and_maps	2	659	0	1	15.2	328182	3906	recent@econ|top@econ|recent@charts_and_maps		Mapped: Every U.S. State’s Economy, Matched to a Country
+1554990	Construction_and_Engineering	2	652	0	5	33.9	9274	26722	recent@econ|recent@Construction_and_Engineering	SELF_POST_OPP	US led record global hotel construction pipeline in Q2 2026
+1555569	tech	1	611	0	2	16.3	440139	4270	recent@tech|top@tech		Using a shock collar to stop myself doomscrolling
+1555712	bitdevs	1	564	0	3	13.2	1423901	129	recent@bitdevs|top@bitdevs		Troubleshooting Alby Hub
+1555673	Stacker_Sports	3	561	0	3	14.1	9274	26722	recent@Construction_and_Engineering|top@Construction_and_Engineering		Raiders looking to build 2K BTC Allegiant Stadium Hacienda plaza platform
+1555423	meta	1	525	0	13	18.5	36151	1608	recent@meta|top@meta		What are you working on this week?
+1555181	DIY	3	511	0	5	23.3	272410	1266	recent@Construction_and_Engineering|top@Construction_and_Engineering	SELF_POST_OPP	Someone turned 30 olive trees into poodle haircuts and I need answers 🫒😤
+1555380	AskSN	2	510	0	5	19.3	104755	12852	recent@AskSN|top@AskSN	SELF_POST_OPP	Will you hold a guy’s hand?
+1555574	Stacker_Stocks	2	445	0	2	16.2	1532699	248	recent@Stacker_Stocks|top@Stacker_Stocks		America's “#1 Gold Stock” - Dylan Jovine's Latest Pitch
+1555223	BooksAndArticles	2	424	0	6	22.2	1264102	67	recent@BooksAndArticles|top@BooksAndArticles	SELF_POST_OPP	Strange New Title In Our Bitcoin Books Section
+1555282	AI	1	389	0	1	20.7	9274	26722	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI		TeraWulf Advances 51k BTC Data Center at Former Kentucky Smelter
+1555328	econ	2	385	0	15	19.9	88718	46876	recent@econ|top@econ	SELF_POST_OPP	Social Trust Is a Superpower
+1555651	AI	1	378	0	1	14.5	12309	3633	recent@tech|top@tech|recent@AI		Hot Chips 2026: Nvidia presents Groq 3 LPX architecture
+1555176	Design	2	365	0	1	23.3	163128	3787	recent@tech|top@tech|recent@Design		DEF CON :: noRecognition : Could a pattern on clothing fool Facial Recognition?
+1555083	bitcoin	1	363	0	2	27.2	1555083	14	recent@bitcoin		phoenixd swap-in stays stuck if --auto-liquidity=off
+1555554	news	2	320	0	12	16.5	1293586	2216	recent@news|top@news	SELF_POST_OPP	Wiped out: US faces surging toilet paper prices amid trade war with Canada
+1554987	Construction_and_Engineering	2	317	0	1	34.0	9274	26722	recent@Construction_and_Engineering		Walmart is 3D printing the future of big box stores
+1554937	nostr	1	282	0	1	35.0	252116	18	recent@nostr		Notary - A Native Nostr Signer For MacOS [Keep your key outside of any client]
+1555164	econ	2	257	0	6	23.5	498251	880	recent@econ|top@econ	SELF_POST_OPP	Revolut rolls out euro stablecoin in three European markets
+1555612	Construction_and_Engineering	2	238	0	0	15.2	12309	3633	recent@Construction_and_Engineering|top@Construction_and_Engineering		The Porsche 911 GT3 Touring punches above its weight class
+1554998	bitcoin	1	234	0	0	33.7	1552562	16	recent@bitcoin		Coinbase-backed crypto advocacy group endorses 32 US midterm candidates
+1555409	security	1	206	0	2	18.7	297791	7659	recent@security|top@security		Ring hopes new encryption tech will ease security cameras surveillance fears
+1555157	BooksAndArticles	2	168	0	0	24.1	147412	1437	recent@BooksAndArticles		Continuity of Control #1 H. G. Wells – Conspiracy in Broad Daylight
+1555256	Design	2	167	0	2	21.4	163128	3787	recent@lightning|top@lightning|recent@nostr		Nostr Boutique: your decentralized, permissionless ecommerce portal w/ simple UX
+1555561	bitcoin	1	165	0	2	16.3	328182	3906	recent@econ|top@econ		Bitcoin Is A Trillion-Dollar Asset. But What Kind Of Trillion Is It?
+1555304	econ	2	165	0	4	20.2	162090	57	recent@econ|top@econ		Is deflation always bad for the economy?
+1555202	Stacker_Stocks	2	155	0	2	22.9	9274	26722	recent@Stacker_Stocks|top@Stacker_Stocks		🏜️ Dry nation - Snacks
+1555597	AI	1	146	0	0	15.7	297791	7659	recent@AI|top@AI		AIM — India's Leading AI & Data Science Media Platform
+1555358	Politics_And_Law	3	136	0	27	19.6	642641	8501	recent@history|top@history		Is America Still Capable of Enforcing the World Order?
+1555671	Politics_And_Law	3	131	0	3	14.1	88718	46876	recent@history|top@history		The Penal Leviathan: What Wacquant and Rothbard Reveal About Modern Punishment
+1555069	bitcoin	1	129	0	1	28.5	296825	5217	recent@bitcoin_beginners|recent@lightning|recent@history		9000 Bitcoins | StoneMan
+1555265	AI	1	125	0	0	21.2	328182	3906	recent@AI|top@AI		Granite 4.2 brings native reasoning to enterprise agents
+1555372	podcasts	2	119	0	0	19.4	1227948	203	recent@bitcoin_beginners|top@bitcoin_beginners|recent@podcasts		YATA Episode 16
+1555166	meta	1	107	0	0	23.5	36151	1608	recent@meta|top@meta		This Day on SN: August 26
+1555693	Design	2	99	0	0	13.4	383547	3554	recent@Design|top@Design		The AI Interface Museum
+1555212	news	2	94	0	0	22.8	1490792	433	recent@news|top@news		India’s crewed space program will fly this year, after missing 2022 and 2025
+1555562	bitcoin_beginners	1	86	0	3	16.3	296825	5217	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Braiins expanding beyond Bitmain.  Avalon hardware is already hashing
+1555231	Politics_And_Law	3	76	0	0	22.1	88718	46876	recent@econ|top@econ		Regulation: Protecting Incumbents and Suppressing Competition
+1555533	news	2	76	0	0	16.9	1293586	2216	recent@news|top@news		Tim Curry passed at 80
+1555780	science	2	75	0	1	11.7	297791	7659	recent@science|top@science		Richard Feynman’s 80-year-old quantum postulate has now been validated
+1555575	econ	2	72	0	1	16.1	328182	3906	recent@econ|top@econ		The Affordability Debate Unwrapped
+1555793	news	2	61	0	0	11.2	272410	1266	recent@news|top@news		"We Bought Editors, TV Stations". Wilkerson Exposes CIA/MI6 Operations in Europe
+1555298	Design	2	50	0	0	20.3	383547	3554	recent@Design|top@Design		On teaching AI how you work
+1555248	science	2	46	0	14	21.6	972685	623	recent@science|top@science		Some Earth microbes could survive on the Moon
+1555418	econ	2	45	0	4	18.6	972685	623	recent@econ|top@econ		Fed's Raise Interest Rates Again
+1554997	Stacker_Stocks	2	42	0	0	33.7	934429	326	recent@Stacker_Stocks		Premium on 30-year bonds hits a 15-year high across major developed economies.
+1554978	Photography	3	42	0	0	34.1	984933	2163	recent@history		Cherry blossoms in Japan, 1890s. Colourized
+1555185	Stacker_Stocks	2	40	0	22	23.2	9274	26722	recent@Stacker_Stocks|top@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1555647	bitcoin_beginners	1	36	0	1	14.5	296825	5217	recent@bitcoin_beginners|top@bitcoin_beginners		Replace your bitcoin address with a name via Silent Payments
+1554933	bitcoin	1	36	0	1	35.3	1490792	433	recent@bitcoin_beginners|recent@bitcoin_Mining		Slovak Developer Embeds Image in BTC  Transaction Without Taproot or OP_RETURN
+1555281	Politics_And_Law	3	36	0	0	20.8	328182	3906	recent@econ|top@econ|recent@ideasfromtheedge		The Great Dutch Cannabis Experiment
+1555606	BooksAndArticles	2	36	0	0	15.3	1208996	465	recent@BooksAndArticles|top@BooksAndArticles		The Story of an Emigrant
+1555233	nostr	1	36	0	0	22.0	12393	466	recent@BooksAndArticles|top@BooksAndArticles		Fanfares - Sell your content for bitcoin
+1555139	bitdevs	1	21	0	2	24.9	263526	603	recent@bitdevs|recent@lightning		What if adding Bitcoin and Lightning payments to your app was actually... easy?
+1555757	news	2	15	0	0	12.1	1054143	1157	recent@econ|top@econ|recent@news		US Will Achieve Nothing’ With Economic Pressure, Says Iran’s President
+1555754	news	2	10	0	0	12.1	1508500	443	recent@news|top@news		Chinese hackers broke into DOJ, NASA, Federal Reserve, Senate
+1555326	news	2	10	0	0	20.0	272410	1266	recent@news|top@news		Morocco just named a 655-mile highway after Trump
+1555711	bitcoin	1	0	0	3	13.2	223678	6076	recent@bitcoin|top@bitcoin		Message from Blockstream. Is this real?
+1555969	art	3	0	0	0	1.5	972685	623	recent@AI|top@AI	FRESH	AI Art Sells for $1.08 Million at Sotheby’s
+1555944	openagents	1	0	0	0	4.3	534967	233	recent@openagents|top@openagents		Episode 275: Coder [come spend our free credits plz]
+1554952	Construction_and_Engineering	2	0	0	0	34.5	1054143	1157	recent@Construction_and_Engineering		U.S. 42 construction could cause traffic delays, Medina engineer says
+1555239	AskSN	2	0	0	0	21.9	984933	2163	recent@AskSN|top@AskSN		Daily Discussion Thread ~AskSN
+1555397	dotnet	2	0	0	1	18.9	249216	280	recent@dotnet|top@dotnet		Twitter Viewer - Nitter, xcancel alternative
+1555201	news	2	0	0	0	23.0	1490792	433	recent@news|top@news		Bitcoin Policy UK reports bank blocks on exchanges
