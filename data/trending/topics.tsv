@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-27T02:57:50.022Z; n=40
-what	sn:meta	6.12	yes	
-core lightning	sn:bitcoin	3.71	yes	
+# generated 2026-08-27T15:00:32.833Z; n=40
+hugging face	hn	5.52	no	RISING
+the hugging face	hn,sn:AI	5.21	yes	
+core lightning	sn:bitcoin	3.73	yes	
 take	sn:bitcoin	3.68	yes	
+show	hn	3.59	no	RISING
 upgrade	sn:bitcoin	3.57	yes	
 eclair	sn:bitcoin	3.57	yes	
-economics	sn:econ	3.52	no	RISING
-inflation-protected securities	sn:econ	3.52	no	RISING
-stacker news	sn:meta	3.4	yes	
-salvatore	sn:bitcoin	3.39	yes	
-bitcoin optech newsletter	sn:bitcoin	3.39	yes	
-recap podcast	sn:bitcoin	3.39	yes	
-mazda cafe	sn:Travel	3.35	no	RISING
-japan	sn:Travel	3.35	yes	
-roman storm	sn:news	3.3	no	RISING
-april	sn:news	3.3	no	RISING
+economics	sn:econ	3.53	no	RISING
+inflation-protected securities	sn:econ	3.53	no	RISING
 testing	sn:bitcoin_Mining	3.29	no	RISING
 gridpool	sn:bitcoin_Mining	3.29	no	RISING
-will iceland join	sn:Politics_And_Law	3.19	no	RISING
-constanze stelzenm	sn:Politics_And_Law	3.19	no	RISING
+nvidia	hn	3.2	yes	
 the bitcoin reformation	sn:bitcoin	3.19	yes	
-startup rodeo	sn:AI	3.15	yes	
-austin	sn:AI	3.15	yes	
-shrincs	sn:math	3.14	yes	
+shrincs	sn:math	3.18	yes	
 how bitcoin can be co	sn:bitcoin	3.09	yes	
 without being destroyed	sn:bitcoin	3.09	yes	
 efrat fenigson	sn:bitcoin	3.09	yes	
-acquires	hn	2.99	no	RISING
 all proton	sn:privacy	2.99	no	RISING
-need	sn:Photography	2.98	no	RISING
-flash	hn	2.96	no	RISING
-mark walter	sn:Stacker_Sports	2.91	no	RISING
-global blasts	sn:Stacker_Sports	2.91	no	RISING
-insists	sn:Stacker_Sports	2.91	no	RISING
-amid federal probe	sn:Stacker_Sports	2.91	no	RISING
-construction starts rebound	sn:Construction_and_Engineering	2.91	no	RISING
-july	sn:Construction_and_Engineering	2.91	yes	
-survivor buy	sn:Stacker_Sports	2.86	no	RISING
-steep	sn:charts_and_maps	2.86	no	RISING
+starlink	sn:science	2.99	no	RISING
+falcon	sn:science	2.99	no	RISING
+florida	sn:science	2.99	no	RISING
+what	sn:AskSN	2.97	yes	
+aura	sn:AskSN	2.97	no	RISING
+farming	sn:AskSN	2.97	no	RISING
+merlo america knows where construction will grow next	sn:Construction_and_Engineering	2.97	no	RISING
+developers	hn	2.92	no	RISING
+state department	hn	2.87	no	RISING
+survivor buy	sn:Stacker_Sports	2.87	no	RISING
 colorado river	sn:news	2.83	no	RISING
 mapped	sn:charts_and_maps	2.82	no	RISING
+every	sn:charts_and_maps	2.82	no	RISING
+state	sn:charts_and_maps	2.82	no	RISING
+economy	sn:charts_and_maps	2.82	no	RISING
+matched	sn:charts_and_maps	2.82	no	RISING
+country	sn:charts_and_maps	2.82	no	RISING
+tailcat	hn	2.8	no	RISING
+like	hn	2.8	no	RISING
+tailscale	hn	2.8	no	RISING
+napstr	sn:Music	2.8	yes	
+everything	sn:Music	2.8	yes	
