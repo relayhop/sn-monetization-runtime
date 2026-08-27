@@ -43428,3 +43428,17 @@
 2026-08-26T23:22:54.221Z	1555265	AI	1	125	0	0	11.1	328182	3904	recent@AI|top@AI	SIGNAL	Granite 4.2 brings native reasoning to enterprise agents
 2026-08-26T23:22:54.221Z	1555612	Construction_and_Engineering	2	120	0	0	5.1	12309	3633	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	The Porsche 911 GT3 Touring punches above its weight class
 2026-08-26T23:22:54.221Z	1555372	podcasts	2	119	0	0	9.3	1227948	203	recent@bitcoin_beginners|top@bitcoin_beginners|recent@podcasts	SIGNAL	YATA Episode 16
+2026-08-27T03:19:50.337Z	1555850	bitcoin	1	5124	0	4	3.7	93884	96	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Don't switch your Core Lightning node off, restart it with --offline instead
+2026-08-27T03:19:50.337Z	1555677	bitcoin	1	3731	0	3	7.8	223678	6075	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Upgrade your Eclair node (lol)
+2026-08-27T03:19:50.337Z	1555668	bitcoin_Mining	1	1928	0	1	8.1	1028548	576	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Testing out Gridpool.net
+2026-08-27T03:19:50.337Z	1555625	bitcoin	1	1543	0	7	8.6	30782	25565	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Bitcoin Reformation
+2026-08-27T03:19:50.337Z	1555802	math	2	1367	0	1	4.7	74100	12196	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	BIP SHRINCS (draft)
+2026-08-27T03:19:50.337Z	1555456	bitcoin	1	1231	0	10	11.8	996769	51	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How Bitcoin Can Be Co-opted Without Being Destroyed - Efrat Fenigson
+2026-08-27T03:19:50.337Z	1555798	privacy	1	982	0	4	4.8	513690	1682	recent@privacy|top@privacy	SIGNAL	All Proton services are down
+2026-08-27T03:19:50.337Z	1555569	tech	1	611	0	2	10.1	440139	4270	recent@tech|top@tech	SIGNAL	Using a shock collar to stop myself doomscrolling
+2026-08-27T03:19:50.337Z	1555712	bitdevs	1	564	0	3	7.0	1423901	129	recent@bitdevs|top@bitdevs	SIGNAL	Troubleshooting Alby Hub
+2026-08-27T03:19:50.337Z	1555902	AI	1	399	0	0	1.8	328182	3906	recent@AI|top@AI	FRESH,SIGNAL	The Hugging Face incident and the road ahead
+2026-08-27T03:19:50.337Z	1555651	AI	1	378	0	1	8.3	12309	3633	recent@tech|top@tech|recent@AI	SIGNAL	Hot Chips 2026: Nvidia presents Groq 3 LPX architecture
+2026-08-27T03:19:50.337Z	1555784	news	2	362	0	3	5.4	1	27205	recent@tech|top@tech	SIGNAL	French Top Court Gets It Right, Strikes Down Social Media Ban For Youths
+2026-08-27T03:19:50.337Z	1555597	AI	1	146	0	0	9.5	297791	7659	recent@AI|top@AI	SIGNAL	AIM — India's Leading AI & Data Science Media Platform
+2026-08-27T03:19:50.337Z	1555829	bitcoin	1	115	0	0	4.2	513690	1682	recent@lightning|top@lightning	SIGNAL	Let's welcome SATS Routing - a new Boltz backend
