@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-27T15:00:32.833Z; n=40
-hugging face	hn	5.52	no	RISING
-the hugging face	hn,sn:AI	5.21	yes	
-core lightning	sn:bitcoin	3.73	yes	
-take	sn:bitcoin	3.68	yes	
-show	hn	3.59	no	RISING
-upgrade	sn:bitcoin	3.57	yes	
-eclair	sn:bitcoin	3.57	yes	
-economics	sn:econ	3.53	no	RISING
-inflation-protected securities	sn:econ	3.53	no	RISING
-testing	sn:bitcoin_Mining	3.29	no	RISING
-gridpool	sn:bitcoin_Mining	3.29	no	RISING
-nvidia	hn	3.2	yes	
-the bitcoin reformation	sn:bitcoin	3.19	yes	
-shrincs	sn:math	3.18	yes	
-how bitcoin can be co	sn:bitcoin	3.09	yes	
-without being destroyed	sn:bitcoin	3.09	yes	
-efrat fenigson	sn:bitcoin	3.09	yes	
-all proton	sn:privacy	2.99	no	RISING
+# generated 2026-08-28T00:45:31.670Z; n=40
+show	hn	8	no	RISING
+bitcoin	sn:bitcoin	6.37	yes	
+first	hn,sn:bitcoin	5.55	yes	
+trump	sn:Politics_And_Law	5.23	no	RISING
+napstr	sn:Music	3.62	yes	
+everything	sn:Music	3.62	yes	
+john williams	sn:BooksAndArticles	3.61	no	RISING
+stoner	sn:BooksAndArticles	3.61	no	RISING
+nothing	sn:BooksAndArticles	3.61	no	RISING
+night	sn:BooksAndArticles	3.61	no	RISING
+stacker sports summer league	sn:Stacker_Sports	3.35	no	RISING
+week	sn:Stacker_Sports	3.35	no	RISING
+pick	sn:Stacker_Sports	3.35	no	RISING
+dividend investing	sn:Stacker_Stocks	3.34	no	RISING
+ignoring jane austen	sn:Stacker_Stocks	3.34	no	RISING
+jonathan guthrie	sn:Stacker_Stocks	3.34	no	RISING
+quantum-resistant	sn:bitcoin	3.29	yes	
+nvidia	hn	3.26	yes	
+hugging face	hn	3.26	no	RISING
+how israel	sn:AI	3.25	yes	
+gaza	sn:AI	3.25	yes	
+dear	sn:art	3.23	no	RISING
+acquires	sn:news	3.07	yes	
+nydig	sn:news	3.07	yes	
+institutional trading business	sn:news	3.07	yes	
+in praise	sn:bitcoin	3.07	yes	
+they	sn:Politics_And_Law	3.01	no	RISING
+both wrong	sn:Politics_And_Law	3.01	no	RISING
+economic liberalism	sn:Politics_And_Law	3.01	no	RISING
+socs	sn:Politics_And_Law	3.01	no	RISING
+michael strain	sn:Politics_And_Law	3.01	no	RISING
+finals week	sn:Stacker_Sports	2.99	no	RISING
+pick em	sn:Stacker_Sports	2.99	no	RISING
 starlink	sn:science	2.99	no	RISING
 falcon	sn:science	2.99	no	RISING
 florida	sn:science	2.99	no	RISING
 what	sn:AskSN	2.97	yes	
 aura	sn:AskSN	2.97	no	RISING
 farming	sn:AskSN	2.97	no	RISING
-merlo america knows where construction will grow next	sn:Construction_and_Engineering	2.97	no	RISING
-developers	hn	2.92	no	RISING
-state department	hn	2.87	no	RISING
-survivor buy	sn:Stacker_Sports	2.87	no	RISING
-colorado river	sn:news	2.83	no	RISING
-mapped	sn:charts_and_maps	2.82	no	RISING
-every	sn:charts_and_maps	2.82	no	RISING
-state	sn:charts_and_maps	2.82	no	RISING
-economy	sn:charts_and_maps	2.82	no	RISING
-matched	sn:charts_and_maps	2.82	no	RISING
-country	sn:charts_and_maps	2.82	no	RISING
-tailcat	hn	2.8	no	RISING
-like	hn	2.8	no	RISING
-tailscale	hn	2.8	no	RISING
-napstr	sn:Music	2.8	yes	
-everything	sn:Music	2.8	yes	
+companies	sn:AI	2.92	yes	
