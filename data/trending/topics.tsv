@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-28T00:45:31.670Z; n=40
-show	hn	8	no	RISING
-bitcoin	sn:bitcoin	6.37	yes	
-first	hn,sn:bitcoin	5.55	yes	
-trump	sn:Politics_And_Law	5.23	no	RISING
-napstr	sn:Music	3.62	yes	
-everything	sn:Music	3.62	yes	
-john williams	sn:BooksAndArticles	3.61	no	RISING
-stoner	sn:BooksAndArticles	3.61	no	RISING
-nothing	sn:BooksAndArticles	3.61	no	RISING
-night	sn:BooksAndArticles	3.61	no	RISING
-stacker sports summer league	sn:Stacker_Sports	3.35	no	RISING
-week	sn:Stacker_Sports	3.35	no	RISING
-pick	sn:Stacker_Sports	3.35	no	RISING
-dividend investing	sn:Stacker_Stocks	3.34	no	RISING
-ignoring jane austen	sn:Stacker_Stocks	3.34	no	RISING
-jonathan guthrie	sn:Stacker_Stocks	3.34	no	RISING
-quantum-resistant	sn:bitcoin	3.29	yes	
-nvidia	hn	3.26	yes	
-hugging face	hn	3.26	no	RISING
-how israel	sn:AI	3.25	yes	
-gaza	sn:AI	3.25	yes	
-dear	sn:art	3.23	no	RISING
-acquires	sn:news	3.07	yes	
-nydig	sn:news	3.07	yes	
-institutional trading business	sn:news	3.07	yes	
-in praise	sn:bitcoin	3.07	yes	
-they	sn:Politics_And_Law	3.01	no	RISING
-both wrong	sn:Politics_And_Law	3.01	no	RISING
-economic liberalism	sn:Politics_And_Law	3.01	no	RISING
-socs	sn:Politics_And_Law	3.01	no	RISING
-michael strain	sn:Politics_And_Law	3.01	no	RISING
-finals week	sn:Stacker_Sports	2.99	no	RISING
-pick em	sn:Stacker_Sports	2.99	no	RISING
-starlink	sn:science	2.99	no	RISING
-falcon	sn:science	2.99	no	RISING
-florida	sn:science	2.99	no	RISING
-what	sn:AskSN	2.97	yes	
-aura	sn:AskSN	2.97	no	RISING
-farming	sn:AskSN	2.97	no	RISING
-companies	sn:AI	2.92	yes	
+# generated 2026-08-28T15:55:56.067Z; n=40
+bitcoin	sn:bitcoin,sn:BooksAndArticles	5.81	yes	
+trump	sn:Politics_And_Law	5.26	no	RISING
+my friend	sn:DIY	4.13	no	RISING
+revived	sn:DIY	4.13	no	RISING
+old coca cola vending machine	sn:DIY	4.13	no	RISING
+john williams	sn:BooksAndArticles	3.63	no	RISING
+stoner	sn:BooksAndArticles	3.63	no	RISING
+nothing	sn:BooksAndArticles	3.63	no	RISING
+night	sn:BooksAndArticles	3.63	no	RISING
+dividend investing	sn:Stacker_Stocks	3.37	no	RISING
+ignoring jane austen	sn:Stacker_Stocks	3.37	no	RISING
+jonathan guthrie	sn:Stacker_Stocks	3.37	no	RISING
+stacker sports summer league	sn:Stacker_Sports	3.36	no	RISING
+week	sn:Stacker_Sports	3.36	no	RISING
+pick	sn:Stacker_Sports	3.36	no	RISING
+acquires	sn:news	3.2	yes	
+nydig	sn:news	3.2	yes	
+institutional trading business	sn:news	3.2	yes	
+underpriced options	sn:AI	3.15	yes	
+demise	sn:AI	3.15	yes	
+loyalty reward schemes	sn:AI	3.15	yes	
+opt-in	sn:bitcoin	3.14	yes	
+bitcoin optech newsletter	sn:bitcoin	3.14	yes	
+liana	sn:bitcoin	3.12	yes	
+in praise	sn:bitcoin	3.08	yes	
+the good	sn:Stacker_Sports	3.06	no	RISING
+the bad	sn:Stacker_Sports	3.06	no	RISING
+the ugly	sn:Stacker_Sports	3.06	no	RISING
+preseason	sn:Stacker_Sports	3.06	no	RISING
+they	sn:Politics_And_Law	3.02	no	RISING
+both wrong	sn:Politics_And_Law	3.02	no	RISING
+economic liberalism	sn:Politics_And_Law	3.02	no	RISING
+socs	sn:Politics_And_Law	3.02	no	RISING
+michael strain	sn:Politics_And_Law	3.02	no	RISING
+finals week	sn:Stacker_Sports	3.01	no	RISING
+pick em	sn:Stacker_Sports	3.01	no	RISING
+the social value	sn:the_stacker_muse	2.98	no	RISING
+prediction markets	sn:the_stacker_muse	2.98	no	RISING
+joakim book	sn:the_stacker_muse	2.98	no	RISING
+new titles in our bitcoin books section	sn:bitcoin	2.95	yes	
