@@ -1,0 +1,45 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1556533	news	2	1586	0	3	10.5	74100	12214	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BitGo Acquires NYDIG’s Institutional Trading Business
+1556563	bitcoin	1	1321	0	2	8.6	74100	12214	recent@bitcoin|top@bitcoin	HOT,SIGNAL	SeedSigner fork with miniscript support, plus a SeedSigner x Liana bridge
+1556507	bitcoin	1	658	0	2	11.2	297791	7666	recent@bitcoin|top@bitcoin	SIGNAL	IREN's FQ4 loss unexpectedly widens amid decommissioning of BTC mining hardware
+1556649	security	1	225	0	1	2.3	1554639	4	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Found and Fixed Before It's Public: Core Lightning's 14-Day Disclosure Gamble
+1556674	meta	1	215	0	14	1.0	273359	953	recent@meta|top@meta	FRESH,SIGNAL	Fork Stacker News, remove the integrated scam
+1556645	security	1	146	0	1	2.3	297791	7666	recent@security|top@security	SIGNAL	Chinese Routers Sold Worldwide Contain Backdoors
+1555850	bitcoin	1	5614	0	6	34.8	93884	96	recent@bitcoin	HOT	Don't switch your Core Lightning node off, restart it with --offline instead
+1556366	meta	1	4684	0	54	14.7	1	27227	recent@meta|top@meta	HOT	SN release: embedded wallet, wallet onboarding on signup, toggle receive proxy
+1556064	Music	3	4215	0	16	21.1	900202	2682	recent@nostr|top@nostr	HOT,SELF_POST_OPP	Napstr - Everything it says on the tin
+1556156	lightning	1	2687	0	4	18.8	163128	3794	recent@lightning|top@lightning	HOT	CashApp give, CashApp take
+1555802	math	2	2405	0	3	35.8	74100	12214	recent@bitcoin|recent@bitdevs	HOT	BIP SHRINCS (draft)
+1556018	bitcoin	1	1984	0	1	23.3	144450	79	recent@bitcoin|top@bitcoin	HOT	First quantum-resistant Bitcoin transaction successfully executed, StarkWare say
+1556106	AI	1	1790	0	13	19.8	984933	2184	recent@AI|top@AI	HOT	How Israel is trying to shape what AI tells users about Gaza?
+1556276	bitcoin	1	1213	0	4	16.3	30782	25575	recent@bitcoin|top@bitcoin	HOT	In Praise of Bitcoin (2021)
+1555798	privacy	1	992	0	4	35.9	513690	1689	recent@privacy		All Proton services are down
+1556443	AI	1	933	0	0	12.7	144357	4480	recent@AI|top@AI		Why the network is emerging as the fastest control plane
+1555983	AI	1	824	0	0	24.8	12309	3637	recent@AI		Companies owning their own AI and having sovereignty is the future: Palantir CEO
+1556147	bitcoin	1	758	0	3	19.0	126503	797	recent@bitcoin|top@bitcoin		Sparrow wallet Release 2.5.4
+1556050	AI	1	559	0	2	21.8	328182	3925	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Canada Should Own Its Energy, Data, AI and Bitcoin Stack
+1555902	AI	1	524	0	1	32.9	328182	3925	recent@AI		The Hugging Face incident and the road ahead
+1556346	bitcoin	1	518	0	1	15.1	7387	75	recent@bitcoin|top@bitcoin		Glass Coins protocol spec - HackMD
+1556089	AI	1	508	0	0	20.6	984933	2184	recent@AI|top@AI		When politicians turned against data centers
+1556029	bitcoinplusplus	1	467	0	2	23.0	328182	3925	recent@bitcoinplusplus|top@bitcoinplusplus		Bitcoin Prediction Markets — James Pierog | bitcoin++ Toronto, consensus editio
+1556036	AGORA	3	413	0	8	22.5	1032604	33	recent@lightning|top@lightning	SELF_POST_OPP	[GIVEAWAY] Fountain of Youth — New Bitcoin Lightning Faucet
+1556382	AI	1	365	0	0	14.1	133958	191	recent@bitcoin|top@bitcoin|recent@AI		AI × Bitcoin Is Riding Again 🤠⚡️
+1556012	lol	2	355	0	1	23.6	328182	3925	recent@bitcoin|top@bitcoin		What Blockchain Data Tell Us About $457B+ in Potentially Taxable Crypto Activity
+1556313	security	1	341	0	0	15.7	1429719	14	recent@bitcoin|top@bitcoin|recent@security		Physical attacks on Bitcoin holders: an adaptive process model
+1556352	tech	1	298	0	0	15.0	12309	3637	recent@privacy|top@privacy|recent@tech		The popular ad blocker has just received its final stable Chrome release.
+1556408	AI	1	278	0	0	13.4	297791	7666	recent@AI|top@AI		CrowdStrike posts best day ever, Okta's stock pops nearly 29%
+1556162	lightning	1	249	0	7	18.5	163128	3794	recent@lightning|top@lightning		Without Lightning, none of the Layer 2s make sense.
+1555829	bitcoin	1	240	0	3	35.3	513690	1689	recent@lightning		Let's welcome SATS Routing - a new Boltz backend
+1556290	gaming	3	238	0	2	16.1	296825	5219	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Today in history: 16 years ago, users invented a game where they give 2 bitcoins
+1555897	AI	1	218	0	0	33.2	297791	7666	recent@AI		Xiaomi's first high-bandwidth Al accelerator chip designed for on-device LLMs
+1555987	meta	1	218	0	0	24.4	36151	1610	recent@meta		This Day on SN: August 27
+1556438	bitcoin_beginners	1	130	0	0	12.8	1556438	1	recent@bitcoin_beginners|top@bitcoin_beginners		Satsman – Learn Bitcoin, Earn Sats and Level Up Your Knowledge ⚡₿ — Blurt
+1556098	AI	1	123	0	0	20.2	1054143	1162	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI		HIVE Digital project Bitcoin mining margins up to 52% as Bitcoin nears $80K
+1556183	bitcoin	1	78	0	1	17.7	223678	6080	recent@bitcoin|top@bitcoin		This Financial Advisor Went All In on Bitcoin | The Income Show | Ep. 16
+1555944	openagents	1	78	0	0	29.3	534967	233	recent@openagents		Episode 275: Coder [come spend our free credits plz]
+1556504	lightning	1	43	0	3	11.3	1556502	4	recent@lightning|top@lightning		Fountain of Youth
+1556235	bitcoin	1	36	0	0	16.8	1556104	2	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Si ganaran millones haciendo trading, no te venderían un curso de $50 USD
+1556508	bitcoin	1	15	0	0	11.2	272410	1277	recent@lightning|top@lightning		Cashu has a status called 'Prepared' and now I know how a mail parcel feels
+1556622	math	2	0	0	0	4.3	263526	605	recent@bitcoin_Mining|top@bitcoin_Mining		The Art of Mining Bitcoin by D++ (bitcoin2023)
+1556043	bitcoin	1	0	0	0	22.4	272410	1277	recent@lightning|top@lightning		Lightning + Ecash: An Atomic Match Made in Heaven? | Bitcoin 2026
+1556660	AI	1	0	0	0	1.6	724606	12368	recent@AI|top@AI	FRESH	"Underpriced Options" and the Demise of Loyalty Reward Schemes
