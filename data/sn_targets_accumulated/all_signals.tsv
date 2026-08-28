@@ -43581,3 +43581,27 @@
 2026-08-28T10:26:21.251Z	1556649	security	1	225	0	1	2.3	1554639	4	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Found and Fixed Before It's Public: Core Lightning's 14-Day Disclosure Gamble
 2026-08-28T10:26:21.251Z	1556674	meta	1	215	0	14	1.0	273359	953	recent@meta|top@meta	FRESH,SIGNAL	Fork Stacker News, remove the integrated scam
 2026-08-28T10:26:21.251Z	1556645	security	1	146	0	1	2.3	297791	7666	recent@security|top@security	SIGNAL	Chinese Routers Sold Worldwide Contain Backdoors
+2026-08-28T18:34:46.636Z	1556815	bitcoin_beginners	1	3591	0	43	5.6	900202	2690	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	"Non-custodial" means nothing if it is not used as such
+2026-08-28T18:34:46.636Z	1556891	the_stacker_muse	3	1799	0	11	3.9	724606	12384	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	The Social Value of Prediction Markets (TDE, Joakim Book)
+2026-08-28T18:34:46.636Z	1556660	AI	1	1427	0	2	9.7	724606	12384	recent@AI|top@AI|recent@econ	HOT,SIGNAL	"Underpriced Options" and the Demise of Loyalty Reward Schemes
+2026-08-28T18:34:46.637Z	1556776	bitcoin	1	1408	0	0	6.8	1014665	231	recent@bitcoin|top@bitcoin	HOT,SIGNAL	CLN vulns, opt-in replay protection, HWI - Bitcoin Optech Newsletter #420
+2026-08-28T18:34:46.637Z	1556942	BooksAndArticles	2	1359	0	4	3.0	724606	12384	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	BOOK on BOOKS: "Better Money: Gold, Fiat, or Bitcoin" by Lawrence White
+2026-08-28T18:34:46.637Z	1557045	bitcoin	1	1000	0	0	1.4	1278854	253	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	🇹🇼 Taiwan Signals Growing Interest in a Bitcoin Reserve
+2026-08-28T18:34:46.637Z	1556811	bitcoin	1	887	0	1	5.7	1264102	69	recent@bitcoin|top@bitcoin|recent@BooksAndArticles	SIGNAL	New Titles In Our Bitcoin Books Section
+2026-08-28T18:34:46.637Z	1556655	Politics_And_Law	3	516	0	2	10.1	724606	12384	recent@econ|top@econ	SIGNAL	Norway: The Oil & Gas Champion We Didn't Deserve (FT, Richard Milne)
+2026-08-28T18:34:46.637Z	1556674	meta	1	457	0	87	9.1	273359	970	recent@meta|top@meta	SIGNAL	Fork Stacker News, remove the integrated scam
+2026-08-28T18:34:46.637Z	1556785	bitcoin_beginners	1	420	0	0	6.6	30782	25583	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 114
+2026-08-28T18:34:46.637Z	1557100	charts_and_maps	2	420	0	1	0.4	328182	3932	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	The average fiat currency dies in 27 years.
+2026-08-28T18:34:46.637Z	1556771	podcasts	2	337	0	4	7.0	9274	26784	recent@history|top@history|recent@podcasts	SIGNAL	The AFL/NFL Merger • Everything Everywhere Daily
+2026-08-28T18:34:46.637Z	1556668	AskSN	2	322	0	9	9.3	1556372	15	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	How do you feel about AI images and art?
+2026-08-28T18:34:46.637Z	1556649	security	1	261	0	6	10.4	1554639	5	top@lightning|top@security	SIGNAL	Found and Fixed Before It's Public: Core Lightning's 14-Day Disclosure Gamble
+2026-08-28T18:34:46.637Z	1556920	the_stacker_muse	3	257	0	0	3.5	1208996	466	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Enjoy your work and people will pay you for it.
+2026-08-28T18:34:46.637Z	1556875	news	2	189	0	2	4.2	297791	7667	recent@news|top@news	SIGNAL	Chelsea Football Club today announced a landmark partnership with Circle
+2026-08-28T18:34:46.637Z	1556788	bitcoin	1	184	0	2	6.5	972685	631	top@Stacker_Stocks	SIGNAL	Bitcoin Treasury Companies Lose More Than $80 Billion in Market Value📉
+2026-08-28T18:34:46.637Z	1556645	security	1	182	0	1	10.5	297791	7667	recent@security|top@security	SIGNAL	Chinese Routers Sold Worldwide Contain Backdoors
+2026-08-28T18:34:46.637Z	1556797	Stacker_Stocks	2	163	0	4	6.3	9274	26784	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	🤯 Nvidia's bombshell earnings call - Snacks
+2026-08-28T18:34:46.637Z	1556971	AI	1	161	0	2	2.4	328182	3932	recent@AI|top@AI	SIGNAL	NSA wants access to ‘all’ AI models, top official says
+2026-08-28T18:34:46.637Z	1557062	econ	2	148	0	1	1.1	328182	3932	recent@econ|top@econ	FRESH,SIGNAL	Canada should ignore Trump’s protectionism and unilaterally enact free trade
+2026-08-28T18:34:46.637Z	1556692	news	2	135	0	1	8.3	297791	7667	recent@news|top@news	SIGNAL	Running Multiple Linux Kernels Without Hypervisor
+2026-08-28T18:34:46.637Z	1556830	Construction_and_Engineering	2	125	0	2	5.2	1532699	283	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@Stacker_Stocks	SIGNAL	Elon Musk Just Bet $86 Million on This Tiny AI Power Company
+2026-08-28T18:34:46.637Z	1557070	AskSN	2	100	0	1	1.0	984933	2191	recent@AskSN|top@AskSN	FRESH,SIGNAL	What is the Pic OT of the week?
