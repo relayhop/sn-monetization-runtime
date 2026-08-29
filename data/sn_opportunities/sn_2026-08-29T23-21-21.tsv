@@ -1,0 +1,51 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1557680	security	1	4365	0	251	5.3	1557680	79	recent@security|top@security	HOT,SIGNAL	🚩 Second Stacker News CTF
+1557617	meta	1	4189	0	38	6.7	48657	14994	recent@bitcoin|top@bitcoin|recent@meta	HOT,SIGNAL	I tested SN's Spark Wallet workflow.  It's smooth as butter.
+1557595	AskSN	2	3917	0	13	7.6	59594	7040	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Keep it Simple, Stupid
+1557520	AskSN	2	2425	0	4	9.6	1242375	207	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Do open source grants distort Bitcoin?
+1557689	meta	1	1461	0	25	5.1	220094	2999	recent@meta|top@meta	HOT,SIGNAL	10000 sats downzap - what is somebody trying to hide from us?
+1557663	bitcoin	1	515	0	0	6.1	328182	3938	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin self-custody industry map
+1557575	lightning	1	461	0	1	8.3	440729	240	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0394b22ca5a3e3ea3…)
+1557673	AI	1	372	0	1	5.7	297791	7672	recent@devs|top@devs|recent@AI	SIGNAL	Commits on GitHub have doubled in four months. Verification capacity has not.
+1557631	bitcoin	1	296	0	0	6.5	462245	301	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	SIGNAL	SHRIMPS - How Blockstream’s Latest Quantum Proposal Looks to Minimize Risks
+1557750	AskSN	2	263	0	0	4.3	296825	5227	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Should we retire "Bitcoin Hardware Wallet" and adopt "Bitcoin Signing Device"?
+1557587	lightning	1	261	0	0	7.9	240060	90	recent@lightning|top@lightning	SIGNAL	Lightning continue to spread in Kigali, Rwanda, thanks to Africa Free Routing
+1557544	nostr	1	182	0	2	9.0	1496326	16	recent@nostr|top@nostr	SIGNAL	The coordinator is in the phone!
+1557598	Design	2	157	0	3	7.4	1556502	8	recent@lightning|top@lightning|recent@nostr	SIGNAL	[GIVEAWAY] The modern btc fountain just got slightly better.
+1557603	bitcoin	1	150	0	0	7.2	47274	146	recent@bitcoin|top@bitcoin	SIGNAL	Saylor Day Night Fever Music Video (Strategy!)
+1557724	AI	1	125	0	2	4.6	1554639	8	recent@lightning|top@lightning|recent@AI	SIGNAL	Is AI breaking the old rules of responsible disclosure?
+1557556	lightning	1	125	0	0	8.5	163128	3797	recent@lightning|top@lightning	SIGNAL	From Zero to Lightning in One Week
+1557604	lightning	1	106	0	0	7.2	163128	3797	recent@lightning|top@lightning	SIGNAL	Lightning Is the Common Language of the Bitcoin Economy
+1557313	meta	1	5878	0	37	22.4	1556501	4	recent@meta|top@meta	HOT	k00b's dilemma
+1557169	bitcoin	1	3939	0	4	27.0	93884	97	recent@bitcoin	HOT	Core Lightning 26.06.7 is out, and every node runner should upgrade.
+1556815	bitcoin_beginners	1	3660	0	48	34.3	900202	2690	recent@bitcoin_beginners	HOT	"Non-custodial" means nothing if it is not used as such
+1557171	AI	1	2206	0	4	27.0	1	27256	recent@nostr|recent@tech|recent@AI	HOT	HuggingFace's Microduck simulator uses nostr for WebRTC signaling
+1557199	lightning	1	1684	0	10	26.3	185956	176	recent@lightning	HOT	The CLN Embargo: Would you run unverified binaries?
+1556776	bitcoin	1	1651	0	0	35.6	1014665	231	recent@bitcoin	HOT	CLN vulns, opt-in replay protection, HWI - Bitcoin Optech Newsletter #420
+1557401	lightning	1	1422	0	3	17.9	263526	607	recent@lightning|top@lightning	HOT	RGB Lightning Node v0.0.8 Release Notes
+1557089	bitcoin	1	1354	0	2	29.4	483644	77	recent@bitcoin	HOT	Seed generation 1 dice, or 1 deck or 2 decks
+1557131	math	2	972	0	0	28.6	74100	12249	recent@bitcoin|recent@lightning		Iceberg: Nested Threshold Signatures for Lightning - Nadav Kohen
+1556811	bitcoin	1	902	0	1	34.5	1264102	69	recent@bitcoin		New Titles In Our Bitcoin Books Section
+1557124	AI	1	859	0	2	28.8	150551	196	recent@lightning|recent@AI		CLINK CLI For Shell, Scripts, Or AI Agents
+1557196	AI	1	494	0	4	26.4	144357	4488	recent@bitcoin|recent@AI		Flock Has a Powerful New AI Tool, We Got Its Code | SNL #239
+1557119	security	1	456	0	0	28.9	12309	3644	recent@security|recent@privacy|recent@tech		Security researchers find surveillance implants in Chinese-made routers
+1557156	bitcoin_beginners	1	449	0	1	27.6	296825	5227	recent@bitcoin_beginners|recent@lightning		Today in History : Satoshi Nakamoto speaks a  base metal analogy
+1556785	bitcoin_beginners	1	420	0	0	35.4	30782	25590	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 114
+1557134	AI	1	356	0	2	28.6	984933	2218	recent@AI		A third of new webpages written with AI
+1557411	AI	1	353	0	7	16.0	12309	3644	recent@AI|top@AI		What 56,000 Americans told us about AI policy.
+1556971	AI	1	344	0	2	31.2	328182	3938	recent@AI		NSA wants access to ‘all’ AI models, top official says
+1557163	AskSN	2	160	0	1	27.4	296825	5227	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		Did you know that, none of these make sense.
+1557455	meta	1	160	0	0	13.4	36151	1611	recent@meta|top@meta		This Day on SN: August 29
+1557413	bitcoin	1	149	0	2	15.9	296825	5227	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		BIP-353: A More Reliable, Protocol-Level Way to Share Bitcoin Payment Details
+1557025	bitcoin	1	77	0	0	30.4	1490792	439	recent@bitcoin_beginners		My First Bitcoin
+1557918	bitcoin	1	75	0	0	2.8	296825	5227	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The Bank For International Settlements says stablecoins are NOT real money.
+1557386	bitcoin	1	70	0	0	18.5	1532836	353	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Blockparty de Rigly
+1557601	bitcoin	1	36	0	1	7.2	47274	146	recent@bitcoin|top@bitcoin		Mad Kratter - Dark Cabaret Song (Blake2B Spoof - Do Not Miss!)
+1556839	bitcoin	1	36	0	0	33.8	1444593	112	recent@bitcoin		Sparrow Wallet: detecta una contraseña BIP38 incorrecta antes de continuar
+1557423	bitcoin	1	36	0	2	15.2	296825	5227	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		What they'll do...
+1557194	bitcoin	1	36	0	0	26.5	296825	5227	recent@bitcoin_beginners|recent@bitdevs|recent@lightning		Core Lightning Releases v26.06.7 Quantum-Resistant Lightning Channel VII
+1557149	bitcoin_beginners	1	36	0	1	27.9	296825	5227	recent@bitcoin_beginners|recent@lightning		MostriX v0.2.9 is out!
+1557083	security	1	11	0	0	29.5	416864	939	recent@security		TryHackMe's HackerHolidays 2026 Event - Day 07 - Do Not Disturb [Writeup]
+1557609	AI	1	0	0	0	7.0	1054143	1166	recent@AI|top@AI		Nigerian scientist leads AI research team on safer breast cancer treatment
+1557747	AI	1	0	0	0	4.3	1547669	17	recent@AI|top@AI		I read 100 llms.txt files by hand: 42% shape the answer, none attack the model
+1557504	AI	1	0	0	0	10.0	837285	1581	recent@AI|top@AI		The Most Important Takeaway From the Hugging Face Incident
