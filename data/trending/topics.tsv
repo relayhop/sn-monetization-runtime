@@ -1,24 +1,18 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-29T19:14:09.104Z; n=40
-bitcoin	sn:AskSN,sn:bitcoin	6	yes	
-what	sn:AskSN,sn:AI	5.39	yes	
-python	hn	4.24	no	RISING
-show	hn	3.77	no	RISING
-spark wallet	sn:meta	3.62	yes	
-core lightning	sn:bitcoin	3.6	yes	
-keep	sn:AskSN	3.55	yes	
-simple	sn:AskSN	3.55	yes	
-stupid	sn:AskSN	3.55	yes	
-microduck	sn:AI	3.34	yes	
-embargo	sn:lightning	3.23	no	RISING
-would	sn:lightning	3.23	no	RISING
+# generated 2026-08-29T23:54:50.353Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin	6.1	yes	
+what	sn:AskSN,sn:AI	5.49	yes	
+second stacker news	sn:security	3.74	no	RISING
+spark wallet	sn:meta	3.63	yes	
+keep	sn:AskSN	3.59	yes	
+simple	sn:AskSN	3.59	yes	
+stupid	sn:AskSN	3.59	yes	
+border patrol	sn:Politics_And_Law	3.17	no	RISING
 lightning node	sn:lightning	3.15	no	RISING
 release notes	sn:lightning	3.15	no	RISING
-border patrol	sn:Politics_And_Law	3.13	no	RISING
-books	sn:BooksAndArticles	3.09	no	RISING
-articles weekly	sn:BooksAndArticles	3.09	no	RISING
-issue	sn:BooksAndArticles	3.09	no	RISING
-second stacker news	sn:security	3.08	no	RISING
+books	sn:BooksAndArticles	3.11	no	RISING
+articles weekly	sn:BooksAndArticles	3.11	no	RISING
+issue	sn:BooksAndArticles	3.11	no	RISING
 untangling guggenheim	sn:Stacker_Sports	3.04	no	RISING
 dodgers	sn:Stacker_Sports	3.04	no	RISING
 net interest	sn:Stacker_Sports	3.04	no	RISING
@@ -27,16 +21,22 @@ toward	sn:Politics_And_Law	2.96	no	RISING
 rational immigration policy	sn:Politics_And_Law	2.96	no	RISING
 america	sn:Politics_And_Law	2.96	yes	
 the economist	sn:Politics_And_Law	2.96	no	RISING
-htmx	hn	2.89	no	RISING
-daily discussion thread	sn:Music	2.87	no	RISING
-music saloon	sn:Music	2.87	no	RISING
+what to do about	sn:Stacker_Stocks	2.95	no	RISING
+portfolio	sn:Stacker_Stocks	2.95	no	RISING
+hakyung kim	sn:Stacker_Stocks	2.95	no	RISING
+daily discussion thread	sn:Music	2.88	no	RISING
+music saloon	sn:Music	2.88	no	RISING
 synthetic rock	sn:history	2.82	no	RISING
 roll	sn:history	2.82	no	RISING
-inception	hn	2.77	no	RISING
-turn-by	hn	2.77	no	RISING
-stacker sports prepod meeting	sn:Stacker_Sports	2.77	no	RISING
-episode	sn:Stacker_Sports	2.77	no	RISING
 self-custody	sn:bitcoin	2.71	yes	
-flock has	sn:AI	2.69	yes	
-powerful new	sn:AI	2.69	yes	
-tool	sn:AI	2.69	yes	
+biggest channel opened today	sn:lightning	2.66	no	RISING
+new node spotlight	sn:lightning	2.66	no	RISING
+daily accountability thread	sn:HealthAndFitness	2.65	no	RISING
+stratford	sn:Photography	2.65	no	RISING
+avon	sn:Photography	2.65	no	RISING
+england	sn:Photography	2.65	no	RISING
+price theory	sn:Politics_And_Law	2.6	no	RISING
+independent central banks	sn:Politics_And_Law	2.6	no	RISING
+economic forces	sn:Politics_And_Law	2.6	no	RISING
+josh hendrickson	sn:Politics_And_Law	2.6	no	RISING
+boot	hn	2.57	no	RISING
