@@ -43698,3 +43698,26 @@
 2026-08-29T15:05:10.381Z	1557548	meta	1	150	0	2	0.4	272410	1290	recent@meta|top@meta	FRESH,SIGNAL	What if we backed newcomers instead of just telling them to self custody
 2026-08-29T15:05:10.381Z	1557413	bitcoin	1	149	0	2	7.6	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	BIP-353: A More Reliable, Protocol-Level Way to Share Bitcoin Payment Details
 2026-08-29T15:05:10.381Z	1557556	lightning	1	125	0	0	0.3	163128	3796	recent@lightning|top@lightning	FRESH,SIGNAL	From Zero to Lightning in One Week
+2026-08-29T18:21:57.408Z	1557617	meta	1	4108	0	24	1.7	48657	14968	recent@bitcoin|top@bitcoin|recent@meta	FRESH,HOT,SIGNAL	I tested SN's Spark Wallet workflow.  It's smooth as butter.
+2026-08-29T18:21:57.408Z	1557595	AskSN	2	3436	0	7	2.6	59594	7035	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL,SELF_POST_OPP	Keep it Simple, Stupid
+2026-08-29T18:21:57.408Z	1557520	AskSN	2	1933	0	4	4.6	1242375	207	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	Do open source grants distort Bitcoin?
+2026-08-29T18:21:57.408Z	1557474	BooksAndArticles	2	1236	0	1	6.7	30782	25588	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Books & Articles Weekly, Issue 125
+2026-08-29T18:21:57.408Z	1557616	Stacker_Sports	3	1050	0	2	1.7	724606	12396	recent@econ|top@econ	FRESH,HOT,SIGNAL	Untangling Guggenheim and the LA Dodgers (Net Interest, Marc Rubinstein)
+2026-08-29T18:21:57.408Z	1557680	security	1	913	0	2	0.3	1557680	2	recent@security|top@security	FRESH,SIGNAL	🚩 Second Stacker News CTF
+2026-08-29T18:21:57.408Z	1557642	Politics_And_Law	3	902	0	2	1.4	724606	12396	recent@econ|top@econ	FRESH,SIGNAL	Toward a Rational Immigration Policy for America (The Economist)
+2026-08-29T18:21:57.408Z	1557471	AskSN	2	691	0	0	7.2	104755	12867	recent@AskSN|top@AskSN	SIGNAL	What’s a difficult decision you needed to make?
+2026-08-29T18:21:57.408Z	1557542	Stacker_Stocks	2	546	0	1	4.1	934429	328	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	The U.S. trades at 19.6x projected earnings, vs. 16.5x average over 20 years.
+2026-08-29T18:21:57.408Z	1557663	bitcoin	1	479	0	0	1.1	328182	3936	recent@bitcoin|top@bitcoin|recent@charts_and_maps	FRESH,SIGNAL	Bitcoin self-custody industry map
+2026-08-29T18:21:57.408Z	1557664	Politics_And_Law	3	401	0	0	1.1	724606	12396	recent@econ|top@econ	FRESH,SIGNAL	Price Theory and Independent Central Banks (Economic Forces, Josh Hendrickson)
+2026-08-29T18:21:57.408Z	1557411	AI	1	353	0	7	11.0	12309	3642	recent@AI|top@AI|recent@econ	SIGNAL	What 56,000 Americans told us about AI policy.
+2026-08-29T18:21:57.408Z	1557587	lightning	1	184	0	0	2.9	240060	90	recent@lightning|top@lightning	SIGNAL	Lightning continue to spread in Kigali, Rwanda, thanks to Africa Free Routing
+2026-08-29T18:21:57.408Z	1557544	nostr	1	182	0	2	4.0	1496326	16	recent@nostr|top@nostr	SIGNAL	The coordinator is in the phone!
+2026-08-29T18:21:57.408Z	1557455	meta	1	160	0	0	8.4	36151	1611	recent@meta|top@meta	SIGNAL	This Day on SN: August 29
+2026-08-29T18:21:57.408Z	1557413	bitcoin	1	149	0	2	10.9	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	BIP-353: A More Reliable, Protocol-Level Way to Share Bitcoin Payment Details
+2026-08-29T18:21:57.408Z	1557559	Stacker_Stocks	2	126	0	1	3.5	9274	26824	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	MSTY Payout #52: The King 👑 is back! Celebrating 1 year of Saylorboism Payouts
+2026-08-29T18:21:57.408Z	1557556	lightning	1	125	0	0	3.5	163128	3797	recent@lightning|top@lightning	SIGNAL	From Zero to Lightning in One Week
+2026-08-29T18:21:57.408Z	1557673	AI	1	125	0	1	0.7	297791	7669	recent@devs|top@devs|recent@AI	FRESH,SIGNAL	Commits on GitHub have doubled in four months. Verification capacity has not.
+2026-08-29T18:21:57.408Z	1557603	bitcoin	1	121	0	0	2.2	47274	146	recent@bitcoin|top@bitcoin	SIGNAL	Saylor Day Night Fever Music Video (Strategy!)
+2026-08-29T18:21:57.408Z	1557460	gaming	3	119	0	0	8.1	1505716	98	recent@science|top@science	SIGNAL	No-KYC Crypto Wallet + How I Landed 1st Place Twice in FaucetPay's Daily Contest
+2026-08-29T18:21:57.408Z	1557472	DIY	3	107	0	0	7.0	272410	1292	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	What are you actually using your freedom for?
+2026-08-29T18:21:57.408Z	1557604	lightning	1	106	0	0	2.2	163128	3797	recent@lightning|top@lightning	SIGNAL	Lightning Is the Common Language of the Bitcoin Economy
