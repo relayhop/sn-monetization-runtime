@@ -1,0 +1,39 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1557520	AskSN	2	1686	0	2	1.3	1242375	207	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Do open source grants distort Bitcoin?
+1557401	lightning	1	1174	0	2	9.6	263526	607	recent@lightning|top@lightning	HOT,SIGNAL	RGB Lightning Node v0.0.8 Release Notes
+1557411	AI	1	317	0	4	7.7	12309	3641	recent@AI|top@AI	SIGNAL	What 56,000 Americans told us about AI policy.
+1557455	meta	1	160	0	0	5.1	36151	1611	recent@meta|top@meta	SIGNAL	This Day on SN: August 29
+1557548	meta	1	150	0	2	0.4	272410	1290	recent@meta|top@meta	FRESH,SIGNAL	What if we backed newcomers instead of just telling them to self custody
+1557413	bitcoin	1	149	0	2	7.6	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	BIP-353: A More Reliable, Protocol-Level Way to Share Bitcoin Payment Details
+1557556	lightning	1	125	0	0	0.3	163128	3796	recent@lightning|top@lightning	FRESH,SIGNAL	From Zero to Lightning in One Week
+1557313	meta	1	5696	0	34	14.1	1556501	3	recent@meta|top@meta	HOT	k00b's dilemma
+1557169	bitcoin	1	3839	0	3	18.7	93884	97	recent@bitcoin|top@bitcoin	HOT	Core Lightning 26.06.7 is out, and every node runner should upgrade.
+1556815	bitcoin_beginners	1	3660	0	48	26.1	900202	2690	recent@bitcoin_beginners	HOT	"Non-custodial" means nothing if it is not used as such
+1557171	AI	1	2206	0	3	18.7	1	27240	recent@nostr|top@nostr|recent@tech	HOT	HuggingFace's Microduck simulator uses nostr for WebRTC signaling
+1556776	bitcoin	1	1651	0	0	27.4	1014665	231	recent@bitcoin	HOT	CLN vulns, opt-in replay protection, HWI - Bitcoin Optech Newsletter #420
+1556660	AI	1	1442	0	2	30.2	724606	12389	recent@AI	HOT	"Underpriced Options" and the Demise of Loyalty Reward Schemes
+1557089	bitcoin	1	1354	0	2	21.1	483644	77	recent@bitcoin|top@bitcoin	HOT	Seed generation 1 dice, or 1 deck or 2 decks
+1557199	lightning	1	1328	0	9	18.1	185956	176	recent@lightning|top@lightning	HOT	The CLN Embargo: Would you run unverified binaries?
+1557131	math	2	972	0	0	20.3	74100	12246	recent@bitcoin|top@bitcoin|recent@lightning		Iceberg: Nested Threshold Signatures for Lightning - Nadav Kohen
+1556811	bitcoin	1	902	0	1	26.2	1264102	69	recent@bitcoin		New Titles In Our Bitcoin Books Section
+1557124	AI	1	859	0	2	20.5	150551	195	recent@lightning|top@lightning|recent@AI		CLINK CLI For Shell, Scripts, Or AI Agents
+1556674	meta	1	596	0	98	29.6	273359	970	recent@meta		Fork Stacker News, remove the integrated scam
+1557196	AI	1	494	0	4	18.1	144357	4488	recent@bitcoin|top@bitcoin|recent@AI		Flock Has a Powerful New AI Tool, We Got Its Code | SNL #239
+1557119	security	1	456	0	0	20.6	12309	3641	recent@security|top@security|recent@privacy		Security researchers find surveillance implants in Chinese-made routers
+1557156	bitcoin_beginners	1	449	0	1	19.4	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Today in History : Satoshi Nakamoto speaks a  base metal analogy
+1556785	bitcoin_beginners	1	420	0	0	27.1	30782	25587	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 114
+1556645	security	1	389	0	1	31.0	297791	7668	recent@security		Chinese Routers Sold Worldwide Contain Backdoors
+1557134	AI	1	356	0	2	20.3	984933	2197	recent@AI|top@AI		A third of new webpages written with AI
+1556971	AI	1	344	0	2	22.9	328182	3932	recent@AI|top@AI		NSA wants access to ‘all’ AI models, top official says
+1556649	security	1	261	0	7	30.9	1554639	6	recent@lightning|recent@security		Found and Fixed Before It's Public: Core Lightning's 14-Day Disclosure Gamble
+1556622	math	2	236	0	1	33.0	263526	607	recent@bitcoin_Mining		The Art of Mining Bitcoin by D++ (bitcoin2023)
+1557163	AskSN	2	160	0	1	19.1	296825	5225	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Did you know that, none of these make sense.
+1557025	bitcoin	1	77	0	0	22.2	1490792	438	recent@bitcoin_beginners|top@bitcoin_beginners		My First Bitcoin
+1557386	bitcoin	1	70	0	0	10.3	1532836	352	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Blockparty de Rigly
+1556839	bitcoin	1	36	0	0	25.5	1444593	112	recent@bitcoin		Sparrow Wallet: detecta una contraseña BIP38 incorrecta antes de continuar
+1557423	bitcoin	1	36	0	2	6.9	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		What they'll do...
+1557194	bitcoin	1	36	0	0	18.2	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Core Lightning Releases v26.06.7 Quantum-Resistant Lightning Channel VII
+1557149	bitcoin_beginners	1	36	0	1	19.6	296825	5225	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		MostriX v0.2.9 is out!
+1557083	security	1	11	0	0	21.3	416864	939	recent@security|top@security		TryHackMe's HackerHolidays 2026 Event - Day 07 - Do Not Disturb [Writeup]
+1557575	lightning	1	0	0	0	0.0	440729	239	recent@lightning|top@lightning	FRESH	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0394b22ca5a3e3ea3…)
+1557504	AI	1	0	0	0	1.7	837285	1579	recent@AI|top@AI	FRESH	The Most Important Takeaway From the Hugging Face Incident
