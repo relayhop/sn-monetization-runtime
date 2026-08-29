@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-29T10:51:14.442Z; n=40
-bitcoin	sn:bitcoin,sn:BooksAndArticles	6.43	yes	
-core lightning	sn:bitcoin	3.55	yes	
+# generated 2026-08-29T19:14:09.104Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin	6	yes	
+what	sn:AskSN,sn:AI	5.39	yes	
+python	hn	4.24	no	RISING
+show	hn	3.77	no	RISING
+spark wallet	sn:meta	3.62	yes	
+core lightning	sn:bitcoin	3.6	yes	
+keep	sn:AskSN	3.55	yes	
+simple	sn:AskSN	3.55	yes	
+stupid	sn:AskSN	3.55	yes	
 microduck	sn:AI	3.34	yes	
-the social value	sn:the_stacker_muse	3.26	no	RISING
-prediction markets	sn:the_stacker_muse	3.26	no	RISING
-joakim book	sn:the_stacker_muse	3.26	no	RISING
-book	sn:BooksAndArticles	3.25	no	RISING
-books	sn:BooksAndArticles	3.25	no	RISING
-better money	sn:BooksAndArticles	3.25	no	RISING
-gold	sn:BooksAndArticles	3.25	no	RISING
-fiat	sn:BooksAndArticles	3.25	no	RISING
-lawrence white	sn:BooksAndArticles	3.25	no	RISING
-opt-in	sn:bitcoin	3.22	yes	
-bitcoin optech newsletter	sn:bitcoin	3.22	yes	
-gaza	sn:bitcoin	3.18	yes	
-seed	sn:bitcoin	3.13	yes	
-lightning node	sn:lightning	3.07	no	RISING
-release notes	sn:lightning	3.07	no	RISING
-join	sn:Stacker_Sports	3.06	no	RISING
-last	sn:Stacker_Sports	3.06	no	RISING
-embargo	sn:lightning	3.04	no	RISING
-would	sn:lightning	3.04	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.04	no	RISING
-iceberg	sn:math	2.99	yes	
-nested threshold signatures	sn:math	2.99	yes	
-lightning	sn:math	2.99	yes	
-nadav kohen	sn:math	2.99	yes	
-new titles in our bitcoin books section	sn:bitcoin	2.96	yes	
-clink	sn:AI	2.93	yes	
-for shell	sn:AI	2.93	yes	
-scripts	sn:AI	2.93	yes	
-agents	sn:AI	2.93	yes	
-keyboard-driven	hn	2.91	no	RISING
-stacker sports fantasy football draft	sn:Stacker_Sports	2.9	no	RISING
-open-weight	hn	2.85	no	RISING
-htmx	hn	2.83	no	RISING
-synthetic rock	sn:history	2.8	no	RISING
-roll	sn:history	2.8	no	RISING
-collective	hn	2.79	no	RISING
+embargo	sn:lightning	3.23	no	RISING
+would	sn:lightning	3.23	no	RISING
+lightning node	sn:lightning	3.15	no	RISING
+release notes	sn:lightning	3.15	no	RISING
+border patrol	sn:Politics_And_Law	3.13	no	RISING
+books	sn:BooksAndArticles	3.09	no	RISING
+articles weekly	sn:BooksAndArticles	3.09	no	RISING
+issue	sn:BooksAndArticles	3.09	no	RISING
+second stacker news	sn:security	3.08	no	RISING
+untangling guggenheim	sn:Stacker_Sports	3.04	no	RISING
+dodgers	sn:Stacker_Sports	3.04	no	RISING
+net interest	sn:Stacker_Sports	3.04	no	RISING
+marc rubinstein	sn:Stacker_Sports	3.04	no	RISING
+toward	sn:Politics_And_Law	2.96	no	RISING
+rational immigration policy	sn:Politics_And_Law	2.96	no	RISING
+america	sn:Politics_And_Law	2.96	yes	
+the economist	sn:Politics_And_Law	2.96	no	RISING
+htmx	hn	2.89	no	RISING
+daily discussion thread	sn:Music	2.87	no	RISING
+music saloon	sn:Music	2.87	no	RISING
+synthetic rock	sn:history	2.82	no	RISING
+roll	sn:history	2.82	no	RISING
+inception	hn	2.77	no	RISING
+turn-by	hn	2.77	no	RISING
 stacker sports prepod meeting	sn:Stacker_Sports	2.77	no	RISING
+episode	sn:Stacker_Sports	2.77	no	RISING
+self-custody	sn:bitcoin	2.71	yes	
+flock has	sn:AI	2.69	yes	
+powerful new	sn:AI	2.69	yes	
+tool	sn:AI	2.69	yes	
