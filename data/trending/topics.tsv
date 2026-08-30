@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-30T09:46:38.352Z; n=40
-linux	hn	6.77	yes	
-bitcoin	sn:AskSN,sn:bitcoin	6.15	yes	
-python	hn	4.23	no	RISING
+# generated 2026-08-30T14:42:12.061Z; n=40
+linux	hn,sn:tech	10.3	yes	
+age-verification	hn,sn:tech	5.77	yes	
+lawmakers	hn,sn:tech	5.64	yes	
+biggest channel opened today	sn:lightning	5.64	no	RISING
+new node spotlight	sn:lightning	5.64	no	RISING
+bitcoin	sn:bitcoin,sn:AGORA	5.32	yes	
 second stacker news	sn:security	3.76	no	RISING
 spark wallet	sn:meta	3.66	yes	
-keep	sn:AskSN	3.61	yes	
-simple	sn:AskSN	3.61	yes	
-stupid	sn:AskSN	3.61	yes	
-samsung	hn	3.32	no	RISING
-untangling guggenheim	sn:Stacker_Sports	3.22	no	RISING
-dodgers	sn:Stacker_Sports	3.22	no	RISING
-net interest	sn:Stacker_Sports	3.22	no	RISING
-marc rubinstein	sn:Stacker_Sports	3.22	no	RISING
-border patrol	sn:Politics_And_Law	3.21	no	RISING
-joint	sn:news	3.14	yes	
-statement	sn:news	3.14	yes	
-ocean	sn:news	3.14	yes	
-luke	sn:news	3.14	yes	
-dashjr	sn:news	3.14	yes	
-books	sn:BooksAndArticles	3.13	no	RISING
-articles weekly	sn:BooksAndArticles	3.13	no	RISING
-issue	sn:BooksAndArticles	3.13	no	RISING
+keep	sn:AskSN	3.62	yes	
+simple	sn:AskSN	3.62	yes	
+stupid	sn:AskSN	3.62	yes	
+remembering how	sn:HealthAndFitness	3.25	no	RISING
+live	sn:HealthAndFitness	3.25	no	RISING
+well	sn:HealthAndFitness	3.25	no	RISING
+not just	sn:HealthAndFitness	3.25	no	RISING
+summer	sn:HealthAndFitness	3.25	no	RISING
+jemima kelly	sn:HealthAndFitness	3.25	no	RISING
+untangling guggenheim	sn:Stacker_Sports	3.23	no	RISING
+dodgers	sn:Stacker_Sports	3.23	no	RISING
+net interest	sn:Stacker_Sports	3.23	no	RISING
+marc rubinstein	sn:Stacker_Sports	3.23	no	RISING
+joint	sn:news	3.22	yes	
+statement	sn:news	3.22	yes	
+ocean	sn:news	3.22	yes	
+luke	sn:news	3.22	yes	
+dashjr	sn:news	3.22	yes	
+here	sn:lol	3.12	no	RISING
+rational	sn:science	3.04	no	RISING
+testing	sn:science	3.04	no	RISING
 what to do about	sn:Stacker_Stocks	3.02	no	RISING
 portfolio	sn:Stacker_Stocks	3.02	no	RISING
 hakyung kim	sn:Stacker_Stocks	3.02	no	RISING
+toward	sn:Politics_And_Law	2.98	no	RISING
+rational immigration policy	sn:Politics_And_Law	2.98	no	RISING
+america	sn:Politics_And_Law	2.98	yes	
+the economist	sn:Politics_And_Law	2.98	no	RISING
 saturday	sn:art	2.97	no	RISING
 share	sn:art	2.97	no	RISING
-toward	sn:Politics_And_Law	2.97	no	RISING
-rational immigration policy	sn:Politics_And_Law	2.97	no	RISING
-america	sn:Politics_And_Law	2.97	yes	
-the economist	sn:Politics_And_Law	2.97	no	RISING
-what	sn:AskSN	2.97	yes	
-you should feel good about	sn:privacy	2.76	no	RISING
-flock debate	sn:privacy	2.76	no	RISING
-the libertarian institute	sn:privacy	2.76	no	RISING
-self-custody	sn:bitcoin	2.74	yes	
-biggest channel opened today	sn:lightning	2.7	no	RISING
-new node spotlight	sn:lightning	2.7	no	RISING
-daily accountability thread	sn:HealthAndFitness	2.68	no	RISING
-tether	hn	2.66	no	RISING
+saturday newsletter	sn:meta	2.85	yes	
+you should feel good about	sn:privacy	2.82	no	RISING
