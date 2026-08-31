@@ -1,16 +1,13 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-31T00:13:28.098Z; n=40
-joint	sn:news	3.83	yes	
-statement	sn:news	3.83	yes	
-ocean	sn:news	3.83	yes	
-luke	sn:news	3.83	yes	
-dashjr	sn:news	3.83	yes	
-investing	sn:Stacker_Stocks	3.8	no	RISING
-million sats	sn:Stacker_Stocks	3.8	no	RISING
-adecoagro	sn:Stacker_Stocks	3.8	no	RISING
-agro	sn:Stacker_Stocks	3.8	no	RISING
-stock	sn:Stacker_Stocks	3.8	no	RISING
-quest	hn,sn:science	3.73	no	RISING
+# generated 2026-08-31T10:36:52.850Z; n=40
+bitcoin	sn:security,sn:AskSN	5.48	yes	
+what	hn,sn:AskSN	4.19	yes	
+investing	sn:Stacker_Stocks	3.81	no	RISING
+million sats	sn:Stacker_Stocks	3.81	no	RISING
+adecoagro	sn:Stacker_Stocks	3.81	no	RISING
+agro	sn:Stacker_Stocks	3.81	no	RISING
+stock	sn:Stacker_Stocks	3.81	no	RISING
+wasabi wallet	sn:Coinjoins	3.74	no	RISING
 rational	sn:science	3.39	no	RISING
 testing	sn:science	3.39	no	RISING
 here	sn:lol	3.32	no	RISING
@@ -20,23 +17,26 @@ well	sn:HealthAndFitness	3.28	no	RISING
 not just	sn:HealthAndFitness	3.28	no	RISING
 summer	sn:HealthAndFitness	3.28	no	RISING
 jemima kelly	sn:HealthAndFitness	3.28	no	RISING
-show	hn	3.23	no	RISING
 which	sn:bitcoin	3.21	yes	
-lawmakers	sn:tech	3.17	yes	
-linux	sn:tech	3.17	yes	
-age-verification	sn:tech	3.17	yes	
 who is your unlikeliest friend	sn:AskSN	3.14	no	RISING
 harvey nriapia	sn:AskSN	3.14	no	RISING
-decentralized atomic-swap marketplace	sn:lightning	3	no	RISING
-saturday	sn:art	2.98	no	RISING
-share	sn:art	2.98	no	RISING
-creepy crawlies	hn	2.95	no	RISING
+butterfinger french toast	sn:food_and_drinks	3.12	no	RISING
+surprisingly	sn:food_and_drinks	3.12	no	RISING
+creepy crawlies	hn	3.07	no	RISING
+cut down day	sn:Stacker_Sports	2.94	no	RISING
+discussion thread	sn:Stacker_Sports	2.94	no	RISING
 reese	sn:food_and_drinks	2.94	no	RISING
 cup marshmallow	sn:food_and_drinks	2.94	no	RISING
 biggest channel opened today	sn:lightning	2.94	no	RISING
 new node spotlight	sn:lightning	2.94	no	RISING
-cut down day	sn:Stacker_Sports	2.93	no	RISING
-discussion thread	sn:Stacker_Sports	2.93	no	RISING
 new bitmain	sn:bitcoin	2.93	yes	
 hydro	sn:bitcoin	2.93	yes	
 sony	sn:Music	2.9	no	RISING
+warner	sn:Music	2.9	no	RISING
+anthropic	sn:Music	2.9	no	RISING
+icelanders reject reopening talks	sn:Politics_And_Law	2.88	no	RISING
+join	sn:Politics_And_Law	2.88	no	RISING
+despite trump	sn:Politics_And_Law	2.88	no	RISING
+greenland threats	sn:Politics_And_Law	2.88	no	RISING
+self	sn:tech	2.83	yes	
+cloudflare	sn:tech	2.83	yes	
