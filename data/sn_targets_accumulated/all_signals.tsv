@@ -44271,3 +44271,16 @@
 2026-09-01T14:46:02.312Z	1559732	bitcoin_beginners	1	118	0	0	5.6	296825	5246	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Today in History: 16 years ago, “I just can’t wait one month to see 50 bitcoins”
 2026-09-01T14:46:02.312Z	1559648	AskSN	2	105	0	0	9.1	296825	5246	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	What would you do if you found the private key to an address holding 250 BTC?
 2026-09-01T14:46:02.312Z	1559829	Design	2	102	0	0	2.3	383547	3594	recent@Design|top@Design	SIGNAL	Today's Best Website Design :: Squarespace Foundations by Resn
+2026-09-01T17:51:10.211Z	1559683	lightning	1	2829	0	0	11.4	24585	370	recent@lightning|top@lightning	HOT,SIGNAL	crashing a lightning node with a flood of pings - Erick Cestari
+2026-09-01T17:51:10.211Z	1559806	bitcoin	1	1222	0	6	5.9	1559806	1	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Are you still using robosats?
+2026-09-01T17:51:10.211Z	1560008	bitcoin	1	1057	0	1	1.7	280679	23014	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	Mempool Developer Day #1
+2026-09-01T17:51:10.211Z	1559699	bitcoin	1	1036	0	2	10.8	732678	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Quantum Secure Bitcoin Transaction created without a Hard Fork
+2026-09-01T17:51:10.212Z	1559738	bitcoin	1	926	0	3	8.5	4078	5421	recent@bitcoin|top@bitcoin	SIGNAL	BIP110 Split & Swap Portal
+2026-09-01T17:51:10.212Z	1559801	lightning	1	800	0	14	6.1	57444	15952	recent@lightning|top@lightning	SIGNAL	Is a lightning address more private than a lightning invoice?
+2026-09-01T17:51:10.212Z	1560002	bitcoin	1	725	0	0	1.8	74100	12293	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	BIP448 Mercury Layer wallet on Mutinynet
+2026-09-01T17:51:10.212Z	1560101	bitcoin	1	521	0	0	0.3	19732	167	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Tutorial: Freedomia Non-KYC Reloadable Visa Card (online + tap to pay)
+2026-09-01T17:51:10.212Z	1559712	bitcoin	1	463	0	1	9.9	68842	641	recent@bitcoin|top@bitcoin	SIGNAL	Krackpot: World's worst lottery just got worse (Bitcoin Puzzle 71)
+2026-09-01T17:51:10.212Z	1559740	tech	1	424	0	1	8.3	163128	3802	recent@tech|top@tech	SIGNAL	DEFCON 34: ESP32 Counter Surveillance for Everyone by Cybertiger & Colonel Panic
+2026-09-01T17:51:10.212Z	1560010	AI	1	421	0	0	1.7	12309	3651	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	1.5TB → 214GB, Tencents quantization method packs weights down to 1.25 bits
+2026-09-01T17:51:10.212Z	1559730	bitcoin_beginners	1	141	0	1	8.9	296825	5249	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	How Bitcoin remain decentralized even if a pool had 51% of the total hash rate
+2026-09-01T17:51:10.212Z	1559732	bitcoin_beginners	1	118	0	1	8.7	296825	5249	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Today in History: 16 years ago, “I just can’t wait one month to see 50 bitcoins”
