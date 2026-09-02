@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-01T23:49:25.959Z; n=40
-show	hn	6.27	no	RISING
-claude mythos	hn,sn:AI	5.81	yes	
-september	hn	4.07	no	RISING
-evolving	sn:AI	3.52	yes	
-erick cestari	sn:lightning	3.46	no	RISING
-the bond market	sn:Politics_And_Law	3.34	no	RISING
-supply	sn:Politics_And_Law	3.34	no	RISING
-demand problem	sn:Politics_And_Law	3.34	no	RISING
-tech company	sn:econ	3.18	no	RISING
-bank	sn:econ	3.18	no	RISING
-revolut	sn:econ	3.18	no	RISING
-money mission	sn:econ	3.18	no	RISING
-al-khalaf	sn:econ	3.18	no	RISING
+# generated 2026-09-02T08:27:29.158Z; n=40
+show	hn	6.35	no	RISING
+claude mythos	hn,sn:AI	6.02	yes	
+bank	sn:econ,sn:news	5.79	no	RISING
+evolving	sn:AI	3.54	yes	
+options	sn:Politics_And_Law	3.46	no	RISING
+venezuela	sn:Politics_And_Law	3.46	no	RISING
+the bond market	sn:Politics_And_Law	3.36	no	RISING
+supply	sn:Politics_And_Law	3.36	no	RISING
+demand problem	sn:Politics_And_Law	3.36	no	RISING
+tech company	sn:econ	3.19	no	RISING
+revolut	sn:econ	3.19	no	RISING
+money mission	sn:econ	3.19	no	RISING
+al-khalaf	sn:econ	3.19	no	RISING
 stacker sports summer league	sn:Stacker_Sports	3.17	no	RISING
 final standings	sn:Stacker_Sports	3.17	no	RISING
-what	hn,sn:bitcoin	3.15	yes	
+claude fable	hn	3.08	no	RISING
 money	sn:charts_and_maps	3.06	no	RISING
-luxor	sn:AI	3.04	yes	
-dearly	sn:art	3.03	no	RISING
+reflections	sn:bitcoin	3.06	yes	
 mempool developer day	sn:bitcoin	3.03	yes	
 econ top	sn:econ	3.03	no	RISING
 august posts	sn:econ	3.03	no	RISING
-quantum secure bitcoin transaction	sn:bitcoin	3.02	yes	
-hard fork	sn:bitcoin	3.02	yes	
 another	sn:bitcoin_beginners	3.02	no	RISING
 chuks	sn:bitcoin_beginners	3.02	no	RISING
 paths	sn:bitcoin_beginners	3.02	no	RISING
 stories	sn:bitcoin_beginners	3.02	no	RISING
-the real engines	sn:Stacker_Stocks	2.98	no	RISING
-value creation	sn:Stacker_Stocks	2.98	no	RISING
-airlines	sn:Stacker_Stocks	2.98	no	RISING
-report	sn:Stacker_Stocks	2.98	no	RISING
+the real engines	sn:Stacker_Stocks	2.99	no	RISING
+value creation	sn:Stacker_Stocks	2.99	no	RISING
+airlines	sn:Stacker_Stocks	2.99	no	RISING
+report	sn:Stacker_Stocks	2.99	no	RISING
 split	sn:bitcoin	2.97	yes	
 swap portal	sn:bitcoin	2.97	yes	
-claude fable	hn	2.93	no	RISING
-google play	hn	2.91	no	RISING
-open collective	hn	2.91	no	RISING
-introducing claude fable	sn:AI	2.88	yes	
+introducing claude fable	sn:AI	2.94	yes	
 mercury layer	sn:bitcoin	2.87	yes	
 mutinynet	sn:bitcoin	2.87	yes	
+the social security	sn:Politics_And_Law	2.86	no	RISING
+washington	sn:Politics_And_Law	2.86	no	RISING
+biggest channel opened today	sn:lightning	2.85	no	RISING
+new node spotlight	sn:lightning	2.85	no	RISING
+ed zitron	hn	2.82	no	RISING
+tutorial	sn:bitcoin	2.77	yes	
