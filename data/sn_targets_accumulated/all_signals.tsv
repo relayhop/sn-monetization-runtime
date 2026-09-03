@@ -44604,3 +44604,20 @@
 2026-09-03T00:05:44.017Z	1560690	econ	2	125	0	0	9.3	88718	47151	recent@econ|top@econ	SIGNAL	Credit Out of “Thin Air” Brings Wealth Destruction
 2026-09-03T00:05:44.017Z	1560691	econ	2	116	0	0	9.3	280679	23049	recent@econ|top@econ	SIGNAL	Debt Jubilees Only Change Who Pays
 2026-09-03T00:05:44.017Z	1560799	lightning	1	106	0	0	7.4	280679	23049	recent@lightning|top@lightning	SIGNAL	ZeusLN/zeus · Release v13.2.1
+2026-09-03T01:00:40.627Z	1560760	bitcoin	1	3156	0	8	9.0	1560760	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How to split Lukes Airdrop from your cold storage musig bitcoins with electrum
+2026-09-03T01:00:40.627Z	1560858	AskSN	2	2179	0	2	7.8	51481	4171	recent@lightning|top@lightning	HOT,SIGNAL	Zeus Wallet - Pending Onchain Transaction - Not found in mempool
+2026-09-03T01:00:40.627Z	1560936	bitcoin	1	1246	0	0	5.6	1014665	232	recent@bitcoin|top@bitcoin	HOT,SIGNAL	CLN, replay protection, fee estimation - Bitcoin Optech Newsletter #420 Recap
+2026-09-03T01:00:40.627Z	1560912	bitcoin	1	1245	0	3	6.4	263596	243	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Highlights from 2011 Interview of Julian Assange by Google’s Eric Schmidt
+2026-09-03T01:00:40.627Z	1560909	bitcoin	1	889	0	0	6.5	24585	371	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Latest Strikes #34 & #35 - August 17th-30th 2026
+2026-09-03T01:00:40.627Z	1560888	bitcoin	1	661	0	0	7.0	74100	12329	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Inside a Vinteum Deep Dive: Bitcoin Mining from Protocol to Silicon
+2026-09-03T01:00:40.628Z	1560838	AI	1	657	0	0	8.0	74100	12329	recent@AI|top@AI	SIGNAL	Paid Phones - Daniel Kolitz
+2026-09-03T01:00:40.628Z	1560911	events	3	648	0	0	6.5	133958	192	recent@bitcoin|top@bitcoin	SIGNAL	PlebLab Startup Day Guadalajara ⚡️
+2026-09-03T01:00:40.628Z	1560622	lightning	1	648	0	1	11.8	440729	245	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02809440c31fca993…)
+2026-09-03T01:00:40.628Z	1560620	privacy	1	572	0	3	11.9	74100	12329	recent@privacy|top@privacy	SIGNAL	FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security
+2026-09-03T01:00:40.628Z	1561020	AI	1	546	0	0	2.6	87627	791	recent@AI|top@AI	SIGNAL	Private AI app with p2p RAG
+2026-09-03T01:00:40.628Z	1560762	bitcoin	1	255	0	1	9.0	280679	23049	recent@bitcoin|top@bitcoin	SIGNAL	The case for a 10% bitcoin allocation
+2026-09-03T01:00:40.628Z	1560931	nostr	1	204	0	0	5.9	553	3544	recent@nostr|top@nostr	SIGNAL	Encrypted Group Chat on Nostr: Marmot, Concord, and Cordn Compared
+2026-09-03T01:00:40.628Z	1561011	AI	1	200	0	0	2.9	296825	5258	recent@AI|top@AI	SIGNAL	Tether Release Open-Source AI Translation Models for Africa and Europe Languages
+2026-09-03T01:00:40.628Z	1560701	meta	1	159	0	3	10.0	36151	1617	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-09-03T01:00:40.628Z	1560937	devs	1	138	0	1	5.5	297791	7680	recent@devs|top@devs	SIGNAL	The Story of VS Code | Official Trailer
+2026-09-03T01:00:40.628Z	1560799	lightning	1	106	0	0	8.4	280679	23049	recent@lightning|top@lightning	SIGNAL	ZeusLN/zeus · Release v13.2.1
