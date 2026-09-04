@@ -44963,3 +44963,17 @@
 2026-09-04T14:15:56.155Z	1562078	meta	1	124	0	0	1.2	296825	5272	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Stacker News is Dead. Long live Stacker News
 2026-09-04T14:15:56.155Z	1562088	econ	2	115	0	1	1.0	402772	22241	recent@econ|top@econ	FRESH,SIGNAL	The US economy added 162,000 jobs in August, more than double expectations
 2026-09-04T14:15:56.155Z	1562043	bitcoin	1	100	0	0	2.4	280679	23096	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Why Hashing Algorithm Changes Don't Stop Centralised Mining
+2026-09-04T14:52:05.852Z	1561953	bitcoin	1	1731	0	4	7.1	1560760	5	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Dumping luke's fork for bitcoin works!
+2026-09-04T14:52:05.852Z	1562012	AI	1	1275	0	4	3.9	724606	12501	recent@AI|top@AI	HOT,SIGNAL	The Commentariat Muses on AI and Financial Market Risk (FT, Martin Sandbu)
+2026-09-04T14:52:05.852Z	1562086	bitcoin	1	589	0	10	1.6	74100	12369	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,SIGNAL	Trezor: recent data breach affected additional 67,000 customers
+2026-09-04T14:52:05.852Z	1562083	bitcoin	1	511	0	0	1.7	1554639	17	recent@lightning|top@lightning	FRESH,SIGNAL	No KYC” is becoming a pretty useless description of a Bitcoin market
+2026-09-04T14:52:05.852Z	1562048	bitcoin_beginners	1	383	0	0	2.9	30782	25628	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Top Beginner Posts This Week
+2026-09-04T14:52:05.852Z	1562128	gaming	3	211	0	0	1.0	972685	636	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	I finally understood Bitcoin mining through RNG in games🧨
+2026-09-04T14:52:05.852Z	1562117	bitcoin	1	203	0	1	1.2	74100	12369	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Stable Channels for Android now live on Android
+2026-09-04T14:52:05.852Z	1561905	bitcoin	1	161	0	2	11.4	1532836	386	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	WOS Update
+2026-09-04T14:52:05.852Z	1561937	bitcoin	1	145	0	0	9.2	296825	5272	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Coldcard Wave 3 Attacker Moves 10% of Stolen BTC via THORChain
+2026-09-04T14:52:05.852Z	1562078	meta	1	144	0	0	1.8	296825	5272	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Stacker News is Dead. Long live Stacker News
+2026-09-04T14:52:05.852Z	1562183	bitcoin	1	125	0	0	0.0	1554639	17	recent@lightning|top@lightning	FRESH,SIGNAL	Can a P2P Bitcoin market bootstrap itself from zero? We're trying it in Europe.
+2026-09-04T14:52:05.852Z	1562092	AI	1	125	0	1	1.5	280679	23096	recent@AI|top@AI	FRESH,SIGNAL	DEF CON 34 | Hacking AI - Bruce Schneier
+2026-09-04T14:52:05.852Z	1561981	AI	1	125	0	0	5.1	280679	23096	recent@AI|top@AI	SIGNAL	GPT-6 Astra: Brilliant Model, Gatekept Release
+2026-09-04T14:52:05.852Z	1562043	bitcoin	1	100	0	0	3.0	280679	23096	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Why Hashing Algorithm Changes Don't Stop Centralised Mining
