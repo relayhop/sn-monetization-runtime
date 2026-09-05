@@ -1,0 +1,74 @@
+{
+  "1556376": {
+    "id": "1556376",
+    "sub": "Stacker_Sports",
+    "tier": 3,
+    "score": 1013,
+    "bounty": 1000,
+    "comments": 15,
+    "title": "AFL Finals Week 1 Pick Em",
+    "tags": [
+      "OPEN_BOUNTY",
+      "HOT",
+      "SELF_POST_OPP"
+    ],
+    "status": "DETECTED",
+    "detectedAt": "2026-08-29T13:03:08.898Z",
+    "lastDetectedAt": "2026-08-29T13:03:08.898Z",
+    "metrics": {
+      "isOpenBounty": true,
+      "isSelfPostOpp": true,
+      "isSignal": false,
+      "isHot": true,
+      "isLowComp": false,
+      "isFresh": false,
+      "winProbability": 0.15,
+      "estimatedSatsEV": 403,
+      "action": "QUEUE_SELF_POST_AND_CLAIM",
+      "priority": "HIGH"
+    },
+    "history": [
+      {
+        "timestamp": "2026-08-29T13:03:08.898Z",
+        "status": "DETECTED",
+        "notes": "Radar discovery registration"
+      }
+    ]
+  },
+  "1556944": {
+    "id": "1556944",
+    "sub": "Stacker_Sports",
+    "tier": 3,
+    "score": 499,
+    "bounty": 2100,
+    "comments": 12,
+    "title": "Weekly Random Sports Pick 'em",
+    "tags": [
+      "OPEN_BOUNTY",
+      "SIGNAL",
+      "SELF_POST_OPP"
+    ],
+    "status": "DETECTED",
+    "detectedAt": "2026-08-29T13:03:08.898Z",
+    "lastDetectedAt": "2026-08-29T13:03:08.898Z",
+    "metrics": {
+      "isOpenBounty": true,
+      "isSelfPostOpp": true,
+      "isSignal": true,
+      "isHot": false,
+      "isLowComp": false,
+      "isFresh": false,
+      "winProbability": 0.15,
+      "estimatedSatsEV": 440,
+      "action": "QUEUE_SELF_POST_AND_CLAIM",
+      "priority": "HIGH"
+    },
+    "history": [
+      {
+        "timestamp": "2026-08-29T13:03:08.898Z",
+        "status": "DETECTED",
+        "notes": "Radar discovery registration"
+      }
+    ]
+  }
+}
