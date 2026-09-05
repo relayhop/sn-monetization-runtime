@@ -1,0 +1,16 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Cron runtime for Stacker News Monetization sub-project",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "radar": "node scripts/sn_radar_v2.mjs",
+    "process": "node scripts/sn_bounty_processor.mjs"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "author": "relayhop",
+  "license": "MIT"
+}
