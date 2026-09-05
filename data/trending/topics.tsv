@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-05T08:06:45.282Z; n=40
-last theorem	hn	4.78	no	RISING
-show	hn	4.52	no	RISING
-european	hn	4.46	no	RISING
-astra	hn	3.77	yes	
-capitalism book club	sn:BooksAndArticles	3.72	no	RISING
-chapter	sn:BooksAndArticles	3.72	no	RISING
-words	sn:BooksAndArticles	3.72	no	RISING
-more words	sn:BooksAndArticles	3.72	no	RISING
+# generated 2026-09-05T13:16:01.693Z; n=40
+astra	hn	7.55	yes	
+last theorem	hn	4.92	no	RISING
+show	hn	4.69	no	RISING
+capitalism book club	sn:BooksAndArticles	3.8	no	RISING
+chapter	sn:BooksAndArticles	3.8	no	RISING
+words	sn:BooksAndArticles	3.8	no	RISING
+more words	sn:BooksAndArticles	3.8	no	RISING
 stacker chopped	sn:Stacker_Sports	3.53	no	RISING
 sleeper	sn:Stacker_Sports	3.53	no	RISING
 cowboy credits	sn:AGORA	3.34	no	RISING
-discovery	hn	3.22	no	RISING
-the commentariat muses	sn:AI	3.16	yes	
-financial market risk	sn:AI	3.16	yes	
-martin sandbu	sn:AI	3.16	yes	
-nature-themed	sn:Construction_and_Engineering	3.15	no	RISING
-trump	sn:Politics_And_Law	3.13	no	RISING
-the race between educators	sn:AI	3.11	yes	
-parents	sn:AI	3.11	yes	
-technology	sn:AI	3.11	yes	
-john burn-murdoch	sn:AI	3.11	yes	
+discovery	hn	3.26	no	RISING
+trump	sn:Politics_And_Law	3.21	no	RISING
+the race between educators	sn:AI	3.18	yes	
+parents	sn:AI	3.18	yes	
+technology	sn:AI	3.18	yes	
+john burn-murdoch	sn:AI	3.18	yes	
 weekly random sports pick	sn:Stacker_Sports	3.05	no	RISING
 bitcoin optech newsletter	sn:bitcoin	3.05	yes	
-trezor	sn:bitcoin	2.97	yes	
-biggest channel opened today	sn:lightning	2.97	no	RISING
-new node spotlight	sn:lightning	2.97	no	RISING
 venezuela	sn:Politics_And_Law	2.91	no	RISING
-joint	sn:bitcoin	2.86	yes	
-statement	sn:bitcoin	2.86	yes	
-ocean	sn:bitcoin	2.86	yes	
-luke	sn:bitcoin	2.86	yes	
-dashjr	sn:bitcoin	2.86	yes	
-building	sn:DIY	2.86	no	RISING
+joint	sn:bitcoin	2.88	yes	
+statement	sn:bitcoin	2.88	yes	
+ocean	sn:bitcoin	2.88	yes	
+luke	sn:bitcoin	2.88	yes	
+dashjr	sn:bitcoin	2.88	yes	
+arbitraging	sn:AI	2.86	yes	
 el salvador	sn:lol	2.85	yes	
-why hashing algorithm changes don	sn:bitcoin	2.83	yes	
-stop centralised mining	sn:bitcoin	2.83	yes	
+lightning	sn:bitcoin	2.83	yes	
+why bitcoin	sn:math	2.82	yes	
+quadrillion sats	sn:math	2.82	yes	
+failing	sn:math	2.82	yes	
+macro marshmallow experiment	sn:math	2.82	yes	
 wants	sn:privacy	2.82	no	RISING
 know everyone who bought	sn:privacy	2.82	no	RISING
 green beanie from	sn:privacy	2.82	no	RISING
 last	sn:privacy	2.82	no	RISING
+years	sn:privacy	2.82	no	RISING
+formalizing fermat	hn	2.81	no	RISING
+surging	sn:AI	2.8	yes	
+actively	hn	2.77	no	RISING
+chromium	hn	2.77	no	RISING
