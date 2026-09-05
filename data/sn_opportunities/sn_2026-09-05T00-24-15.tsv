@@ -1,0 +1,59 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1562329	AI	1	1274	0	5	7.0	724606	12518	recent@AI|top@AI	HOT,SIGNAL	The Race Between Educators, Parents, and Technology (FT, John Burn-Murdoch)
+1562176	bitcoin	1	1101	0	0	9.7	1014665	234	recent@bitcoin|top@bitcoin	HOT,SIGNAL	SP coinbase payouts, changing consensus - Bitcoin Optech Newsletter #421
+1562086	bitcoin	1	934	0	20	11.2	74100	12390	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Trezor: recent data breach affected additional 67,000 customers
+1562085	lightning	1	919	0	2	11.2	440729	248	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03c226152bdb63701…)
+1562358	lol	2	713	0	1	6.2	328182	3951	recent@bitcoin|top@bitcoin	SIGNAL	IMF confirms El Salvador’s bitcoin growth was funded by private donations
+1562277	privacy	1	665	0	11	7.8	74100	12390	recent@privacy|top@privacy	SIGNAL	ICE Wants to Know Everyone Who Bought a Green Beanie From REI in Last 2 Years
+1562360	bitcoin	1	661	0	2	6.0	934367	1005	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Lightning privacy for a normal person
+1562379	AI	1	628	0	2	5.4	12309	3654	recent@AI|top@AI	SIGNAL	Surging AI wealth is creating a ‘mansion shortage’
+1562378	AI	1	578	0	1	5.4	328182	3951	recent@AI|top@AI	SIGNAL	Once popular for attacking AI, ASCII smuggling is embraced by spammers
+1562313	lightning	1	533	0	11	7.2	163128	3818	recent@lightning|top@lightning	SIGNAL	Why you gave up on LN and if you did, can suggest any alternative?
+1562083	bitcoin	1	511	0	0	11.2	1554639	17	recent@lightning|top@lightning	SIGNAL	No KYC” is becoming a pretty useless description of a Bitcoin market
+1562484	bitcoin	1	450	0	4	2.5	144357	4505	recent@bitcoin|top@bitcoin	SIGNAL	JOINT STATEMENT OF OCEAN AND LUKE DASHJR | SNL #239
+1562363	AI	1	333	0	1	5.9	328182	3951	recent@AI|top@AI	SIGNAL	Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight
+1562117	bitcoin	1	287	0	2	10.7	74100	12390	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Stable Channels for Android now live on Android
+1562092	AI	1	283	0	1	11.1	280679	23096	recent@AI|top@AI	SIGNAL	DEF CON 34 | Hacking AI - Bruce Schneier
+1562513	bitcoin_beginners	1	257	0	1	1.4	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	U.S. projects to borrow $2 trillion this year: Where could that money come from?
+1562177	Travel	3	230	0	3	9.7	1450322	104	recent@tech|top@tech	SIGNAL	Cybercabs in Austin
+1562128	gaming	3	222	0	0	10.6	972685	636	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	I finally understood Bitcoin mining through RNG in games🧨
+1562099	AskSN	2	151	0	0	11.0	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Can a Bitcoin self-custody solution work without seed phrase?
+1562078	meta	1	144	0	0	11.3	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Stacker News is Dead. Long live Stacker News
+1562183	bitcoin	1	125	0	2	9.6	1554639	17	recent@lightning|top@lightning	SIGNAL	Can a P2P Bitcoin market bootstrap itself from zero? We're trying it in Europe.
+1561572	bitcoin	1	2722	0	11	30.7	74100	12390	recent@bitcoin|recent@privacy	HOT	The Many Headaches of CoinJoin - Spiral
+1561953	bitcoin	1	2071	0	10	16.6	1560760	5	recent@bitcoin|top@bitcoin	HOT	Dumping luke's fork for bitcoin works!
+1561806	AI	1	1907	0	22	25.7	879734	9162	recent@AI	HOT	The Man Who Calls BS On AI - Ed Zitron @ DOAC
+1561508	bitcoin	1	1565	0	25	31.6	30782	25632	recent@bitcoin|recent@bitcoin_Mining	HOT	Pack your Bags. We're all moving to Jamestown, NY!
+1562012	AI	1	1437	0	6	13.4	724606	12518	recent@AI|top@AI	HOT	The Commentariat Muses on AI and Financial Market Risk (FT, Martin Sandbu)
+1561720	bitcoin	1	1058	0	1	28.4	1551638	3	recent@bitcoin	HOT	Cancel Pocket Bitcoin - Thank me later
+1561659	AskSN	2	914	0	7	29.5	1242375	226	recent@bitcoin	SELF_POST_OPP	Can you name a Bitcoin company that has found product-market fit?
+1561744	AI	1	839	0	3	27.7	12309	3654	recent@tech|recent@AI		GPT-6-Astra Benchmark results
+1561373	security	1	777	0	2	33.7	4078	5449	recent@security		Criminals publish data of 8.7m people after Manchester Airports Group hack
+1561311	lightning	1	690	0	1	35.2	440729	248	recent@lightning		Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03baff017b13eb261…)
+1562043	bitcoin	1	660	0	1	12.6	280679	23096	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Why Hashing Algorithm Changes Don't Stop Centralised Mining
+1561747	tech	1	601	0	0	27.5	161788	10352	recent@tech		GPT-6 Astra
+1561856	bitcoin	1	563	0	5	24.0	900202	2716	recent@bitcoin|top@bitcoin		Ask Jack — The Jack Mallers Show
+1561625	AI	1	561	0	2	30.1	934367	1005	recent@tech|recent@AI		NVIDIA to Acquire Hugging Face for almost 13B USD
+1561603	bitcoin	1	512	0	3	30.4	249216	283	recent@bitcoin		⚡ Zaprite P2P — Join the waitlist
+1561756	openagents	1	448	0	1	27.2	534967	235	recent@openagents		Episode 277: Coder Terminal
+1561536	AI	1	426	0	2	31.2	297791	7688	recent@AI		ChatGPT, Grok, and Claude all went down at the same time
+1562048	bitcoin_beginners	1	383	0	0	12.4	30782	25632	recent@bitcoin_beginners|top@bitcoin_beginners		Top Beginner Posts This Week
+1561411	AI	1	357	0	4	33.3	280679	23096	recent@AI		In an Age of AI, a Physicist Seeks What Endures
+1561426	tech	1	261	0	0	32.9	280679	23096	recent@tech		Why you won’t get a flying car
+1561320	news	2	249	0	0	35.0	297791	7688	recent@tech		Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition
+1561729	tech	1	230	0	1	28.1	1293586	2286	recent@tech		Russian man indicted for spreading malware to 80,000 freelancers
+1561520	AI	1	192	0	3	31.4	934367	1005	recent@AI		Why are OpenAI, Claude, and Grok simultaneously down? Coincidence? | Hacker News
+1561937	bitcoin	1	145	0	0	18.7	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners		Coldcard Wave 3 Attacker Moves 10% of Stolen BTC via THORChain
+1561981	AI	1	125	0	0	14.6	280679	23096	recent@AI|top@AI		GPT-6 Astra: Brilliant Model, Gatekept Release
+1561989	meta	1	108	0	0	14.4	36151	1619	recent@meta|top@meta		This Day on SN: September 4
+1561614	AI	1	102	0	0	30.2	297791	7688	recent@AI		Path to Astra: critical capabilities and frontier safeguards
+1561767	AskSN	2	82	0	5	26.7	1532836	390	recent@bitcoin_beginners|recent@bitcoinplusplus		How does Mostro 🧌 work?
+1562511	bitcoin	1	57	0	0	1.4	375687	3165	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH	🧌 Mostro Mobile v1.4.2 is now available!
+1562203	bitcoin_beginners	1	57	0	0	9.2	699824	164	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bitcoin Wallets Don’t Have to Be Complicated | Glow by Breez
+1561929	bitcoin	1	47	0	0	19.2	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners		"How the new COLDCARD seed generation works". Please beware!
+1561933	bitcoin_beginners	1	37	0	0	18.9	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Cashu Release CDK version 0.18.0 ·
+1561344	bitcoin	1	36	0	10	34.2	223678	6136	recent@bitcoin		How To Use Blake2B Tokens On Stacker News
+1562135	bitcoin_beginners	1	36	0	0	10.4	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		A new Lightning POS
+1561928	bitcoin	1	36	0	0	19.4	296825	5274	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Ask Spark users: How do you test integrations?
+1562464	security	1	21	0	0	2.8	1278026	804	recent@security|top@security		Interesting conspiracy theory from Andrei Jikh
+1561724	devs	1	0	0	0	28.3	297791	7688	recent@devs		21st Revision Of Patches For Getting Linux To Shutdown Devices Asynchronously
