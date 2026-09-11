@@ -1,15 +1,11 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-11T08:38:35.441Z; n=40
-bitcoin	sn:bitcoin	10.01	yes	
-astra	hn	5.06	no	RISING
-cognition	hn	4.85	no	RISING
-slowly exiting	sn:bitcoin	4.09	yes	
-fiat world	sn:bitcoin	4.09	yes	
-little victoria	sn:gaming	4.01	no	RISING
+# generated 2026-09-11T14:05:04.327Z; n=40
+recap	sn:bitcoin,sn:AskSN	6.74	yes	
+bitcoin	sn:bitcoin	5.92	yes	
 math puzzle	sn:math	3.84	no	RISING
 disability	sn:AskSN	3.73	no	RISING
-trump	sn:Politics_And_Law	3.52	no	RISING
-republicans	sn:Politics_And_Law	3.52	no	RISING
+my observation	sn:AskSN	3.65	no	RISING
+current social media	sn:AskSN	3.65	no	RISING
 down under	sn:Stacker_Sports	3.46	no	RISING
 rams	sn:Stacker_Sports	3.46	no	RISING
 prepay	sn:bitcoin_Mining	3.41	no	RISING
@@ -19,24 +15,28 @@ market	sn:Stacker_Stocks	3.4	no	RISING
 will	sn:Stacker_Stocks	3.4	no	RISING
 sats	sn:Stacker_Stocks	3.4	no	RISING
 daily rewards	sn:Stacker_Stocks	3.4	no	RISING
-conduition	sn:bitcoin	3.37	yes	
-bitcoin optech newsletter	sn:bitcoin	3.37	yes	
-recap	sn:bitcoin	3.37	yes	
+turns	sn:bitcoin	3.4	yes	
+conduition	sn:bitcoin	3.39	yes	
+bitcoin optech newsletter	sn:bitcoin	3.39	yes	
 dividends this	sn:Politics_And_Law	3.36	no	RISING
 dividends that	sn:Politics_And_Law	3.36	no	RISING
 data center style	sn:Politics_And_Law	3.36	no	RISING
 editorial board	sn:Politics_And_Law	3.36	no	RISING
-one piece	sn:AskSN	3.31	no	RISING
+pool	sn:AskSN	3.35	no	RISING
+week	sn:AskSN	3.35	no	RISING
+where were you	sn:AskSN	3.31	no	RISING
+years ago when the world changed	sn:AskSN	3.31	no	RISING
+daily putt	sn:gaming	3.29	no	RISING
+play	sn:gaming	3.29	no	RISING
+putt	sn:gaming	3.29	no	RISING
+score	sn:gaming	3.29	no	RISING
+ray bradbury	sn:the_stacker_muse	3.26	no	RISING
+the art	sn:the_stacker_muse	3.26	no	RISING
+fiction no	sn:the_stacker_muse	3.26	no	RISING
 wealth rules	sn:Politics_And_Law	3.26	no	RISING
 earn	sn:Politics_And_Law	3.26	no	RISING
 your way	sn:Politics_And_Law	3.26	no	RISING
 good life	sn:Politics_And_Law	3.26	no	RISING
 john burn-murdoch	sn:Politics_And_Law	3.26	no	RISING
-daily putt	sn:gaming	3.26	no	RISING
-play	sn:gaming	3.26	no	RISING
-putt	sn:gaming	3.26	no	RISING
-score	sn:gaming	3.26	no	RISING
 what makes	sn:AskSN	3.25	no	RISING
 economist	sn:AskSN	3.25	no	RISING
-soumaya keynes	sn:AskSN	3.25	no	RISING
-ray bradbury	sn:the_stacker_muse	3.24	no	RISING
