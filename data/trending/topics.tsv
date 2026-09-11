@@ -1,15 +1,20 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-11T18:59:54.988Z; n=40
-show	hn	7.3	no	RISING
-bitcoin optech newsletter	sn:bitcoin	3.82	yes	
+# generated 2026-09-11T23:54:18.240Z; n=40
+liquid network	sn:bitcoin	7.61	yes	
+blockstream	sn:bitcoin	7.53	yes	
+bitcoin	sn:bitcoin	7.41	yes	
+liquid	sn:bitcoin	6.51	yes	
+what	sn:AskSN,sn:bitcoin	6.09	yes	
+show	hn	5.35	no	RISING
+bitcoin optech newsletter	sn:bitcoin	3.84	yes	
 my observation	sn:AskSN	3.79	no	RISING
 current social media	sn:AskSN	3.79	no	RISING
-another	sn:Animal_World	3.64	no	RISING
-predyx	sn:Stacker_Stocks	3.55	no	RISING
-market	sn:Stacker_Stocks	3.55	no	RISING
-will	sn:Stacker_Stocks	3.55	no	RISING
-sats	sn:Stacker_Stocks	3.55	no	RISING
-daily rewards	sn:Stacker_Stocks	3.55	no	RISING
+murch	sn:bitcoin	3.72	yes	
+ready	sn:bitcoin	3.72	yes	
+merge	sn:bitcoin	3.72	yes	
+episodes	sn:bitcoin	3.72	yes	
+another	sn:Animal_World	3.66	no	RISING
+low-effort	sn:meta	3.59	yes	
 down under	sn:Stacker_Sports	3.46	no	RISING
 rams	sn:Stacker_Sports	3.46	no	RISING
 pool	sn:AskSN	3.45	no	RISING
@@ -17,21 +22,15 @@ week	sn:AskSN	3.45	no	RISING
 recap	sn:AskSN	3.45	no	RISING
 turns	sn:bitcoin	3.43	yes	
 letter	sn:bitcoin	3.4	yes	
-liquid network	sn:bitcoin	3.4	yes	
+where were you	sn:AskSN	3.4	no	RISING
+years ago when the world changed	sn:AskSN	3.4	no	RISING
 reflections	sn:events	3.4	no	RISING
-where were you	sn:AskSN	3.39	no	RISING
-years ago when the world changed	sn:AskSN	3.39	no	RISING
-dividends this	sn:Politics_And_Law	3.39	no	RISING
-dividends that	sn:Politics_And_Law	3.39	no	RISING
-data center style	sn:Politics_And_Law	3.39	no	RISING
-editorial board	sn:Politics_And_Law	3.39	no	RISING
+declaration	sn:AI	3.37	yes	
+math	sn:AI	3.37	yes	
+nostr wallet connect ecosystem map	sn:bitcoin	3.27	yes	
 ray bradbury	sn:the_stacker_muse	3.26	no	RISING
 the art	sn:the_stacker_muse	3.26	no	RISING
 fiction no	sn:the_stacker_muse	3.26	no	RISING
-without	hn	3.22	no	RISING
-keys	sn:Stacker_Sports	3.22	no	RISING
-victory	sn:Stacker_Sports	3.22	no	RISING
-nostr wallet connect ecosystem map	sn:bitcoin	3.22	yes	
 david foster wallace	sn:the_stacker_muse	3.21	no	RISING
 water	sn:the_stacker_muse	3.21	no	RISING
 conmmencement speech	sn:the_stacker_muse	3.21	no	RISING
@@ -39,4 +38,5 @@ hangtime	sn:gaming	3.2	no	RISING
 blok	sn:gaming	3.2	no	RISING
 quest	sn:gaming	3.2	no	RISING
 thread	sn:gaming	3.2	no	RISING
+bitcoin core	sn:bitcoin	3.19	yes	
 bitcoin vendor spotlight	sn:AGORA	3.19	no	RISING
