@@ -47336,3 +47336,26 @@
 2026-09-11T18:24:02.065Z	1568345	Politics_And_Law	3	119	0	1	6.3	280679	23274	recent@econ|top@econ	SIGNAL	Will Trump Accounts Make Every Kid a Millionaire?
 2026-09-11T18:24:02.065Z	1568306	news	2	118	0	3	7.3	1208996	504	recent@news|top@news|recent@history	SIGNAL	🇱🇷SEPTEMBER 11 — TO REMEMBER IS ALSO TO QUESTION
 2026-09-11T18:24:02.065Z	1568321	Education	2	106	0	2	6.8	402772	22388	recent@Education|top@Education	SIGNAL	Russia has turned its schools into indoctrination machines
+2026-09-11T20:03:58.537Z	1568503	bitcoin	1	6880	0	0	5.1	1014665	236	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Optech Newsletter #422
+2026-09-11T20:03:58.537Z	1568221	bitcoin	1	5052	0	20	11.5	14476	328	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I don't think the hackers care for the 600 btc.
+2026-09-11T20:03:58.537Z	1568788	meta	1	3322	0	6	0.6	74100	12608	recent@meta|top@meta	FRESH,HOT,SIGNAL	Is it okay to post dupes of low-effort link posts?
+2026-09-11T20:03:58.537Z	1568295	bitcoin	1	2675	0	3	9.1	1278026	822	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Turns out, starting a new hard fork in 2026 comes with unintended consequences
+2026-09-11T20:03:58.537Z	1568588	bitcoin	1	2496	0	14	3.3	402772	22392	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	(Letter) To those responsible for the theft of bitcoin from the Liquid Network
+2026-09-11T20:03:58.537Z	1568555	bitcoin	1	1864	0	2	4.1	21800	495	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Nostr Wallet Connect Ecosystem Map v1.9
+2026-09-11T20:03:58.538Z	1568758	bitcoin	1	1791	0	2	1.1	223678	6202	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Do you tend to support Blockstream or the Liquid hax0rz?
+2026-09-11T20:03:58.538Z	1568327	bitcoin	1	1636	0	1	8.2	724606	12713	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Isn’t Money, Says the Fiat-Issuing Riksbank (BTCHEL, JB)
+2026-09-11T20:03:58.538Z	1568734	bitcoin	1	1537	0	0	1.4	74100	12608	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	hazync: Bitcoin validity proofs from unmodified Bitcoin Core consensus code
+2026-09-11T20:03:58.538Z	1568581	lightning	1	1365	0	0	3.5	163128	3850	recent@lightning|top@lightning	HOT,SIGNAL	LND updates to push BOLT12: Merkle tree and BIP-340 message signatures
+2026-09-11T20:03:58.538Z	1568707	bitcoin	1	1310	0	6	1.7	402772	22392	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	What's the Next Big Bitcoin Controversy After BIP110?
+2026-09-11T20:03:58.538Z	1568260	bitcoin	1	1166	0	0	10.2	934367	1024	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Mathematical Theory of Payment Channel Networks
+2026-09-11T20:03:58.538Z	1568381	bitcoin_beginners	1	894	0	0	7.4	30782	25714	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #115
+2026-09-11T20:03:58.538Z	1568600	lightning	1	686	0	1	3.1	440729	259	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03c3084dd15e776f0…)
+2026-09-11T20:03:58.538Z	1568691	bitcoin	1	420	0	2	2.0	328182	3980	recent@bitcoin|top@bitcoin	SIGNAL	22-year-old pleads guilty to stealing over $240 million in bitcoin heist
+2026-09-11T20:03:58.538Z	1568775	bitcoin	1	419	0	0	0.8	223678	6202	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Press Release from Larry, Larry, Larry & Adam.
+2026-09-11T20:03:58.538Z	1568454	bitcoin	1	410	0	0	6.0	280679	23274	recent@bitcoin|top@bitcoin	SIGNAL	Nym21 Made BTC's On-Chain Metrics Free, and the Pros Who Sell Them Came Running
+2026-09-11T20:03:58.538Z	1568577	news	2	330	0	0	3.5	297791	7719	recent@devs|top@devs	SIGNAL	Mold Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux
+2026-09-11T20:03:58.538Z	1568715	lol	2	228	0	0	1.6	328182	3980	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Disembodied fruit fly brain joins the crypto speculation swarm
+2026-09-11T20:03:58.538Z	1568266	meta	1	217	0	1	10.1	36151	1628	recent@meta|top@meta	SIGNAL	This Day on SN: September 11
+2026-09-11T20:03:58.538Z	1568216	bitcoin_beginners	1	212	0	1	12.0	296825	5331	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Blockstream's message regarding the stolen bitcoins from the Liquid Network
+2026-09-11T20:03:58.538Z	1568415	lightning	1	183	0	0	6.8	440729	259	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.7 BTC) + New Node Spotlight (026e0ce05b8dac878…)
+2026-09-11T20:03:58.538Z	1568646	security	1	164	0	0	2.7	297791	7719	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
