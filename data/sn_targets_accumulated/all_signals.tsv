@@ -47487,3 +47487,27 @@
 2026-09-12T00:10:47.961Z	1568670	Design	2	180	0	1	6.4	383547	3671	recent@Design|top@Design	SIGNAL	Daily Designer Quote #0016
 2026-09-12T00:10:47.961Z	1568646	security	1	164	0	0	6.8	297791	7720	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
 2026-09-12T00:10:47.961Z	1568546	Stacker_Stocks	2	120	0	0	8.3	934429	339	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	The net interest margin of Chinese banks fell to around 1.35%
+2026-09-12T00:40:32.826Z	1568837	bitcoin	1	16511	0	6	4.4	163128	3853	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Blockstream is responsible for the gap of Bitcoin in the Liquid Network.
+2026-09-12T00:40:32.826Z	1568503	bitcoin	1	6900	0	0	9.7	1014665	236	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Optech Newsletter #422
+2026-09-12T00:40:32.826Z	1568962	bitcoin	1	5253	0	6	3.4	127838	1210	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Murch will be joining Ready for Merge for 15 Episodes
+2026-09-12T00:40:32.826Z	1568788	meta	1	4005	0	33	5.2	74100	12626	recent@meta|top@meta	HOT,SIGNAL	Is it okay to post dupes of low-effort link posts?
+2026-09-12T00:40:32.826Z	1568588	bitcoin	1	2496	0	21	7.9	402772	22392	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	(Letter) To those responsible for the theft of bitcoin from the Liquid Network
+2026-09-12T00:40:32.826Z	1568854	AI	1	2318	0	6	4.3	4078	5479	recent@AI|top@AI	HOT,SIGNAL	Declaration — Math and AI
+2026-09-12T00:40:32.826Z	1568758	bitcoin	1	2033	0	2	5.7	223678	6205	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Do you tend to support Blockstream or the Liquid hax0rz?
+2026-09-12T00:40:32.826Z	1568555	bitcoin	1	1864	0	3	8.7	21800	495	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Nostr Wallet Connect Ecosystem Map v1.9
+2026-09-12T00:40:32.826Z	1569009	AI	1	1864	0	10	2.7	48657	15281	recent@AI|top@AI	HOT,SIGNAL	How would you bring up to a coauthor that you think they're using AI to write
+2026-09-12T00:40:32.826Z	1568942	bitcoin	1	1583	0	0	3.6	144357	4534	recent@bitcoin|top@bitcoin	HOT,SIGNAL	4k BTC Liquid pegout, OP_Return: "We are whitehats" | SNL #241
+2026-09-12T00:40:32.826Z	1568734	bitcoin	1	1548	0	0	6.0	74100	12626	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	hazync: Bitcoin validity proofs from unmodified Bitcoin Core consensus code
+2026-09-12T00:40:32.826Z	1568581	lightning	1	1365	0	0	8.1	163128	3853	recent@lightning|top@lightning	HOT,SIGNAL	LND updates to push BOLT12: Merkle tree and BIP-340 message signatures
+2026-09-12T00:40:32.826Z	1568707	bitcoin	1	1310	0	9	6.3	402772	22392	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	What's the Next Big Bitcoin Controversy After BIP110?
+2026-09-12T00:40:32.826Z	1568930	bitcoin	1	1212	0	11	3.7	328486	5047	recent@bitcoin|top@bitcoin	HOT,SIGNAL	⚠️ RED TEAM INVESTIGATING SPARK DRAIN, NON-RESPONSIVE WITHDRAWALS AND DEPOSITS
+2026-09-12T00:40:32.826Z	1568775	bitcoin	1	769	0	0	5.4	223678	6205	recent@bitcoin|top@bitcoin	SIGNAL	Press Release from Larry, Larry, Larry & Adam.
+2026-09-12T00:40:32.826Z	1568600	lightning	1	686	0	1	7.7	440729	259	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03c3084dd15e776f0…)
+2026-09-12T00:40:32.826Z	1569086	AskSN	2	489	0	0	0.2	1532836	464	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Creating an order on Mostro 🧌 takes less time than reading this post
+2026-09-12T00:40:32.826Z	1568985	bitcoin_Mining	1	448	0	0	3.1	1566662	3	top@bitcoin_Mining	SIGNAL	House bill defines large power users as 100 MW data centers. Rockdale is 700.
+2026-09-12T00:40:32.826Z	1568691	bitcoin	1	420	0	2	6.6	328182	3983	recent@bitcoin|top@bitcoin	SIGNAL	22-year-old pleads guilty to stealing over $240 million in bitcoin heist
+2026-09-12T00:40:32.826Z	1568454	bitcoin	1	410	0	0	10.6	280679	23274	recent@bitcoin|top@bitcoin	SIGNAL	Nym21 Made BTC's On-Chain Metrics Free, and the Pros Who Sell Them Came Running
+2026-09-12T00:40:32.826Z	1568577	news	2	330	0	0	8.2	297791	7720	recent@devs|top@devs	SIGNAL	Mold Linker Being Rewritten In Rust, Hopes To Be The Default Linker On Linux
+2026-09-12T00:40:32.826Z	1568715	lol	2	249	0	0	6.2	328182	3983	recent@bitcoin|top@bitcoin	SIGNAL	Disembodied fruit fly brain joins the crypto speculation swarm
+2026-09-12T00:40:32.826Z	1568415	lightning	1	183	0	0	11.4	440729	259	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.7 BTC) + New Node Spotlight (026e0ce05b8dac878…)
+2026-09-12T00:40:32.826Z	1568646	security	1	164	0	0	7.3	297791	7720	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%
