@@ -88,6 +88,8 @@ export const SUB_ANGLE = {
   BooksAndArticles: 'review with synthesis angle',
   news: 'context-add to news without rehashing',
   podcasts: 'episode summary with technical angle',
+  Stacker_Stocks: 'equity valuation, macroeconomic catalysts, weekly close contests, technical analysis',
+  Stacker_Sports: 'statistical modeling, match predictions, sports betting market analysis',
 };
 
 export const ALL_SUBS = [...TIER_1, ...TIER_2, ...TIER_3];
