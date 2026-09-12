@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-12T18:09:02.901Z; n=40
-bitcoin	sn:bitcoin_beginners,sn:bitcoin	6.81	yes	
-liquid	sn:bitcoin	6.81	yes	
-what	sn:AskSN,sn:bitcoin	6.71	yes	
+# generated 2026-09-12T23:47:13.252Z; n=40
+when	sn:nostr,sn:BooksAndArticles	6.39	yes	
+lightning	sn:lightning,sn:AI	5.74	yes	
 the nordic bitcoin conference	sn:events	5.01	no	RISING
 happens	sn:events	5.01	no	RISING
-murch	sn:bitcoin	3.8	yes	
-ready	sn:bitcoin	3.8	yes	
-merge	sn:bitcoin	3.8	yes	
-episodes	sn:bitcoin	3.8	yes	
-morality	sn:meta	3.64	yes	
-low-effort	sn:meta	3.63	yes	
-safest	sn:bitcoin_beginners	3.59	no	RISING
-declaration	sn:AI	3.49	yes	
-math	sn:AI	3.49	yes	
-blockstream	sn:bitcoin	3.43	yes	
+android	hn,sn:security	4.96	yes	
+neptune	sn:bitcoin	4.06	yes	
+brood	sn:bitcoin	4.06	yes	
+the first bitcoin novel	sn:bitcoin	4.06	yes	
+morality	sn:meta	3.65	yes	
+safest	sn:bitcoin_beginners	3.62	no	RISING
+bitcoin	sn:bitcoin_beginners	3.62	yes	
+what	sn:AskSN	3.57	yes	
+take	sn:lightning	3.45	no	RISING
+using bitcoin	sn:bitcoin	3.41	yes	
+real life	sn:bitcoin	3.41	yes	
+zapping	sn:AskSN	3.36	yes	
+monero	sn:AskSN	3.36	yes	
+xaps	sn:AskSN	3.36	yes	
 tutorial	sn:AI	3.35	yes	
 local	sn:AI	3.35	yes	
 for beginners	sn:AI	3.35	yes	
 qwen	sn:AI	3.35	yes	
 bionic	sn:AI	3.35	yes	
-team	sn:bitcoin	3.28	yes	
-investigating	sn:bitcoin	3.28	yes	
-spark	sn:bitcoin	3.28	yes	
-drain	sn:bitcoin	3.28	yes	
-responsive	sn:bitcoin	3.28	yes	
-withdrawals	sn:bitcoin	3.28	yes	
-deposits	sn:bitcoin	3.28	yes	
-using bitcoin	sn:bitcoin	3.28	yes	
-real life	sn:bitcoin	3.28	yes	
-bitcoin core	sn:bitcoin	3.22	yes	
-revolut data breach	sn:tech	3.21	yes	
-passports	sn:tech	3.21	yes	
-selfies	sn:tech	3.21	yes	
-bitcoin history exposed	sn:tech	3.21	yes	
-next big bitcoin controversy after	sn:bitcoin	3.19	yes	
-attention	sn:security	3.12	no	RISING
-revolut	sn:security	3.12	no	RISING
+revolut data breach	sn:tech	3.23	yes	
+passports	sn:tech	3.23	yes	
+selfies	sn:tech	3.23	yes	
+bitcoin history exposed	sn:tech	3.23	yes	
+saturday newsletter	sn:meta	3.18	yes	
+fedimint	sn:lightning	3.13	no	RISING
+attention	sn:security	3.13	no	RISING
+revolut	sn:security	3.13	yes	
+msty	sn:Stacker_Stocks	3.13	no	RISING
+payout	sn:Stacker_Stocks	3.13	no	RISING
+got coins	sn:Stacker_Stocks	3.13	no	RISING
 downzaper	sn:AskSN	3.12	no	RISING
-when	sn:nostr	3.04	yes	
-nostr	sn:nostr	3.04	yes	
+nostr	sn:nostr	3.08	yes	
+all your data are belong to us	sn:nostr	3.08	yes	
+saturday	sn:art	3.04	no	RISING
+share	sn:art	3.04	no	RISING
+girl	sn:Photography	3.04	no	RISING
