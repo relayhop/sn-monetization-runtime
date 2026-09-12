@@ -47862,3 +47862,34 @@
 2026-09-12T22:12:17.640Z	1569831	bitcoin_beginners	1	120	0	1	1.1	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Bitcoin Roundabout
 2026-09-12T22:12:17.640Z	1569849	news	2	109	0	0	0.5	297791	7731	recent@news|top@news	FRESH,SIGNAL	BRICS Declaration: ‘Fossil fuels will still play important role’
 2026-09-12T22:12:17.640Z	1569700	podcasts	2	105	0	1	4.2	31062	26	recent@podcasts|top@podcasts	SIGNAL	[P.A.Z.NIA RADIO] Cloak & Dagger [Guest: Brian Sovryn] + Bill Cooper/911 Special
+2026-09-12T22:54:06.251Z	1569737	bitcoin	1	11311	0	7	3.9	30782	25726	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Neptune’s Brood: The First Bitcoin Novel
+2026-09-12T22:54:06.251Z	1569487	meta	1	4392	0	21	8.9	900202	2764	recent@meta|top@meta	HOT,SIGNAL	Morality of territory 'moderation'
+2026-09-12T22:54:06.251Z	1569657	lightning	1	2822	0	15	5.9	223678	6229	recent@lightning|top@lightning	HOT,SIGNAL	sigh... Take your CLN node offline.
+2026-09-12T22:54:06.251Z	1569672	bitcoin	1	2585	0	3	5.6	375687	3229	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Using Bitcoin in Real Life
+2026-09-12T22:54:06.251Z	1569834	AskSN	2	2254	0	1	1.8	375108	344	recent@nostr|top@nostr	FRESH,HOT,SIGNAL	Zapping with Monero? Xaps?
+2026-09-12T22:54:06.251Z	1569551	AI	1	2244	0	1	7.7	19732	169	recent@AI|top@AI	HOT,SIGNAL	TUTORIAL Local AI For Beginners: Qwen 3.8 27b using Bionic on a laptop
+2026-09-12T22:54:06.251Z	1569768	meta	1	1458	0	3	3.2	1	27376	recent@meta|top@meta	HOT,SIGNAL	SN Saturday Newsletter 9/12/26
+2026-09-12T22:54:06.251Z	1569774	lightning	1	1352	0	5	3.1	74100	12645	recent@lightning|top@lightning	HOT,SIGNAL	Fedimint legacy Lightning integration has a bug
+2026-09-12T22:54:06.251Z	1569450	security	1	1325	0	9	9.7	375687	3229	recent@security|top@security	HOT,SIGNAL	ATTENTION 👀 if you are a @Revolut user
+2026-09-12T22:54:06.251Z	1569506	nostr	1	1205	0	6	8.6	223678	6229	recent@nostr|top@nostr	HOT,SIGNAL	When did Nostr transmute from freedom tech to 'All Your Data Are Belong To Us'?
+2026-09-12T22:54:06.251Z	1569446	AI	1	924	0	2	9.7	12309	3667	recent@AI|top@AI	SIGNAL	AI Is Powerful Enough to Crack Our Hardest Math Problems—and Kill Us All
+2026-09-12T22:54:06.251Z	1569548	math	2	805	0	7	7.8	296825	5340	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	Do you consider Quantum, a threat OR an opportunity, OR both?
+2026-09-12T22:54:06.251Z	1569449	mostly_harmless	2	707	0	0	9.7	1227948	204	recent@bitcoin|top@bitcoin	SIGNAL	YATA Episode #18!!
+2026-09-12T22:54:06.251Z	1569802	tech	1	629	0	0	2.5	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@tech	SIGNAL	Today in History: Satoshi posted on the 12th of September, 2010
+2026-09-12T22:54:06.251Z	1569408	bitcoin	1	489	0	0	10.7	238412	252	top@bitcoin_beginners	SIGNAL	Number Go Up Is Not The Point
+2026-09-12T22:54:06.251Z	1569599	lightning	1	477	0	2	6.9	440729	261	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today () + New Node Spotlight (0343c48d074dbc2c08575b)
+2026-09-12T22:54:06.251Z	1569448	lightning	1	457	0	1	9.7	440729	261	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (0231b95352cde942c…)
+2026-09-12T22:54:06.251Z	1569766	tech	1	426	0	0	3.3	161788	10402	recent@tech|top@tech	SIGNAL	LG denies TV spying claims, says tracking and snooping concerns 'not true'
+2026-09-12T22:54:06.251Z	1569402	AI	1	393	0	2	10.8	1519770	6	recent@lightning|top@lightning|recent@privacy	SIGNAL	nullsink now accepts Lightning for Anthropic, OpenAI, and open-weight API access
+2026-09-12T22:54:06.252Z	1569731	AI	1	381	0	0	4.1	297791	7733	recent@AI|top@AI	SIGNAL	Anthropic's Amodei proposes plan to 'slow the pace' of advancing AI capabilities
+2026-09-12T22:54:06.252Z	1569527	tech	1	358	0	0	8.3	272410	1390	recent@tech|top@tech	SIGNAL	HedgeDoc: Google Docs for Markdown, self-hosted
+2026-09-12T22:54:06.252Z	1569695	lightning	1	314	0	1	5.1	263526	700	recent@lightning|top@lightning	SIGNAL	Tools for CLN: probe + policy plugin, chrome-extension, TUI
+2026-09-12T22:54:06.252Z	1569563	tech	1	303	0	0	7.5	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@nostr	SIGNAL	The Praxeology of Privacy
+2026-09-12T22:54:06.252Z	1569531	AI	1	246	0	1	8.2	263526	700	recent@AI|top@AI	SIGNAL	Alex Gladstein third reflection on AI and freedom
+2026-09-12T22:54:06.252Z	1569371	AI	1	243	0	5	11.4	9274	27335	recent@AI|top@AI	SIGNAL	🤔 OpenAI’s problem - Snacks
+2026-09-12T22:54:06.252Z	1569435	news	2	224	0	0	10.0	297791	7733	recent@devs|top@devs	SIGNAL	Ubuntu Developers Contemplate Linux Firmware HWE Package
+2026-09-12T22:54:06.252Z	1569410	bitcoin	1	156	0	0	10.7	1554639	22	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	MostroEuropa is getting ready for its next step
+2026-09-12T22:54:06.252Z	1569842	bitcoin	1	151	0	0	1.4	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	This guy was able to decompile and analyse 494 wallets on the AppStore
+2026-09-12T22:54:06.252Z	1569854	bitcoin	1	130	0	0	1.1	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Electrum Release v4.8.2. Another security update: could it be another hack/scam?
+2026-09-12T22:54:06.252Z	1569364	bitcoin	1	126	0	1	11.5	1532836	489	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Blockparty this Saturday
+2026-09-12T22:54:06.252Z	1569831	bitcoin_beginners	1	120	0	1	1.8	296825	5340	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Bitcoin Roundabout
