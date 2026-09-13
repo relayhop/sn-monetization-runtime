@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-12T23:47:13.252Z; n=40
+# generated 2026-09-13T09:06:08.671Z; n=40
 when	sn:nostr,sn:BooksAndArticles	6.39	yes	
-lightning	sn:lightning,sn:AI	5.74	yes	
+lightning	sn:lightning,sn:AI	5.76	yes	
 the nordic bitcoin conference	sn:events	5.01	no	RISING
 happens	sn:events	5.01	no	RISING
-android	hn,sn:security	4.96	yes	
-neptune	sn:bitcoin	4.06	yes	
-brood	sn:bitcoin	4.06	yes	
-the first bitcoin novel	sn:bitcoin	4.06	yes	
-morality	sn:meta	3.65	yes	
-safest	sn:bitcoin_beginners	3.62	no	RISING
-bitcoin	sn:bitcoin_beginners	3.62	yes	
+neptune	sn:bitcoin	4.09	yes	
+brood	sn:bitcoin	4.09	yes	
+the first bitcoin novel	sn:bitcoin	4.09	yes	
+morality	sn:meta	3.67	yes	
 what	sn:AskSN	3.57	yes	
-take	sn:lightning	3.45	no	RISING
-using bitcoin	sn:bitcoin	3.41	yes	
-real life	sn:bitcoin	3.41	yes	
-zapping	sn:AskSN	3.36	yes	
-monero	sn:AskSN	3.36	yes	
-xaps	sn:AskSN	3.36	yes	
-tutorial	sn:AI	3.35	yes	
-local	sn:AI	3.35	yes	
-for beginners	sn:AI	3.35	yes	
-qwen	sn:AI	3.35	yes	
-bionic	sn:AI	3.35	yes	
-revolut data breach	sn:tech	3.23	yes	
-passports	sn:tech	3.23	yes	
-selfies	sn:tech	3.23	yes	
-bitcoin history exposed	sn:tech	3.23	yes	
-saturday newsletter	sn:meta	3.18	yes	
-fedimint	sn:lightning	3.13	no	RISING
+zapping	sn:AskSN	3.53	yes	
+monero	sn:AskSN	3.53	yes	
+xaps	sn:AskSN	3.53	yes	
+using bitcoin	sn:bitcoin	3.51	yes	
+real life	sn:bitcoin	3.51	yes	
+take	sn:lightning	3.5	no	RISING
+tutorial	sn:AI	3.37	yes	
+local	sn:AI	3.37	yes	
+for beginners	sn:AI	3.37	yes	
+qwen	sn:AI	3.37	yes	
+bionic	sn:AI	3.37	yes	
+dodge momentum index flat	sn:Construction_and_Engineering	3.36	no	RISING
+august	sn:Construction_and_Engineering	3.36	no	RISING
+dodge construction network	sn:Construction_and_Engineering	3.36	no	RISING
+saturday newsletter	sn:meta	3.27	yes	
+msty	sn:Stacker_Stocks	3.25	no	RISING
+payout	sn:Stacker_Stocks	3.25	no	RISING
+got coins	sn:Stacker_Stocks	3.25	no	RISING
+revolut data breach	sn:tech	3.24	yes	
+passports	sn:tech	3.24	yes	
+selfies	sn:tech	3.24	yes	
+bitcoin history exposed	sn:tech	3.24	yes	
+another	sn:bitcoin	3.22	yes	
+fedimint	sn:lightning	3.15	no	RISING
 attention	sn:security	3.13	no	RISING
 revolut	sn:security	3.13	yes	
-msty	sn:Stacker_Stocks	3.13	no	RISING
-payout	sn:Stacker_Stocks	3.13	no	RISING
-got coins	sn:Stacker_Stocks	3.13	no	RISING
-downzaper	sn:AskSN	3.12	no	RISING
 nostr	sn:nostr	3.08	yes	
 all your data are belong to us	sn:nostr	3.08	yes	
-saturday	sn:art	3.04	no	RISING
-share	sn:art	3.04	no	RISING
-girl	sn:Photography	3.04	no	RISING
+saturday	sn:art	3.08	no	RISING
+share	sn:art	3.08	no	RISING
+is powerful enough	sn:AI	2.97	yes	
