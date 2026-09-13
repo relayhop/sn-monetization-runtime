@@ -1,14 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-13T09:06:08.671Z; n=40
+# generated 2026-09-13T14:05:49.366Z; n=40
 when	sn:nostr,sn:BooksAndArticles	6.39	yes	
-lightning	sn:lightning,sn:AI	5.76	yes	
-the nordic bitcoin conference	sn:events	5.01	no	RISING
-happens	sn:events	5.01	no	RISING
+daily discussion thread	sn:Music,sn:AskSN	5.76	no	RISING
 neptune	sn:bitcoin	4.09	yes	
 brood	sn:bitcoin	4.09	yes	
 the first bitcoin novel	sn:bitcoin	4.09	yes	
-morality	sn:meta	3.67	yes	
-what	sn:AskSN	3.57	yes	
+disagreement	sn:meta	3.88	yes	
+silencing	sn:meta	3.88	yes	
 zapping	sn:AskSN	3.53	yes	
 monero	sn:AskSN	3.53	yes	
 xaps	sn:AskSN	3.53	yes	
@@ -27,16 +25,18 @@ saturday newsletter	sn:meta	3.27	yes
 msty	sn:Stacker_Stocks	3.25	no	RISING
 payout	sn:Stacker_Stocks	3.25	no	RISING
 got coins	sn:Stacker_Stocks	3.25	no	RISING
-revolut data breach	sn:tech	3.24	yes	
-passports	sn:tech	3.24	yes	
-selfies	sn:tech	3.24	yes	
-bitcoin history exposed	sn:tech	3.24	yes	
+daily putt	sn:gaming	3.24	no	RISING
+play	sn:gaming	3.24	no	RISING
+putt	sn:gaming	3.24	no	RISING
+score	sn:gaming	3.24	no	RISING
 another	sn:bitcoin	3.22	yes	
 fedimint	sn:lightning	3.15	no	RISING
-attention	sn:security	3.13	no	RISING
-revolut	sn:security	3.13	yes	
+lightning	sn:lightning	3.15	yes	
 nostr	sn:nostr	3.08	yes	
 all your data are belong to us	sn:nostr	3.08	yes	
-saturday	sn:art	3.08	no	RISING
-share	sn:art	3.08	no	RISING
-is powerful enough	sn:AI	2.97	yes	
+music saloon	sn:Music	3.01	no	RISING
+rust	hn	2.97	no	RISING
+google	sn:gaming	2.95	yes	
+doom	sn:gaming	2.95	yes	
+sunday game	sn:Stacker_Sports	2.93	no	RISING
+bills	sn:Stacker_Sports	2.93	no	RISING
