@@ -1,0 +1,63 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1571285	meta	1	5730	0	13	2.8	48657	15338	recent@meta|top@meta	HOT,SIGNAL	Stacker News Monthly: August 2026
+1571289	AskSN	2	1388	0	6	2.7	1011295	227	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Looking for advice - upcoming Austin, TX trip
+1571269	bitcoin	1	1201	0	3	3.1	934367	1033	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Would it be better if Bitcoin was "completely confidential"?
+1571280	tech	1	557	0	2	2.9	51481	4224	recent@tech|top@tech	SIGNAL	Bluetooth Headphone Audio Lag
+1571246	tech	1	512	0	0	3.5	68842	642	recent@tech|top@tech	SIGNAL	Open and publish static websites that live in BitTorrent swarms
+1571207	AI	1	409	0	1	4.6	401865	8514	recent@AI|top@AI	SIGNAL	China Rejects AI Slowdown Push, Alleging “Fearmongering” From The US
+1571131	AI	1	312	0	0	6.7	934367	1033	recent@tech|top@tech|recent@AI	SIGNAL	OpenAI Agent Swarm Hacks RubyGems Package Manager
+1571341	bitcoin	1	274	0	0	1.8	178	934	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Tech Talk #518: Clancy PsyOp, Dark Academia, Fraud, Drones, Poorness++
+1571389	bitcoin	1	266	0	0	1.1	280679	23293	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	The Bitcoin Well IRA Is Coming: Real Bitcoin, in the Account the IRS Can't Touch
+1571068	AI	1	250	0	0	10.1	296825	5355	recent@AI|top@AI	SIGNAL	[AskSN]: Is Edward Snowden’s chilling warning now unfolding in real time?
+1571247	lightning	1	220	0	0	3.5	263526	715	recent@lightning|top@lightning	SIGNAL	LDK rust-lightning v0.2.6 out with bugs and security fixes
+1571142	meta	1	195	0	2	6.5	36151	1632	recent@meta|top@meta	SIGNAL	This Day on SN: September 14
+1571082	AI	1	188	0	1	9.9	1426133	18	recent@AI|top@AI	SIGNAL	OpenClaw, MoltBook, and the Rise of the Agent Internet - Ben Sigman
+1571122	bitcoin	1	139	0	2	6.9	1554639	23	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Your Bitcoin node is self-hosted. Your IP still isn't private.
+1571421	security	1	102	0	0	0.5	280679	23293	recent@bitdevs|top@bitdevs|recent@security	FRESH,SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
+1570742	DIY	3	5607	0	2	18.8	370699	341	recent@nostr|top@nostr	HOT	Sunday nostr and open hardware fun. Nsec and LoRa
+1570692	lightning	1	4569	0	41	19.8	223678	6272	recent@lightning|top@lightning	HOT	Who are "ethan, humpus"?
+1570837	bitcoin	1	2936	0	26	17.1	1245155	334	recent@bitcoin|top@bitcoin	HOT	Ebay Has Permanantly Banned Me for Offering a Bitcoin Option
+1570202	AI	1	2896	0	14	27.9	12309	3676	recent@tech|recent@AI	HOT	4chan rumors about a new method for scaling AI models
+1570448	AI	1	2574	0	9	23.6	13531	1726	recent@tech|top@tech|recent@AI	HOT	Donald Trump rejects calls from tech bosses for an AI slowdown
+1570605	bitcoin	1	1928	0	15	21.5	328486	5093	recent@bitcoin|top@bitcoin	HOT	Big-Stablecoin is behind Ark
+1571012	AskSN	2	1525	0	11	12.8	375687	3248	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Do you think we’ve already seen the bottom for BTC?
+1570124	gaming	3	1230	0	5	30.2	12309	3676	recent@tech|recent@AI	HOT,SELF_POST_OPP	Google mapped fruit fly brain, and modders forced it to play Doom
+1570152	AI	1	1133	0	5	29.1	51481	4224	recent@tech|recent@AI	HOT	OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI
+1570575	bitcoin	1	1044	0	2	21.8	178	934	recent@bitcoin|top@bitcoin	HOT	Sunday Survey: What are you doing with the BIP110 coins?
+1570937	AskSN	2	683	0	24	14.8	1532836	518	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		What happens when a Mostro dispute is opened? 🧌
+1570614	AskSN	2	630	0	6	21.3	1532836	518	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SELF_POST_OPP	Alert to the Stacker brothers
+1570377	bitcoin	1	590	0	1	24.7	375687	3248	recent@bitcoin		26.639 reachable Bitcoin nodes 🌐
+1570104	news	2	522	0	2	31.2	1473856	21	recent@bitcoin		Payment Adoption Weekly Brief 2026/37
+1570618	bitcoin	1	467	0	0	21.2	1570616	3	recent@bitcoin|top@bitcoin		bitfiles: A file browser for the "spam-proof" Bitcoin bip110/blake2b fork
+1570312	bitcoin_Mining	1	450	0	0	25.7	1532836	518	recent@bitcoin_Mining|recent@bitcoinplusplus		Rigly's block party statistics
+1570816	bitcoin	1	448	0	4	17.5	223678	6272	recent@bitcoin|top@bitcoin		How are you washing your corn?
+1570228	AI	1	443	0	2	27.6	13531	1726	recent@AI		OpenAI just wants to win
+1570443	lightning	1	434	0	2	23.6	440729	262	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02b0f5d495cc5bc55…)
+1570245	gaming	3	401	0	3	27.3	51481	4224	recent@tech		Nuclear Design Bureau - A Game Where You Design Nuclear Weapons
+1570037	bitcoin_beginners	1	360	0	6	35.8	375687	3248	recent@bitcoin_beginners|recent@lightning		Coinos.io is down.
+1570423	AI	1	360	0	0	24.0	934367	1033	recent@tech|top@tech|recent@AI		A Severe Misalignment of AI in Mathematics
+1570306	tech	1	339	0	2	25.8	12309	3676	recent@tech		Homebrew 7.0.0: faster installations, stronger sandboxing, vulnerability checks
+1570275	bitcoin	1	313	0	1	26.5	972685	639	recent@bitcoin		Why Does Losing Your Bitcoin Sound Terrifying Until You Realize What It Means?
+1570118	meta	1	299	0	1	30.5	36151	1632	recent@meta		This Day on SN: September 13
+1570646	gaming	3	297	0	1	20.8	12309	3676	recent@tech|top@tech		Apple is working on an iPhone video game controller— from the Beats brand
+1570703	bitcoin	1	260	0	3	19.6	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Why I Think the Justin Shocknet Accusation Is a Distraction
+1570328	nostr	1	240	0	0	25.4	272410	1411	recent@nostr		Stream on your own server, get discovered on Nostr
+1570404	news	2	231	0	0	24.4	984933	2466	recent@bitcoin		Revolut confirms customer data breach through fake government requests
+1570035	bitcoin	1	220	0	0	35.9	1301409	56	recent@bitcoin|recent@nostr		Step by step
+1570637	bitcoin_beginners	1	200	0	0	20.9	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Cashu.me Release v0.3.1: an update for the iOS and Android Cashu wallet.
+1570079	bitcoin_Mining	1	175	0	0	32.8	1546958	52	recent@bitcoin_Mining		Bitcoin Mining vs. AI: Who Will Win the Race for Energy?
+1570365	nostr	1	173	0	0	25.0	272410	1411	recent@nostr		The Nostr relay that never goes down · nostrfy
+1570650	bitcoin	1	143	0	0	20.7	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners		AWAKENED — 10 BTC moved after being dormant for 15+ years
+1570496	gaming	3	142	0	0	23.0	280679	23293	recent@lightning|top@lightning		How to Eliminate Chargebacks in Online Payments and Gaming
+1570462	AI	1	124	0	0	23.5	1557209	17	recent@AI|top@AI		Terrifying
+1571084	gaming	3	95	0	0	9.7	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners		Blockrooms - Get lost in the Bitcoin Blockchain
+1570732	Music	3	89	0	5	18.9	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners		"Welcome to the Machine" by Pink Floyd
+1571191	bitcoin_beginners	1	68	0	0	5.3	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Weekly Brief 2026/37 | Blink Wallet
+1570708	bitcoin_beginners	1	68	0	0	19.4	296825	5355	recent@bitcoin_beginners|top@bitcoin_beginners		Is this what peer-to-peer actually looks like?
+1571251	lightning	1	52	0	0	3.3	263526	715	recent@lightning|top@lightning		Critical Bitcoin Lightning bugs exposed nodes to fund theft and restart failure
+1570196	security	1	42	0	0	28.1	297791	7759	recent@security		Claude Used to Automate Exploitation and Data Theft Across Multiple Victims
+1571342	devs	1	42	0	0	1.8	297791	7759	recent@devs|top@devs	FRESH	Shelly 3.1.4 GUI Package Manager for Arch Linux Adds More Improvements
+1570242	security	1	31	0	0	27.4	297791	7759	recent@security		Attackers Use Passkey Phishing To Hijack Microsoft Accounts And Exfiltrate Data
+1571301	bitdevs	1	0	0	0	2.6	272410	1411	recent@bitdevs|top@bitdevs		Zap Gallery SDK: paid image galleries on Nostr via Lightning zaps
+1571111	tech	1	0	0	1	7.3	297791	7759	recent@devs|top@devs		Linux was called 'obsolete' in 1992, and now it powers servers around the world
+1571445	AI	1	0	0	1	0.1	280679	23293	recent@AI|top@AI	FRESH	Two missing pieces in the AI safety discussion
