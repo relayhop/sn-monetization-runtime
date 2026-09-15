@@ -48556,3 +48556,24 @@
 2026-09-15T01:23:08.318Z	1571421	security	1	123	0	0	9.4	280679	23303	recent@bitdevs|top@bitdevs|recent@security	SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
 2026-09-15T01:23:08.318Z	1571665	news	2	109	0	0	5.1	297791	7763	recent@devs|top@devs|recent@news	SIGNAL	macOS 27 is available now
 2026-09-15T01:23:08.318Z	1571590	Design	2	108	0	1	6.6	383547	3692	recent@Design|top@Design	SIGNAL	Daily Designer Quote #0019 ∙ Jenova Chen
+2026-09-15T01:46:33.183Z	1571660	bitcoin	1	5275	0	2	5.6	280679	23303	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Wasabi Wallet Release v2.8.3
+2026-09-15T01:46:33.183Z	1571693	AskSN	2	1731	0	7	4.9	238412	255	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Is lightning too complicated?
+2026-09-15T01:46:33.183Z	1571579	bitcoin	1	1469	0	8	7.3	934367	1038	recent@bitcoin|top@bitcoin	HOT,SIGNAL	🇨🇭 Swiss Bitcoin Pay potentially hacked
+2026-09-15T01:46:33.183Z	1571477	bitdevs	1	1425	0	5	9.0	74100	12675	recent@bitdevs|top@bitdevs	HOT,SIGNAL	The proposed BRCA changes are a tough pill to swallow
+2026-09-15T01:46:33.183Z	1571733	security	1	1274	0	2	4.1	1	27401	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Running CLN? Disable --experimental-dual-fund, dual-funded (v2) channels
+2026-09-15T01:46:33.183Z	1571532	AI	1	1273	0	8	8.2	144357	4547	recent@AI|top@AI	HOT,SIGNAL	What happens after a town de-Flocks - the verge
+2026-09-15T01:46:33.183Z	1571809	security	1	1268	0	2	1.9	30782	25767	recent@security|top@security	FRESH,HOT,SIGNAL	Trump Likes Flock Cameras
+2026-09-15T01:46:33.183Z	1571574	lightning	1	1174	0	2	7.4	440729	263	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03dbb470e0443dc2d…)
+2026-09-15T01:46:33.183Z	1571856	news	2	760	0	2	0.6	297791	7764	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	MSTR Rethinks Financial Strategy Amid Market Uncertainties
+2026-09-15T01:46:33.183Z	1571857	AI	1	735	0	1	0.6	900202	2776	recent@AI|top@AI	FRESH,SIGNAL	open the frontier - jack (@jack) on X
+2026-09-15T01:46:33.183Z	1571676	math	2	658	0	14	5.2	1562189	121	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	Why Sat-Digital-Gold can't win without Nah•Sovereign•Diamond
+2026-09-15T01:46:33.183Z	1571539	AI	1	336	0	5	8.1	12309	3677	recent@AI|top@AI	SIGNAL	Sam Altman says Trump and Xi would win the Nobel Peace Prize for AI agreement
+2026-09-15T01:46:33.183Z	1571417	DIY	3	335	0	3	9.9	272410	1417	recent@bitcoin|top@bitcoin	SIGNAL	The Seatadel ⛵ Bitcoin node, Nostr relay, and library on a sailboat
+2026-09-15T01:46:33.183Z	1571389	bitcoin	1	308	0	0	10.4	280679	23303	recent@bitcoin|top@bitcoin	SIGNAL	The Bitcoin Well IRA Is Coming: Real Bitcoin, in the Account the IRS Can't Touch
+2026-09-15T01:46:33.183Z	1571341	bitcoin	1	295	0	0	11.1	178	936	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #518: Clancy PsyOp, Dark Academia, Fraud, Drones, Poorness++
+2026-09-15T01:46:33.183Z	1571484	openagents	1	269	0	2	8.8	534967	241	top@openagents	SIGNAL	Episode 282: Not Asking Permission
+2026-09-15T01:46:33.183Z	1571559	lightning	1	262	0	1	7.7	263526	718	recent@lightning|top@lightning	SIGNAL	ODELL: Lightning binds together the bitcoin ecosystem.
+2026-09-15T01:46:33.183Z	1571876	news	2	215	0	0	0.2	297791	7764	recent@devs|top@devs|recent@tech	FRESH,SIGNAL	Homebrew 7.0.0 gets built-in GUI, better security controls
+2026-09-15T01:46:33.183Z	1571445	AI	1	171	0	1	9.4	280679	23303	recent@AI|top@AI	SIGNAL	Two missing pieces in the AI safety discussion
+2026-09-15T01:46:33.184Z	1571665	news	2	130	0	0	5.5	297791	7764	recent@devs|top@devs	SIGNAL	macOS 27 is available now
+2026-09-15T01:46:33.184Z	1571421	security	1	123	0	0	9.8	280679	23303	recent@bitdevs|top@bitdevs|recent@security	SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
