@@ -48762,3 +48762,44 @@
 2026-09-15T18:07:03.754Z	1572315	Design	2	108	0	0	3.2	383547	3697	recent@Design|top@Design	SIGNAL	Bencho
 2026-09-15T18:07:03.754Z	1572028	security	1	104	0	0	10.0	1566167	5	recent@security|top@security	SIGNAL	Glendale Community College - 793,925 breached accounts
 2026-09-15T18:07:03.754Z	1572370	news	2	103	0	0	2.5	1528623	32	recent@news|top@news	SIGNAL	CLARITY Act Floor Vote + State AGs Push Back + Bitcoin Regulatory Shift
+2026-09-15T20:08:32.612Z	1572597	meta	1	6809	0	18	1.6	402772	22475	recent@meta|top@meta	FRESH,HOT,SIGNAL	BREAKING: SN hits 2M Sats for Daily Rewards, PREDYX Market Resolved
+2026-09-15T20:08:32.612Z	1572327	privacy	1	4733	0	15	5.0	74100	12699	recent@privacy|top@privacy	HOT,SIGNAL	Details about the Revolut hack
+2026-09-15T20:08:32.612Z	1572215	math	2	4342	0	2	6.9	1522136	2	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I published a blog post about how the GLV endomorphism works on libsecp256k1
+2026-09-15T20:08:32.612Z	1572561	bitcoin	1	3729	0	2	2.1	582777	14	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Splitting off blake2b coins via locktime
+2026-09-15T20:08:32.612Z	1572403	bitcoin	1	3200	0	3	4.1	401865	8525	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	House Set To Take First Step To Establish A Federal Strategic Bitcoin Reserve
+2026-09-15T20:08:32.612Z	1572266	AI	1	2754	0	6	5.9	104755	13128	recent@AI|top@AI	HOT,SIGNAL	I built my app with AI
+2026-09-15T20:08:32.612Z	1572253	bitcoin	1	2746	0	11	6.1	9274	27453	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Cash App Launches Bitcoin Bonus! Earn 2% per week on BTC balance
+2026-09-15T20:08:32.612Z	1572744	bitcoin	1	2701	0	1	0.5	1014665	237	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Adam Gibson and Rob Segers - Bitcoin Optech Newsletter #422 Recap Podcast
+2026-09-15T20:08:32.612Z	1572309	meta	1	2041	0	0	5.2	1566660	7	recent@bitcoin|top@bitcoin|recent@meta	HOT,SIGNAL	The rewards pot is hot: 806,706 sats
+2026-09-15T20:08:32.612Z	1572582	events	3	2028	0	2	1.8	74100	12699	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	THIS THURSDAY: Austin Bitdevs Socratic Seminar #80
+2026-09-15T20:08:32.612Z	1572577	bitcoin	1	1661	0	1	1.9	19732	170	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Testing 4 BitKey Disaster Scenarios: How Did It Hold Up?
+2026-09-15T20:08:32.612Z	1572707	news	2	1635	0	1	0.7	402772	22475	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Senate cloture vote on CLARITY Act fails, falling short of 60 votes
+2026-09-15T20:08:32.612Z	1572425	AI	1	1469	0	4	3.8	983106	24	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	LNemail latest improvements
+2026-09-15T20:08:32.612Z	1572395	openagents	1	1196	0	3	4.2	534967	243	recent@openagents|top@openagents	HOT,SIGNAL	Episode 283: Coder for Gamers?
+2026-09-15T20:08:32.612Z	1572759	AI	1	953	0	0	0.4	74100	12699	recent@nostr|top@nostr|recent@AI	FRESH,SIGNAL	Goop - a NIP17 messaging client for you and your agent
+2026-09-15T20:08:32.612Z	1572188	bitcoin	1	944	0	1	7.4	263526	731	recent@bitcoin|top@bitcoin	SIGNAL	Saifedean Ammous: Bitcoin Electricity Consumption May Have Peaked
+2026-09-15T20:08:32.612Z	1572076	bitcoin_Mining	1	863	0	2	9.5	280679	23345	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	JPMorgan downgrades MARA to Underweight, cuts price target to $11
+2026-09-15T20:08:32.612Z	1572385	bitcoin	1	805	0	1	4.3	280679	23345	recent@bitcoin|top@bitcoin	SIGNAL	Michael Ford (fanquake) on static builds for Bitcoin Core
+2026-09-15T20:08:32.612Z	1572198	AI	1	672	0	6	7.2	280679	23345	recent@AI|top@AI	SIGNAL	Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost
+2026-09-15T20:08:32.612Z	1572733	openagents	1	660	0	2	0.6	534967	243	recent@openagents|top@openagents	FRESH,SIGNAL	Episode 284: Gamifying Coder
+2026-09-15T20:08:32.612Z	1572672	security	1	560	0	1	1.0	280679	23345	recent@security|top@security|recent@tech	FRESH,SIGNAL	The Digital Gadgets Experts Use To Vanish Online
+2026-09-15T20:08:32.612Z	1572581	gaming	3	520	0	5	1.8	1572581	1	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL,SELF_POST_OPP	Clixel: click a moving pixel, win the pot in sats. Every click adds 0.01 sats.
+2026-09-15T20:08:32.612Z	1572436	security	1	516	0	1	3.7	12309	3680	recent@security|top@security|recent@privacy	SIGNAL	HexOS Buddy Backups: now in beta
+2026-09-15T20:08:32.612Z	1572630	DIY	3	476	0	1	1.3	272410	1425	recent@tech|top@tech	FRESH,SIGNAL	My old phone is the best dash cam I own and it uploads the clips when I get home
+2026-09-15T20:08:32.612Z	1572762	AI	1	446	0	0	0.3	984933	2503	recent@security|top@security|recent@AI	FRESH,SIGNAL	How did Israeli firms use AI from OpenAI, Meta, and Anthropic in cyberattacks?
+2026-09-15T20:08:32.612Z	1572095	bitcoin_beginners	1	387	0	1	9.1	1444593	121	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	🔥 Este correo de Trezor es phishing.
+2026-09-15T20:08:32.612Z	1572671	gaming	3	358	0	1	1.0	12309	3680	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	GeForce RTX 5090 is disappearing from stores, first listing hits $9,600
+2026-09-15T20:08:32.612Z	1572102	AI	1	340	0	1	8.9	9274	27453	recent@AI|top@AI	SIGNAL	☢️ Apocalypse PBC - Snacks
+2026-09-15T20:08:32.612Z	1572784	AI	1	317	0	1	0.2	934367	1040	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	OpenRouter users spent more on OpenAI models than on Anthropic models last week
+2026-09-15T20:08:32.612Z	1572284	AI	1	266	0	2	5.7	280679	23345	recent@tech|top@tech|recent@AI	SIGNAL	Have it both ways: stay discoverable in search while disallowing AI training
+2026-09-15T20:08:32.612Z	1572521	bitcoin	1	186	0	2	2.7	272410	1425	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Fees alone post-subsidy: enough or not?
+2026-09-15T20:08:32.612Z	1572524	lightning	1	182	0	0	2.6	440729	264	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.9 BTC) + New Node Spotlight (02c42f8badece1611…)
+2026-09-15T20:08:32.612Z	1572656	bitcoin_Mining	1	175	0	2	1.2	1566662	8	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Listed miners averaged $75,500 a coin in Q2. Bitcoin traded $74,897 today.
+2026-09-15T20:08:32.612Z	1572774	bitcoin_beginners	1	158	0	0	0.2	296825	5359	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	Bitcoin Electricity Consumption May Have Peaked  | Saifedean Ammous
+2026-09-15T20:08:32.612Z	1572056	meta	1	152	0	1	10.1	36151	1633	recent@meta|top@meta	SIGNAL	This Day on SN: September 15
+2026-09-15T20:08:32.612Z	1572567	bitdevs	1	149	0	0	2.0	368845	709	recent@bitdevs|top@bitdevs	SIGNAL	Businesses Timeline of reader-tips, reward-pools & pay-to-post platforms
+2026-09-15T20:08:32.612Z	1572533	devs	1	146	0	0	2.5	297791	7770	recent@devs|top@devs	SIGNAL	What’s New for C++ Developers in Visual Studio 2026
+2026-09-15T20:08:32.612Z	1572566	lightning	1	143	0	0	2.0	1567613	5	recent@lightning|top@lightning	SIGNAL	v26.04.2
+2026-09-15T20:08:32.612Z	1572091	lightning	1	139	0	2	9.2	263526	731	recent@lightning|top@lightning	SIGNAL	Introducing Lightning in the BitBoxApp
+2026-09-15T20:08:32.612Z	1572384	bitcoin	1	134	0	2	4.3	296825	5359	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Bitcoin Core v32.0rc1 Tagged: Final Release Targets October 10
+2026-09-15T20:08:32.612Z	1572028	security	1	104	0	0	12.0	1566167	5	recent@security|top@security	SIGNAL	Glendale Community College - 793,925 breached accounts
