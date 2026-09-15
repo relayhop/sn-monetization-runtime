@@ -48692,3 +48692,24 @@
 2026-09-15T13:27:04.248Z	1572021	bitcoin	1	182	0	0	6.0	1554639	24	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Your LND seed backup exists. But have you actually verified it?
 2026-09-15T13:27:04.248Z	1572056	meta	1	120	0	0	3.5	36151	1633	recent@meta|top@meta	SIGNAL	This Day on SN: September 15
 2026-09-15T13:27:04.248Z	1572091	lightning	1	118	0	2	2.5	263526	727	recent@lightning|top@lightning	SIGNAL	Introducing Lightning in the BitBoxApp
+2026-09-15T17:01:17.718Z	1572215	math	2	3593	0	2	3.8	1522136	2	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I published a blog post about how the GLV endomorphism works on libsecp256k1
+2026-09-15T17:01:17.718Z	1572327	privacy	1	2423	0	5	1.9	74100	12687	recent@privacy|top@privacy	FRESH,HOT,SIGNAL	Details about the Revolut hack
+2026-09-15T17:01:17.718Z	1572266	AI	1	2044	0	5	2.7	104755	13128	recent@AI|top@AI	HOT,SIGNAL	I built my app with AI
+2026-09-15T17:01:17.718Z	1572253	bitcoin	1	1623	0	9	3.0	9274	27453	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Cash App Launches Bitcoin Bonus! Earn 2% per week on BTC balance
+2026-09-15T17:01:17.718Z	1572403	bitcoin	1	1373	0	0	1.0	401865	8525	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	House Set To Take First Step To Establish A Federal Strategic Bitcoin Reserve
+2026-09-15T17:01:17.718Z	1572395	openagents	1	1126	0	3	1.1	534967	242	recent@openagents|top@openagents	FRESH,HOT,SIGNAL	Episode 283: Coder for Gamers?
+2026-09-15T17:01:17.718Z	1572076	bitcoin_Mining	1	852	0	2	6.3	280679	23336	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	JPMorgan downgrades MARA to Underweight, cuts price target to $11
+2026-09-15T17:01:17.718Z	1572005	bitcoin	1	814	0	5	10.1	402772	22462	recent@bitcoin|top@bitcoin	SIGNAL	CoinEx is Shutting Down
+2026-09-15T17:01:17.718Z	1572425	AI	1	788	0	0	0.7	983106	22	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	LNemail latest improvements
+2026-09-15T17:01:17.718Z	1572188	bitcoin	1	720	0	1	4.3	263526	728	recent@bitcoin|top@bitcoin	SIGNAL	Saifedean Ammous: Bitcoin Electricity Consumption May Have Peaked
+2026-09-15T17:01:17.718Z	1572385	bitcoin	1	684	0	0	1.1	280679	23336	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Michael Ford (fanquake) on static builds for Bitcoin Core
+2026-09-15T17:01:17.718Z	1572198	AI	1	672	0	6	4.1	280679	23336	recent@AI|top@AI	SIGNAL	Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost
+2026-09-15T17:01:17.718Z	1572095	bitcoin_beginners	1	376	0	1	6.0	1444593	121	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	🔥 Este correo de Trezor es phishing.
+2026-09-15T17:01:17.718Z	1572008	bitcoin	1	358	0	1	10.0	1571997	2	recent@bitcoin|top@bitcoin	SIGNAL	I've been working on a minimal Operating System called SignerOS.
+2026-09-15T17:01:17.718Z	1572102	AI	1	340	0	1	5.8	9274	27453	recent@AI|top@AI	SIGNAL	☢️ Apocalypse PBC - Snacks
+2026-09-15T17:01:17.718Z	1572284	AI	1	266	0	2	2.6	280679	23336	recent@tech|top@tech|recent@AI	SIGNAL	Have it both ways: stay discoverable in search while disallowing AI training
+2026-09-15T17:01:17.718Z	1572021	bitcoin	1	217	0	0	9.6	1554639	24	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Your LND seed backup exists. But have you actually verified it?
+2026-09-15T17:01:17.718Z	1572056	meta	1	141	0	1	7.0	36151	1633	recent@meta|top@meta	SIGNAL	This Day on SN: September 15
+2026-09-15T17:01:17.718Z	1572091	lightning	1	139	0	2	6.1	263526	728	recent@lightning|top@lightning	SIGNAL	Introducing Lightning in the BitBoxApp
+2026-09-15T17:01:17.718Z	1572384	bitcoin	1	113	0	2	1.1	296825	5357	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	Bitcoin Core v32.0rc1 Tagged: Final Release Targets October 10
+2026-09-15T17:01:17.718Z	1572028	security	1	104	0	0	8.9	1566167	5	recent@security|top@security	SIGNAL	Glendale Community College - 793,925 breached accounts
