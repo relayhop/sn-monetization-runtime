@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-15T19:32:39.125Z; n=40
-show	hn	9.08	no	RISING
-week	sn:Stacker_Sports	6.67	no	RISING
+# generated 2026-09-15T23:59:10.800Z; n=40
+show	hn	9	no	RISING
+bitcoin	sn:AskSN	3.97	yes	
+buying venezuelan crude	sn:Politics_And_Law	3.84	no	RISING
+crypto	sn:Politics_And_Law	3.84	no	RISING
+caruana galizia	sn:Politics_And_Law	3.84	no	RISING
 pleb economist	sn:econ	3.83	no	RISING
 society without capitalism	sn:econ	3.83	no	RISING
 interview review	sn:econ	3.83	no	RISING
-wasabi wallet release	sn:bitcoin	3.83	yes	
-details	sn:privacy	3.64	no	RISING
-revolut	sn:privacy	3.64	no	RISING
-for americans	sn:charts_and_maps	3.52	no	RISING
-there	sn:charts_and_maps	3.52	no	RISING
-no best age	sn:charts_and_maps	3.52	no	RISING
-reach life milestones	sn:charts_and_maps	3.52	no	RISING
-survivor	sn:Stacker_Sports	3.51	no	RISING
-splitting	sn:bitcoin	3.49	yes	
-why sat-digital-gold	sn:math	3.48	no	RISING
-sovereign	sn:math	3.48	no	RISING
-diamond	sn:math	3.48	no	RISING
-broncos	sn:Stacker_Sports	3.46	no	RISING
-chiefs	sn:Stacker_Sports	3.46	no	RISING
-discussion thread	sn:Stacker_Sports	3.46	no	RISING
-cash app launches bitcoin bonus	sn:bitcoin	3.4	yes	
-earn	sn:bitcoin	3.4	yes	
-running	sn:security	3.34	yes	
-disable	sn:security	3.34	yes	
-experimental-dual	sn:security	3.34	yes	
-dual-funded	sn:security	3.34	yes	
-recent photographs	sn:Photography	3.34	no	RISING
-sats	sn:Stacker_Sports	3.29	yes	
-thursday	sn:events	3.28	yes	
-austin bitdevs socratic seminar	sn:events	3.28	yes	
-shutting down	sn:bitcoin	3.27	yes	
-trump likes flock cameras	sn:security	3.27	no	RISING
-house set to take first step to establish	sn:bitcoin	3.25	yes	
-federal strategic bitcoin reserve	sn:bitcoin	3.25	yes	
-triple crown challenge	sn:Stacker_Sports	3.22	no	RISING
-here	sn:charts_and_maps	3.18	no	RISING
-since	sn:charts_and_maps	3.18	no	RISING
-chargers	sn:Stacker_Sports	3.16	no	RISING
-circa survivor picks	sn:Stacker_Sports	3.16	no	RISING
-ledger	sn:Stacker_Sports	3.14	no	RISING
+details	sn:privacy	3.77	no	RISING
+revolut	sn:privacy	3.77	no	RISING
+zero	sn:mostly_harmless	3.71	no	RISING
+archive	sn:mostly_harmless	3.71	no	RISING
+adam gibson	sn:bitcoin	3.71	yes	
+rob segers	sn:bitcoin	3.71	yes	
+bitcoin optech newsletter	sn:bitcoin	3.71	yes	
+recap podcast	sn:bitcoin	3.71	yes	
+splitting	sn:bitcoin	3.58	yes	
+for americans	sn:charts_and_maps	3.55	no	RISING
+there	sn:charts_and_maps	3.55	yes	
+no best age	sn:charts_and_maps	3.55	no	RISING
+reach life milestones	sn:charts_and_maps	3.55	no	RISING
+house set to take first step to establish	sn:bitcoin	3.54	yes	
+federal strategic bitcoin reserve	sn:bitcoin	3.54	yes	
+survivor	sn:Stacker_Sports	3.54	no	RISING
+week	sn:Stacker_Sports	3.54	no	RISING
+broncos	sn:Stacker_Sports	3.49	no	RISING
+chiefs	sn:Stacker_Sports	3.49	no	RISING
+discussion thread	sn:Stacker_Sports	3.49	no	RISING
+cash app launches bitcoin bonus	sn:bitcoin	3.44	yes	
+earn	sn:bitcoin	3.44	yes	
+sats	sn:Stacker_Sports	3.39	yes	
+senate	sn:news	3.37	yes	
+clarity	sn:news	3.37	yes	
+thursday	sn:events	3.33	yes	
+austin bitdevs socratic seminar	sn:events	3.33	yes	
+inflation	sn:econ	3.33	no	RISING
+testing	sn:bitcoin	3.31	yes	
+disaster scenarios	sn:bitcoin	3.31	yes	
+how did it hold up	sn:bitcoin	3.31	yes	
+triple crown challenge	sn:Stacker_Sports	3.28	no	RISING
