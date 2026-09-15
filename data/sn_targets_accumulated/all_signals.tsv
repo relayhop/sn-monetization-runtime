@@ -48511,3 +48511,48 @@
 2026-09-14T23:20:13.121Z	1571247	lightning	1	220	0	0	10.3	263526	718	recent@lightning|top@lightning	SIGNAL	LDK rust-lightning v0.2.6 out with bugs and security fixes
 2026-09-14T23:20:13.121Z	1571445	AI	1	150	0	1	7.0	280679	23303	recent@AI|top@AI	SIGNAL	Two missing pieces in the AI safety discussion
 2026-09-14T23:20:13.121Z	1571421	security	1	102	0	0	7.4	280679	23303	recent@bitdevs|top@bitdevs|recent@security	SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
+2026-09-15T01:23:08.317Z	1571285	meta	1	6413	0	19	11.7	48657	15358	recent@meta|top@meta	HOT,SIGNAL	Stacker News Monthly: August 2026
+2026-09-15T01:23:08.317Z	1571660	bitcoin	1	5053	0	2	5.2	280679	23303	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Wasabi Wallet Release v2.8.3
+2026-09-15T01:23:08.317Z	1571811	econ	2	5003	0	4	1.3	48657	15358	recent@econ|top@econ	FRESH,HOT,SIGNAL	Pleb Economist: A 'Society Without Capitalism' | Interview Review
+2026-09-15T01:23:08.317Z	1571294	the_stacker_muse	3	2540	0	7	11.6	724606	12766	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	The Economics of Infinite Generation and AI: Can Bookstores Show the Future?
+2026-09-15T01:23:08.317Z	1571678	BooksAndArticles	2	2511	0	6	4.7	724606	12766	top@econ|top@Stacker_Stocks|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Treasury Drama and Banking Chaos: A Warren Buffett History from 1991 (FT, Dewey)
+2026-09-15T01:23:08.317Z	1571712	BooksAndArticles	2	2461	0	1	4.0	724606	12766	top@BooksAndArticles	HOT,SIGNAL	A Giant Exercise vs. Weight Loss Study (Two Percent, Michael Easter)
+2026-09-15T01:23:08.317Z	1571289	AskSN	2	2140	0	12	11.6	1011295	228	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL,SELF_POST_OPP	Looking for advice - upcoming Austin, TX trip
+2026-09-15T01:23:08.317Z	1571266	podcasts	2	2121	0	6	12.0	9274	27433	recent@econ|top@econ|recent@history	HOT,SIGNAL,SELF_POST_OPP	Cod: The Fish That Shaped History •  Everything Everywhere Daily
+2026-09-15T01:23:08.317Z	1571693	AskSN	2	1731	0	7	4.5	238412	255	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL,SELF_POST_OPP	Is lightning too complicated?
+2026-09-15T01:23:08.317Z	1571579	bitcoin	1	1448	0	8	6.9	934367	1038	recent@bitcoin|top@bitcoin	HOT,SIGNAL	🇨🇭 Swiss Bitcoin Pay potentially hacked
+2026-09-15T01:23:08.317Z	1571477	bitdevs	1	1425	0	5	8.6	74100	12675	recent@bitdevs|top@bitdevs	HOT,SIGNAL	The proposed BRCA changes are a tough pill to swallow
+2026-09-15T01:23:08.317Z	1571269	bitcoin	1	1345	0	6	12.0	934367	1038	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Would it be better if Bitcoin was "completely confidential"?
+2026-09-15T01:23:08.317Z	1571451	Design	2	1293	0	12	8.9	48657	15358	recent@Design|top@Design	HOT,SIGNAL,SELF_POST_OPP	Nike Goes Full Gen Z Zoolander And Commits Cultural Suicide
+2026-09-15T01:23:08.317Z	1571733	security	1	1274	0	2	3.7	1	27401	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Running CLN? Disable --experimental-dual-fund, dual-funded (v2) channels
+2026-09-15T01:23:08.317Z	1571532	AI	1	1273	0	8	7.8	144357	4547	recent@AI|top@AI	HOT,SIGNAL	What happens after a town de-Flocks - the verge
+2026-09-15T01:23:08.317Z	1571809	security	1	1247	0	1	1.5	30782	25767	recent@security|top@security	FRESH,HOT,SIGNAL	Trump Likes Flock Cameras
+2026-09-15T01:23:08.317Z	1571574	lightning	1	1153	0	2	7.0	440729	263	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03dbb470e0443dc2d…)
+2026-09-15T01:23:08.317Z	1571533	AskSN	2	676	0	3	7.8	984933	2479	recent@AskSN|top@AskSN	SIGNAL	What is the Pic OT of the week?
+2026-09-15T01:23:08.317Z	1571676	math	2	658	0	11	4.8	1562189	120	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL,SELF_POST_OPP	Why Sat-Digital-Gold can't win without Nah•Sovereign•Diamond
+2026-09-15T01:23:08.317Z	1571707	Politics_And_Law	3	632	0	9	4.2	88718	47716	recent@econ|top@econ	SIGNAL,SELF_POST_OPP	Trump Spending Has Created the Largest Deficit Since Covid
+2026-09-15T01:23:08.317Z	1571460	Politics_And_Law	3	628	0	11	8.8	272410	1417	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL,SELF_POST_OPP	Who should control a country's natural resources?
+2026-09-15T01:23:08.317Z	1571280	tech	1	578	0	3	11.8	51481	4224	recent@tech|top@tech	SIGNAL	Bluetooth Headphone Audio Lag
+2026-09-15T01:23:08.317Z	1571274	AskSN	2	441	0	3	11.9	984933	2479	recent@AskSN|top@AskSN	SIGNAL	AskSN Weekly Q&A Awards Issue #7
+2026-09-15T01:23:08.317Z	1571857	AI	1	408	0	1	0.2	900202	2776	recent@AI|top@AI	FRESH,SIGNAL	open the frontier - jack (@jack) on X
+2026-09-15T01:23:08.318Z	1571575	lol	2	408	0	0	7.0	48657	15358	recent@lol|top@lol	SIGNAL	Did a Crypto Bro Pay $4.5 Million to Marry a Movie Star? A Scandal Grips China
+2026-09-15T01:23:08.318Z	1571570	food_and_drinks	3	394	0	7	7.1	280679	23303	recent@charts_and_maps|top@charts_and_maps	SIGNAL,SELF_POST_OPP	Is organic farming better for the environment than conventional farming?
+2026-09-15T01:23:08.318Z	1571410	Stacker_Stocks	2	364	0	1	9.6	280679	23303	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Larry Ellison cancels $7.5 billion sale of Oracle stock
+2026-09-15T01:23:08.318Z	1571363	Memes	2	343	0	4	10.4	36151	1632	recent@Memes|top@Memes	SIGNAL	Meme Monday - Top Meme Goes in the Newsletter
+2026-09-15T01:23:08.318Z	1571539	AI	1	336	0	5	7.7	12309	3677	recent@AI|top@AI	SIGNAL	Sam Altman says Trump and Xi would win the Nobel Peace Prize for AI agreement
+2026-09-15T01:23:08.318Z	1571417	DIY	3	335	0	3	9.5	272410	1417	recent@bitcoin|top@bitcoin	SIGNAL	The Seatadel ⛵ Bitcoin node, Nostr relay, and library on a sailboat
+2026-09-15T01:23:08.318Z	1571436	Politics_And_Law	3	328	0	1	9.2	280679	23303	recent@econ|top@econ	SIGNAL	The Great Tariff Mystery
+2026-09-15T01:23:08.318Z	1571389	bitcoin	1	308	0	0	10.0	280679	23303	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	The Bitcoin Well IRA Is Coming: Real Bitcoin, in the Account the IRS Can't Touch
+2026-09-15T01:23:08.318Z	1571461	Politics_And_Law	3	298	0	0	8.8	280679	23303	recent@econ|top@econ	SIGNAL	The Bond Market is the House
+2026-09-15T01:23:08.318Z	1571341	bitcoin	1	295	0	0	10.7	178	936	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #518: Clancy PsyOp, Dark Academia, Fraud, Drones, Poorness++
+2026-09-15T01:23:08.318Z	1571516	Politics_And_Law	3	282	0	12	8.0	642641	8912	recent@econ|top@econ|recent@history	SIGNAL,SELF_POST_OPP	Russia Is Churning Out Smart, Cheap New Weapons Using Chinese Parts.
+2026-09-15T01:23:08.318Z	1571484	openagents	1	269	0	2	8.4	534967	241	top@openagents	SIGNAL	Episode 282: Not Asking Permission
+2026-09-15T01:23:08.318Z	1571559	lightning	1	241	0	1	7.3	263526	718	recent@lightning|top@lightning	SIGNAL	ODELL: Lightning binds together the bitcoin ecosystem.
+2026-09-15T01:23:08.318Z	1571666	Design	2	184	0	0	5.1	383547	3692	recent@Design|top@Design	SIGNAL	AI is breaking this thing we call trust
+2026-09-15T01:23:08.318Z	1571816	Photography	3	183	0	0	1.2	984933	2479	recent@history|top@history	FRESH,SIGNAL	Men guard an Indian royal's elephant, 1929
+2026-09-15T01:23:08.318Z	1571445	AI	1	171	0	1	9.0	280679	23303	recent@AI|top@AI	SIGNAL	Two missing pieces in the AI safety discussion
+2026-09-15T01:23:08.318Z	1571856	news	2	163	0	0	0.2	297791	7763	recent@bitcoin|top@bitcoin|recent@Stacker_Stocks	FRESH,SIGNAL	MSTR Rethinks Financial Strategy Amid Market Uncertainties
+2026-09-15T01:23:08.318Z	1571434	ideasfromtheedge	2	142	0	0	9.2	792262	1764	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	Migrant Nostalgia✨
+2026-09-15T01:23:08.318Z	1571421	security	1	123	0	0	9.4	280679	23303	recent@bitdevs|top@bitdevs|recent@security	SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
+2026-09-15T01:23:08.318Z	1571665	news	2	109	0	0	5.1	297791	7763	recent@devs|top@devs|recent@news	SIGNAL	macOS 27 is available now
+2026-09-15T01:23:08.318Z	1571590	Design	2	108	0	1	6.6	383547	3692	recent@Design|top@Design	SIGNAL	Daily Designer Quote #0019 ∙ Jenova Chen
