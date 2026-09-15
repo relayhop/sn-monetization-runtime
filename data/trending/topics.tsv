@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-15T00:20:55.644Z; n=40
-what	hn,sn:AskSN,sn:AI	11.23	yes	
-week	sn:Stacker_Sports	6.03	no	RISING
-show	hn	5.24	no	RISING
-stacker news monthly	sn:meta	3.8	yes	
-august	sn:meta	3.8	yes	
-wasabi wallet release	sn:bitcoin	3.69	yes	
+# generated 2026-09-15T09:13:57.830Z; n=40
+week	sn:Stacker_Sports	6.16	no	RISING
+what	hn,sn:AI	5.68	yes	
+stacker news monthly	sn:meta	3.86	yes	
+august	sn:meta	3.86	yes	
+pleb economist	sn:econ	3.81	no	RISING
+society without capitalism	sn:econ	3.81	no	RISING
+interview review	sn:econ	3.81	no	RISING
+wasabi wallet release	sn:bitcoin	3.74	yes	
+show	hn	3.72	no	RISING
 last	sn:Stacker_Sports	3.49	no	RISING
-have no fear	sn:Politics_And_Law	3.47	no	RISING
-are here	sn:Politics_And_Law	3.47	no	RISING
-least coming	sn:Politics_And_Law	3.47	no	RISING
-editorial board	sn:Politics_And_Law	3.47	no	RISING
+have no fear	sn:Politics_And_Law	3.48	no	RISING
+are here	sn:Politics_And_Law	3.48	no	RISING
+least coming	sn:Politics_And_Law	3.48	no	RISING
+editorial board	sn:Politics_And_Law	3.48	no	RISING
+looking	sn:AskSN	3.46	yes	
+austin	sn:AskSN	3.46	yes	
+broncos	sn:Stacker_Sports	3.46	no	RISING
+chiefs	sn:Stacker_Sports	3.46	no	RISING
+discussion thread	sn:Stacker_Sports	3.46	no	RISING
+the fish that shaped history	sn:podcasts	3.44	no	RISING
+everything everywhere daily	sn:podcasts	3.44	no	RISING
+strategy skips bitcoin weekly buys again	sn:Stacker_Stocks	3.42	no	RISING
+repurchases	sn:Stacker_Stocks	3.42	no	RISING
+million	sn:Stacker_Stocks	3.42	no	RISING
+strc	sn:Stacker_Stocks	3.42	no	RISING
 the economics	sn:the_stacker_muse	3.41	no	RISING
 infinite generation	sn:the_stacker_muse	3.41	no	RISING
 can bookstores show	sn:the_stacker_muse	3.41	no	RISING
 future	sn:the_stacker_muse	3.41	no	RISING
-pleb economist	sn:econ	3.35	no	RISING
-society without capitalism	sn:econ	3.35	no	RISING
-interview review	sn:econ	3.35	no	RISING
-the fish that shaped history	sn:podcasts	3.33	no	RISING
-everything everywhere daily	sn:podcasts	3.33	no	RISING
+rust	hn	3.39	no	RISING
+would	sn:bitcoin	3.34	yes	
+bitcoin	sn:bitcoin	3.34	yes	
+recent photographs	sn:Photography	3.33	no	RISING
+running	sn:security	3.32	yes	
+disable	sn:security	3.32	yes	
+experimental-dual	sn:security	3.32	yes	
+dual-funded	sn:security	3.32	yes	
+swiss bitcoin pay	sn:bitcoin	3.31	yes	
 the world update	sn:Stacker_Sports	3.29	no	RISING
-looking	sn:AskSN	3.27	yes	
-austin	sn:AskSN	3.27	yes	
-brca	sn:bitdevs	3.15	no	RISING
-swiss bitcoin pay	sn:bitcoin	3.14	yes	
-would	sn:bitcoin	3.13	yes	
-bitcoin	sn:bitcoin	3.13	yes	
-recent photographs	sn:Photography	3.13	no	RISING
-nike goes full gen	sn:Design	3.11	no	RISING
-zoolander and commits cultural suicide	sn:Design	3.11	no	RISING
-flocks	sn:AI	3.1	yes	
-running	sn:security	3.06	yes	
-disable	sn:security	3.06	yes	
-experimental-dual	sn:security	3.06	yes	
-dual-funded	sn:security	3.06	yes	
-chargers	sn:Stacker_Sports	3.04	no	RISING
-circa survivor picks	sn:Stacker_Sports	3.04	no	RISING
-massive	sn:Politics_And_Law	3.03	no	RISING
-clarity	sn:Politics_And_Law	3.03	no	RISING
-news	sn:Politics_And_Law	3.03	no	RISING
+brca	sn:bitdevs	3.29	no	RISING
