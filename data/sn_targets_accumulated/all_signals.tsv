@@ -48577,3 +48577,16 @@
 2026-09-15T01:46:33.183Z	1571445	AI	1	171	0	1	9.4	280679	23303	recent@AI|top@AI	SIGNAL	Two missing pieces in the AI safety discussion
 2026-09-15T01:46:33.184Z	1571665	news	2	130	0	0	5.5	297791	7764	recent@devs|top@devs	SIGNAL	macOS 27 is available now
 2026-09-15T01:46:33.184Z	1571421	security	1	123	0	0	9.8	280679	23303	recent@bitdevs|top@bitdevs|recent@security	SIGNAL	Perfect-10 GitLab bug under attack days after patch lands
+2026-09-15T06:46:26.736Z	1571660	bitcoin	1	5485	0	2	10.6	280679	23303	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Wasabi Wallet Release v2.8.3
+2026-09-15T06:46:26.737Z	1571693	AskSN	2	2970	0	12	9.9	238412	258	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Is lightning too complicated?
+2026-09-15T06:46:26.737Z	1571733	security	1	2052	0	2	9.1	1	27401	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Running CLN? Disable --experimental-dual-fund, dual-funded (v2) channels
+2026-09-15T06:46:26.737Z	1571809	security	1	1840	0	2	6.8	30782	25767	recent@security|top@security	HOT,SIGNAL	Trump Likes Flock Cameras
+2026-09-15T06:46:26.737Z	1571676	math	2	1669	0	29	10.2	1562189	128	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Why Sat-Digital-Gold can't win without Nah•Sovereign•Diamond
+2026-09-15T06:46:26.737Z	1571857	AI	1	1666	0	1	5.6	900202	2776	recent@AI|top@AI	HOT,SIGNAL	open the frontier - jack (@jack) on X
+2026-09-15T06:46:26.737Z	1571856	news	2	800	0	2	5.6	297791	7764	recent@bitcoin|top@bitcoin	SIGNAL	MSTR Rethinks Financial Strategy Amid Market Uncertainties
+2026-09-15T06:46:26.737Z	1571907	AI	1	618	0	0	4.3	402772	22454	recent@AI|top@AI	SIGNAL	EU is set to propose ban on social media and AI chatbots for under-15s
+2026-09-15T06:46:26.737Z	1571957	AI	1	385	0	0	2.4	238412	258	recent@AI|top@AI	SIGNAL	The Rogue AI Era is Upon Us
+2026-09-15T06:46:26.737Z	1571902	security	1	345	0	1	4.5	375687	3250	recent@security|top@security|recent@tech	SIGNAL	Tor VPN Beta
+2026-09-15T06:46:26.737Z	1571876	news	2	336	0	0	5.2	297791	7764	recent@devs|top@devs|recent@tech	SIGNAL	Homebrew 7.0.0 gets built-in GUI, better security controls
+2026-09-15T06:46:26.737Z	1571916	AskSN	2	157	0	4	3.9	1532836	535	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	New Mostro update with fixes(Mostrix v0.3.2 is out! )
+2026-09-15T06:46:26.737Z	1571665	news	2	130	0	0	10.5	297791	7764	recent@devs|top@devs	SIGNAL	macOS 27 is available now
