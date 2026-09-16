@@ -1,28 +1,31 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-16T09:07:18.836Z; n=40
-show	hn	7.96	no	RISING
-bitcoin	sn:AskSN	4.01	yes	
+# generated 2026-09-16T14:38:50.277Z; n=40
+what	sn:AI,sn:AskSN	7.32	yes	
+show	hn	6.9	no	RISING
+fails	sn:meta	4.2	yes	
+bitcoin	sn:AskSN	4.02	yes	
 last	sn:Stacker_Sports	3.91	no	RISING
 zero	sn:mostly_harmless	3.88	no	RISING
 archive	sn:mostly_harmless	3.88	no	RISING
-buying venezuelan crude	sn:Politics_And_Law	3.85	no	RISING
-crypto	sn:Politics_And_Law	3.85	no	RISING
-caruana galizia	sn:Politics_And_Law	3.85	no	RISING
-generate	sn:Stacker_Sports	3.8	no	RISING
+generate	sn:Stacker_Sports	3.84	no	RISING
+just	sn:Memes	3.82	yes	
+bitcoinized	sn:Memes	3.82	yes	
 details	sn:privacy	3.78	no	RISING
 revolut	sn:privacy	3.78	no	RISING
+what marlets should we list next	sn:Stacker_Sports	3.78	no	RISING
+predyx	sn:Stacker_Sports	3.78	yes	
+reflecting	sn:meta	3.77	yes	
+the zap wars	sn:meta	3.77	yes	
 senate	sn:news	3.76	yes	
 clarity	sn:news	3.76	yes	
 adam gibson	sn:bitcoin	3.75	yes	
 rob segers	sn:bitcoin	3.75	yes	
 bitcoin optech newsletter	sn:bitcoin	3.75	yes	
 recap podcast	sn:bitcoin	3.75	yes	
-what marlets should we list next	sn:Stacker_Sports	3.73	no	RISING
-predyx	sn:Stacker_Sports	3.73	yes	
 house set to take first step to establish	sn:bitcoin	3.72	yes	
 federal strategic bitcoin reserve	sn:bitcoin	3.72	yes	
-guilty	sn:bitcoin_beginners	3.62	no	RISING
-splitting	sn:bitcoin	3.59	yes	
+guilty	sn:bitcoin_beginners	3.63	no	RISING
+splitting	sn:bitcoin	3.59	no	RISING
 for americans	sn:charts_and_maps	3.56	no	RISING
 there	sn:charts_and_maps	3.56	yes	
 no best age	sn:charts_and_maps	3.56	no	RISING
@@ -33,10 +36,7 @@ inside	sn:AI	3.55	yes
 project lily	sn:AI	3.55	yes	
 the humans reading your	sn:AI	3.55	yes	
 chats	sn:AI	3.55	yes	
-cash app launches bitcoin bonus	sn:bitcoin	3.47	yes	
-earn	sn:bitcoin	3.47	yes	
+long-term	sn:AskSN	3.52	no	RISING
 thursday	sn:events	3.45	yes	
 austin bitdevs socratic seminar	sn:events	3.45	yes	
-inflation	sn:econ	3.39	no	RISING
-aqua	sn:bitcoin	3.29	yes	
-brand-new	sn:bitcoin	3.29	yes	
+saudi says houthis targeted mecca with	sn:Politics_And_Law	3.42	no	RISING
