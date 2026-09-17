@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-17T14:43:01.614Z; n=40
-bitcoin	hn,sn:AskSN,sn:BooksAndArticles,sn:Quotes	12.06	yes	
-what	sn:AskSN	6.81	yes	
-show	hn	5.78	no	RISING
-rust	hn	5.06	no	RISING
+# generated 2026-09-17T19:35:02.265Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin,sn:Quotes	9.85	yes	
+what	sn:AskSN	6.85	yes	
+show	hn	5.1	no	RISING
+book review	sn:BooksAndArticles	4.09	no	RISING
+colonialism	sn:BooksAndArticles	4.09	no	RISING
+moral reckoning	sn:BooksAndArticles	4.09	no	RISING
+read-along	sn:the_stacker_muse	4.06	no	RISING
+the odyssey	sn:the_stacker_muse	4.06	no	RISING
+rouse	sn:the_stacker_muse	4.06	no	RISING
+remarks	sn:the_stacker_muse	4.06	no	RISING
 latest strikes	sn:bitcoin	4.06	yes	
 augst	sn:bitcoin	4.06	yes	
 september	sn:bitcoin	4.06	yes	
-read-along	sn:the_stacker_muse	4.05	no	RISING
-the odyssey	sn:the_stacker_muse	4.05	no	RISING
-rouse	sn:the_stacker_muse	4.05	no	RISING
-remarks	sn:the_stacker_muse	4.05	no	RISING
-handles	sn:bitcoin	4.02	no	RISING
-mainnet	sn:bitcoin	4.02	no	RISING
 schumpeter vs smith	sn:Politics_And_Law	3.81	no	RISING
 where jobs come from	sn:Politics_And_Law	3.81	no	RISING
 soumaya keynes	sn:Politics_And_Law	3.81	no	RISING
-book review	sn:BooksAndArticles	3.81	no	RISING
-colonialism	sn:BooksAndArticles	3.81	no	RISING
-moral reckoning	sn:BooksAndArticles	3.81	no	RISING
 quotes	sn:meta	3.8	yes	
 the blocksize war	sn:meta	3.8	yes	
 silent upgrade	sn:Music	3.73	no	RISING
 haleen	sn:Music	3.73	no	RISING
-the printer	sn:gaming	3.71	no	RISING
-daughter	sn:gaming	3.71	no	RISING
-something	sn:AI	3.65	yes	
-niklas	sn:AI	3.65	yes	
-july	sn:econ	3.64	no	RISING
 signal	sn:tech	3.59	yes	
 average	sn:bitcoin	3.55	yes	
 miami	sn:bitcoin	3.55	yes	
-champion	sn:Stacker_Sports	3.47	no	RISING
-predyx	sn:Stacker_Sports	3.47	no	RISING
-market	sn:Stacker_Sports	3.47	no	RISING
 review	sn:BooksAndArticles	3.43	no	RISING
 the quantum thief	sn:BooksAndArticles	3.43	no	RISING
 hannu rajaniemi	sn:BooksAndArticles	3.43	no	RISING
+report	sn:bitcoin	3.42	yes	
+scammy appstore	sn:bitcoin	3.42	yes	
+self-custody	sn:bitcoin	3.42	yes	
 false	sn:Politics_And_Law	3.41	no	RISING
 scientists	sn:tech	3.37	yes	
-e-ink	hn	3.35	no	RISING
+quantum migration debate	sn:bitcoin	3.36	yes	
+formula	sn:Stacker_Sports	3.32	no	RISING
+taxes	sn:Quotes	3.31	no	RISING
+kruw	sn:Quotes	3.31	no	RISING
+unknown	sn:Quotes	3.27	no	RISING
+the rising sun	sn:Stacker_Sports	3.26	no	RISING
+season	sn:Stacker_Sports	3.26	no	RISING
+episode	sn:Stacker_Sports	3.26	yes	
+deterministic	sn:bitcoin	3.25	yes	
