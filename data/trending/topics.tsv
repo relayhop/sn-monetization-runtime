@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-16T19:23:18.373Z; n=40
-bitcoin	sn:AskSN,sn:BooksAndArticles	8.42	yes	
-show	hn	7.61	no	RISING
-what	sn:AI,sn:AskSN	7.58	yes	
-predyx	sn:Stacker_Sports	7.11	no	RISING
-reflecting	sn:meta	5.32	yes	
-the zap wars	sn:meta	5.32	yes	
+# generated 2026-09-17T00:09:24.338Z; n=40
+what	sn:AI,sn:AskSN	10.71	yes	
+bitcoin	sn:BooksAndArticles,sn:AskSN	7.35	yes	
+predyx	sn:Stacker_Sports	7.25	no	RISING
+nvidia	hn,sn:AI	5.63	yes	
+reflecting	sn:meta	5.33	yes	
+the zap wars	sn:meta	5.33	yes	
 book	sn:BooksAndArticles	4.4	no	RISING
 books	sn:BooksAndArticles	4.4	no	RISING
 principles	sn:BooksAndArticles	4.4	no	RISING
 vijay selvam	sn:BooksAndArticles	4.4	no	RISING
-fails	sn:meta	4.2	yes	
-handles	sn:bitcoin	3.97	yes	
-mainnet	sn:bitcoin	3.97	yes	
-zero	sn:mostly_harmless	3.88	no	RISING
-archive	sn:mostly_harmless	3.88	no	RISING
-just	sn:Memes	3.88	yes	
-bitcoinized	sn:Memes	3.88	yes	
+fails	sn:meta	4.34	no	RISING
+postgres	hn	4.14	yes	
+latest strikes	sn:bitcoin	4.03	yes	
+augst	sn:bitcoin	4.03	yes	
+september	sn:bitcoin	4.03	yes	
+handles	sn:bitcoin	4	yes	
+mainnet	sn:bitcoin	4	yes	
+just	sn:Memes	3.89	yes	
+bitcoinized	sn:Memes	3.89	yes	
 generate	sn:Stacker_Sports	3.84	no	RISING
 what marlets should we list next	sn:Stacker_Sports	3.78	no	RISING
-senate	sn:news	3.76	yes	
-clarity	sn:news	3.76	yes	
-adam gibson	sn:bitcoin	3.75	yes	
-rob segers	sn:bitcoin	3.75	yes	
-bitcoin optech newsletter	sn:bitcoin	3.75	yes	
-recap podcast	sn:bitcoin	3.75	yes	
-long-term	sn:AskSN	3.69	no	RISING
+long-term	sn:AskSN	3.7	no	RISING
+the printer	sn:gaming	3.69	no	RISING
+daughter	sn:gaming	3.69	no	RISING
 guilty	sn:bitcoin_beginners	3.63	no	RISING
+something	sn:AI	3.62	yes	
+niklas	sn:AI	3.62	yes	
+july	sn:econ	3.61	no	RISING
 inside	sn:AI	3.55	yes	
 project lily	sn:AI	3.55	yes	
 the humans reading your	sn:AI	3.55	yes	
 chats	sn:AI	3.55	yes	
-the printer	sn:gaming	3.55	no	RISING
-daughter	sn:gaming	3.55	no	RISING
-july	sn:econ	3.52	no	RISING
-something	sn:AI	3.47	yes	
-niklas	sn:AI	3.47	yes	
-saudi says houthis targeted mecca with	sn:Politics_And_Law	3.43	no	RISING
-drone	sn:Politics_And_Law	3.43	no	RISING
-inflation	sn:econ	3.39	no	RISING
-update	sn:bitcoin	3.34	yes	
+jensen huang	sn:AI	3.49	yes	
+champion	sn:Stacker_Sports	3.47	no	RISING
+market	sn:Stacker_Sports	3.47	no	RISING
+saudi says houthis targeted mecca with	sn:Politics_And_Law	3.44	no	RISING
+drone	sn:Politics_And_Law	3.44	no	RISING
+the economist who forgot economics	sn:BooksAndArticles	3.35	no	RISING
+how socialism destroyed venezuela	sn:charts_and_maps	3.34	no	RISING
+charts	sn:charts_and_maps	3.34	no	RISING
