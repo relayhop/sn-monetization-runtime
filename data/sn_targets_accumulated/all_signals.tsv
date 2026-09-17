@@ -50004,3 +50004,24 @@
 2026-09-17T18:08:41.004Z	1575078	Stacker_Stocks	2	181	0	0	1.6	280679	23426	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	S&P Global agrees to acquire OpenZeppelin in onchain security push
 2026-09-17T18:08:41.004Z	1575115	lightning	1	151	0	0	0.7	440729	266	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (02dcaba5aaa1dc217…)
 2026-09-17T18:08:41.004Z	1575113	AI	1	143	0	0	0.8	272410	1469	recent@AI|top@AI|recent@news	FRESH,SIGNAL	Meta AI revealed kids' data using old Facebook posts
+2026-09-17T19:02:56.787Z	1575068	bitcoin	1	2651	0	2	2.7	74100	12762	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Report: Scammy Appstore "self-custody" wallets
+2026-09-17T19:02:56.787Z	1575007	bitcoin	1	2297	0	0	4.1	8842	482	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin's Quantum Migration Debate
+2026-09-17T19:02:56.787Z	1575031	bitcoin	1	1575	0	5	3.4	6274	2293	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Swaptopia -  Basically an Ark web wallet, with the UI tweaked to make swaps easy
+2026-09-17T19:02:56.787Z	1574819	AI	1	1300	0	1	7.6	328182	4003	recent@AI|top@AI	HOT,SIGNAL	What Regulatory Capture Actually Looks Like
+2026-09-17T19:02:56.787Z	1575135	mempool	1	1172	0	4	1.2	1028548	614	recent@mempool|top@mempool	FRESH,HOT,SIGNAL	Why is this in my mempool?
+2026-09-17T19:02:56.787Z	1574720	lightning	1	596	0	3	10.1	163128	3896	recent@lightning|top@lightning	SIGNAL	lnfuzz/smite: Snapshot fuzzing for the Bitcoin Lightning Network
+2026-09-17T19:02:56.787Z	1574711	Design	2	485	0	0	10.3	163128	3896	recent@lightning|top@lightning	SIGNAL	LN-history v2.0 + A historic analysis of the topology of the Lightning Network
+2026-09-17T19:02:56.787Z	1574695	news	2	485	0	2	10.8	272410	1474	recent@tech|top@tech	SIGNAL	Hackers demand Revolut pay $3mn ransom after data breach
+2026-09-17T19:02:56.787Z	1574655	tech	1	415	0	0	11.7	163128	3896	recent@tech|top@tech	SIGNAL	Tails v7.13 is out - Release notes for the latest version
+2026-09-17T19:02:56.787Z	1574784	bitcoin	1	414	0	4	8.4	126503	810	recent@bitcoin|top@bitcoin	SIGNAL	Sparrow wallet 2.5.5
+2026-09-17T19:02:56.787Z	1574989	bitcoin	1	356	0	0	4.5	996769	56	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	🎙️ NEW EPISODE: Break The Stake: How Corrupted Money Steals Your Energy
+2026-09-17T19:02:56.787Z	1574748	meta	1	319	0	0	9.0	36151	1636	recent@meta|top@meta	SIGNAL	This Day on SN: September 17
+2026-09-17T19:02:56.787Z	1575067	tech	1	304	0	1	2.7	280679	23428	recent@tech|top@tech	SIGNAL	People Are Pissed Off and Ready to Own Their Shit
+2026-09-17T19:02:56.787Z	1574948	bitcoin	1	291	0	3	5.2	375687	3265	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	The anti-abuse bond.🧌
+2026-09-17T19:02:56.787Z	1574835	bitcoin	1	285	0	3	7.3	1554639	25	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Your Bitcoin wallet is talking to someone. Make sure it's you.
+2026-09-17T19:02:56.787Z	1575174	lol	2	256	0	0	0.5	296825	5371	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Do You Punish Yourself?
+2026-09-17T19:02:56.787Z	1575097	AI	1	242	0	0	2.1	272410	1474	recent@tech|top@tech|recent@AI	SIGNAL	I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy
+2026-09-17T19:02:56.787Z	1575035	bitcoin_Mining	1	191	0	0	3.3	280679	23428	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	How Sazmining Uses Braiins Hashpower Contracts
+2026-09-17T19:02:56.787Z	1574825	lol	2	182	0	0	7.4	984933	2545	recent@AI|top@AI	SIGNAL	"Friends" in the style of dictators?
+2026-09-17T19:02:56.787Z	1575115	lightning	1	181	0	0	1.6	440729	266	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (02dcaba5aaa1dc217…)
+2026-09-17T19:02:56.787Z	1575113	AI	1	143	0	0	1.7	272410	1474	recent@AI|top@AI	FRESH,SIGNAL	Meta AI revealed kids' data using old Facebook posts
