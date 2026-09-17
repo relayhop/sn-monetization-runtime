@@ -49794,3 +49794,30 @@
 2026-09-17T01:18:45.202Z	1574342	news	2	175	0	0	3.4	1054143	1262	recent@Education|top@Education|recent@news	SIGNAL	Trump grant cuts hit health, disaster relief and education across US.
 2026-09-17T01:18:45.202Z	1574382	AI	1	152	0	2	2.4	328182	3996	recent@devs|top@devs|recent@AI	SIGNAL	When AI writes the code, C becomes king again. Here is why
 2026-09-17T01:18:45.202Z	1573793	tech	1	152	0	0	11.7	1054143	1262	recent@ideasfromtheedge|top@ideasfromtheedge|recent@BooksAndArticles	SIGNAL	The Innovators by Walter Isaacson (2014)
+2026-09-17T05:27:41.707Z	1574314	bitcoin	1	11358	0	2	8.4	24585	373	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #36 & #37 - Augst 31st - September 13th 2026
+2026-09-17T05:27:41.707Z	1574147	AI	1	4483	0	2	11.0	74100	12748	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Something's been bugging me // Niklas Gögge
+2026-09-17T05:27:41.707Z	1574480	tech	1	3689	0	2	3.9	900202	2798	recent@tech|top@tech	HOT,SIGNAL	Signal requests beta feedback for release with phonenumberless registration
+2026-09-17T05:27:41.707Z	1574395	AskSN	2	3474	0	15	5.9	1	27418	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	What do lightning node operators use to automatically adjust fees & liquidity?
+2026-09-17T05:27:41.707Z	1574547	bitcoin	1	3213	0	1	2.4	6274	2290	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Average wealth of jurors in Miami: $30 billion
+2026-09-17T05:27:41.707Z	1574491	meta	1	1846	0	6	3.7	57444	16147	recent@meta|top@meta	HOT,SIGNAL	Quotes from The Blocksize War (2021)
+2026-09-17T05:27:41.707Z	1574297	AskSN	2	1641	0	3	8.6	804372	66	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Which is the most valuable invention AI, Bitcoin, or Nuclear power?
+2026-09-17T05:27:41.707Z	1574059	lightning	1	1635	0	1	11.9	440729	265	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03ddd676f76b47668…)
+2026-09-17T05:27:41.707Z	1574462	bitcoin	1	1630	0	0	4.5	74100	12748	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	BIP 461: Deterministic ECDSA Signatures
+2026-09-17T05:27:41.708Z	1574222	tech	1	1272	0	2	9.9	280679	23413	recent@tech|top@tech	HOT,SIGNAL	Scientists develop new method for deciphering ancient scrolls
+2026-09-17T05:27:41.708Z	1574346	AI	1	937	0	0	7.3	1293586	2399	recent@tech|top@tech|recent@AI	SIGNAL	Datacenter rush will create ‘tsunami’ of discarded electronics, report says
+2026-09-17T05:27:41.708Z	1574352	lol	2	766	0	6	7.2	328182	3996	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	The Strategic Reserve of Fugazi
+2026-09-17T05:27:41.708Z	1574224	AI	1	602	0	1	9.9	12309	3682	recent@AI|top@AI	SIGNAL	Union Alpha - new stealth model at the top of DeepSWE /cost
+2026-09-17T05:27:41.708Z	1574328	DIY	3	596	0	2	8.0	272410	1452	recent@tech|top@tech	SIGNAL	I turned my old Android phone into a Home Assistant server and it actually works
+2026-09-17T05:27:41.708Z	1574267	news	2	590	0	0	8.9	272410	1452	recent@tech|top@tech	SIGNAL	Hackers stole Flock camera software, revealing how it tracks cars and people
+2026-09-17T05:27:41.708Z	1574324	AI	1	579	0	0	8.1	934367	1048	recent@tech|top@tech|recent@AI	SIGNAL	TimesFM: a pretrained time-series foundation model developed by Google
+2026-09-17T05:27:41.708Z	1574176	bitcoin	1	491	0	1	10.6	1567611	7	recent@bitcoin|top@bitcoin	SIGNAL	How Jade Protects Your PIN Without a Secure Element
+2026-09-17T05:27:41.708Z	1574092	AI	1	460	0	0	11.6	1532699	358	recent@AI|top@AI	SIGNAL	Are We Racing Toward an AI Utopia...or Building the Terminator?
+2026-09-17T05:27:41.708Z	1574084	bitcoin_Mining	1	384	0	0	11.7	1566662	9	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Eleven blocks minted $2.6 million while users paid $29,000 in fees
+2026-09-17T05:27:41.708Z	1574312	tech	1	383	0	0	8.4	1293586	2399	recent@tech|top@tech	SIGNAL	Ars Technica Review of Mac OS 27
+2026-09-17T05:27:41.708Z	1574200	AI	1	339	0	1	10.3	263526	744	recent@lightning|top@lightning|recent@AI	SIGNAL	An AI Just Bought Something Online — and Paid in Dollars Over Bitcoin Lightning
+2026-09-17T05:27:41.708Z	1574333	tech	1	300	0	0	7.9	161788	10428	recent@tech|top@tech	SIGNAL	Training a 4B model to produce 81% faster query plans than Postgres
+2026-09-17T05:27:41.708Z	1574061	tech	1	272	0	0	11.9	161788	10428	recent@tech|top@tech	SIGNAL	Small Programming Tricks
+2026-09-17T05:27:41.708Z	1574207	news	2	267	0	0	10.1	272410	1452	recent@bitcoin|top@bitcoin	SIGNAL	Hamas tells donors to avoid Binance and use Bybit, OKX or Kast instead
+2026-09-17T05:27:41.708Z	1574305	privacy	1	246	0	0	8.5	642641	8975	recent@privacy|top@privacy	SIGNAL	How a Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying
+2026-09-17T05:27:41.708Z	1574382	AI	1	152	0	3	6.5	328182	3996	recent@devs|top@devs|recent@AI	SIGNAL	When AI writes the code, C becomes king again. Here is why
+2026-09-17T05:27:41.708Z	1574568	AI	1	111	0	1	1.6	144357	4570	recent@AI|top@AI	FRESH,SIGNAL	An Interview with OpenAI President Greg Brockman - Stratechary
