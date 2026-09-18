@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-17T23:55:47.316Z; n=40
+# generated 2026-09-18T08:49:03.381Z; n=40
 bitcoin	sn:bitcoin,sn:Quotes	6.65	yes	
-japan	hn	4.34	no	RISING
-book review	sn:BooksAndArticles	4.1	no	RISING
-colonialism	sn:BooksAndArticles	4.1	no	RISING
-moral reckoning	sn:BooksAndArticles	4.1	no	RISING
+new predyx market	sn:Stacker_Sports	6.14	no	RISING
+book review	sn:BooksAndArticles	4.11	no	RISING
+colonialism	sn:BooksAndArticles	4.11	no	RISING
+moral reckoning	sn:BooksAndArticles	4.11	no	RISING
 read-along	sn:the_stacker_muse	4.07	no	RISING
 the odyssey	sn:the_stacker_muse	4.07	no	RISING
 rouse	sn:the_stacker_muse	4.07	no	RISING
 remarks	sn:the_stacker_muse	4.07	no	RISING
-quotes	sn:meta	3.82	yes	
-the blocksize war	sn:meta	3.82	yes	
+statistics	sn:Politics_And_Law	3.92	no	RISING
+britain	sn:Politics_And_Law	3.92	no	RISING
+productivity non-puzzle	sn:Politics_And_Law	3.92	no	RISING
+louis ashworth	sn:Politics_And_Law	3.92	no	RISING
 schumpeter vs smith	sn:Politics_And_Law	3.81	no	RISING
 where jobs come from	sn:Politics_And_Law	3.81	no	RISING
 soumaya keynes	sn:Politics_And_Law	3.81	no	RISING
-silent upgrade	sn:Music	3.74	no	RISING
-haleen	sn:Music	3.74	no	RISING
-signal	sn:tech	3.59	yes	
-average	sn:bitcoin	3.57	yes	
-miami	sn:bitcoin	3.57	yes	
+help	sn:tech	3.68	yes	
+flotilla	sn:tech	3.68	yes	
+chloe	sn:Animal_World	3.45	no	RISING
+in-home	sn:Animal_World	3.45	no	RISING
 report	sn:bitcoin	3.44	yes	
 scammy appstore	sn:bitcoin	3.44	yes	
 self-custody	sn:bitcoin	3.44	yes	
-review	sn:BooksAndArticles	3.43	no	RISING
-the quantum thief	sn:BooksAndArticles	3.43	no	RISING
-hannu rajaniemi	sn:BooksAndArticles	3.43	no	RISING
-quantum migration debate	sn:bitcoin	3.38	yes	
-journals	sn:AI	3.36	yes	
+quantum migration debate	sn:bitcoin	3.39	yes	
+journals	sn:AI	3.38	yes	
+taxes	sn:Quotes	3.37	no	RISING
+kruw	sn:Quotes	3.37	no	RISING
 collectible book	sn:BooksAndArticles	3.33	no	RISING
 the sovereign individual	sn:BooksAndArticles	3.33	no	RISING
-taxes	sn:Quotes	3.32	no	RISING
-kruw	sn:Quotes	3.32	no	RISING
-show	hn	3.31	no	RISING
+ground	sn:meta	3.31	yes	
 daily putt	sn:gaming	3.3	no	RISING
 play	sn:gaming	3.3	no	RISING
 putt	sn:gaming	3.3	no	RISING
 score	sn:gaming	3.3	no	RISING
-what	sn:AskSN	3.28	yes	
-navier-stokes equations are so hard	sn:AI	3.28	yes	
+what	sn:AskSN	3.29	yes	
+navier-stokes equations are so hard	sn:AI	3.29	yes	
 swaptopia	sn:bitcoin	3.28	yes	
 basically	sn:bitcoin	3.28	yes	
+unknown	sn:Quotes	3.27	no	RISING
+liquid	sn:news	3.24	yes	
