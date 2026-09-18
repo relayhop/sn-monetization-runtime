@@ -50224,3 +50224,53 @@
 2026-09-18T13:52:28.466Z	1575931	devs	1	100	0	0	1.7	272410	1489	recent@devs|top@devs	FRESH,SIGNAL	Treat your terminal less like a shell, more like a dashboard
 2026-09-18T13:52:28.466Z	1575867	AI	1	100	0	0	3.4	272410	1489	recent@AI|top@AI	SIGNAL	North Korean Cyber Group Stole 14.5 Billion Won in Crypto via Fake Headhunting
 2026-09-18T13:52:28.466Z	1575846	AI	1	100	0	0	4.0	297791	7793	recent@AI|top@AI	SIGNAL	OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft
+2026-09-18T14:56:46.356Z	1575898	meta	1	1931	0	6	3.5	51481	4250	recent@meta|top@meta	HOT,SIGNAL	New Territory ~Scam_Reports
+2026-09-18T14:56:46.356Z	1576002	bitcoin	1	1254	0	0	0.8	1014665	238	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Utreexo IBD, unspendable taproot internal keys - Bitcoin Optech Newsletter #423
+2026-09-18T14:56:46.356Z	1575939	bitcoin_beginners	1	1129	0	2	2.6	30782	25830	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Bitcoin Beginners Newsletter #116
+2026-09-18T14:56:46.356Z	1575875	Stacker_Stocks	2	1096	0	1	4.1	51481	4250	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	Warren Buffett stepping down as chairman of Berkshire Hathaway
+2026-09-18T14:56:46.356Z	1575893	privacy	1	1045	0	6	3.7	273359	1063	recent@privacy|top@privacy	HOT,SIGNAL	Hodl Hodl is freezing coins - "AML review in progress"
+2026-09-18T14:56:46.356Z	1576000	bitcoin	1	920	0	1	0.8	30782	25830	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls On Hormuz Ships
+2026-09-18T14:56:46.356Z	1575759	Memes	2	846	0	1	10.0	273359	1063	recent@Memes|top@Memes	SIGNAL	"Anyone can print money, the challenge is getting people to accept it"- Tshirt 2
+2026-09-18T14:56:46.356Z	1575930	news	2	815	0	12	2.8	984933	2562	recent@econ|top@econ|recent@news	SIGNAL,SELF_POST_OPP	Brazil spent R$ 47 billion to ensure the price of gasoline and diesel
+2026-09-18T14:56:46.356Z	1576030	math	2	802	0	1	0.4	104755	13180	recent@math|top@math	FRESH,SIGNAL	Are you smarter than a sixth-grader
+2026-09-18T14:56:46.356Z	1575988	Politics_And_Law	3	712	0	0	1.0	280679	23458	recent@econ|top@econ|recent@history	FRESH,SIGNAL	Good Intentions Paved the Road to the 2008 Financial Crisis
+2026-09-18T14:56:46.356Z	1575866	AI	1	665	0	0	4.5	51481	4250	recent@AI|top@AI|recent@news	SIGNAL	Anthropic quietly sets up biology lab as it ramps AI drug program
+2026-09-18T14:56:46.356Z	1575871	AI	1	640	0	1	4.3	272410	1489	recent@tech|top@tech|recent@AI	SIGNAL	The expectations of privacy in driverless cars
+2026-09-18T14:56:46.356Z	1575769	news	2	608	0	1	9.5	48657	15514	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	Christine Lagarde Helped Block Binance’s Foothold in Europe
+2026-09-18T14:56:46.356Z	1575795	econ	2	496	0	1	7.7	12309	3685	recent@econ|top@econ	SIGNAL	one in 6 Americans ages 16 to 29 is neither working nor studying
+2026-09-18T14:56:46.356Z	1575784	bitcoin	1	489	0	0	8.3	462245	304	recent@bitcoin|top@bitcoin	SIGNAL	Bruno Garcia Is Making Bitcoin More Resilient Through Testing and Education
+2026-09-18T14:56:46.356Z	1575838	security	1	455	0	0	5.4	280679	23458	recent@security|top@security|recent@tech	SIGNAL	InjectEave: Injected and Leaked - injection-induced EM side channels
+2026-09-18T14:56:46.356Z	1575833	charts_and_maps	2	432	0	0	5.7	280679	23458	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Ranked: Where Workers Keep the Most of Their Monthly Pay
+2026-09-18T14:56:46.356Z	1575832	econ	2	395	0	0	5.8	12309	3685	recent@econ|top@econ	SIGNAL	There's a Mind-Boggling Number of Rich People in America
+2026-09-18T14:56:46.356Z	1575969	science	2	352	0	1	1.6	297791	7794	recent@science|top@science	FRESH,SIGNAL	Human brain is two separate organs, research finds
+2026-09-18T14:56:46.356Z	1575831	bitcoin	1	350	0	4	5.9	280679	23458	recent@bitcoin|top@bitcoin	SIGNAL	French court refuses to suspend the DAC8 decree, submitted by Bull Bitcoin
+2026-09-18T14:56:46.356Z	1575974	DIY	3	339	0	0	1.4	272410	1489	recent@science|top@science	FRESH,SIGNAL	Building A DIY Centrifuge For Blood Processing
+2026-09-18T14:56:46.356Z	1576001	bitcoin	1	301	0	0	0.8	133081	724	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Optech Newsletter #423
+2026-09-18T14:56:46.356Z	1575857	tech	1	276	0	3	4.9	280679	23458	recent@nostr|top@nostr|recent@tech	SIGNAL	Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites
+2026-09-18T14:56:46.356Z	1575783	AskSN	2	271	0	4	8.3	238412	283	recent@AskSN|top@AskSN	SIGNAL	Where can I register a domain and hosting using BTC?
+2026-09-18T14:56:46.356Z	1575889	Politics_And_Law	3	266	0	2	3.7	9274	27573	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	🇪🇺 EUR Welcome 🇨🇦 - Snacks
+2026-09-18T14:56:46.356Z	1575805	bitcoin_beginners	1	262	0	1	7.2	296825	5377	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Btrust’s long-term developer grant program is expanding beyond Africa
+2026-09-18T14:56:46.356Z	1575862	Stacker_Stocks	2	244	0	2	4.7	9274	27573	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-09-18T14:56:46.356Z	1576018	Music	3	242	0	0	0.5	280679	23458	recent@tech|top@tech	FRESH,SIGNAL	Can We Get THAT John Bonham Drum Sound With Modern Mics? | Drumeo
+2026-09-18T14:56:46.356Z	1575868	news	2	213	0	0	4.4	297791	7794	recent@bitcoin|top@bitcoin|recent@news	SIGNAL	Iran's Strait of Hormuz toll booth has been settling in bitcoin since June
+2026-09-18T14:56:46.356Z	1575851	meta	1	209	0	1	4.9	36151	1637	recent@meta|top@meta	SIGNAL	This Day on SN: September 18
+2026-09-18T14:56:46.356Z	1575931	devs	1	208	0	0	2.8	272410	1489	recent@devs|top@devs	SIGNAL	Treat your terminal less like a shell, more like a dashboard
+2026-09-18T14:56:46.356Z	1575713	podcasts	2	200	0	1	11.3	296825	5377	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Break The Stake
+2026-09-18T14:56:46.356Z	1575981	AI	1	195	0	0	1.2	280679	23458	recent@AI|top@AI	FRESH,SIGNAL	The ideal database for AI agents doesn't exist yet, says Percona CEO
+2026-09-18T14:56:46.356Z	1575965	news	2	194	0	0	1.7	272410	1489	recent@news|top@news	FRESH,SIGNAL	Philippines: Three dead and eight injured in shooting at Banga high school
+2026-09-18T14:56:46.356Z	1575937	Politics_And_Law	3	192	0	0	2.6	280679	23458	recent@econ|top@econ|recent@history	SIGNAL	Mao’s 'Great Leap': Mass Starvation on The Road to Serfdom
+2026-09-18T14:56:46.356Z	1575825	art	3	184	0	0	6.5	272410	1489	recent@tech|top@tech|recent@news	SIGNAL	Apple unveils "What Holds Us": a photography exhibition shot entirely on iPhone
+2026-09-18T14:56:46.356Z	1575869	bitcoin	1	179	0	16	4.3	1575869	9	recent@lightning|top@lightning	SIGNAL	I built a non-custodial Lightning payment-tool — would love your brutal feedback
+2026-09-18T14:56:46.356Z	1575967	AI	1	149	0	0	1.6	280679	23458	recent@AI|top@AI|recent@Stacker_Stocks	FRESH,SIGNAL	Amazon’s $190B Anthropic stake has links to SBF
+2026-09-18T14:56:46.356Z	1575773	AI	1	141	0	0	9.2	402772	22506	recent@AI|top@AI	SIGNAL	Security Researchers Hacked Into OpenAI Using Anthropic’s Claude
+2026-09-18T14:56:46.356Z	1575926	Politics_And_Law	3	141	0	0	2.9	280679	23458	recent@econ|top@econ	SIGNAL	American tax dollars are financing cell towers in Angola
+2026-09-18T14:56:46.356Z	1575843	news	2	129	0	0	5.2	272410	1489	recent@news|top@news	SIGNAL	The Trump Administration Sends a New Signal to Alien Disclosure Whistleblowers
+2026-09-18T14:56:46.356Z	1575845	AI	1	121	0	0	5.1	280679	23458	recent@AI|top@AI	SIGNAL	Small AI models let drones autonomously identify and attack battlefield targets
+2026-09-18T14:56:46.356Z	1575854	news	2	120	0	0	4.9	297791	7794	recent@news|top@news	SIGNAL	Protests erupt in Nigeria after 37 miners die in custody of paramilitary agency
+2026-09-18T14:56:46.356Z	1575952	AI	1	110	0	0	2.3	272410	1489	recent@AI|top@AI|recent@news	SIGNAL	Meta glasses captured and shared intimate images without users' consent
+2026-09-18T14:56:46.356Z	1575732	Construction_and_Engineering	2	102	0	0	10.5	1022234	596	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 9/17/26
+2026-09-18T14:56:46.356Z	1575799	bitcoin	1	100	0	0	7.5	296825	5377	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Explain Bitcoin as a machine
+2026-09-18T14:56:46.356Z	1575867	AI	1	100	0	0	4.5	272410	1489	recent@AI|top@AI|recent@news	SIGNAL	North Korean Cyber Group Stole 14.5 Billion Won in Crypto via Fake Headhunting
+2026-09-18T14:56:46.356Z	1575846	AI	1	100	0	0	5.1	297791	7794	recent@AI|top@AI	SIGNAL	OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft
+2026-09-18T14:56:46.356Z	1575973	Politics_And_Law	3	100	0	0	1.4	280679	23458	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	SEC Clears Onchain Stocks But Bans Synthetic Token Versions
+2026-09-18T14:56:46.356Z	1575903	news	2	100	0	0	3.4	272410	1489	recent@news|top@news	SIGNAL	Merz defends immigrants: 'Without them, nothing would work'
