@@ -1,0 +1,13 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Cloud cron runtime for the SN Monetization engine",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/sn_bounty_processor.test.mjs",
+    "radar": "node scripts/sn_radar_v2.mjs",
+    "process": "node scripts/sn_bounty_processor.mjs"
+  },
+  "keywords": ["stacker-news", "monetization", "radar", "bounties", "bitcoin", "lightning"],
+  "license": "MIT"
+}
