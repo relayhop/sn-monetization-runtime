@@ -50828,3 +50828,43 @@
 2026-09-19T16:31:08.171Z	1576866	bitcoin	1	100	0	6	1.6	47274	149	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	If Bitcoin was discovered in the 60s...
 2026-09-19T16:31:08.171Z	1576891	lightning	1	100	0	0	0.9	1519080	113	recent@lightning|top@lightning	FRESH,SIGNAL	**updates** LCC get a ROI tracker + available in the Umbrel Community app stores
 2026-09-19T16:31:08.171Z	1576921	AI	1	100	0	2	0.3	297791	7801	recent@security|top@security|recent@AI	FRESH,SIGNAL	Gemini accessed protected systems of 3 companies during AI cybersecurity test
+2026-09-19T17:56:49.662Z	1576791	bitcoin	1	7648	0	15	5.6	272410	1510	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	The easiest orangepilling of my life: a waiter, some churros, and one question
+2026-09-19T17:56:49.662Z	1576826	bitcoin	1	2260	0	5	4.5	1575881	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Blink pauses services while investigating security incident
+2026-09-19T17:56:49.662Z	1576714	Politics_And_Law	3	1608	0	5	9.9	724606	12914	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Denmark Rocking the Immigration Economics (FT, John Burn-Murdoch)
+2026-09-19T17:56:49.662Z	1576800	BooksAndArticles	2	1108	0	4	5.3	147412	1452	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Continuity of Control #5 Aldous Huxley - The Science of Servitude
+2026-09-19T17:56:49.662Z	1576923	lightning	1	1105	0	1	1.7	440729	268	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b67229f9450cbea…)
+2026-09-19T17:56:49.662Z	1576784	BooksAndArticles	2	1070	0	4	6.1	30782	25858	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Books & Articles Weekly, #127
+2026-09-19T17:56:49.662Z	1576946	lightning	1	1022	0	0	1.1	163128	3903	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	ACINQ/eclair #3372: Optional setting to dip into trampoline relay fees by t-bast
+2026-09-19T17:56:49.662Z	1576958	Design	2	848	0	0	0.8	163128	3903	recent@lightning|top@lightning|recent@Design	FRESH,SIGNAL	Lightning in a Jar — Setting the Lightning wallet standard. No Spark, no Ark.
+2026-09-19T17:56:49.662Z	1576953	charts_and_maps	2	753	0	1	0.9	12309	3690	recent@econ|top@econ|recent@charts_and_maps	FRESH,SIGNAL	The $12.5 T net worth increase from Q1 '26 to Q2 '26.
+2026-09-19T17:56:49.662Z	1576878	AI	1	684	0	2	2.5	144342	1964	recent@devs|top@devs|recent@tech	SIGNAL	Jev is here
+2026-09-19T17:56:49.662Z	1576860	AI	1	661	0	0	3.4	252116	21	recent@security|top@security|recent@devs	SIGNAL	Agent Chaperone: Screen AI agent tool calls and results with Jev
+2026-09-19T17:56:49.662Z	1576707	AI	1	627	0	1	10.5	33947	1587	recent@AI|top@AI	SIGNAL	What Is Jev? A Guide to TypeSafe AI’s System One Model
+2026-09-19T17:56:49.662Z	1576745	science	2	534	0	0	8.0	104755	13199	recent@science|top@science	SIGNAL	Learning about gravity
+2026-09-19T17:56:49.662Z	1576735	AI	1	466	0	0	8.6	140698	1087	recent@AI|top@AI	SIGNAL	Study finds AI agents can work together to bypass safeguards
+2026-09-19T17:56:49.662Z	1576740	security	1	433	0	4	8.3	297791	7801	recent@security|top@security	SIGNAL	Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
+2026-09-19T17:56:49.662Z	1576871	Stacker_Sports	3	428	0	5	2.7	375108	352	recent@lightning|top@lightning	SIGNAL,SELF_POST_OPP	New Prediction in Predyx 💹🚀
+2026-09-19T17:56:49.662Z	1576731	AI	1	426	0	0	8.9	126503	813	recent@AI|top@AI	SIGNAL	Digitize analog gauge readings with edge AI | Arduino Blog
+2026-09-19T17:56:49.662Z	1576781	econ	2	417	0	0	6.3	88718	47934	recent@econ|top@econ	SIGNAL	Price Inflation Has Been above the Two-Percent Target for 65 Months in a Row
+2026-09-19T17:56:49.662Z	1576758	AI	1	364	0	12	7.0	104755	13199	recent@AI|top@AI	SIGNAL	Need referrals for my Base44 app
+2026-09-19T17:56:49.662Z	1576689	openagents	1	364	0	1	11.8	534967	244	top@openagents	SIGNAL	Episode 285: Bendcoder
+2026-09-19T17:56:49.662Z	1576708	AI	1	361	0	0	10.4	33947	1587	recent@AI|top@AI	SIGNAL	Accenture to be Anthropic’s embedded evaluator
+2026-09-19T17:56:49.662Z	1576793	Design	2	325	0	0	5.5	383547	3729	recent@Design|top@Design	SIGNAL	Why your numbers look wrong
+2026-09-19T17:56:49.662Z	1576841	Design	2	304	0	0	4.1	383547	3729	recent@Design|top@Design	SIGNAL	Daily Designer Quote #0024 ∙ Erik Spiekermann
+2026-09-19T17:56:49.662Z	1576996	meta	1	302	0	1	0.2	1	27437	recent@meta|top@meta	FRESH,SIGNAL	SN Saturday Newsletter 9/19/26
+2026-09-19T17:56:49.662Z	1576786	Stacker_Stocks	2	272	0	2	5.9	9274	27612	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-09-19T17:56:49.662Z	1576936	news	2	231	0	0	1.4	272410	1510	recent@news|top@news	FRESH,SIGNAL	Flock Offers Employees Buyouts as Customers Flee
+2026-09-19T17:56:49.662Z	1577007	AI	1	225	0	0	0.1	238412	296	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	OpenAI and Anthropic oversold AI security breaches to pressure feds
+2026-09-19T17:56:49.662Z	1576747	meta	1	201	0	0	7.9	36151	1638	recent@meta|top@meta	SIGNAL	This Day on SN: September 19
+2026-09-19T17:56:49.662Z	1576849	AskSN	2	190	0	0	3.7	984933	2572	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-09-19T17:56:49.662Z	1576789	Politics_And_Law	3	170	0	0	5.8	88718	47934	recent@econ|top@econ|recent@history	SIGNAL	How Legal Innovations Made America a Superpower While Brazil Stagnated
+2026-09-19T17:56:49.662Z	1576866	bitcoin	1	153	0	7	3.0	47274	150	recent@bitcoin|top@bitcoin	SIGNAL	If Bitcoin was discovered in the 60s...
+2026-09-19T17:56:49.662Z	1576970	BooksAndArticles	2	153	0	0	0.4	163128	3903	recent@lightning|top@lightning|recent@BooksAndArticles	FRESH,SIGNAL	Lightning Book of BOLTs compiled by Adam Shannon [nPub] [PDF]
+2026-09-19T17:56:49.662Z	1576779	AI	1	131	0	0	6.3	272410	1510	recent@AI|top@AI|recent@news	SIGNAL	California Gov. Newsom inks AI order to improve safety ‘before it’s too late’
+2026-09-19T17:56:49.662Z	1576891	lightning	1	121	0	0	2.3	1519080	113	recent@lightning|top@lightning	SIGNAL	**updates** LCC get a ROI tracker + available in the Umbrel Community app stores
+2026-09-19T17:56:49.662Z	1576902	Design	2	121	0	1	2.1	383547	3729	recent@Design|top@Design	SIGNAL	Today's Best Website Design :: Boc.Studio by Boc.Studio
+2026-09-19T17:56:49.662Z	1576847	Design	2	121	0	0	3.9	383547	3729	recent@Design|top@Design	SIGNAL	Designing with AI
+2026-09-19T17:56:49.662Z	1576967	tutorials	2	121	0	1	0.4	1532699	361	recent@tutorials|top@tutorials	FRESH,SIGNAL	How to Turn ONE Product Photo Into an Entire Ad Campaign With ChatGPT
+2026-09-19T17:56:49.662Z	1576850	bitcoin_Mining	1	110	0	2	3.7	1566662	14	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Difficulty rose 4.16 percent four days after BTC dipped under the cost to mine
+2026-09-19T17:56:49.662Z	1576992	DIY	3	100	0	0	0.2	272410	1510	recent@science|top@science	FRESH,SIGNAL	A ham radio operator built a full transceiver with a single 1960s TV tube
+2026-09-19T17:56:49.662Z	1576818	lol	2	100	0	2	4.6	104737	666	recent@lol|top@lol	SIGNAL	"Guard dog" asks burgler to play with him
