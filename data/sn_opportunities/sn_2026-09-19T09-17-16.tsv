@@ -1,0 +1,85 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1576513	security	1	3255	0	9	10.0	57444	16165	recent@lightning|top@lightning|recent@security	HOT,SIGNAL	bolt11: reject duplicate payment hashes in invoices
+1576520	bitcoin	1	3161	0	12	9.9	74100	12784	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Iran really was accepting bitcoin for tolls in the Strait of Hormuz
+1576552	tech	1	960	0	1	9.4	1245155	340	recent@tech|top@tech	SIGNAL	Bill to Block Piracy Sites
+1576575	bitcoin	1	947	0	0	8.6	792262	1767	recent@bitcoin|top@bitcoin	SIGNAL	Is swapping some sats for flowers crazy?
+1576469	AI	1	864	0	3	11.6	12309	3689	recent@AI|top@AI	SIGNAL	The US has more data centre capacity than the next fourteen countries combined
+1576607	AI	1	276	0	0	7.3	402772	22507	recent@AI|top@AI	SIGNAL	Gemini hacked three companies in first known breakout by Google's AI
+1576707	AI	1	192	0	0	1.8	33947	1587	recent@AI|top@AI	FRESH,SIGNAL	What Is Jev? A Guide to TypeSafe AI’s System One Model
+1576578	AI	1	157	0	2	8.3	297791	7798	recent@security|top@security|recent@AI	SIGNAL	Gemini hacked three companies in first known breakout by Google's AI
+1576708	AI	1	125	0	0	1.7	33947	1587	recent@AI|top@AI	FRESH,SIGNAL	Accenture to be Anthropic’s embedded evaluator
+1576731	AI	1	125	0	0	0.2	126503	812	recent@AI|top@AI	FRESH,SIGNAL	Digitize analog gauge readings with edge AI | Arduino Blog
+1576289	bitcoin	1	2899	0	0	15.3	127838	1216	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Ready for Merge Ep. 33 with Murch
+1576000	bitcoin	1	2855	0	10	19.1	30782	25849	recent@bitcoin|top@bitcoin	HOT	Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls On Hormuz Ships
+1575893	privacy	1	2375	0	14	22.0	273359	1065	recent@privacy|top@privacy	HOT	Hodl Hodl is freezing coins - "AML review in progress"
+1575434	meta	1	2183	0	84	35.3	375005	2304	recent@meta	HOT	Ground rules and sanctions for a harmonious community in SN
+1575898	meta	1	1956	0	6	21.9	51481	4254	recent@meta|top@meta	HOT	New Territory ~Scam_Reports
+1576199	events	3	1860	0	2	16.3	1568395	55	recent@nostr|top@nostr	HOT	Equinox 2026 LIve stream 23 of September
+1576002	bitcoin	1	1837	0	1	19.1	1014665	238	recent@bitcoin|top@bitcoin	HOT	Utreexo IBD, unspendable taproot internal keys - Bitcoin Optech Newsletter #423
+1575663	news	2	1828	0	12	31.1	74100	12784	recent@bitcoin	HOT,SELF_POST_OPP	Liquid says peg-outs will resume when 1:1 peg is restored
+1576202	privacy	1	1768	0	6	16.3	19732	171	recent@privacy|top@privacy	HOT	Obscura VPN - pay in bitcoin, more private than Mullvad alone. TUTORIAL
+1576449	bitcoin	1	1671	0	1	12.2	144357	4575	recent@bitcoin|top@bitcoin	HOT	The AI Safety Psyop Is Now Official | SNL #242
+1576397	bitcoin	1	1645	0	4	13.2	238412	295	recent@bitcoin|top@bitcoin	HOT	Monetized Suck
+1576358	bitcoin	1	1306	0	0	14.1	74100	12784	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	wallet playground — drive hardware wallets on signet in your browser
+1575499	gaming	3	1294	0	4	34.7	1545780	193	recent@tech	HOT	I Found an Old Pokémon GO Project and Finished It
+1575939	bitcoin_beginners	1	1237	0	6	20.9	30782	25849	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	Bitcoin Beginners Newsletter #116
+1576156	AI	1	1168	0	9	17.0	74100	12784	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Ten AI models vs embargoed Core Lightning: A case study of AI security auditing
+1576426	DIY	3	1050	0	4	12.7	272410	1495	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	They rejected Bitcoin on principle. They trusted PayPal. Now they're gone. 🏴‍☠️
+1575838	security	1	899	0	1	23.8	280679	23461	recent@security|top@security|recent@tech		InjectEave: Injected and Leaked - injection-induced EM side channels
+1576320	AI	1	866	0	6	14.7	435224	1583	recent@AI|top@AI		Artificial Intelligence is cunning, or not? 🤔
+1575530	AskSN	2	834	0	10	34.3	1532836	779	recent@bitcoin	SELF_POST_OPP	Julián Assange is back
+1576073	AI	1	811	0	7	18.1	30782	25849	recent@AI|top@AI		Newsom issues executive order to rein in AI 'before it's too late'
+1576084	lightning	1	762	0	2	17.8	280679	23461	recent@lightning|top@lightning		ZeusLN/zeus · Release v13.2.2-rc1
+1575866	AI	1	695	0	0	22.9	51481	4254	recent@AI|top@AI		Anthropic quietly sets up biology lab as it ramps AI drug program
+1576195	lightning	1	685	0	2	16.3	440729	267	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (030820c7596a6d743…)
+1575871	AI	1	640	0	1	22.6	272410	1495	recent@tech|top@tech|recent@AI		The expectations of privacy in driverless cars
+1575769	news	2	608	0	1	27.9	48657	15554	recent@bitcoin		Christine Lagarde Helped Block Binance’s Foothold in Europe
+1576381	nostr	1	602	0	0	13.7	362080	674	recent@nostr|top@nostr		Introducing bullishBoosts — a bullish PWA for podcast listening and boosting
+1576422	nostr	1	580	0	5	12.8	1514436	37	recent@nostr|top@nostr		John Carvalho (Synonym/Pubky) abandons Nostr, but not even properly lol
+1576018	Music	3	575	0	1	18.8	280679	23461	recent@tech|top@tech		Can We Get THAT John Bonham Drum Sound With Modern Mics? | Drumeo
+1575784	bitcoin	1	489	0	0	26.6	462245	304	recent@bitcoin		Bruno Garcia Is Making Bitcoin More Resilient Through Testing and Education
+1576127	bitcoin	1	458	0	1	17.3	763366	22	recent@bitcoin|top@bitcoin		@bitcoin genesis tx
+1576245	AI	1	454	0	6	15.9	984933	2569	recent@AI|top@AI		Anthropic quietly builds biolab run by Claude AI
+1576384	AI	1	432	0	1	13.7	12309	3689	recent@devs|top@devs|recent@AI		Claude Code FINALLY switches to agents.md
+1576310	bitcoin	1	418	0	2	14.8	126503	812	recent@bitcoin|top@bitcoin		Hodl Hodl quick update
+1575831	bitcoin	1	350	0	4	24.2	280679	23461	recent@bitcoin		French court refuses to suspend the DAC8 decree, submitted by Bull Bitcoin
+1576302	gaming	3	304	0	1	15.0	972685	652	recent@bitcoin|top@bitcoin		What If Rockstar Launched GTA Coin?
+1576307	DIY	3	302	0	0	14.9	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Cypherpunk Software Pipeline Is Here
+1576001	bitcoin	1	301	0	0	19.1	133081	724	recent@bitcoin|top@bitcoin		Bitcoin Optech Newsletter #423
+1576212	AI	1	287	0	0	16.2	328182	4009	recent@AI|top@AI		HackGPT Enterprise
+1575857	tech	1	276	0	4	23.2	280679	23461	recent@nostr|top@nostr|recent@tech		Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites
+1576222	the_stacker_muse	3	267	0	4	16.1	972685	652	recent@bitcoin|top@bitcoin		My friend bought a Boerboel Ridgeback with Bitcoin
+1575805	bitcoin_beginners	1	262	0	1	25.6	296825	5382	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Btrust’s long-term developer grant program is expanding beyond Africa
+1575851	meta	1	220	0	1	23.3	36151	1637	recent@meta|top@meta		This Day on SN: September 18
+1575868	news	2	213	0	0	22.8	297791	7798	recent@bitcoin|top@bitcoin		Iran's Strait of Hormuz toll booth has been settling in bitcoin since June
+1575952	AI	1	212	0	0	20.6	272410	1495	recent@tech|top@tech|recent@AI		Meta glasses captured and shared intimate images without users' consent
+1575931	devs	1	208	0	0	21.1	272410	1495	recent@devs|top@devs		Treat your terminal less like a shell, more like a dashboard
+1576152	Design	2	205	0	0	17.1	163128	3900	recent@nostr|top@nostr		The NEW Nostr Protocol Forum
+1575713	podcasts	2	200	0	1	29.7	296825	5382	recent@bitcoin_beginners|recent@lightning		Break The Stake
+1575506	bitcoin_beginners	1	198	0	0	34.6	1532836	779	recent@bitcoin_beginners|recent@bitcoinplusplus		How does the anti-abuse deposit work at Mostro?
+1575981	AI	1	195	0	0	19.6	280679	23461	recent@AI|top@AI		The ideal database for AI agents doesn't exist yet, says Percona CEO
+1576223	bitcoin_beginners	1	184	0	1	16.1	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		12 Words vs 24 Words
+1575825	art	3	184	0	0	24.9	272410	1495	recent@tech		Apple unveils "What Holds Us": a photography exhibition shot entirely on iPhone
+1576253	AI	1	183	0	0	15.8	296825	5382	recent@AI|top@AI		Anthropic quietly sets up biology lab as it ramps AI drug program
+1575869	bitcoin	1	179	0	19	22.7	1575869	10	recent@lightning|top@lightning		I built a non-custodial Lightning payment-tool — would love your brutal feedback
+1576282	AI	1	157	0	0	15.4	296825	5382	recent@AI|top@AI		Microsoft Exec Called AI Training 'Largest Theft of Labor in Human History,'
+1576125	security	1	153	0	3	17.3	51481	4254	recent@security|top@security|recent@privacy		Milwaukee couple swatted 55 times calls for policy change after $575K settlement
+1575967	AI	1	149	0	0	19.9	280679	23461	recent@AI|top@AI		Amazon’s $190B Anthropic stake has links to SBF
+1575773	AI	1	141	0	0	27.5	402772	22507	recent@AI		Security Researchers Hacked Into OpenAI Using Anthropic’s Claude
+1576061	bitcoin	1	121	0	0	18.3	272410	1495	recent@bitdevs|top@bitdevs		Satobox | a sovereign Bitcoin node on a Raspberry Pi
+1575845	AI	1	121	0	0	23.4	280679	23461	recent@AI|top@AI		Small AI models let drones autonomously identify and attack battlefield targets
+1576192	bitcoin_beginners	1	114	0	0	16.3	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Web Miner — SoloPool
+1575799	bitcoin	1	100	0	0	25.8	296825	5382	recent@bitcoin_beginners		Explain Bitcoin as a machine
+1575867	AI	1	100	0	0	22.8	272410	1495	recent@AI|top@AI		North Korean Cyber Group Stole 14.5 Billion Won in Crypto via Fake Headhunting
+1575846	AI	1	100	0	0	23.4	297791	7798	recent@AI|top@AI		OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft
+1576689	openagents	1	92	0	1	3.1	534967	244	recent@openagents|top@openagents		Episode 285: Bendcoder
+1575812	Music	3	61	0	2	25.4	1568395	55	recent@nostr		Bitcoin Crowdfunding for New Ideas and Humanitarian Causes | Geyser
+1575823	Music	3	41	0	0	25.0	1568395	55	recent@nostr		Bitcoin Crowdfunding for New Ideas and Humanitarian Causes | Geyser
+1575998	AI	1	40	0	0	19.1	297791	7798	recent@devs|top@devs|recent@AI		Linux Kernel Build Times Ready To Be Significantly Reduced With Latest Patches
+1576490	AI	1	31	0	0	10.5	297791	7798	recent@AI|top@AI		US military had close call after using AI for false intelligence report
+1576101	AI	1	31	0	0	17.6	272410	1495	recent@AI|top@AI		Spain records its first cyberattack executed by an AI agent
+1576619	security	1	11	0	0	6.9	1566167	8	recent@security|top@security		Paidwork - 23,272,765 breached accounts
+1576613	tech	1	11	0	0	7.1	297791	7798	recent@devs|top@devs		Saving another 100TB of RAM with math (and Rust)
+1575802	bitcoin	1	0	0	0	25.7	1554639	26	recent@lightning		MostroEuropa is now a trusted Mostro community
+1576681	security	1	0	0	0	3.7	1054143	1290	recent@security|top@security		Fake LastPass downloads on GitHub pushed password-stealing malware
+1576696	AI	1	0	0	0	2.9	1054143	1290	recent@AI|top@AI		Tempus AI’s EVP, chief legal officer, sells $221,325 in stock
