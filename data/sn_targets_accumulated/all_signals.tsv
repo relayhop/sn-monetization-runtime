@@ -50677,3 +50677,31 @@
 2026-09-19T00:30:41.014Z	1576199	events	3	141	0	0	7.5	1568395	53	recent@nostr|top@nostr	SIGNAL	Equinox 2026 LIve stream 23 of September
 2026-09-19T00:30:41.014Z	1576061	bitcoin	1	121	0	0	9.6	272410	1495	recent@bitdevs|top@bitdevs	SIGNAL	Satobox | a sovereign Bitcoin node on a Raspberry Pi
 2026-09-19T00:30:41.014Z	1576192	bitcoin_beginners	1	103	0	0	7.6	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Web Miner — SoloPool
+2026-09-19T04:56:42.637Z	1576513	security	1	3245	0	9	5.7	57444	16165	recent@lightning|top@lightning|recent@security	HOT,SIGNAL	bolt11: reject duplicate payment hashes in invoices
+2026-09-19T04:56:42.637Z	1576520	bitcoin	1	3052	0	10	5.6	74100	12784	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Iran really was accepting bitcoin for tolls in the Strait of Hormuz
+2026-09-19T04:56:42.637Z	1576289	bitcoin	1	2875	0	0	11.0	127838	1216	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Ready for Merge Ep. 33 with Murch
+2026-09-19T04:56:42.637Z	1576199	events	3	1860	0	1	12.0	1568395	53	recent@nostr|top@nostr	HOT,SIGNAL	Equinox 2026 LIve stream 23 of September
+2026-09-19T04:56:42.637Z	1576202	privacy	1	1717	0	5	11.9	19732	171	recent@privacy|top@privacy	HOT,SIGNAL	Obscura VPN - pay in bitcoin, more private than Mullvad alone. TUTORIAL
+2026-09-19T04:56:42.637Z	1576397	bitcoin	1	1645	0	4	8.9	238412	295	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Monetized Suck
+2026-09-19T04:56:42.637Z	1576449	bitcoin	1	1636	0	0	7.9	144357	4575	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The AI Safety Psyop Is Now Official | SNL #242
+2026-09-19T04:56:42.637Z	1576358	bitcoin	1	1306	0	0	9.8	74100	12784	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	wallet playground — drive hardware wallets on signet in your browser
+2026-09-19T04:56:42.637Z	1576426	DIY	3	1050	0	4	8.4	272410	1495	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	They rejected Bitcoin on principle. They trusted PayPal. Now they're gone. 🏴‍☠️
+2026-09-19T04:56:42.637Z	1576552	tech	1	939	0	0	5.1	1245155	340	recent@tech|top@tech	SIGNAL	Bill to Block Piracy Sites
+2026-09-19T04:56:42.637Z	1576575	bitcoin	1	898	0	0	4.2	792262	1767	recent@bitcoin|top@bitcoin	SIGNAL	Is swapping some sats for flowers crazy?
+2026-09-19T04:56:42.637Z	1576320	AI	1	866	0	6	10.3	435224	1583	recent@AI|top@AI	SIGNAL	Artificial Intelligence is cunning, or not? 🤔
+2026-09-19T04:56:42.637Z	1576469	AI	1	864	0	3	7.3	12309	3687	recent@AI|top@AI	SIGNAL	The US has more data centre capacity than the next fourteen countries combined
+2026-09-19T04:56:42.637Z	1576195	lightning	1	685	0	2	12.0	440729	267	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (030820c7596a6d743…)
+2026-09-19T04:56:42.637Z	1576381	nostr	1	602	0	0	9.4	362080	674	recent@nostr|top@nostr	SIGNAL	Introducing bullishBoosts — a bullish PWA for podcast listening and boosting
+2026-09-19T04:56:42.637Z	1576422	nostr	1	580	0	5	8.4	1514436	37	recent@nostr|top@nostr	SIGNAL	John Carvalho (Synonym/Pubky) abandons Nostr, but not even properly lol
+2026-09-19T04:56:42.637Z	1576245	AI	1	454	0	6	11.5	984933	2569	recent@AI|top@AI	SIGNAL	Anthropic quietly builds biolab run by Claude AI
+2026-09-19T04:56:42.637Z	1576384	AI	1	432	0	1	9.3	12309	3687	recent@devs|top@devs|recent@AI	SIGNAL	Claude Code FINALLY switches to agents.md
+2026-09-19T04:56:42.637Z	1576310	bitcoin	1	418	0	2	10.5	126503	811	recent@bitcoin|top@bitcoin	SIGNAL	Hodl Hodl quick update
+2026-09-19T04:56:42.637Z	1576302	gaming	3	304	0	1	10.7	972685	652	recent@bitcoin|top@bitcoin	SIGNAL	What If Rockstar Launched GTA Coin?
+2026-09-19T04:56:42.637Z	1576307	DIY	3	302	0	0	10.6	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Cypherpunk Software Pipeline Is Here
+2026-09-19T04:56:42.637Z	1576212	AI	1	287	0	0	11.9	328182	4009	recent@AI|top@AI	SIGNAL	HackGPT Enterprise
+2026-09-19T04:56:42.637Z	1576222	the_stacker_muse	3	267	0	4	11.8	972685	652	recent@bitcoin|top@bitcoin	SIGNAL	My friend bought a Boerboel Ridgeback with Bitcoin
+2026-09-19T04:56:42.637Z	1576223	bitcoin_beginners	1	184	0	1	11.7	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	12 Words vs 24 Words
+2026-09-19T04:56:42.637Z	1576253	AI	1	183	0	0	11.5	296825	5382	recent@AI|top@AI	SIGNAL	Anthropic quietly sets up biology lab as it ramps AI drug program
+2026-09-19T04:56:42.637Z	1576282	AI	1	157	0	0	11.1	296825	5382	recent@AI|top@AI	SIGNAL	Microsoft Exec Called AI Training 'Largest Theft of Labor in Human History,'
+2026-09-19T04:56:42.637Z	1576192	bitcoin_beginners	1	114	0	0	12.0	296825	5382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Web Miner — SoloPool
+2026-09-19T04:56:42.637Z	1576607	AI	1	100	0	0	2.9	402772	22507	recent@AI|top@AI	SIGNAL	Gemini hacked three companies in first known breakout by Google's AI
