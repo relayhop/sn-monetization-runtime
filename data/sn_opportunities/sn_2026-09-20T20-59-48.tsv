@@ -1,0 +1,59 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1577486	security	1	2437	0	10	10.8	57444	16181	recent@lightning|top@lightning|recent@security	HOT,SIGNAL	lnfuzz
+1577623	bitcoin	1	2281	0	30	6.1	74100	12795	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Progressive Bitcoiner shuts down and then tries to raise $2m
+1577589	bitcoin	1	1962	0	8	6.6	178	937	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Sunday Survey: Do you mine?
+1577690	bitcoin	1	931	0	4	5.0	642641	9101	recent@bitcoin|top@bitcoin	SIGNAL	Crypto Blew Its Big Moment—and the Blame Game Has Begun  WSJ
+1577732	lightning	1	729	0	0	4.3	440729	269	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.1 BTC) + New Node Spotlight (02f12e3fba29ad81d…)
+1577872	AskSN	2	482	0	1	0.4	223678	6313	recent@bitcoin|top@bitcoin|recent@tech	FRESH,SIGNAL	Keep your projects anonymous or put your reputation behind them?
+1577750	AI	1	420	0	1	4.0	934367	1050	recent@tech|top@tech|recent@AI	SIGNAL	wtf is jev? - YouTube
+1577816	BooksAndArticles	2	331	0	0	2.3	163128	3905	recent@lightning|top@lightning	SIGNAL	No BS Lightning Analytics by Saurabh Kumar
+1577481	meta	1	271	0	0	11.0	36151	1639	recent@meta|top@meta	SIGNAL	This Day on SN: September 20
+1577735	tech	1	226	0	0	4.3	272410	1522	recent@devs|top@devs|recent@tech	SIGNAL	Malware npm evades GitHub defenses by hiding in runtime code
+1577686	bitcoin	1	225	0	1	5.0	792262	1768	recent@bitcoin|top@bitcoin	SIGNAL	Wedding Day🕍✨
+1577812	security	1	213	0	0	2.4	297791	7806	recent@security|top@security	SIGNAL	Intel Ends Its $100,000 Bug Bounty Program
+1577726	tech	1	162	0	1	4.4	280679	23467	recent@tech|top@tech	SIGNAL	Speaking With The Mind | Neuralink
+1577490	AI	1	139	0	0	10.8	1054143	1294	recent@AI|top@AI	SIGNAL	Higher interest rates and AI safety fears put the stock market to the test
+1577547	tech	1	131	0	0	7.7	272410	1522	recent@devs|top@devs	SIGNAL	Slint 1.18 Released | flexbox, spring animations, and runtime z-order
+1576791	bitcoin	1	8014	0	16	32.6	272410	1522	recent@bitcoin|recent@bitcoin_beginners	HOT	The easiest orangepilling of my life: a waiter, some churros, and one question
+1577244	tech	1	4747	0	3	23.9	193385	255	recent@tech|top@tech	HOT	GrapheneOS secure paste / clipboard access permission toggle now available
+1577204	meta	1	3155	0	1	24.8	92827	2909	recent@meta	HOT	A Zine all about Zapping 📉 SNZ Issue #71
+1576826	bitcoin	1	2533	0	10	31.6	1575881	7	recent@bitcoin	HOT	Blink pauses services while investigating security incident
+1577205	tech	1	2129	0	8	24.8	1	27452	recent@devs|recent@tech	HOT	the senior engineer death spiral
+1577145	bitcoin	1	1852	0	6	25.7	74100	12795	recent@bitcoin	HOT	Depots: Theft-Proof, Self-Custodial Bitcoin For Billions Of Users - JohnLaw
+1576996	meta	1	1551	0	9	27.2	1	27452	recent@meta	HOT	SN Saturday Newsletter 9/19/26
+1577321	bitcoin	1	1325	0	3	20.6	8306	1140	recent@bitcoin|top@bitcoin	HOT	Every disparaging Bitcoin comment fr Peter Schiff & Jason Calacanis vs. BTC/USD
+1577348	lol	2	1184	0	7	19.5	9274	27648	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SELF_POST_OPP	Awww shewt here we go again!
+1576923	lightning	1	1126	0	1	28.7	440729	269	recent@lightning	HOT	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b67229f9450cbea…)
+1576946	lightning	1	1114	0	1	28.2	163128	3905	recent@lightning	HOT	ACINQ/eclair #3372: Optional setting to dip into trampoline relay fees by t-bast
+1577452	bitcoin	1	1111	0	5	13.1	146922	61	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Recover Multi sig without a coordinator software???
+1576958	Design	2	986	0	4	27.8	163128	3905	recent@lightning		Lightning in a Jar — Setting the Lightning wallet standard. No Spark, no Ark.
+1577241	bitcoin	1	971	0	22	24.0	133081	725	recent@bitcoin		How Washington Quietly Used Iran to Hijack Bitcoin (And Why You’re Next)
+1576878	AI	1	726	0	4	29.6	144342	1965	recent@devs|recent@tech|recent@AI		Jev is here
+1576860	AI	1	724	0	0	30.4	252116	21	recent@security|recent@devs|recent@tech		Agent Chaperone: Screen AI agent tool calls and results with Jev
+1576735	AI	1	466	0	0	35.7	140698	1087	recent@AI		Study finds AI agents can work together to bypass safeguards
+1577319	tech	1	457	0	1	20.7	161788	10448	recent@tech|top@tech		How Hacker News ranking works: scoring, controversy, and penalties (2013)
+1576871	Stacker_Sports	3	449	0	12	29.7	375108	359	recent@lightning	SELF_POST_OPP	New Prediction in Predyx 💹🚀
+1576740	security	1	433	0	4	35.3	297791	7806	recent@security		Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
+1577007	AI	1	429	0	2	27.1	238412	300	recent@tech|recent@AI		OpenAI and Anthropic oversold AI security breaches to pressure feds
+1577285	lightning	1	428	0	14	22.4	31032	970	recent@lightning|top@lightning		Having issues with the zapping
+1576731	AI	1	426	0	0	35.9	126503	814	recent@AI		Digitize analog gauge readings with edge AI | Arduino Blog
+1577233	devs	1	376	0	0	24.2	297791	7806	recent@devs		Simple Optimization For Linux 7.4 Can Open Files For Reading ~39% Faster
+1576758	AI	1	364	0	15	34.0	104755	13216	recent@AI		Need referrals for my Base44 app
+1576970	BooksAndArticles	2	327	0	0	27.5	163128	3905	recent@lightning		Lightning Book of BOLTs compiled by Adam Shannon [nPub] [PDF]
+1577274	AskSN	2	320	0	2	22.9	1054143	1294	recent@bitcoin|top@bitcoin		Can Bitcoin Reclaim $100,000 in 2026? One Factor Could Decide Everything.
+1577104	AI	1	250	0	0	26.2	328182	4021	recent@AI		US College Is Coming Apart
+1577416	bitcoin_beginners	1	246	0	1	16.9	1532836	804	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		statistics Rigly Block Party #40:
+1576747	meta	1	234	0	0	35.0	36151	1639	recent@meta		This Day on SN: September 19
+1577298	AI	1	192	0	0	21.9	1575305	2	recent@AI|top@AI		GPT-6 Astra cracks a leftover WWI ADFGVX message — then checks the naval logs
+1576866	bitcoin	1	174	0	7	30.1	47274	150	recent@bitcoin		If Bitcoin was discovered in the 60s...
+1577402	bitcoin_beginners	1	167	0	0	17.8	1532836	804	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		My POW for rigly blockparty #40
+1577213	AI	1	153	0	0	24.7	297791	7806	recent@AI		Trump vows to create ‘AI Force’ & appoint czar amid calls 2 regulate development
+1576891	lightning	1	142	0	2	29.4	1519080	114	recent@lightning		**updates** LCC get a ROI tracker + available in the Umbrel Community app stores
+1576779	AI	1	142	0	0	33.3	272410	1522	recent@AI		California Gov. Newsom inks AI order to improve safety ‘before it’s too late’
+1577406	bitcoin_beginners	1	121	0	0	17.6	238412	300	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Watts Matters
+1576850	bitcoin_Mining	1	110	0	2	30.7	1566662	14	recent@bitcoin_Mining		Difficulty rose 4.16 percent four days after BTC dipped under the cost to mine
+1577399	bitcoin_beginners	1	100	0	0	18.0	1532836	804	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		My POW 10 consecutive appearances at Rigly's block parties
+1577615	AI	1	41	0	1	6.2	458256	4962	recent@AI|top@AI		AI Cracks 108-Year-Old World War I Encrypted Message
+1577540	tech	1	21	0	0	7.9	297791	7806	recent@devs|top@devs		Why no Linux distro will ever be truly secure (and what I switched to instead)
+1577529	AI	1	0	0	0	8.1	1054143	1294	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI		Bitcoin Mining Turns Cash-Negative as Miners Pour Billions Into AI
+1577638	bitcoin	1	0	0	0	6.0	272410	1522	recent@lightning|top@lightning		A decentralized cycling tracker that turns rides into public infrastructure data
