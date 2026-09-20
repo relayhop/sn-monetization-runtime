@@ -51246,3 +51246,32 @@
 2026-09-20T18:18:48.240Z	1577726	tech	1	141	0	0	1.7	280679	23467	recent@tech|top@tech	FRESH,SIGNAL	Speaking With The Mind | Neuralink
 2026-09-20T18:18:48.240Z	1577490	AI	1	139	0	0	8.1	1054143	1294	recent@AI|top@AI	SIGNAL	Higher interest rates and AI safety fears put the stock market to the test
 2026-09-20T18:18:48.240Z	1577547	tech	1	131	0	0	5.1	272410	1522	recent@devs|top@devs	SIGNAL	Slint 1.18 Released | flexbox, spring animations, and runtime z-order
+2026-09-20T18:42:23.583Z	1577486	security	1	2378	0	9	8.5	57444	16180	recent@lightning|top@lightning|recent@security	HOT,SIGNAL	lnfuzz
+2026-09-20T18:42:23.583Z	1577623	bitcoin	1	2281	0	27	3.9	74100	12795	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Progressive Bitcoiner shuts down and then tries to raise $2m
+2026-09-20T18:42:23.583Z	1577645	lol	2	2240	0	6	3.6	51481	4258	recent@econ|top@econ|recent@lol	HOT,SIGNAL,SELF_POST_OPP	Money isn't real - Bill Maher gets it.
+2026-09-20T18:42:23.583Z	1577522	Education	2	1888	0	11	6.3	104755	13216	recent@Education|top@Education	HOT,SIGNAL,SELF_POST_OPP	My daughter can read!
+2026-09-20T18:42:23.583Z	1577589	bitcoin	1	1735	0	7	4.3	178	937	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Sunday Survey: Do you mine?
+2026-09-20T18:42:23.583Z	1577452	bitcoin	1	1111	0	5	10.8	146922	61	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Recover Multi sig without a coordinator software???
+2026-09-20T18:42:23.583Z	1577690	bitcoin	1	931	0	2	2.7	642641	9092	recent@bitcoin|top@bitcoin|recent@econ	SIGNAL	Crypto Blew Its Big Moment—and the Blame Game Has Begun  WSJ
+2026-09-20T18:42:23.583Z	1577732	lightning	1	708	0	0	2.0	440729	269	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.1 BTC) + New Node Spotlight (02f12e3fba29ad81d…)
+2026-09-20T18:42:23.583Z	1577498	BooksAndArticles	2	696	0	2	8.1	104755	13216	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	My son’s first book review
+2026-09-20T18:42:23.583Z	1577561	news	2	472	0	1	5.0	272410	1522	recent@news|top@news	SIGNAL	Mass drone attack on Moscow: two dead and dozens wounded
+2026-09-20T18:42:23.583Z	1577750	AI	1	420	0	0	1.7	934367	1050	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	wtf is jev? - YouTube
+2026-09-20T18:42:23.583Z	1577544	AskSN	2	333	0	1	5.5	984933	2577	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-09-20T18:42:23.583Z	1577504	Stacker_Stocks	2	300	10000	4	7.8	9274	27648	top@Stacker_Stocks	OPEN_BOUNTY,LOW_COMP,SIGNAL	Daily Stock Discussion Sunday’s Weekly Close Contest 🟥 or 🟩? 40k sats
+2026-09-20T18:42:23.583Z	1577481	meta	1	271	0	0	8.7	36151	1639	recent@meta|top@meta	SIGNAL	This Day on SN: September 20
+2026-09-20T18:42:23.583Z	1577686	bitcoin	1	225	0	1	2.8	792262	1768	recent@bitcoin|top@bitcoin|recent@ideasfromtheedge	SIGNAL	Wedding Day🕍✨
+2026-09-20T18:42:23.583Z	1577735	tech	1	205	0	0	2.0	272410	1522	recent@devs|top@devs	FRESH,SIGNAL	Malware npm evades GitHub defenses by hiding in runtime code
+2026-09-20T18:42:23.583Z	1577788	AskSN	2	202	0	0	0.8	976996	27	recent@AskSN|top@AskSN	FRESH,SIGNAL	AskSN: ¿Los clientes de Nostr están superando a las redes tradicionales?
+2026-09-20T18:42:23.583Z	1577448	history	2	194	0	1	11.0	144357	4577	recent@history|top@history	SIGNAL	Joan of Arc and the Meaning of Life — Dappled Things
+2026-09-20T18:42:23.583Z	1577745	Stacker_Stocks	2	161	0	3	1.8	9274	27648	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	MSTY Payout #55: Prediction?
+2026-09-20T18:42:23.584Z	1577581	Design	2	156	0	0	4.6	383547	3736	recent@Design|top@Design	SIGNAL	Daily Designer Quote #0025 ∙ Elizabeth Diller
+2026-09-20T18:42:23.584Z	1577509	news	2	148	0	0	7.5	272410	1522	recent@news|top@news	SIGNAL	Five UK police forces drop Palantir surveillance tool (and the NHS is next) 🚨
+2026-09-20T18:42:23.584Z	1577474	ideasfromtheedge	2	142	0	0	9.0	1568395	64	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	Do you hug trees?
+2026-09-20T18:42:23.584Z	1577726	tech	1	141	0	0	2.1	280679	23467	recent@tech|top@tech|recent@science	SIGNAL	Speaking With The Mind | Neuralink
+2026-09-20T18:42:23.584Z	1577791	Stacker_Stocks	2	140	0	0	0.6	9274	27648	top@Stacker_Stocks	FRESH,SIGNAL	Bitcoin Vs. Motley Fool’s Stock Advisor Who Wins? (Update #20 Q4 end of Year #5)
+2026-09-20T18:42:23.584Z	1577490	AI	1	139	0	0	8.5	1054143	1294	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	Higher interest rates and AI safety fears put the stock market to the test
+2026-09-20T18:42:23.584Z	1577712	AGORA	3	138	0	1	2.5	240060	103	recent@econ|top@econ	SIGNAL	The Shadow Superpower By Robert Neuwirth (2011)
+2026-09-20T18:42:23.584Z	1577547	tech	1	131	0	0	5.4	272410	1522	recent@devs|top@devs	SIGNAL	Slint 1.18 Released | flexbox, spring animations, and runtime z-order
+2026-09-20T18:42:23.584Z	1577697	Design	2	100	0	0	2.6	383547	3736	recent@Design|top@Design	SIGNAL	Today's Best Website Design :: Pensatori Irrazionali by Pensatori Irrazionali
+2026-09-20T18:42:23.584Z	1577586	Design	2	100	0	0	4.4	383547	3736	recent@Design|top@Design	SIGNAL	Seats and sunsets
