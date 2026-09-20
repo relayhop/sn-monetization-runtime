@@ -1,31 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-20T09:06:38.777Z; n=40
-kruw	sn:AMA	3.55	no	RISING
+# generated 2026-09-20T13:58:21.330Z; n=40
+kruw	sn:AMA	3.56	no	RISING
 zine	sn:meta	3.49	yes	
 zapping	sn:meta	3.49	yes	
 issue	sn:meta	3.49	yes	
-blink	sn:bitcoin	3.4	yes	
-depots	sn:bitcoin	3.26	yes	
-theft-proof	sn:bitcoin	3.26	yes	
-self-custodial bitcoin for billions of users	sn:bitcoin	3.26	yes	
+depots	sn:bitcoin	3.27	yes	
+theft-proof	sn:bitcoin	3.27	yes	
+self-custodial bitcoin for billions of users	sn:bitcoin	3.27	yes	
 saturday newsletter	sn:meta	3.18	yes	
 cooking	sn:food_and_drinks	3.15	no	RISING
-books	sn:BooksAndArticles	3.1	no	RISING
-articles weekly	sn:BooksAndArticles	3.1	no	RISING
-continuity	sn:BooksAndArticles	3.1	no	RISING
-control	sn:BooksAndArticles	3.1	no	RISING
-aldous huxley	sn:BooksAndArticles	3.1	no	RISING
-the science	sn:BooksAndArticles	3.1	no	RISING
-servitude	sn:BooksAndArticles	3.1	no	RISING
-non-autoregressive	hn	3.08	no	RISING
+every	sn:bitcoin	3.12	yes	
+bitcoin	sn:bitcoin	3.12	yes	
+peter schiff	sn:bitcoin	3.12	yes	
+jason calacanis	sn:bitcoin	3.12	yes	
+non-autoregressive	hn	3.1	no	RISING
 awww	sn:lol	3.07	no	RISING
 acinq	sn:lightning	3.05	no	RISING
 optional	sn:lightning	3.05	no	RISING
 t-bast	sn:lightning	3.05	no	RISING
-daily putt	sn:gaming	3.05	no	RISING
-play	sn:gaming	3.05	no	RISING
-putt	sn:gaming	3.05	no	RISING
-score	sn:gaming	3.05	no	RISING
+recover multi	sn:bitcoin	3.02	yes	
 jake moody	sn:Stacker_Sports	3	no	RISING
 how washington quietly used iran	sn:bitcoin	2.99	yes	
 hijack bitcoin	sn:bitcoin	2.99	yes	
@@ -37,6 +30,13 @@ no spark	sn:Design	2.99	no	RISING
 hawthorn	sn:Stacker_Sports	2.98	no	RISING
 brisbane highlights	sn:Stacker_Sports	2.98	no	RISING
 final	sn:Stacker_Sports	2.98	no	RISING
+help	sn:AskSN	2.97	yes	
+predyx	sn:AskSN	2.97	no	RISING
 bans palestinian authority president from attending	sn:Politics_And_Law	2.97	no	RISING
 but admits iranians	sn:Politics_And_Law	2.97	no	RISING
 the robot economy is starting	sn:Construction_and_Engineering	2.97	no	RISING
+look very real	sn:Construction_and_Engineering	2.97	no	RISING
+agent chaperone	sn:AI	2.86	yes	
+screen	sn:AI	2.86	yes	
+write	hn	2.84	no	RISING
+tabconf	sn:Quotes	2.82	no	RISING
