@@ -51513,3 +51513,35 @@
 2026-09-21T13:57:59.231Z	1578128	news	2	110	0	0	8.9	238412	307	recent@news|top@news|recent@BooksAndArticles	SIGNAL	Malaysia and MyDigital ID: When optional starts to look unavoidable
 2026-09-21T13:57:59.231Z	1578121	bitcoin_beginners	1	100	0	0	9.2	296825	5389	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin and me (Hal Finney)
 2026-09-21T13:57:59.231Z	1578299	bitcoinplusplus	1	100	0	0	1.7	280679	23475	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Implementing Replace-By-Fee (BIP 125) in LDK Node — Rita Anene | Nairobi
+2026-09-21T18:43:45.185Z	1578555	bitcoin	1	6008	0	0	2.0	238412	308	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	The Money Beneath The Market
+2026-09-21T18:43:45.186Z	1578410	bitcoin	1	2768	0	0	3.8	190751	47	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Unauthenticated CPU exhaustion DoS in Wasabi
+2026-09-21T18:43:45.186Z	1578155	bitcoin	1	2534	0	27	10.7	1578143	6	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Why I believe the Bitcoin Standard is inevitable
+2026-09-21T18:43:45.186Z	1578472	bitcoin	1	1727	0	0	3.3	74100	12808	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	pseudoramdom - localhost research
+2026-09-21T18:43:45.186Z	1578572	security	1	1482	0	12	1.6	57444	16211	recent@lightning|top@lightning|recent@security	FRESH,HOT,SIGNAL	A Cloudflare WAF for Lightning?
+2026-09-21T18:43:45.186Z	1578199	nostr	1	1260	0	3	8.8	80864	464	recent@nostr|top@nostr	HOT,SIGNAL	nostr-proto.org - An old, classic forum where you can talk about Nostr
+2026-09-21T18:43:45.186Z	1578146	bitcoin	1	1226	0	6	11.6	1578143	6	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Building LightningCanvas – A provably fair 10,000 pixel canvas with LN & SHA-256
+2026-09-21T18:43:45.186Z	1578385	bitcoin	1	926	0	9	4.1	280679	23490	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Daniela Brozzoni Turned Down a Google Internship to Work on Bitcoin
+2026-09-21T18:43:45.186Z	1578374	bitcoin	1	815	0	2	4.2	74100	12808	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	📣AMA Announcement: The team from Validating Lightning Signer - 29 Sept 1500UTC
+2026-09-21T18:43:45.186Z	1578315	bitcoin	1	725	0	0	6.0	401865	8555	recent@bitcoin|top@bitcoin	SIGNAL	Bitwise CIO Declares Crypto Winter Over On CNBC
+2026-09-21T18:43:45.186Z	1578623	bitcoin	1	656	0	0	0.9	462245	306	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	FRESH,SIGNAL	Quantum Lightning — Last Week in Bitcoin (Sep 14 - 20)
+2026-09-21T18:43:45.186Z	1578361	lightning	1	587	0	0	4.6	440729	276	recent@lightning|top@lightning	SIGNAL	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 968000
+2026-09-21T18:43:45.186Z	1578181	news	2	536	0	0	9.5	272410	1536	recent@bitcoin|top@bitcoin	SIGNAL	Four Armed Men Tie up Family in French Crypto Home Invasion
+2026-09-21T18:43:45.186Z	1578273	bitcoin	1	511	0	0	6.8	1567057	12	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin has gone to $1 million. Citadels have taken over.
+2026-09-21T18:43:45.186Z	1578513	bitcoin	1	406	0	1	2.6	178	939	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #519: Fiat Immigration, Propaganda Immunity, AI Idolatry+more!
+2026-09-21T18:43:45.186Z	1578142	AI	1	391	0	2	11.9	934367	1053	recent@tech|top@tech|recent@AI	SIGNAL	linus-torvalds-skill: Distilled Code Reviewer skills/soul from 32k~ emails
+2026-09-21T18:43:45.186Z	1578460	news	2	384	0	0	3.4	297791	7815	recent@tech|top@tech	SIGNAL	The M5 Ultra Mac Studio tears through our benchmark tests
+2026-09-21T18:43:45.186Z	1578283	tech	1	375	0	0	6.6	161788	10452	recent@tech|top@tech	SIGNAL	ZuckOff Know when a camera is in the room
+2026-09-21T18:43:45.186Z	1578598	news	2	346	0	0	1.3	272410	1536	recent@tech|top@tech	FRESH,SIGNAL	Irish regulator fines Google €403 million over location data processing
+2026-09-21T18:43:45.186Z	1578538	bitcoin	1	328	0	2	2.2	1574097	5	recent@bitcoin|top@bitcoin	SIGNAL	No, Wallet of Satoshi was not hacked
+2026-09-21T18:43:45.186Z	1578183	AI	1	327	0	0	9.4	280679	23490	recent@AI|top@AI	SIGNAL	Mathematicians Hate AI. They Can’t Quit It
+2026-09-21T18:43:45.186Z	1578299	bitcoinplusplus	1	324	0	0	6.4	280679	23490	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Implementing Replace-By-Fee (BIP 125) in LDK Node — Rita Anene | Nairobi
+2026-09-21T18:43:45.186Z	1578495	bitcoin	1	304	0	2	2.9	126503	817	recent@bitcoin|top@bitcoin	SIGNAL	Numo - release v1.9
+2026-09-21T18:43:45.186Z	1578364	DIY	3	276	0	0	4.5	272410	1536	recent@tech|top@tech	SIGNAL	DIY Router On X86 E-Waste: OpenWrt And OPNsense
+2026-09-21T18:43:45.186Z	1578141	math	2	275	0	9	12.0	1562189	169	top@bitcoin_beginners	SIGNAL,SELF_POST_OPP	The 2-Quadrillion Flaw: Why SATs Will Never Trigger Hyperbitcoinization
+2026-09-21T18:43:45.186Z	1578446	AI	1	266	0	3	3.6	458256	4964	recent@tech|top@tech|recent@AI	SIGNAL	There’s a 100% Chance AI Agents Are Already Ruining the Internet
+2026-09-21T18:43:45.186Z	1578619	tech	1	246	0	1	0.9	256599	724	recent@privacy|top@privacy|recent@tech	FRESH,SIGNAL	New White Noise Release
+2026-09-21T18:43:45.186Z	1578560	news	2	214	0	0	1.9	272410	1536	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Spain: Two arrested for holding a man hostage to steal his crypto in Alicante
+2026-09-21T18:43:45.186Z	1578585	bitcoin	1	206	0	0	1.4	296825	5392	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Your Bitcoin Security Has a Physical Layer
+2026-09-21T18:43:45.186Z	1578398	lightning	1	202	0	4	3.9	31032	979	recent@lightning|top@lightning	SIGNAL	LND 0.21 compatibility issue with the LND/LNC send wallet integration.
+2026-09-21T18:43:45.186Z	1578204	meta	1	182	0	0	8.7	36151	1641	recent@meta|top@meta	SIGNAL	This Day on SN: September 21
+2026-09-21T18:43:45.186Z	1578552	bitcoin	1	100	0	0	2.0	296825	5392	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	BlueWallet Portfolio: chrome extension to track mempool and  fiat price movement
