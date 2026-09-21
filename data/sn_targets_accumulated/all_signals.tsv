@@ -51545,3 +51545,69 @@
 2026-09-21T18:43:45.186Z	1578398	lightning	1	202	0	4	3.9	31032	979	recent@lightning|top@lightning	SIGNAL	LND 0.21 compatibility issue with the LND/LNC send wallet integration.
 2026-09-21T18:43:45.186Z	1578204	meta	1	182	0	0	8.7	36151	1641	recent@meta|top@meta	SIGNAL	This Day on SN: September 21
 2026-09-21T18:43:45.186Z	1578552	bitcoin	1	100	0	0	2.0	296825	5392	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	BlueWallet Portfolio: chrome extension to track mempool and  fiat price movement
+2026-09-21T19:19:01.754Z	1578425	BooksAndArticles	2	14172	0	8	4.3	724606	12939	top@econ|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Revolut's Nik Storonsky on a Bank with Zero Risk (FT, Patrick Jenkins Interview)
+2026-09-21T19:19:01.754Z	1578555	bitcoin	1	6008	0	0	2.6	238412	308	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	The Money Beneath The Market
+2026-09-21T19:19:01.754Z	1578680	the_stacker_muse	3	5623	0	2	0.3	724606	12939	recent@econ|top@econ	FRESH,HOT,SIGNAL	Svetski Returns to Writing: Contrarian Optimism (Substack, Svetski
+2026-09-21T19:19:01.754Z	1578233	BooksAndArticles	2	3125	0	6	8.3	343326	200	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Slate's take on Las Vegas Bitcoin Convention 2026
+2026-09-21T19:19:01.754Z	1578410	bitcoin	1	2768	0	0	4.4	190751	47	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Unauthenticated CPU exhaustion DoS in Wasabi
+2026-09-21T19:19:01.754Z	1578155	bitcoin	1	2534	0	27	11.3	1578143	7	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Why I believe the Bitcoin Standard is inevitable
+2026-09-21T19:19:01.754Z	1578512	math	2	2434	1000	8	3.1	48657	15600	recent@math|top@math	HOT,SIGNAL,SELF_POST_OPP	[Math Puzzle] Prime Patterns
+2026-09-21T19:19:01.754Z	1578463	AskSN	2	1815	0	9	4.0	280679	23492	recent@AskSN|top@AskSN	HOT,SIGNAL,SELF_POST_OPP	People get paid for blood, plasma, and drug trials—why not kidneys too?
+2026-09-21T19:19:01.754Z	1578472	bitcoin	1	1727	0	0	3.9	74100	12808	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	pseudoramdom - localhost research
+2026-09-21T19:19:01.754Z	1578256	BooksAndArticles	2	1708	0	2	7.8	1264102	92	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	Collector’s Guide: The Mandibles
+2026-09-21T19:19:01.754Z	1578572	security	1	1482	0	16	2.2	57444	16212	recent@lightning|top@lightning|recent@security	HOT,SIGNAL	A Cloudflare WAF for Lightning?
+2026-09-21T19:19:01.754Z	1578199	nostr	1	1260	0	3	9.4	80864	464	recent@nostr|top@nostr	HOT,SIGNAL	nostr-proto.org - An old, classic forum where you can talk about Nostr
+2026-09-21T19:19:01.754Z	1578328	Stacker_Stocks	2	1180	0	2	6.2	402772	22524	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	STRIVE adds 1355 BTC, total holdings reach 26,355 BTC
+2026-09-21T19:19:01.754Z	1578385	bitcoin	1	926	0	9	4.7	280679	23492	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Daniela Brozzoni Turned Down a Google Internship to Work on Bitcoin
+2026-09-21T19:19:01.754Z	1578319	Stacker_Stocks	2	882	0	1	6.5	402772	22524	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Strategy Acquires 950 BTC, now holds 846,000 BTC
+2026-09-21T19:19:01.754Z	1578240	Politics_And_Law	3	858	0	1	8.2	272410	1538	recent@econ|top@econ	SIGNAL	Trump Has Made More Trades Than All of Congress Combined
+2026-09-21T19:19:01.754Z	1578374	bitcoin	1	838	0	2	4.8	74100	12808	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	📣AMA Announcement: The team from Validating Lightning Signer - 29 Sept 1500UTC
+2026-09-21T19:19:01.754Z	1578363	Education	2	827	0	0	5.1	104755	13232	recent@Education|top@Education	SIGNAL	Are you a better reader than a Singaporean sixth grader?
+2026-09-21T19:19:01.754Z	1578448	Stacker_Stocks	2	792	0	1	4.2	280679	23492	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	The Honey Badger Market
+2026-09-21T19:19:01.754Z	1578422	Memes	2	792	0	3	4.3	36151	1641	recent@Memes|top@Memes	SIGNAL	Meme Monday - Top Meme Goes in the Newsletter
+2026-09-21T19:19:01.754Z	1578315	bitcoin	1	725	0	0	6.6	401865	8555	recent@bitcoin|top@bitcoin	SIGNAL	Bitwise CIO Declares Crypto Winter Over On CNBC
+2026-09-21T19:19:01.754Z	1578623	bitcoin	1	656	0	0	1.5	462245	306	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	FRESH,SIGNAL	Quantum Lightning — Last Week in Bitcoin (Sep 14 - 20)
+2026-09-21T19:19:01.754Z	1578447	Politics_And_Law	3	624	0	0	4.2	401865	8555	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Paramount Settles States’ Antitrust Suit, Clearing Way for Warner Megadeal
+2026-09-21T19:19:01.754Z	1578207	charts_and_maps	2	598	0	1	9.2	280679	23492	recent@charts_and_maps|top@charts_and_maps|recent@history	SIGNAL	How high is current immigration to the United States in historical perspective?
+2026-09-21T19:19:01.755Z	1578361	lightning	1	587	0	0	5.2	440729	276	recent@lightning|top@lightning	SIGNAL	⚡️ Storm Report: Best posts about the Lightning Network on SN - issue: 968000
+2026-09-21T19:19:01.755Z	1578574	Stacker_Stocks	2	579	0	1	2.2	402772	22524	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Polymarket Let Fraudsters Bet With Stolen Cards, Then Cash Out Clean
+2026-09-21T19:19:01.755Z	1578293	news	2	541	0	3	7.1	984933	2598	recent@news|top@news	SIGNAL	Riots in Austin over Venezuelan man injured by ICE
+2026-09-21T19:19:01.755Z	1578181	news	2	536	0	0	10.1	272410	1538	recent@bitcoin|top@bitcoin|recent@news	SIGNAL	Four Armed Men Tie up Family in French Crypto Home Invasion
+2026-09-21T19:19:01.755Z	1578273	bitcoin	1	511	0	0	7.4	1567057	12	recent@bitcoin|top@bitcoin|recent@charts_and_maps	SIGNAL	Bitcoin has gone to $1 million. Citadels have taken over.
+2026-09-21T19:19:01.755Z	1578513	bitcoin	1	406	0	1	3.1	178	939	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #519: Fiat Immigration, Propaganda Immunity, AI Idolatry+more!
+2026-09-21T19:19:01.755Z	1578460	news	2	384	0	0	4.0	297791	7815	recent@tech|top@tech|recent@news	SIGNAL	The M5 Ultra Mac Studio tears through our benchmark tests
+2026-09-21T19:19:01.755Z	1578283	tech	1	375	0	0	7.2	161788	10452	recent@tech|top@tech	SIGNAL	ZuckOff Know when a camera is in the room
+2026-09-21T19:19:01.755Z	1578598	news	2	346	0	0	1.9	272410	1538	recent@tech|top@tech|recent@news	FRESH,SIGNAL	Irish regulator fines Google €403 million over location data processing
+2026-09-21T19:19:01.755Z	1578538	bitcoin	1	328	0	2	2.7	1574097	5	recent@bitcoin|top@bitcoin	SIGNAL	No, Wallet of Satoshi was not hacked
+2026-09-21T19:19:01.755Z	1578183	AI	1	327	0	0	10.0	280679	23492	recent@AI|top@AI|recent@math	SIGNAL	Mathematicians Hate AI. They Can’t Quit It
+2026-09-21T19:19:01.755Z	1578299	bitcoinplusplus	1	324	0	1	7.0	280679	23492	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Implementing Replace-By-Fee (BIP 125) in LDK Node — Rita Anene | Nairobi
+2026-09-21T19:19:01.755Z	1578495	bitcoin	1	304	0	2	3.5	126503	817	recent@bitcoin|top@bitcoin	SIGNAL	Numo - release v1.9
+2026-09-21T19:19:01.755Z	1578196	Politics_And_Law	3	296	0	1	9.5	280679	23492	recent@econ|top@econ|recent@history	SIGNAL	How we can beat China
+2026-09-21T19:19:01.755Z	1578260	news	2	285	0	2	7.7	272410	1538	recent@news|top@news	SIGNAL	UFO sighted over Tehran hours ago
+2026-09-21T19:19:01.755Z	1578364	DIY	3	276	0	0	5.1	272410	1538	recent@tech|top@tech	SIGNAL	DIY Router On X86 E-Waste: OpenWrt And OPNsense
+2026-09-21T19:19:01.755Z	1578446	AI	1	266	0	3	4.2	458256	4964	recent@tech|top@tech|recent@AI	SIGNAL	There’s a 100% Chance AI Agents Are Already Ruining the Internet
+2026-09-21T19:19:01.755Z	1578489	Politics_And_Law	3	261	0	2	3.5	280679	23492	recent@econ|top@econ	SIGNAL	Eurosystem brings central bank money to tokenised finance
+2026-09-21T19:19:01.755Z	1578619	tech	1	247	0	1	1.5	256599	724	recent@privacy|top@privacy|recent@tech	FRESH,SIGNAL	New White Noise Release
+2026-09-21T19:19:01.755Z	1578324	AskSN	2	236	0	1	6.4	976996	32	recent@AskSN|top@AskSN	SIGNAL	AskSN: ¿Excel o software dedicado para la contabilidad en Sats?
+2026-09-21T19:19:01.755Z	1578560	news	2	214	0	0	2.5	272410	1538	recent@bitcoin|top@bitcoin|recent@news	SIGNAL	Spain: Two arrested for holding a man hostage to steal his crypto in Alicante
+2026-09-21T19:19:01.755Z	1578149	tech	1	207	0	1	11.8	934367	1053	recent@science|top@science	SIGNAL	Ever wondered how can a 5V usb charger charge batteries of higher voltage?
+2026-09-21T19:19:01.755Z	1578585	bitcoin	1	206	0	0	2.0	296825	5392	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Your Bitcoin Security Has a Physical Layer
+2026-09-21T19:19:01.755Z	1578398	lightning	1	202	0	4	4.5	31032	979	recent@lightning|top@lightning	SIGNAL	LND 0.21 compatibility issue with the LND/LNC send wallet integration.
+2026-09-21T19:19:01.755Z	1578540	Design	2	202	0	0	2.7	383547	3743	recent@Design|top@Design	SIGNAL	How Rob Farmer turns half-baked sketches into New York Times covers
+2026-09-21T19:19:01.755Z	1578660	bitcoin_beginners	1	196	0	1	0.6	1578660	1	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	I'll clean your messy CSV file for sats
+2026-09-21T19:19:01.755Z	1578321	AskSN	2	190	0	1	6.4	976996	32	recent@AskSN|top@AskSN	SIGNAL	AskSN: ¿Cómo gestionas la contabilidad y registro de tus Sats?
+2026-09-21T19:19:01.755Z	1578204	meta	1	182	0	0	9.3	36151	1641	recent@meta|top@meta	SIGNAL	This Day on SN: September 21
+2026-09-21T19:19:01.755Z	1578676	openagents	1	179	0	2	0.3	534967	245	recent@openagents|top@openagents	FRESH,SIGNAL	Episode 286: System One in Coding Agents
+2026-09-21T19:19:01.755Z	1578269	AskSN	2	169	0	1	7.5	984933	2598	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-09-21T19:19:01.755Z	1578192	Stacker_Stocks	2	166	0	9	9.6	9274	27683	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-09-21T19:19:01.755Z	1578404	lol	2	163	0	1	4.5	280679	23492	recent@math|top@math|recent@lol	SIGNAL	Justin Sun announces math prize but has no proof of funds
+2026-09-21T19:19:01.755Z	1578506	Stacker_Stocks	2	157	0	0	3.2	280679	23492	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Coinbase opens IPO allocations to US customers, starting with Oura
+2026-09-21T19:19:01.755Z	1578563	econ	2	140	0	0	2.4	837285	1786	recent@econ|top@econ	SIGNAL	$7 Diesel Isn't the Story. Losing the Farm Is.
+2026-09-21T19:19:01.755Z	1578205	science	2	131	0	2	9.2	104755	13232	recent@science|top@science	SIGNAL	Organic Composting Advertisement
+2026-09-21T19:19:01.755Z	1578252	science	2	121	0	0	7.9	297791	7815	recent@science|top@science	SIGNAL	Scientists opened a sealed envelope after 10y. Gravity still didn’t make sense
+2026-09-21T19:19:01.755Z	1578162	news	2	121	0	0	10.9	272410	1538	recent@news|top@news	SIGNAL	Israeli forces attack towns in Lebanon’s Tyre
+2026-09-21T19:19:01.755Z	1578640	news	2	110	0	0	1.1	272410	1538	recent@news|top@news	FRESH,SIGNAL	Tanker struck by 'unknown projectile' in Strait of Hormuz, two crew wounded
+2026-09-21T19:19:01.755Z	1578552	bitcoin	1	100	0	0	2.6	296825	5392	recent@bitcoin_beginners|top@bitcoin_beginners|recent@Stacker_Stocks	SIGNAL	BlueWallet Portfolio: chrome extension to track mempool and  fiat price movement
+2026-09-21T19:19:01.755Z	1578561	science	2	100	0	0	2.5	297791	7815	recent@science|top@science	SIGNAL	What kills Schrödinger’s cat? Gravity may not be the answer
+2026-09-21T19:19:01.755Z	1578612	AskSN	2	100	0	0	1.7	976996	32	recent@AskSN|top@AskSN	FRESH,SIGNAL	AskSN: ¿Cuál es tu método preferido para cobrar servicios en Sats?
+2026-09-21T19:19:01.755Z	1578437	Design	2	100	0	0	4.2	383547	3743	recent@Design|top@Design	SIGNAL	Making software hurts now
