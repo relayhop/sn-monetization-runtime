@@ -51992,3 +51992,59 @@
 2026-09-22T19:03:56.797Z	1579414	bitcoin	1	100	0	0	3.3	280679	23526	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Minimizing Mempool Dependency in PoW Mining on Blockchain
 2026-09-22T19:03:56.797Z	1579211	lol	2	100	0	0	8.0	280679	23526	recent@AI|top@AI	SIGNAL	I Built AI Clones of My Coworkers. Things Got Weird
 2026-09-22T19:03:56.797Z	1579118	AI	1	100	0	1	11.3	297791	7824	recent@AI|top@AI	SIGNAL	US and China Discuss Alerting Each Other to AI National Security Threats
+2026-09-22T21:59:55.158Z	1579396	bitcoin	1	15518	0	8	6.5	79003	36	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Zine about OP_CAT 🐱
+2026-09-22T21:59:55.158Z	1579315	meta	1	8939	0	12	7.8	440139	4312	recent@meta|top@meta	HOT,SIGNAL	How life gets in the way of Stacker News
+2026-09-22T21:59:55.158Z	1579358	bitcoin	1	8075	0	24	7.0	74100	12836	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Swing and a miss: Paying with Bitcoin on a Square Terminal
+2026-09-22T21:59:55.158Z	1579246	Politics_And_Law	3	7326	0	7	9.7	724606	12973	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Kremlin Gets Around Sanctions and Anti-Money Laundering Rules (Financial Times)
+2026-09-22T21:59:55.158Z	1579742	bitcoin_Mining	1	2742	0	2	0.5	1578954	10	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,HOT,SIGNAL	My hot water mines Bitcoin and cooks food, with canola oil
+2026-09-22T21:59:55.158Z	1579572	bitcoin	1	2707	0	2	3.2	724606	12973	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	Book Review of "Abundance Through Scarcity" by Ioni Appelberg (BTCHEL2026, JB)
+2026-09-22T21:59:55.158Z	1579612	AI	1	2551	0	15	2.3	48657	15644	recent@AI|top@AI|recent@science	HOT,SIGNAL	I refereed my first (likely) fully AI-generated paper today.  AMA.
+2026-09-22T21:59:55.158Z	1579511	bitcoin	1	2461	0	7	4.3	328486	5170	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Default threshold for re-org risk
+2026-09-22T21:59:55.158Z	1579285	bitcoin	1	2066	0	1	8.7	19732	172	recent@bitcoin|top@bitcoin	HOT,SIGNAL	TUTORIAL: Wasabi coinjoin, utxo management, connect your node, automate!
+2026-09-22T21:59:55.158Z	1579280	security	1	2019	0	3	8.7	440139	4312	recent@security|top@security|recent@tech	HOT,SIGNAL	Security Researcher Decompiled The White House App; What They Found Is Alarming
+2026-09-22T21:59:55.158Z	1579214	AskSN	2	1689	0	10	10.9	597594	3248	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	Best boltz alternative with good liquidity?
+2026-09-22T21:59:55.158Z	1579536	AI	1	1263	0	7	3.7	934367	1057	recent@tech|top@tech|recent@AI	HOT,SIGNAL	Introducing Claude Opus 5.5
+2026-09-22T21:59:55.158Z	1579622	AskSN	2	1245	0	1	2.2	1242375	240	recent@AskSN|top@AskSN	HOT,SIGNAL	How much NGU is enough?
+2026-09-22T21:59:55.158Z	1579283	bitcoin	1	1228	0	1	8.7	273359	1092	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	The Only Way to Make Your Bitcoin Truly Private - Sovereign Sessions Tutorial
+2026-09-22T21:59:55.158Z	1579500	lightning	1	1024	0	1	4.5	440729	277	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03635cca2de6fb4b0…)
+2026-09-22T21:59:55.158Z	1579652	AskSN	2	938	0	17	1.7	984933	2638	recent@econ|top@econ|recent@AskSN	FRESH,SIGNAL,SELF_POST_OPP	If you had to buy/recommend an economics book, which one would it be?
+2026-09-22T21:59:55.158Z	1579571	privacy	1	860	0	5	3.2	74100	12836	recent@privacy|top@privacy	SIGNAL	‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees - 404media
+2026-09-22T21:59:55.158Z	1579192	charts_and_maps	2	806	0	2	11.7	280679	23527	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Indonesia has become the world's largest producer of processed nickel
+2026-09-22T21:59:55.158Z	1579428	Stacker_Sports	3	666	0	1	5.9	698001	9670	recent@lightning|top@lightning	SIGNAL	Dog run!! For Dtaxker News Competotion!!
+2026-09-22T21:59:55.158Z	1579299	Stacker_Stocks	2	610	0	2	8.2	401865	8562	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Circle lands $100 million from Binance to ramp up global USDC expansion
+2026-09-22T21:59:55.158Z	1579253	BooksAndArticles	2	605	0	0	9.4	435224	1585	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Bibliothèque intérieure
+2026-09-22T21:59:55.158Z	1579255	BooksAndArticles	2	571	0	3	9.4	1264102	93	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	New In Stock: Principles Of Bitcoin, by Vijay Selvam
+2026-09-22T21:59:55.158Z	1579400	news	2	530	0	0	6.5	297791	7827	recent@news|top@news	SIGNAL	Binance buys $100 million Circle stake in five-year USDC promotion deal
+2026-09-22T21:59:55.158Z	1579290	Stacker_Sports	3	332	0	2	8.5	280679	23527	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Bernstein sees annual prediction market volumes hitting $10 trillion by 2035
+2026-09-22T21:59:55.158Z	1579188	DIY	3	318	0	1	11.8	272410	1557	recent@tech|top@tech	SIGNAL	TN Deck: a full cyberdeck built inside an Altoids tin
+2026-09-22T21:59:55.158Z	1579360	nostr	1	306	0	0	7.0	1496326	17	recent@nostr|top@nostr	SIGNAL	📱✨ New Cordn update: themes are here, improved UX, and loads of small things
+2026-09-22T21:59:55.158Z	1579519	AskSN	2	285	0	4	4.0	1054143	1310	recent@econ|top@econ|recent@AskSN	SIGNAL	Europe Was Once Bigger Than the U.S. Economy. What Happened?
+2026-09-22T21:59:55.158Z	1579359	family	3	283	0	14	7.0	984933	2638	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	Euthanasia or state execution?
+2026-09-22T21:59:55.158Z	1579686	lol	2	253	0	8	1.4	402772	22537	recent@econ|top@econ|recent@lol	FRESH,SIGNAL,SELF_POST_OPP	USA: Adult-Only Households Now Outpace Households With Children in Toy Sales
+2026-09-22T21:59:55.158Z	1579311	AI	1	244	0	1	7.9	272410	1557	recent@tech|top@tech|recent@AI	SIGNAL	Robot Football Is Getting Serious At Maker Faire Rome
+2026-09-22T21:59:55.158Z	1579738	news	2	236	0	1	0.6	297791	7827	recent@news|top@news	FRESH,SIGNAL	White House fraud task force will remove more than 760,000 Obamacare enrollees
+2026-09-22T21:59:55.159Z	1579201	AI	1	225	0	2	11.3	297791	7827	recent@tech|top@tech|recent@AI	SIGNAL	Xiaomi's MiMo-V2.6-Pro debuts as the top open weights model in the world
+2026-09-22T21:59:55.159Z	1579309	lol	2	225	0	2	7.9	280679	23527	recent@lol|top@lol	SIGNAL	Its $500 toothbrush disappeared from stores. Dyson won’t fully explain why
+2026-09-22T21:59:55.159Z	1579286	ideasfromtheedge	2	222	0	0	8.6	147412	1453	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	AGAINST SCHOOL: How public education cripples our kids, and why - John T. Gatto
+2026-09-22T21:59:55.159Z	1579178	meta	1	221	0	0	12.0	36151	1642	recent@meta|top@meta	SIGNAL	This Day on SN: September 22
+2026-09-22T21:59:55.159Z	1579559	news	2	212	0	0	3.4	272410	1557	recent@news|top@news|recent@history	SIGNAL	The New York Times' first edition: four pages for a penny (September 18, 1851)
+2026-09-22T21:59:55.159Z	1579316	AI	1	203	0	0	7.8	1532699	371	recent@AI|top@AI	SIGNAL	The AI Agent Shopping War Has Started
+2026-09-22T21:59:55.159Z	1579662	bitcoin	1	190	0	2	1.6	1532836	829	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH,SIGNAL	A trade on Mostro 🧌 runs on clear timers, not vibes.
+2026-09-22T21:59:55.159Z	1579585	bitcoin	1	178	0	0	3.0	12309	3693	recent@econ|top@econ|recent@Stacker_Stocks	SIGNAL	The Mother of All Bubbles … the Bond Market
+2026-09-22T21:59:55.159Z	1579244	Politics_And_Law	3	163	0	0	9.8	280679	23527	recent@econ|top@econ	SIGNAL	Huey Long’s Populism Is Back In Fashion
+2026-09-22T21:59:55.159Z	1579219	art	3	156	0	0	10.8	272410	1557	recent@science|top@science|recent@news	SIGNAL	1,000-Year-Old Amulet with 11th-Century 'Medusa' Unearthed in Russia
+2026-09-22T21:59:55.159Z	1579514	AI	1	151	0	2	4.2	272410	1557	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Six banks want AI agents to identify themselves when paying
+2026-09-22T21:59:55.159Z	1579716	AI	1	142	0	0	1.0	297791	7827	recent@security|top@security|recent@AI	FRESH,SIGNAL	A Chinese Hacker Used AI To Attack 100+ Companies In One Of Largest AI Hacks Yet
+2026-09-22T21:59:55.159Z	1579610	lol	2	142	0	2	2.3	1293586	2439	recent@lol|top@lol	SIGNAL	What the..??? Okay.....
+2026-09-22T21:59:55.159Z	1579495	bitcoin	1	121	0	0	4.5	296825	5397	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	You Checked the Recipient. But Did You Check the Change?
+2026-09-22T21:59:55.159Z	1579685	BooksAndArticles	2	121	0	0	1.4	238412	310	recent@history|top@history|recent@BooksAndArticles	FRESH,SIGNAL	Disturbing CIA files expose secret mind-control program MKUltra
+2026-09-22T21:59:55.159Z	1579678	Stacker_Sports	3	121	0	0	1.5	1054143	1310	recent@history|top@history	FRESH,SIGNAL	The Top-Scoring Brazilians in Barcelona History
+2026-09-22T21:59:55.159Z	1579204	news	2	116	0	2	11.2	272410	1557	recent@news|top@news	SIGNAL	Zelenskyy holds informal talks with CIA chief en route to New York
+2026-09-22T21:59:55.159Z	1579307	AI	1	113	0	0	8.0	837285	1797	recent@AI|top@AI	SIGNAL	Bitcoin Is Breaking Out Into a Macro Headwind
+2026-09-22T21:59:55.159Z	1579241	AskSN	2	103	0	2	9.9	984933	2638	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-09-22T21:59:55.159Z	1579478	bitcoin	1	100	0	0	4.9	296825	5397	recent@bitcoin_beginners|top@bitcoin_beginners|recent@science	SIGNAL	What if it was encoded into DNA
+2026-09-22T21:59:55.159Z	1579414	bitcoin	1	100	0	0	6.2	280679	23527	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Minimizing Mempool Dependency in PoW Mining on Blockchain
+2026-09-22T21:59:55.159Z	1579211	lol	2	100	0	0	10.9	280679	23527	recent@AI|top@AI|recent@lol	SIGNAL	I Built AI Clones of My Coworkers. Things Got Weird
+2026-09-22T21:59:55.159Z	1579673	science	2	100	0	0	1.5	297791	7827	recent@science|top@science	FRESH,SIGNAL	1,000x Speedup: Scientists Just Broke Through Major Quantum Computing Bottleneck
+2026-09-22T21:59:55.159Z	1579306	tech	1	100	0	0	8.0	458256	4966	recent@science|top@science	SIGNAL	Batteries that safely break down in GI tract could improve ingestible devices
+2026-09-22T21:59:55.159Z	1579537	news	2	100	0	0	3.6	180514	1543	recent@news|top@news|recent@history	SIGNAL	Noah's Ark Scans — Geophysical Surveys of the Durupinar Noah's Ark Site
