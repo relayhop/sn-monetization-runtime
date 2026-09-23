@@ -52166,3 +52166,23 @@
 2026-09-23T00:35:46.193Z	1579478	bitcoin	1	100	0	0	7.5	296825	5397	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	What if it was encoded into DNA
 2026-09-23T00:35:46.193Z	1579414	bitcoin	1	100	0	0	8.8	280679	23528	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Minimizing Mempool Dependency in PoW Mining on Blockchain
 2026-09-23T00:35:46.193Z	1579806	devs	1	100	0	0	1.8	297791	7832	recent@devs|top@devs	FRESH,SIGNAL	Variable Refresh Rate "VRR" Target Limiter Proposed For Linux Graphics Drivers
+2026-09-23T05:13:37.507Z	1579742	bitcoin_Mining	1	37730	0	24	7.7	1578954	22	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	My hot water mines Bitcoin and cooks food, with canola oil
+2026-09-23T05:13:37.507Z	1579817	bitcoin	1	23925	0	4	6.1	1046031	30	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Invalid Bitcoin blocks: full PoW, consensus invalid
+2026-09-23T05:13:37.507Z	1579734	bitcoin	1	5522	0	0	8.0	1014665	239	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Davidson Souza, Eric Price, PortlandHODL - Bitcoin Optech Newsletter #423 Recap
+2026-09-23T05:13:37.507Z	1579572	bitcoin	1	3007	0	2	10.5	724606	12973	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Book Review of "Abundance Through Scarcity" by Ioni Appelberg (BTCHEL2026, JB)
+2026-09-23T05:13:37.507Z	1579612	AI	1	2572	0	15	9.6	48657	15651	recent@AI|top@AI	HOT,SIGNAL	I refereed my first (likely) fully AI-generated paper today.  AMA.
+2026-09-23T05:13:37.507Z	1579511	bitcoin	1	2461	0	7	11.5	328486	5171	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Default threshold for re-org risk
+2026-09-23T05:13:37.507Z	1579536	AI	1	1263	0	7	10.9	934367	1057	recent@tech|top@tech|recent@AI	HOT,SIGNAL	Introducing Claude Opus 5.5
+2026-09-23T05:13:37.507Z	1579907	gaming	3	1177	0	1	4.0	74100	12847	recent@lightning|top@lightning	HOT,SIGNAL	CREATE QUAKE MATCHES · AND CHARGE A JOIN FEE
+2026-09-23T05:13:37.507Z	1579500	lightning	1	1024	0	3	11.7	440729	277	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03635cca2de6fb4b0…)
+2026-09-23T05:13:37.507Z	1579571	privacy	1	910	0	5	10.5	74100	12847	recent@privacy|top@privacy	SIGNAL	‘We Hacked the FBI:’ Hackers Say They Have Data on All FBI Employees - 404media
+2026-09-23T05:13:37.507Z	1579737	bitcoin_beginners	1	344	0	6	7.9	1579727	3	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	I am new to Bitcoin. What should I learn first?
+2026-09-23T05:13:37.507Z	1579818	bitcoin	1	304	0	3	6.1	1518571	11	recent@bitcoin|top@bitcoin	SIGNAL	Earn yield on your Electrum BTC wallet by offering submarine swaps!
+2026-09-23T05:13:37.507Z	1579662	bitcoin	1	190	0	2	8.8	1532836	832	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	A trade on Mostro 🧌 runs on clear timers, not vibes.
+2026-09-23T05:13:37.507Z	1579815	bitcoin	1	171	0	0	6.2	1518571	11	recent@bitcoin|top@bitcoin	SIGNAL	Electrum Inbound Liquidity Plugin
+2026-09-23T05:13:37.507Z	1579716	AI	1	163	0	0	8.3	297791	7832	recent@security|top@security|recent@AI	SIGNAL	A Chinese Hacker Used AI To Attack 100+ Companies In One Of Largest AI Hacks Yet
+2026-09-23T05:13:37.507Z	1579809	bitcoin	1	159	0	5	6.3	1518571	11	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Merchant Options Comparison: BTCPay vs Bitcart vs BareBits
+2026-09-23T05:13:37.507Z	1579514	AI	1	151	0	2	11.4	272410	1557	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Six banks want AI agents to identify themselves when paying
+2026-09-23T05:13:37.507Z	1579495	bitcoin	1	121	0	0	11.7	296825	5398	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	You Checked the Recipient. But Did You Check the Change?
+2026-09-23T05:13:37.507Z	1579780	AI	1	121	0	0	7.0	1575305	4	recent@AI|top@AI	SIGNAL	OpenAI forms a math & AI advisory group
+2026-09-23T05:13:37.507Z	1579806	devs	1	100	0	0	6.4	297791	7832	recent@devs|top@devs	SIGNAL	Variable Refresh Rate "VRR" Target Limiter Proposed For Linux Graphics Drivers
