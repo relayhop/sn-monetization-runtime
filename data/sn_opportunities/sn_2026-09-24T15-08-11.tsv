@@ -1,0 +1,63 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1580989	bitcoin	1	3337	0	1	0.6	273359	1106	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,HOT,SIGNAL	Shielded Bitcoin: Private Transfers on Bitcoin L1
+1580811	events	3	1169	0	0	6.8	713868	544	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	21 Things You Didn't Know About Bitcoin (online workshop)
+1580902	bitcoin	1	1086	0	1	3.0	280679	23550	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Responsible disclosure and White hacking it's about Caring
+1580814	meta	1	971	0	1	6.6	440729	281	recent@lightning|top@lightning|recent@meta	SIGNAL	Introducing: The Lightning Network Gossip \ a weekly ~lightning newsletter
+1580824	security	1	952	0	1	5.9	297791	7840	recent@security|top@security|recent@AI	SIGNAL	‘Extreme concern’ over first known AI hack of a government system
+1580908	bitcoin	1	822	0	0	2.8	280679	23550	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin is 1% of global money
+1580900	security	1	531	0	6	3.2	213009	180	recent@security|top@security|recent@privacy	SIGNAL	An agent that configures my machine without touching it
+1580952	security	1	472	0	0	1.2	280679	23550	recent@security|top@security	FRESH,SIGNAL	There's a new way to break RSA that's faster than anything we've seen before
+1580751	tech	1	429	0	9	10.7	144357	4598	recent@tech|top@tech	SIGNAL	YOU CAN SEE EVERYTHING - official trailer
+1580777	AI	1	304	0	4	8.7	1301409	68	recent@AI|top@AI	SIGNAL	Is Code Still Speech or Nah?
+1580921	Design	2	218	0	1	2.1	273359	1106	recent@devs|top@devs	SIGNAL	"Use often precedes understanding."
+1580304	bitcoin	1	1817	0	6	23.6	74100	12865	recent@bitcoin|top@bitcoin|recent@lightning	HOT	x402 merges lightning specifications
+1580564	bitcoin	1	1668	0	2	17.5	74100	12865	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	A Review of SHRINCs - Project Eleven
+1580724	bitcoin	1	1352	0	3	12.2	93884	98	recent@bitcoin|top@bitcoin	HOT	Core Lightning 26.06.8 is out, and every node runner should upgrade.
+1580470	devs	1	1111	0	1	20.3	665515	95	recent@devs|top@devs	HOT	Converting React / Vite Website to Mobile App
+1579966	bitcoin	1	1009	0	0	34.4	296825	5410	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoin_Mining	HOT	Will there be a block announcement from Orbit?
+1580405	AI	1	894	0	7	22.1	12309	3696	recent@tech|top@tech|recent@AI		Link economy breaks as AI reshapes web traffic
+1580440	lightning	1	794	0	2	21.4	440729	281	recent@lightning|top@lightning		Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (0215a202bba8f60ba…)
+1580124	bitcoin	1	740	0	2	28.3	272410	1586	recent@bitcoin		I made a list of every national shitcoin now trading under 1 sat
+1580235	lightning	1	680	0	10	24.7	1579736	19	recent@lightning		phoenix android as send wallet?
+1580088	AskSN	2	652	0	0	29.4	1054143	1334	recent@bitcoin|recent@bitcoin_Mining		Are Investors Choosing Bitcoin Over Altcoins Again?
+1580533	bitcoin	1	575	0	2	18.4	1571997	9	recent@bitcoin|top@bitcoin		Giving Bitcoin as a Gift
+1580451	bitcoin	1	547	0	4	20.9	1545780	203	recent@bitcoin|top@bitcoin|recent@lightning		A Small Update on My First Lightning Channel Goal
+1580005	AI	1	533	0	0	32.9	347614	1511	recent@AI		PrismML — Introducing Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller
+1580388	lightning	1	523	0	1	22.5	280679	23550	recent@lightning|top@lightning		ZeusLN/zeus · Release v13.2.2
+1580285	AI	1	501	0	0	23.8	252116	22	recent@nostr|top@nostr|recent@AI		deed: the nostr command line from the future
+1580504	bitcoin_Mining	1	453	0	0	19.2	1567528	10	recent@bitcoin_Mining|top@bitcoin_Mining		Results from prepaid hashrate for 479th mining period
+1580515	bitcoin	1	427	0	4	18.8	1571997	9	recent@bitcoin|top@bitcoin		SignerOS 1.3.0: Turn a regular PC into an offline Bitcoin signing device
+1580595	AI	1	382	0	0	16.8	1575305	5	recent@AI|top@AI		Claude discovers a novel CRISPR-like enzyme system
+1580125	security	1	379	0	1	28.2	297791	7840	recent@security		Critical Next.js ImageResponse Flaw Lead to Code Execution via Crafted SVG Input
+1580473	bitcoin	1	363	0	3	20.1	223678	6335	recent@bitcoin|top@bitcoin		A new Mostro Client for mobile and Web https://mostra.top
+1580260	meta	1	349	0	4	24.1	36151	1645	recent@meta		What are you working on this week?
+1580297	bitcoin	1	325	0	0	23.7	1547920	10	recent@bitcoin|top@bitcoin|recent@lightning		Sovran_SystemsOS has been updated to v1.1.7🎉!
+1580288	DIY	3	300	0	0	23.8	272410	1586	recent@tech|top@tech		xTool O1 Omni Printer: UV, 3D, foil and textile printing, $1.8M on crowdfunding
+1580513	tech	1	289	0	0	19.1	161788	10468	recent@tech|top@tech		Claude discovers a novel enzyme system with CRISPR-like repeats
+1580362	lol	2	278	0	2	22.8	12309	3696	recent@AI|top@AI		How to rage bait Americans
+1580643	news	2	252	0	0	15.7	272410	1586	recent@tech|top@tech		Homeland Security is monitoring activists building anti-flock tech
+1580060	AI	1	246	0	3	30.2	280679	23550	recent@AI		New Anthropic, OpenAI models make same promise: A little more for a lot less
+1580057	news	2	240	0	0	30.2	272410	1586	recent@AI		China Probes DeepSeek, Moonshot Over Data Security, Report Says
+1580093	AI	1	239	0	1	29.1	9274	27782	recent@AI		👴 100 years young - Snacks
+1580269	bitcoin_beginners	1	233	0	3	24.0	1579727	7	recent@bitcoin_beginners		How Does Bitcoin’s UTXO Model Affect Privacy and Transaction Fees?
+1580186	bitcoin	1	232	0	0	25.9	298505	839	recent@bitcoin_Mining		1 Miner, 2 Blocks in One Day: More Than $500K Without Owning an ASIC
+1580141	nostr	1	211	0	1	27.6	296825	5410	recent@nostr		Nostrich
+1580395	AI	1	200	0	1	22.3	280679	23550	recent@bitcoinplusplus|top@bitcoinplusplus|recent@nostr		Workshop: Building Nostr apps with open source AI tools — Mary Kate Fain
+1580559	bitcoin	1	190	0	0	17.6	1532836	843	recent@bitcoinplusplus|top@bitcoinplusplus		AI agents can trade Bitcoin P2P too.
+1580542	security	1	184	0	1	18.3	297791	7840	recent@security|top@security		Exploit Released Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape
+1580516	bitcoin_beginners	1	159	0	3	18.8	296825	5410	recent@bitcoin_beginners|top@bitcoin_beginners		Isn't this (Splicing + an LDK node) the kind of UX improvement Lightning needs?
+1580382	openagents	1	131	0	2	22.6	534967	246	recent@openagents|top@openagents		Episode 287: Building a System One Coding Agent
+1580092	meta	1	111	0	0	29.1	36151	1645	recent@meta		This Day on SN: September 23
+1579992	bitcoin_beginners	1	110	0	0	33.4	296825	5410	recent@bitcoin_beginners		Bitcoin is Better | Bitcoin TV Ads & Education Resources
+1580375	bitcoin	1	100	0	1	22.7	296825	5410	recent@bitcoin_beginners|top@bitcoin_beginners		🚨 WARNING: If VERIFY is the message, why restrict who can publicly question?
+1580241	bitcoin_beginners	1	100	0	0	24.5	296825	5410	recent@bitcoin_beginners		Bearer Tokens For Bitcoin
+1580243	news	2	97	0	6	24.5	272410	1586	recent@bitcoin_Mining|recent@AI		Remember when bitcoin was killing the planet?
+1580847	AI	1	57	0	1	5.2	263596	258	recent@AI|top@AI		Australia says OpenAI agent hacked government website, checks for more breaches
+1580730	bitcoin	1	36	0	0	11.8	296825	5410	recent@bitcoin_beginners|top@bitcoin_beginners		$250 Billion Behind MPC — But What Happens After Quantum?
+1580794	AI	1	21	0	1	7.5	1054143	1334	recent@AI|top@AI		AI boom threatens to widen digital divide
+1580205	AI	1	21	0	0	25.3	1054143	1334	recent@AI		Cyber-criminals deploy fake AI trading agents, QR codes to steal crypto wallets
+1580239	bitcoin	1	0	0	0	24.6	47274	151	recent@bitcoin		Chamber Folk Leonard Cohen-inspired Bitcoin AI Song...
+1580925	security	1	0	0	0	2.0	1577530	15	recent@security|top@security		Back Doors Are the #1 Break‑In Point (CCTV Expert Explains)
+1580439	security	1	0	0	0	21.5	1054143	1334	recent@security|top@security		From New York, a call for the rule of law and democratic security
+1580998	AI	1	0	0	0	0.3	1532699	373	recent@AI|top@AI	FRESH	950 AI Agents Worked 21 Hours and May Have Discovered Something Humans Never Had
+1580215	AI	1	0	0	0	25.0	296825	5410	recent@AI		Shifting a project to buzz for acceleration
