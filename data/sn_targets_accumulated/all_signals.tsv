@@ -52461,3 +52461,31 @@
 2026-09-23T23:36:39.881Z	1580483	Stacker_Stocks	2	100	0	0	4.2	297791	7839	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	10-year Treasury yield hits highest level since 2007 as Fed rate hike priced in
 2026-09-23T23:36:39.881Z	1580585	news	2	100	0	0	1.6	297791	7839	recent@news|top@news	FRESH,SIGNAL	IonQ Wants to Be the Nvidia of Quantum. Now They Are Partners.
 2026-09-23T23:36:39.881Z	1580288	DIY	3	100	0	0	8.3	272410	1575	recent@news|top@news	SIGNAL	xTool O1 Omni Printer: UV, 3D, foil and textile printing, $1.8M on crowdfunding
+2026-09-24T00:30:57.613Z	1580304	bitcoin	1	1767	0	3	9.0	74100	12857	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	x402 merges lightning specifications
+2026-09-24T00:30:57.613Z	1580564	bitcoin	1	1631	0	1	2.9	74100	12857	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	A Review of SHRINCs - Project Eleven
+2026-09-24T00:30:57.613Z	1580470	devs	1	1111	0	1	5.7	665515	94	recent@devs|top@devs	HOT,SIGNAL	Converting React / Vite Website to Mobile App
+2026-09-24T00:30:57.613Z	1580405	AI	1	894	0	7	7.5	12309	3696	recent@tech|top@tech|recent@AI	SIGNAL	Link economy breaks as AI reshapes web traffic
+2026-09-24T00:30:57.613Z	1580440	lightning	1	794	0	2	6.8	440729	278	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (0215a202bba8f60ba…)
+2026-09-24T00:30:57.613Z	1580235	lightning	1	680	0	8	10.0	1579736	16	recent@lightning|top@lightning	SIGNAL	phoenix android as send wallet?
+2026-09-24T00:30:57.613Z	1580533	bitcoin	1	546	0	2	3.8	1571997	7	recent@bitcoin|top@bitcoin	SIGNAL	Giving Bitcoin as a Gift
+2026-09-24T00:30:57.613Z	1580451	bitcoin	1	541	0	2	6.3	1545780	202	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	A Small Update on My First Lightning Channel Goal
+2026-09-24T00:30:57.613Z	1580388	lightning	1	523	0	0	7.8	280679	23541	recent@lightning|top@lightning	SIGNAL	ZeusLN/zeus · Release v13.2.2
+2026-09-24T00:30:57.613Z	1580285	AI	1	486	0	0	9.2	252116	22	recent@nostr|top@nostr|recent@AI	SIGNAL	deed: the nostr command line from the future
+2026-09-24T00:30:57.613Z	1580504	bitcoin_Mining	1	453	0	0	4.6	1567528	10	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Results from prepaid hashrate for 479th mining period
+2026-09-24T00:30:57.613Z	1580595	AI	1	382	0	0	2.2	1575305	5	recent@AI|top@AI	SIGNAL	Claude discovers a novel CRISPR-like enzyme system
+2026-09-24T00:30:57.613Z	1580473	bitcoin	1	363	0	2	5.5	223678	6331	recent@bitcoin|top@bitcoin	SIGNAL	A new Mostro Client for mobile and Web https://mostra.top
+2026-09-24T00:30:57.613Z	1580260	meta	1	349	0	4	9.5	36151	1644	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-09-24T00:30:57.613Z	1580297	bitcoin	1	325	0	0	9.1	1547920	10	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Sovran_SystemsOS has been updated to v1.1.7🎉!
+2026-09-24T00:30:57.613Z	1580513	tech	1	289	0	0	4.4	161788	10463	recent@tech|top@tech	SIGNAL	Claude discovers a novel enzyme system with CRISPR-like repeats
+2026-09-24T00:30:57.613Z	1580362	lol	2	278	0	2	8.2	12309	3696	recent@AI|top@AI	SIGNAL	How to rage bait Americans
+2026-09-24T00:30:57.613Z	1580515	bitcoin	1	272	0	1	4.2	1571997	7	recent@bitcoin|top@bitcoin	SIGNAL	SignerOS 1.3.0: Turn a regular PC into an offline Bitcoin signing device
+2026-09-24T00:30:57.613Z	1580269	bitcoin_beginners	1	233	0	2	9.4	1579727	7	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	How Does Bitcoin’s UTXO Model Affect Privacy and Transaction Fees?
+2026-09-24T00:30:57.613Z	1580186	bitcoin	1	232	0	0	11.3	298505	839	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	1 Miner, 2 Blocks in One Day: More Than $500K Without Owning an ASIC
+2026-09-24T00:30:57.613Z	1580643	news	2	231	0	0	1.1	272410	1576	recent@tech|top@tech	FRESH,SIGNAL	Homeland Security is monitoring activists building anti-flock tech
+2026-09-24T00:30:57.613Z	1580395	AI	1	200	0	0	7.6	280679	23541	recent@bitcoinplusplus|top@bitcoinplusplus|recent@nostr	SIGNAL	Workshop: Building Nostr apps with open source AI tools — Mary Kate Fain
+2026-09-24T00:30:57.613Z	1580559	bitcoin	1	190	0	0	3.0	1532836	839	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	AI agents can trade Bitcoin P2P too.
+2026-09-24T00:30:57.613Z	1580542	security	1	184	0	1	3.7	297791	7839	recent@security|top@security	SIGNAL	Exploit Released Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape
+2026-09-24T00:30:57.613Z	1580516	bitcoin_beginners	1	159	0	3	4.2	296825	5408	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Isn't this (Splicing + an LDK node) the kind of UX improvement Lightning needs?
+2026-09-24T00:30:57.613Z	1580382	openagents	1	131	0	2	8.0	534967	246	recent@openagents|top@openagents	SIGNAL	Episode 287: Building a System One Coding Agent
+2026-09-24T00:30:57.613Z	1580375	bitcoin	1	100	0	1	8.0	296825	5408	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	🚨 WARNING: If VERIFY is the message, why restrict who can publicly question?
+2026-09-24T00:30:57.613Z	1580241	bitcoin_beginners	1	100	0	0	9.9	296825	5408	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bearer Tokens For Bitcoin
