@@ -1,18 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-25T00:17:59.690Z; n=40
-bitcoin	sn:bitcoin,sn:Stacker_Stocks	9.57	yes	
-what	sn:AskSN	8.78	yes	
-show	hn	6.87	yes	
+# generated 2026-09-25T09:25:22.195Z; n=40
+show	hn,sn:nostr	10.19	yes	
+bitcoin	sn:bitcoin	6.5	yes	
+what	sn:AskSN	5.87	yes	
+open-source	hn,sn:nostr	5.51	yes	
 the nordic node	sn:BooksAndArticles	3.75	no	RISING
 btchel	sn:BooksAndArticles	3.75	no	RISING
 week is upon us	sn:BooksAndArticles	3.75	no	RISING
 painting europe orange	sn:BooksAndArticles	3.75	no	RISING
 shielded bitcoin	sn:bitcoin	3.57	yes	
 private transfers	sn:bitcoin	3.57	yes	
-core lightning	sn:bitcoin	3.28	yes	
-count	sn:bitcoin	3.25	yes	
-growth	sn:bitcoin	3.25	yes	
-debt	sn:bitcoin	3.25	yes	
+spring	sn:Permaculture	3.47	no	RISING
+permaculture homestead	sn:Permaculture	3.47	no	RISING
+bitcoin standard	sn:Permaculture	3.47	no	RISING
+count	sn:bitcoin	3.46	yes	
+growth	sn:bitcoin	3.46	yes	
+debt	sn:bitcoin	3.46	yes	
+does living	sn:science	3.36	no	RISING
+goal-pursuing electricity guide biology	sn:science	3.36	no	RISING
+michael levin	sn:science	3.36	no	RISING
+stacker watch	sn:news	3.28	yes	
 looking	sn:Politics_And_Law	3.25	no	RISING
 change	sn:Politics_And_Law	3.25	no	RISING
 haystacks	sn:Politics_And_Law	3.25	no	RISING
@@ -22,21 +29,14 @@ dubai entities get around russian sanctions	sn:Politics_And_Law	3.16	no	RISING
 financial times	sn:Politics_And_Law	3.16	no	RISING
 there	sn:mostly_harmless	3.15	yes	
 noticing	sn:tech	3.14	yes	
-things you didn	sn:events	3.09	no	RISING
-know about bitcoin	sn:events	3.09	no	RISING
-the path	sn:Stacker_Stocks	3.09	no	RISING
-how bitcoin becomes	sn:Stacker_Stocks	3.09	no	RISING
-price	sn:Stacker_Stocks	3.09	no	RISING
-eric yakes	sn:Stacker_Stocks	3.09	no	RISING
-substack	sn:Stacker_Stocks	3.09	no	RISING
+droid	hn	3.09	no	RISING
+falcons	sn:Stacker_Sports	3.09	no	RISING
+packers	sn:Stacker_Sports	3.09	no	RISING
 responsible	sn:bitcoin	3.07	yes	
 white	sn:bitcoin	3.07	yes	
 caring	sn:bitcoin	3.07	yes	
-introducing	sn:meta	3.04	yes	
-the lightning network gossip	sn:meta	3.04	yes	
-should kalshi offer	sn:Politics_And_Law	3.02	no	RISING
-contract	sn:Politics_And_Law	3.02	no	RISING
-its own death	sn:Politics_And_Law	3.02	no	RISING
-bryce elder	sn:Politics_And_Law	3.02	no	RISING
-extreme	sn:security	3.02	yes	
+nostr	sn:nostr	3.03	yes	
+here	sn:nostr	3.03	yes	
 daily discussion thread	sn:Music	2.99	no	RISING
+music saloon	sn:Music	2.99	no	RISING
+fantasy league	sn:Stacker_Sports	2.96	no	RISING
