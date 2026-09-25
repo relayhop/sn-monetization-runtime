@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-25T09:25:22.195Z; n=40
-show	hn,sn:nostr	10.19	yes	
-bitcoin	sn:bitcoin	6.5	yes	
+# generated 2026-09-25T15:00:56.021Z; n=40
+show	hn,sn:nostr	9.94	yes	
 what	sn:AskSN	5.87	yes	
-open-source	hn,sn:nostr	5.51	yes	
-the nordic node	sn:BooksAndArticles	3.75	no	RISING
-btchel	sn:BooksAndArticles	3.75	no	RISING
-week is upon us	sn:BooksAndArticles	3.75	no	RISING
-painting europe orange	sn:BooksAndArticles	3.75	no	RISING
-shielded bitcoin	sn:bitcoin	3.57	yes	
-private transfers	sn:bitcoin	3.57	yes	
+open-source	hn,sn:nostr	5.58	yes	
+simd	hn	4.49	no	RISING
+stacker watch	sn:news	3.57	yes	
+count	sn:bitcoin	3.48	yes	
+growth	sn:bitcoin	3.48	yes	
+debt	sn:bitcoin	3.48	yes	
 spring	sn:Permaculture	3.47	no	RISING
 permaculture homestead	sn:Permaculture	3.47	no	RISING
 bitcoin standard	sn:Permaculture	3.47	no	RISING
-count	sn:bitcoin	3.46	yes	
-growth	sn:bitcoin	3.46	yes	
-debt	sn:bitcoin	3.46	yes	
-does living	sn:science	3.36	no	RISING
-goal-pursuing electricity guide biology	sn:science	3.36	no	RISING
-michael levin	sn:science	3.36	no	RISING
-stacker watch	sn:news	3.28	yes	
+does living	sn:science	3.4	no	RISING
+goal-pursuing electricity guide biology	sn:science	3.4	no	RISING
+michael levin	sn:science	3.4	no	RISING
+turn	sn:bitcoin	3.39	yes	
+lightning	sn:bitcoin	3.39	yes	
 looking	sn:Politics_And_Law	3.25	no	RISING
 change	sn:Politics_And_Law	3.25	no	RISING
 haystacks	sn:Politics_And_Law	3.25	no	RISING
 hester pierce	sn:Politics_And_Law	3.25	no	RISING
-how rosneft	sn:Politics_And_Law	3.16	no	RISING
-dubai entities get around russian sanctions	sn:Politics_And_Law	3.16	no	RISING
-financial times	sn:Politics_And_Law	3.16	no	RISING
+dorian nakamoto	sn:Music	3.17	no	RISING
 there	sn:mostly_harmless	3.15	yes	
 noticing	sn:tech	3.14	yes	
-droid	hn	3.09	no	RISING
+droid	hn	3.13	no	RISING
 falcons	sn:Stacker_Sports	3.09	no	RISING
 packers	sn:Stacker_Sports	3.09	no	RISING
-responsible	sn:bitcoin	3.07	yes	
-white	sn:bitcoin	3.07	yes	
-caring	sn:bitcoin	3.07	yes	
+post	sn:bitcoin	3.06	yes	
+stack exchange	sn:bitcoin	3.06	yes	
+bitcoin optech newsletter	sn:bitcoin	3.06	yes	
 nostr	sn:nostr	3.03	yes	
 here	sn:nostr	3.03	yes	
-daily discussion thread	sn:Music	2.99	no	RISING
-music saloon	sn:Music	2.99	no	RISING
-fantasy league	sn:Stacker_Sports	2.96	no	RISING
+flock and other tech firms decline senate testimony on mass surveillance	sn:security	3.02	no	RISING
+daily discussion thread	sn:Music	3	no	RISING
+music saloon	sn:Music	3	no	RISING
+social worker abducted	sn:family	2.98	no	RISING
+children with families	sn:family	2.98	no	RISING
+sold them	sn:family	2.98	no	RISING
+profit	sn:family	2.98	no	RISING
+fantasy league	sn:Stacker_Sports	2.98	no	RISING
+top animal world posts of the week	sn:Animal_World	2.96	no	RISING
