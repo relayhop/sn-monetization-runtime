@@ -1,0 +1,68 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1581576	bitcoin	1	3907	0	23	9.7	934367	1070	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Turn CoinJoin change into shared Lightning liquidity
+1581745	math	2	2146	0	13	4.3	4078	5505	recent@AI|top@AI	HOT,SIGNAL,SELF_POST_OPP	We’re gonna need a lot more mathematicians
+1581684	bitcoin	1	1311	0	0	6.2	1014665	240	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Post-quantum LN discussion, Stack Exchange Q&A - Bitcoin Optech Newsletter #424
+1581607	security	1	1286	0	5	8.9	30782	25891	recent@security|top@security	HOT,SIGNAL	Flock And Other Tech Firms Decline Senate Testimony On Mass Surveillance
+1581638	lightning	1	1108	0	0	7.7	280679	23579	recent@lightning|top@lightning	HOT,SIGNAL	Disclosure: DoS vulnerabilities fixed in Eclair v0.14.0
+1581534	privacy	1	1097	0	9	11.9	181158	1446	recent@privacy|top@privacy	HOT,SIGNAL	Is PII the only problem with KYC?
+1581655	lol	2	954	0	2	7.3	280679	23579	recent@AI|top@AI	SIGNAL	Proton survey: People don't trust AI, but they tell it everything
+1581787	bitcoin	1	897	0	3	3.5	633727	6134	recent@bitcoin|top@bitcoin	SIGNAL	In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon' - Decrypt
+1581613	bitcoin_beginners	1	895	0	0	8.7	30782	25891	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #117
+1581693	lightning	1	805	0	0	6.0	440729	296	recent@lightning|top@lightning	SIGNAL	~Lightning Gossip newsletter - 026W37
+1581854	bitcoin	1	803	0	4	2.2	1580839	7	recent@bitcoin|top@bitcoin	SIGNAL	Where to get inbound channel ?
+1581905	AI	1	661	0	5	1.1	691376	205	recent@AI|top@AI	FRESH,SIGNAL	What if the wrong humans control AI?
+1581537	bitcoin	1	595	0	1	11.7	934367	1070	recent@bitcoin|top@bitcoin	SIGNAL	Bitget hot wallet security incident
+1581659	DIY	3	455	0	0	7.1	280679	23579	recent@tech|top@tech	SIGNAL	colibri: CERN VHDL FPGA Common Library released for Everyone to Use
+1581663	tech	1	326	0	1	6.9	280679	23579	recent@tech|top@tech	SIGNAL	Four eras of San Francisco tech culture
+1581664	AI	1	309	0	0	6.9	934367	1070	recent@tech|top@tech|recent@AI	SIGNAL	Tor Project: Security Release 0.4.9.13
+1581775	tech	1	272	0	0	3.7	12309	3699	recent@privacy|top@privacy|recent@tech	SIGNAL	F-Droid gets biggest update in a decade with new UI and smoother app installs
+1581721	family	3	197	0	0	5.1	272410	1604	recent@bitcoin|top@bitcoin	SIGNAL	🎙️ Gen Z orange-pilled his family and built a Bitcoin fund for 15+ relatives
+1581554	AI	1	188	0	0	10.6	272410	1604	recent@lightning|top@lightning|recent@AI	SIGNAL	Block Joins the x402 Foundation to Advance Open, Agentic Commerce
+1581651	math	2	171	0	2	7.3	1562189	196	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI	SIGNAL	Google LLM: Why Nah•Sovereign•Diamond is the Final World Reserve Unit of Account
+1581924	AI	1	161	0	0	0.8	297791	7844	recent@AI|top@AI	FRESH,SIGNAL	US appeals court upholds Pentagon designation of Anthropic as supply chain risk
+1581546	bitcoin_beginners	1	138	0	0	11.3	296825	5414	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	DOB is April 5, 1975. Did you know?
+1581914	bitcoin	1	136	0	0	0.9	1532836	847	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	What do you need to mine 1 Bitcoin a day?
+1581678	security	1	135	0	0	6.3	297791	7844	recent@security|top@security	SIGNAL	Cyber attack on Dyfed-Powys Police may have 'compromised' staff information
+1581224	news	2	4089	0	11	21.3	145488	642	recent@AI|top@AI	HOT,SELF_POST_OPP	Stacker Watch
+1580989	bitcoin	1	3719	0	13	28.9	273359	1115	recent@bitcoin|recent@privacy	HOT	Shielded Bitcoin: Private Transfers on Bitcoin L1
+1581144	bitcoin	1	3044	0	4	24.2	12309	3699	recent@bitcoin	HOT	Don't Count on Growth to Fix the Debt
+1580902	bitcoin	1	2116	0	2	31.3	280679	23579	recent@bitcoin|recent@bitdevs|recent@lightning	HOT	Responsible disclosure and White hacking it's about Caring
+1581033	mostly_harmless	2	1417	0	0	28.0	1245155	354	recent@nostr|recent@tech	HOT	There was this old website I used to go to called FunStuffToSee.com
+1581142	tech	1	1383	0	1	24.4	1293586	2457	recent@tech	HOT	Noticing trends with recycling IT
+1580811	events	3	1219	0	3	35.1	713868	545	recent@bitcoin_beginners	HOT	21 Things You Didn't Know About Bitcoin (online workshop)
+1580814	meta	1	1088	0	2	34.9	440729	296	recent@lightning|recent@meta	HOT	Introducing: The Lightning Network Gossip \ a weekly ~lightning newsletter
+1581238	nostr	1	1062	0	5	21.0	1581213	5	recent@nostr|top@nostr|recent@devs	HOT	Show SN: I've been building open-source Nostr tools. Here is what I have so far.
+1580824	security	1	1047	0	1	34.2	297791	7844	recent@security|recent@AI	HOT	‘Extreme concern’ over first known AI hack of a government system
+1581109	lightning	1	1036	0	2	25.7	440729	296	recent@lightning	HOT	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02e19f348421b0ef3…)
+1580908	bitcoin	1	843	0	0	31.1	280679	23579	recent@bitcoin		Bitcoin is 1% of global money
+1580900	security	1	812	0	7	31.5	213009	180	recent@security|recent@privacy|recent@tech		An agent that configures my machine without touching it
+1581207	AI	1	744	0	1	21.9	48657	15740	recent@AI|top@AI		Restaurants Are Using AI to Advertise Their Food and It’s Making People Sick
+1581171	bitcoin	1	708	0	2	23.4	280679	23579	recent@bitcoin|top@bitcoin		Letter #7: Notes from the Inside
+1581027	security	1	687	0	0	28.2	280679	23579	recent@security		Email address exposure at newsletter provider Brevo
+1581359	art	3	589	0	0	18.9	6274	2297	recent@AI|top@AI		Infinite Slop by levelsio + fal.ai
+1581183	bitcoin_Mining	1	508	0	2	23.1	1054143	1342	recent@bitcoin_Mining|top@bitcoin_Mining		Luxor Expands Bitcoin Mining Operations Into AI Infrastructure
+1581332	bitcoin	1	500	0	1	19.5	31032	995	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		I Asked 100 Harvard Students About Bitcoin... (now I'm worried)
+1580952	security	1	493	0	0	29.6	280679	23579	recent@security		There's a new way to break RSA that's faster than anything we've seen before
+1581294	news	2	390	0	3	20.3	238412	313	recent@AI|top@AI		Jacob Coxon Worked With Doomer PR Firm
+1581505	AskSN	2	360	0	1	13.3	1301409	70	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Is there a place for stables on BTC?
+1581522	tech	1	317	0	0	12.2	934367	1070	recent@tech|top@tech		Snapdragon X2 chips will finally support Linux
+1580877	lightning	1	308	0	2	32.4	440729	296	recent@lightning		~Lightning Gossip newsletter - 026W38
+1581220	nostr	1	237	0	0	21.4	1581213	5	recent@nostr|top@nostr		Move to Nostr from anywhere central!
+1580921	Design	2	218	0	1	30.4	273359	1115	recent@devs		"Use often precedes understanding."
+1581181	bitcoin	1	208	0	0	23.1	495235	41	recent@bitcoin|top@bitcoin		Thank God for Bitcoin • Trust but Verify: Jessy Gilger, CFP's Bitcoin Journey
+1581434	bitcoin	1	138	0	0	17.3	1208996	513	recent@bitcoin_beginners|top@bitcoin_beginners		🔥The Bitcoin Dilemma ⚡🔥
+1581331	AI	1	102	0	0	19.5	1575305	6	recent@AI|top@AI		Feds Target AI Critics As “Foreign Agents” (you fuckers wanted this)
+1581595	bitcoin_beginners	1	95	0	2	9.1	1581593	3	recent@bitcoin_beginners|top@bitcoin_beginners		Why I Believe Bitcoin Matters
+1581626	lightning	1	61	0	1	8.3	1565923	12	recent@lightning|top@lightning		v0.21.4-beta.rc1
+1581837	AI	1	60	0	0	2.6	328182	4034	recent@AI|top@AI		The Rise—and Fall?—of the University
+1581880	lol	2	57	0	1	1.6	296825	5414	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH	Started this CLOWNCARD bit after COLDCARD wallet got drained in the exploit
+1580847	AI	1	57	0	1	33.5	263596	258	recent@AI		Australia says OpenAI agent hacked government website, checks for more breaches
+1581762	AI	1	36	0	0	4.0	296825	5414	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Will BitDevs Let AI Do the Work?
+1581163	bitcoin_beginners	1	36	0	1	23.6	1579727	8	recent@bitcoin_beginners|top@bitcoin_beginners		Why Can Bitcoin Transactions Become Less Private Over Time?
+1581890	bitcoinplusplus	1	36	0	0	1.3	163128	3914	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH	Silent Payments finally made some noise - This Week in Bitcoin Core #59
+1581809	AI	1	36	0	0	3.1	1532699	377	recent@AI|top@AI		Google Is About to Put AI Computing in Space
+1581558	AI	1	36	0	0	10.3	934367	1070	recent@AI|top@AI		Codex Security: now in research preview
+1580794	AI	1	21	0	1	35.8	1054143	1342	recent@AI		AI boom threatens to widen digital divide
+1580925	security	1	0	0	0	30.3	1577530	16	recent@security		Back Doors Are the #1 Break‑In Point (CCTV Expert Explains)
+1581887	news	2	0	0	0	1.4	272410	1604	recent@AI|top@AI	FRESH	Criminal group used AI to hack Spanish railway network and steal 500 GB
+1581871	AI	1	0	0	0	1.9	328182	4034	recent@AI|top@AI	FRESH	Anthropic's founders seek voting control ahead of IPO
