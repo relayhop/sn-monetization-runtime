@@ -1,0 +1,24 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Cloud cron runtime for the Stacker News Monetization engine",
+  "type": "module",
+  "main": "scripts/sn_opportunity_radar.mjs",
+  "scripts": {
+    "test": "node --test test/",
+    "radar": "node scripts/sn_radar_v2.mjs",
+    "process-bounties": "node scripts/process_bounties.mjs",
+    "intel": "node scripts/sn_intel.mjs",
+    "ledger": "node scripts/sn_ledger_cloud.mjs",
+    "trending": "node scripts/trending_topics.mjs"
+  },
+  "keywords": [
+    "stackernews",
+    "bounty",
+    "radar",
+    "lightning",
+    "monetization"
+  ],
+  "author": "relayhop",
+  "license": "MIT"
+}
