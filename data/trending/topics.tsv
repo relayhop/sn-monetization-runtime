@@ -1,34 +1,38 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-26T00:23:19.050Z; n=40
-what	hn,sn:AI	8.18	yes	
-show	hn	3.98	yes	
-turn	sn:bitcoin	3.59	yes	
-lightning	sn:bitcoin	3.59	yes	
-spring	sn:Permaculture	3.47	no	RISING
-permaculture homestead	sn:Permaculture	3.47	no	RISING
-bitcoin standard	sn:Permaculture	3.47	no	RISING
+# generated 2026-09-26T09:10:59.246Z; n=40
+what	hn,sn:AskSN,sn:AI	10.68	yes	
+show	hn	4.07	yes	
+turn	sn:bitcoin	3.61	yes	
+lightning	sn:bitcoin	3.61	yes	
 the mongol conquests	sn:charts_and_maps	3.45	no	RISING
+weekly random sports pick	sn:Stacker_Sports	3.22	no	RISING
 dorian nakamoto	sn:Music	3.2	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.19	no	RISING
-image	sn:events	3.18	no	RISING
-btchel	sn:events	3.18	no	RISING
-week	sn:events	3.18	no	RISING
+late summer permaculture homesteading	sn:Permaculture	3.19	no	RISING
+bitcoin standard	sn:Permaculture	3.19	no	RISING
+image	sn:events	3.19	no	RISING
+btchel	sn:events	3.19	no	RISING
+week	sn:events	3.19	no	RISING
+lighting	sn:lightning	3.17	no	RISING
+fell out of love with bitcoin lightning	sn:lightning	3.17	no	RISING
 post	sn:bitcoin	3.12	yes	
 stack exchange	sn:bitcoin	3.12	yes	
 bitcoin optech newsletter	sn:bitcoin	3.12	yes	
 flock and other tech firms decline senate testimony on mass surveillance	sn:security	3.11	no	RISING
-lighting	sn:lightning	3.1	no	RISING
-fell out of love with bitcoin lightning	sn:lightning	3.1	no	RISING
-daily discussion thread	sn:Music	3.05	no	RISING
-music saloon	sn:Music	3.05	no	RISING
+undisciplined	sn:Stacker_Sports	3.1	no	RISING
 disclosure	sn:lightning	3.04	no	RISING
 eclair	sn:lightning	3.04	no	RISING
+bitcoin	sn:bitcoin	3.03	yes	
+bull case	sn:bitcoin	3.03	yes	
+billion daily users by	sn:bitcoin	3.03	yes	
+coldcard	sn:bitcoin	3.03	yes	
 top animal world posts of the week	sn:Animal_World	2.99	no	RISING
 proton	sn:lol	2.98	yes	
 people	sn:lol	2.98	yes	
 trillion price	sn:Politics_And_Law	2.98	no	RISING
 avoiding social security reform	sn:Politics_And_Law	2.98	no	RISING
-coldcard	sn:bitcoin	2.96	yes	
+postgres	hn	2.96	no	RISING
+the legend	sn:math	2.96	no	RISING
+sissa	sn:math	2.96	no	RISING
 in her final weeks	sn:bitcoin	2.95	yes	
 peirce calls	sn:bitcoin	2.95	yes	
 ending	sn:bitcoin	2.95	yes	
@@ -36,7 +40,3 @@ panopticon	sn:bitcoin	2.95	yes
 decrypt	sn:bitcoin	2.95	yes	
 bitcoin beginners newsletter	sn:bitcoin_beginners	2.95	no	RISING
 welp	sn:news	2.94	no	RISING
-mstr	sn:news	2.94	no	RISING
-srtc	sn:news	2.94	no	RISING
-where	sn:bitcoin	2.94	yes	
-undisciplined	sn:Stacker_Sports	2.93	no	RISING
