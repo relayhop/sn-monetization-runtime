@@ -86,6 +86,8 @@ export const SUB_ANGLE = {
   Education: 'pedagogy critique',
   charts_and_maps: 'data viz critique',
   BooksAndArticles: 'review with synthesis angle',
+  books_and_articles: 'review with synthesis angle',
+  Stacker_Sports: 'endurance metrics, sports analytics, contest picks',
   news: 'context-add to news without rehashing',
   podcasts: 'episode summary with technical angle',
 };
