@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-09-26T09:10:59.246Z; n=40
-what	hn,sn:AskSN,sn:AI	10.68	yes	
-show	hn	4.07	yes	
-turn	sn:bitcoin	3.61	yes	
-lightning	sn:bitcoin	3.61	yes	
+# generated 2026-09-26T14:10:27.026Z; n=40
+what	hn,sn:AskSN,sn:AI	10.86	yes	
 the mongol conquests	sn:charts_and_maps	3.45	no	RISING
+late summer permaculture homesteading	sn:Permaculture	3.33	no	RISING
+bitcoin standard	sn:Permaculture	3.33	no	RISING
 weekly random sports pick	sn:Stacker_Sports	3.22	no	RISING
-dorian nakamoto	sn:Music	3.2	no	RISING
-late summer permaculture homesteading	sn:Permaculture	3.19	no	RISING
-bitcoin standard	sn:Permaculture	3.19	no	RISING
+bitcoin	sn:bitcoin	3.21	yes	
+bull case	sn:bitcoin	3.21	yes	
+billion daily users by	sn:bitcoin	3.21	yes	
+lighting	sn:lightning	3.2	no	RISING
+fell out of love with bitcoin lightning	sn:lightning	3.2	no	RISING
 image	sn:events	3.19	no	RISING
 btchel	sn:events	3.19	no	RISING
 week	sn:events	3.19	no	RISING
-lighting	sn:lightning	3.17	no	RISING
-fell out of love with bitcoin lightning	sn:lightning	3.17	no	RISING
-post	sn:bitcoin	3.12	yes	
-stack exchange	sn:bitcoin	3.12	yes	
-bitcoin optech newsletter	sn:bitcoin	3.12	yes	
-flock and other tech firms decline senate testimony on mass surveillance	sn:security	3.11	no	RISING
 undisciplined	sn:Stacker_Sports	3.1	no	RISING
-disclosure	sn:lightning	3.04	no	RISING
-eclair	sn:lightning	3.04	no	RISING
-bitcoin	sn:bitcoin	3.03	yes	
-bull case	sn:bitcoin	3.03	yes	
-billion daily users by	sn:bitcoin	3.03	yes	
+daily discussion thread	sn:Music	3.1	no	RISING
+music saloon	sn:Music	3.1	no	RISING
 coldcard	sn:bitcoin	3.03	yes	
-top animal world posts of the week	sn:Animal_World	2.99	no	RISING
-proton	sn:lol	2.98	yes	
-people	sn:lol	2.98	yes	
-trillion price	sn:Politics_And_Law	2.98	no	RISING
-avoiding social security reform	sn:Politics_And_Law	2.98	no	RISING
-postgres	hn	2.96	no	RISING
-the legend	sn:math	2.96	no	RISING
-sissa	sn:math	2.96	no	RISING
+books	sn:BooksAndArticles	3	no	RISING
+articles weekly	sn:BooksAndArticles	3	no	RISING
+the legend	sn:math	2.97	no	RISING
+sissa	sn:math	2.97	no	RISING
+welp	sn:news	2.95	no	RISING
+mstr	sn:news	2.95	no	RISING
+srtc	sn:news	2.95	no	RISING
 in her final weeks	sn:bitcoin	2.95	yes	
 peirce calls	sn:bitcoin	2.95	yes	
 ending	sn:bitcoin	2.95	yes	
 panopticon	sn:bitcoin	2.95	yes	
 decrypt	sn:bitcoin	2.95	yes	
-bitcoin beginners newsletter	sn:bitcoin_beginners	2.95	no	RISING
-welp	sn:news	2.94	no	RISING
+daily putt	sn:gaming	2.94	no	RISING
+play	sn:gaming	2.94	no	RISING
+putt	sn:gaming	2.94	no	RISING
+score	sn:gaming	2.94	no	RISING
+where	sn:bitcoin	2.94	yes	
+bosa	sn:Stacker_Sports	2.88	no	RISING
+parents	sn:family	2.85	no	RISING
+daposka ahnkodapi	sn:family	2.85	no	RISING
+curry barker interview	sn:DIY	2.83	no	RISING
+tom power	sn:DIY	2.83	no	RISING
+cashu	sn:bitcoin	2.8	yes	
