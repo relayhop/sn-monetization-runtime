@@ -145,10 +145,19 @@ function classify(item) {
   try { fs.unlinkSync(latest); } catch {}
   try { fs.symlinkSync(path.basename(tsvPath), latest); } catch {}
 
-  // 2. 累積 SIGNAL targets (append-only)
+  // 2. 累積 SIGNAL targets (append-only, dedup by id)
+  // 同一 item 在 36h lookback window 內會被多個 tier 掃到多次；
+  // 若不去重會導致同一筆 bounty 每次掃描都重複寫入/重複觸發下游 alert
+  // （例如同一個 OPEN_BOUNTY 被開成多個重複 issue）。
   const accumFile = path.join(accumDir, 'all_signals.tsv');
   if (!fs.existsSync(accumFile)) fs.writeFileSync(accumFile, '# discovered_at\t' + headers.slice(2) + '\n');
-  const sigItems = top.filter(it => it._tags.includes('SIGNAL'));
+  const seenSignalIds = new Set(
+    fs.readFileSync(accumFile, 'utf8')
+      .split('\n')
+      .filter(l => l && !l.startsWith('#'))
+      .map(l => l.split('\t')[1])
+  );
+  const sigItems = top.filter(it => it._tags.includes('SIGNAL') && !seenSignalIds.has(String(it.id)));
   for (const it of sigItems) {
     fs.appendFileSync(accumFile, new Date().toISOString() + '\t' + row(it) + '\n');
   }
