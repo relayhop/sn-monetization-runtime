@@ -1,0 +1,18 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Stacker News Monetization Runtime and Opportunity Processor",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "radar": "node scripts/sn_radar_v2.mjs",
+    "process": "node scripts/sn_bounty_processor.mjs"
+  },
+  "keywords": [
+    "stacker-news",
+    "bounty",
+    "monetization"
+  ],
+  "author": "",
+  "license": "ISC"
+}
