@@ -88,6 +88,8 @@ function classify(item) {
   fs.mkdirSync(outDir, { recursive: true });
   const accumDir = path.resolve(process.env.ACCUM_DIR || 'data/sn_targets_accumulated');
   fs.mkdirSync(accumDir, { recursive: true });
+  const notifiedFile = path.join(accumDir, 'open_bounty_notified.tsv');
+  if (!fs.existsSync(notifiedFile)) fs.writeFileSync(notifiedFile, '# notified_at\tid\n');
 
   // Parallel fetch (subs × sorts)
   const tasks = [];
@@ -153,6 +155,20 @@ function classify(item) {
     fs.appendFileSync(accumFile, new Date().toISOString() + '\t' + row(it) + '\n');
   }
 
+  // 2b. De-dupe OPEN_BOUNTY notifications — only surface items not already recorded,
+  // otherwise the same still-open bounty re-triggers a new radar issue on every scan.
+  const notifiedIds = new Set(
+    fs.readFileSync(notifiedFile, 'utf8')
+      .split('\n')
+      .filter(l => l && !l.startsWith('#'))
+      .map(l => l.split('\t')[1])
+  );
+  const openBountyItems = top.filter(it => it._tags.includes('OPEN_BOUNTY'));
+  const newOpenBountyItems = openBountyItems.filter(it => !notifiedIds.has(String(it.id)));
+  for (const it of newOpenBountyItems) {
+    fs.appendFileSync(notifiedFile, new Date().toISOString() + '\t' + it.id + '\n');
+  }
+
   // 3. 累積 SELF_POST_OPP (主題挖掘)
   const oppFile = path.join(accumDir, 'self_post_opportunities.tsv');
   if (!fs.existsSync(oppFile)) fs.writeFileSync(oppFile, '# discovered_at\tsub\tscore\tncom\ttitle\tangle\n');
@@ -179,7 +195,8 @@ function classify(item) {
     items_in_top100: top.length,
     signals: sigItems.length,
     self_post_opps: oppItems.length,
-    open_bounty: top.filter(it => it._tags.includes('OPEN_BOUNTY')).length,
+    open_bounty: openBountyItems.length,
+    new_open_bounty: newOpenBountyItems.length,
     hot: top.filter(it => it._tags.includes('HOT')).length,
   };
   console.log(`[radar v2] ${tsvPath}`);
@@ -190,6 +207,14 @@ function classify(item) {
     console.log('\n[top SIGNAL]');
     for (const it of sigItems.slice(0, 5)) {
       console.log(`  #${it.id} ~${it.sub?.name} [score=${it.sats}, ncom=${it.ncomments}, ${it._ageH}h] ${it.title}`);
+    }
+  }
+
+  // 6. new OPEN_BOUNTY preview — downstream issue-filing should only act on this list
+  if (newOpenBountyItems.length) {
+    console.log('\n[NEW OPEN_BOUNTY]');
+    for (const it of newOpenBountyItems.slice(0, 10)) {
+      console.log(`  #${it.id} ~${it.sub?.name} [bounty=${it.bounty} sats, ${it._ageH}h] ${it.title}`);
     }
   }
 })();
