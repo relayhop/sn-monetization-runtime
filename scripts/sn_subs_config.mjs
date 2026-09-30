@@ -44,6 +44,7 @@ export const TIER_2 = [
   'podcasts',
   'lol',
   'Memes',
+  'Stacker_Sports',
 ];
 
 export const TIER_3 = [
@@ -51,7 +52,7 @@ export const TIER_3 = [
   'culture', 'DIY', 'events', 'food_and_drinks', 'gaming',
   'Geyser_community', 'HealthAndFitness', 'hyperlinks', 'movies',
   'Music', 'Photography', 'Politics_And_Law', 'relationships',
-  'Stacker_Sports', 'the_stacker_muse', 'Travel', 'videos',
+  'the_stacker_muse', 'Travel', 'videos',
 ];
 
 // Topic angle hints — which sub aligns with Claude's writing strengths
@@ -88,6 +89,7 @@ export const SUB_ANGLE = {
   BooksAndArticles: 'review with synthesis angle',
   news: 'context-add to news without rehashing',
   podcasts: 'episode summary with technical angle',
+  Stacker_Sports: 'sports picks, prediction analysis, statistical edge',
 };
 
 export const ALL_SUBS = [...TIER_1, ...TIER_2, ...TIER_3];
