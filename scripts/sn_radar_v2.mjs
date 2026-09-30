@@ -68,17 +68,19 @@ function classify(item) {
   const bounty = Number(item.bounty || 0);
   const ncom = Number(item.ncomments || 0);
   const score = Number(item.sats || 0);
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo) tags.push('OPEN_BOUNTY');
-  if (bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
+  const isOpenBounty = bounty >= MIN_BOUNTY_SATS && !item.bountyPaidTo;
+  if (isOpenBounty) tags.push('OPEN_BOUNTY');
+  if (isOpenBounty && ncom <= MAX_COMMENTS_FOR_LOW_COMP) tags.push('LOW_COMP');
   if (item.sub?.name === 'jobs') tags.push('JOB');
   if (ageHours <= 2) tags.push('FRESH');
   if (score >= 1000) tags.push('HOT');
   // SIGNAL: score>=100 AND ncom<=0.3*score AND age<=12h (CLAUDE.md hard rule #3)
   if (score >= 100 && ncom <= 0.3 * score && ageHours <= 12) tags.push('SIGNAL');
-  // SELF_POST_OPPORTUNITY: high score parents in low-saturation subs
-  // Heuristic: T2/T3 sub with score >= 200 AND ncom >= 5 → topic has audience but few writers
+  // SELF_POST_OPPORTUNITY: high score parents in low-saturation subs — topic has audience but few writers.
+  // Explicitly excluded when OPEN_BOUNTY is present: bounty posts call for a comment/answer response,
+  // not a new self-post on the topic. Mixing the two signals creates contradictory action plans.
   const t = TIER_OF[item.sub?.name] || 3;
-  if (t >= 2 && score >= 200 && ncom >= 5 && ncom <= 20) tags.push('SELF_POST_OPP');
+  if (!isOpenBounty && t >= 2 && score >= 200 && ncom >= 5 && ncom <= 20) tags.push('SELF_POST_OPP');
   return { tags, ageHours, score, ncom, tier: t };
 }
 
@@ -112,8 +114,11 @@ function classify(item) {
   }
   const all = [...byId.values()];
 
-  // Sort: SIGNAL first, then HOT, then by score
+  // Sort: OPEN_BOUNTY first, then SIGNAL, then HOT, then by score
   all.sort((a, b) => {
+    const bA = a._tags.includes('OPEN_BOUNTY') ? 1 : 0;
+    const bB = b._tags.includes('OPEN_BOUNTY') ? 1 : 0;
+    if (bA !== bB) return bB - bA;
     const sA = a._tags.includes('SIGNAL') ? 1 : 0;
     const sB = b._tags.includes('SIGNAL') ? 1 : 0;
     if (sA !== sB) return sB - sA;
@@ -190,6 +195,15 @@ function classify(item) {
     console.log('\n[top SIGNAL]');
     for (const it of sigItems.slice(0, 5)) {
       console.log(`  #${it.id} ~${it.sub?.name} [score=${it.sats}, ncom=${it.ncomments}, ${it._ageH}h] ${it.title}`);
+    }
+  }
+
+  // 6. quick top-5 OPEN_BOUNTY preview
+  const bountyItems = top.filter(it => it._tags.includes('OPEN_BOUNTY'));
+  if (bountyItems.length) {
+    console.log('\n[top OPEN_BOUNTY]');
+    for (const it of bountyItems.slice(0, 5)) {
+      console.log(`  #${it.id} ~${it.sub?.name} [bounty=${it.bounty}, ncom=${it.ncomments}, ${it._ageH}h] ${it.title}`);
     }
   }
 })();
