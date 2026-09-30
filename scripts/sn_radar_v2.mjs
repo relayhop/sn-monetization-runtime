@@ -169,6 +169,14 @@ function classify(item) {
     ].join('\t') + '\n');
   }
 
+  // 3b. 累積 OPEN_BOUNTY targets (bounty 尚未被領取，需持續追蹤直到過期或被回覆)
+  const bountyFile = path.join(accumDir, 'open_bounties.tsv');
+  if (!fs.existsSync(bountyFile)) fs.writeFileSync(bountyFile, '# discovered_at\t' + headers.slice(2) + '\n');
+  const bountyItems = top.filter(it => it._tags.includes('OPEN_BOUNTY'));
+  for (const it of bountyItems) {
+    fs.appendFileSync(bountyFile, new Date().toISOString() + '\t' + row(it) + '\n');
+  }
+
   // 4. summary
   const summary = {
     tiers_scanned: TIERS,
