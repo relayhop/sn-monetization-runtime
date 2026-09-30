@@ -86,6 +86,8 @@ export const SUB_ANGLE = {
   Education: 'pedagogy critique',
   charts_and_maps: 'data viz critique',
   BooksAndArticles: 'review with synthesis angle',
+  Stacker_Stocks: 'equities, market structure, macro analysis, weekly close technicals',
+  Stacker_Sports: 'sports analytics, probability modeling, prediction markets',
   news: 'context-add to news without rehashing',
   podcasts: 'episode summary with technical angle',
 };
