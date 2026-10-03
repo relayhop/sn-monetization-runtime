@@ -87,11 +87,21 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const body = `New SN OPEN_BOUNTY detected:\n\n\`\`\`\n${{ steps.radar.outputs.bounties }}\n\`\`\``;
-            await github.rest.issues.create({
+            const title = `[radar] SN open bounty`;
+            const { data: issues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `[radar] SN open bounty ${new Date().toISOString().slice(0,16)}`,
-              body,
+              state: 'open',
               labels: ['radar', 'sn', 'bounty']
             });
+            const exists = issues.some(i => i.title.startsWith(title));
+            if (!exists) {
+              const body = `New SN OPEN_BOUNTY detected:\n\n\`\`\`\n${{ steps.radar.outputs.bounties }}\n\`\`\``;
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `${title} ${new Date().toISOString().slice(0,16)}`,
+                body,
+                labels: ['radar', 'sn', 'bounty']
+              });
+            }
