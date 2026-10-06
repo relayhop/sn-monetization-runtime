@@ -1,0 +1,11 @@
+- handleBountyDetection(bountyData) {
+-     // existing code
++     handleBountyDetection(bountyData) {
++         const bounties = bountyData.split('\n');
++         bounties.forEach(bounty => {
++             const [id, username, type, amount, reward, weight, forumId, threadId, poster, tags, description] = bounty.split('\t');
++             if (tags.includes('OPEN_BOUNTY')) {
++                 processBounty(id, username, amount, reward, weight, forumId, threadId, poster, tags, description);
++             }
++         });
++     }
