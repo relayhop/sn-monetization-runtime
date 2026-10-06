@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-06T11:02:50.567Z; n=40
-bitcoin	sn:AskSN,sn:bitcoin	7.28	yes	
-michael munger	sn:BooksAndArticles	6.25	no	RISING
-nobel prize	hn,sn:science	5.37	no	RISING
+# generated 2026-10-06T20:48:31.700Z; n=40
+michael munger	sn:BooksAndArticles	6.31	no	RISING
+lightning	sn:lightning,sn:bitdevs	6.26	yes	
+munger	sn:AGORA	4.4	no	RISING
 stacker news zine	sn:meta	4.09	yes	
-bitcoin stablecoins	sn:bitcoin	4.09	yes	
-freedom	sn:bitcoin	4.09	yes	
-choose	sn:bitcoin	4.09	yes	
-all ownership	sn:AskSN	4.04	no	RISING
-provisional	sn:AskSN	4.04	no	RISING
-can you own	sn:AskSN	4.04	no	RISING
-forest	sn:AskSN	4.04	no	RISING
-what about	sn:AskSN	4.04	no	RISING
-the state	sn:BooksAndArticles	3.82	no	RISING
-entrepreneurial	sn:BooksAndArticles	3.82	no	RISING
-it matches nature	sn:BooksAndArticles	3.82	no	RISING
-entrepreneurs	sn:BooksAndArticles	3.82	no	RISING
-glimpse	sn:bitcoin	3.73	yes	
-live	sn:bitcoin	3.73	yes	
-prediction markets	sn:bitcoin	3.73	yes	
-prices	sn:bitcoin	3.73	yes	
-math puzzle	sn:math	3.48	no	RISING
-an infinite orchard	sn:math	3.48	no	RISING
-christmas	sn:HealthAndFitness	3.45	no	RISING
-china shuts hundreds	sn:Politics_And_Law	3.45	no	RISING
-banks	sn:Politics_And_Law	3.45	no	RISING
-beijing moves	sn:Politics_And_Law	3.45	no	RISING
-shore up	sn:Politics_And_Law	3.45	no	RISING
-financial system	sn:Politics_And_Law	3.45	no	RISING
-controlling neural circuits	sn:science	3.4	no	RISING
-light	sn:science	3.4	no	RISING
-economic gravity	sn:econ	3.3	no	RISING
-you can	sn:econ	3.3	no	RISING
-unilaterally increase your own economic value	sn:econ	3.3	no	RISING
+distributed charge	sn:bitcoin	4.06	yes	
+live	sn:bitcoin	4.06	yes	
+bring	sn:bitcoin	4.06	yes	
+russian	sn:news	4.01	no	RISING
+the state	sn:BooksAndArticles	3.84	no	RISING
+entrepreneurial	sn:BooksAndArticles	3.84	no	RISING
+it matches nature	sn:BooksAndArticles	3.84	no	RISING
+entrepreneurs	sn:BooksAndArticles	3.84	no	RISING
+show	hn	3.49	yes	
+ben carman	sn:lightning	3.38	no	RISING
+agent payments	sn:lightning	3.38	no	RISING
+last	sn:Stacker_Sports	3.36	no	RISING
+coinjoin	sn:Coinjoins	3.34	yes	
+the beauty	sn:AskSN	3.29	no	RISING
+human eyes	sn:AskSN	3.29	no	RISING
 privacy-focused	sn:privacy	3.27	no	RISING
 phreeli	sn:privacy	3.27	no	RISING
-join	sn:Stacker_Sports	3.26	no	RISING
-last	sn:Stacker_Sports	3.26	no	RISING
-what	sn:bitcoin	3.24	yes	
-digital	sn:ideasfromtheedge	3.24	no	RISING
-crownie	sn:food_and_drinks	3.21	no	RISING
+liberalism under threat	sn:BooksAndArticles	3.18	no	RISING
+map of	sn:Travel	3.15	no	RISING
+rail infrastructure over time	sn:Travel	3.15	no	RISING
+mistral large	hn	3.13	no	RISING
+ranked	sn:charts_and_maps	3.13	no	RISING
+wealth	sn:charts_and_maps	3.13	no	RISING
+generation	sn:charts_and_maps	3.13	no	RISING
+is getting delisted soon	sn:gaming	3.13	no	RISING
+single-player modes also closing down	sn:gaming	3.13	no	RISING
+the eighteenth brumaire	sn:BooksAndArticles	3.13	no	RISING
+collective wrongs	sn:BooksAndArticles	3.13	no	RISING
+nonfungible	sn:lol	3.12	no	RISING
+the mixer rule	sn:privacy	3.09	no	RISING
+dead	sn:privacy	3.09	no	RISING
+long live outlawing mixers	sn:privacy	3.09	no	RISING
+the rage	sn:privacy	3.09	no	RISING
+reusable tamper proof storage option	sn:security	3.07	yes	
+private keys storage	sn:security	3.07	yes	
+daily discussion thread	sn:Music	3.07	no	RISING
