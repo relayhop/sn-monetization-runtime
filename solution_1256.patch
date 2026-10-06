@@ -1,0 +1,4 @@
+- if (bounty.type === "OPEN_BOUNTY") {
++ if (bounty.type === "OPEN_BOUNTY" && bounty.source === "SELF_POST_OPP") {
+-     handleBounty(bounty);
++     handleBounty(bounty, "Daily Stock Discussion Sunday's Weekly Close Contest 🟥 or 🟩? Up 20k sat award!");
