@@ -1,0 +1,61 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1590039	bitcoin	1	11389	0	4	3.7	227606	2603	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Distributed Charge: Live in the future. Bring a broom!
+1589766	lightning	1	2391	0	5	8.1	263526	901	recent@lightning|top@lightning	HOT,SIGNAL	Ben Carman SLP779 | Lightning in x402 and Agent Payments
+1590071	bitcoin	1	2110	0	6	3.1	74100	13094	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	New swap tools for going onchain <-> lightning
+1590174	privacy	1	1226	0	2	1.2	74100	13094	recent@privacy|top@privacy	FRESH,HOT,SIGNAL	The Mixer Rule is Dead, Long Live Outlawing Mixers - The Rage
+1589905	security	1	1179	0	6	6.2	51481	4282	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	EntropySeal - Reusable Tamper Proof Storage Option - Private Keys Storage
+1590131	lightning	1	1113	0	1	2.1	440729	314	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03462b1cfa21153a7…)
+1589945	bitdevs	1	755	0	5	5.3	74100	13094	recent@bitdevs|top@bitdevs|recent@lightning	SIGNAL	Fedimint discloses a bug in Lightning gateway's LNv2 payment handling
+1589975	bitcoin	1	669	0	0	4.9	126503	827	recent@bitcoin|top@bitcoin	SIGNAL	BTCPay Server 2.4.5: Security Hardening and a Leaner Docker Deployment
+1589809	lightning	1	580	0	1	7.5	163128	3943	recent@lightning|top@lightning	SIGNAL	Unfunded channel flood DoS vulnerability fixed in Eclair v0.14.1
+1590129	tech	1	440	0	0	2.1	1497665	14	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	satd 0.6.0: solo mine directly to your node
+1589838	lightning	1	414	0	1	7.1	163128	3943	recent@lightning|top@lightning	SIGNAL	ACINQ/eclair · Release v0.14.3 · upgrade highly recommended
+1589791	lightning	1	390	0	1	7.7	163128	3943	recent@lightning|top@lightning	SIGNAL	DoS: Fake Lightning Channels (2023)
+1589906	AskSN	2	317	0	6	6.2	375108	377	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL,SELF_POST_OPP	AskSN: How long should a P2P exchange over Lightning take?
+1589943	bitcoin	1	218	0	1	5.4	296825	5538	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Joinstr: Coinjoin pools using MuSig2 and pre-signed transactions.
+1589958	AI	1	211	0	6	5.1	1532699	398	recent@AI|top@AI	SIGNAL	Almost Nobody Is Paying for AI
+1590195	AskSN	2	161	0	0	0.7	1208996	518	recent@AI|top@AI	FRESH,SIGNAL	🤖💰 Would you hand over your money to an AI?
+1589780	bitcoin_beginners	1	154	0	0	7.9	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Global Map of Computers Mining Bitcoin
+1589739	Design	2	138	0	0	9.3	272410	1768	recent@devs|top@devs	SIGNAL	New FOSS web browser Blanc opts for a different kind of UI
+1589913	AI	1	128	0	0	6.0	272410	1768	recent@AI|top@AI	SIGNAL	Anthropic Reports User to the Police
+1589690	meta	1	110	0	0	10.8	36151	1660	recent@meta|top@meta	SIGNAL	This Day on SN: October 6
+1590033	art	3	104	0	0	3.7	245033	576	recent@AI|top@AI	SIGNAL	You Are the Room
+1589679	AI	1	102	0	0	11.1	1054143	1393	recent@AI|top@AI	SIGNAL	South Korea Warns Of Possible AI Use In Banking Hacks
+1588755	bitcoin	1	12577	0	31	32.7	934367	1105	recent@bitcoin|recent@lightning	HOT	Bitcoin Stablecoins and the Freedom to Choose
+1589519	meta	1	12357	0	9	19.7	92827	2951	recent@meta|top@meta	HOT	keep stacking paper with Stacker News Zine issue #73
+1588780	bitcoin	1	5362	0	50	32.3	109384	144	recent@bitcoin	HOT	Glimpse v2 is Live: Prediction Markets on Prices
+1589214	bitcoin	1	2763	0	6	24.2	223678	6430	recent@bitcoin	HOT	What can you actually buy with Bitcoin in the UK?
+1589217	privacy	1	1874	0	22	23.9	7693	2397	recent@privacy|top@privacy	HOT	Has anyone in here used the privacy-focused phone service, Phreeli?
+1589430	bitcoin	1	1598	0	6	22.2	1566662	25	recent@bitcoin|top@bitcoin	HOT	FinCEN dropped its mixing rule. Samourai's devs are in jail until 2028 and 2029.
+1588836	AI	1	1402	0	3	31.5	879734	10102	recent@AI	HOT	Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite
+1588648	bitcoin	1	1250	0	10	35.6	1588569	10	recent@bitcoin	HOT	anyone sold BIP-110 / BLAKE2b fork coins, or leave the UTXOs alone?
+1588971	bitcoin	1	1050	0	1	28.7	462245	307	recent@bitcoin|recent@bitcoinplusplus	HOT	Payments Edition — Last Week in Bitcoin (Sep 28 - Oct 04)
+1589220	lightning	1	1044	0	2	23.8	440729	314	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (5.3 BTC) + New Node Spotlight (02de8033df0e1d6c0…)
+1589500	bitcoin_beginners	1	674	0	5	20.4	1461766	40	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Arkpool: Bitaxe mining with low 1 sat minimum, hourly payouts.
+1589579	bitcoin	1	529	0	3	17.6	223678	6430	recent@bitcoin|top@bitcoin		Spark Spyware
+1588905	bitcoin	1	441	0	1	29.8	178	943	recent@bitcoin		Bitcoin Tech Talk #521: Loving Normies, AI Destruction, Entitlement, Peanuts++
+1588732	bitcoin_beginners	1	363	0	0	33.4	296825	5538	recent@bitcoin_beginners|recent@lightning		Zaps.bio — the link in bio that gets paid in Bitcoin
+1589662	AI	1	339	0	0	12.9	934367	1105	recent@tech|top@tech|recent@AI		Open-weight models are winning
+1589049	bitcoin	1	335	0	0	27.3	495235	42	recent@bitcoin		Bitcoin Physicians Network and Verify Wealth Webinar this Wednesday!
+1588777	bitcoin	1	304	0	2	32.4	1574097	18	recent@bitcoin		How to get paid in bitcoin as a freelancer
+1589085	AI	1	292	0	0	26.7	297791	7894	recent@AI		‘Clearly not working’: Sam Altman hits AI industry over political spending
+1589221	AI	1	259	0	2	23.8	144357	4641	recent@AI|top@AI		INAUGURATING THE ERA OF SUPER INTELLIGENCE
+1588939	bitcoin_beginners	1	223	0	0	29.3	296825	5538	recent@bitcoin_beginners|recent@lightning		The evolution of monetary philosophy from 1695 to 2026.
+1588683	meta	1	214	0	0	34.8	36151	1660	recent@meta		This Day on SN: October 5
+1589180	math	2	207	0	1	24.9	280679	23697	recent@AI		Is AI the End of Math As We Know It?
+1589253	AskSN	2	181	0	0	23.5	1532836	1159	recent@bitcoin_Mining|top@bitcoin_Mining		Incident at a BTC mining farm in Oklahoma...
+1589510	bitcoin	1	148	0	2	20.1	375108	377	recent@bitcoin_beginners|top@bitcoin_beginners		Donating the Anti-Abuse Bond
+1588675	AskSN	2	126	0	4	35.1	296825	5538	recent@bitcoin|recent@bitcoin_beginners|recent@bitdevs		Seriously, What’s the difference betwn custodial lightning & centralized chains?
+1589019	math	2	125	0	1	27.9	296825	5538	recent@bitcoin_beginners		How much purchasing power $100,000 held in cash has lost since January 2009?
+1588669	bitcoin	1	102	0	1	35.3	296825	5538	recent@bitcoin_beginners		The Bitcoin Commons: Bitcoin's consensus rules, written down and verified.
+1589670	bitcoin	1	99	0	0	11.8	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin Shipshow — Bitcoin, Lightning & Nostr builder's Live demos
+1588992	bitcoin	1	66	0	0	28.3	296825	5538	recent@bitcoin_beginners		CFTC Seeks Public Comment on Advanced Notice of Proposed Rules On Regulation
+1589445	AI	1	63	0	0	21.9	1575305	16	recent@AI|top@AI		Tianjin lab unveils a 3-gram brain-computer interface that hides in your hair
+1589195	AI	1	62	0	0	24.8	280679	23697	recent@AI		Get rid of Apple's AI bloatware and reclaim 12 GB of storage
+1589900	bitcoin_beginners	1	57	0	0	6.3	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Offline Signature Spot Checker for disposable BIP84 P2WPKH Single-Sig wallets
+1589932	bitcoin_beginners	1	56	0	1	5.7	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Sazmining | Mine Bitcoin. Own Your Rigs. Ditch the Exchanges.
+1589916	bitcoin_beginners	1	46	0	1	6.0	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners		Download bitchat Before You Need It
+1589666	AI	1	42	0	0	12.1	296825	5538	recent@AI|top@AI		The WordPress MCP Adapter is now released
+1589891	bitcoin_beginners	1	36	0	0	6.6	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners		Sats4Tokens: pay sats (Lightning or Cashu ecash), get an AI API key. No signup
+1589607	bitcoin	1	36	0	0	16.2	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners		BlueWallet v8.0.2 is out for iOS and android
+1588710	security	1	0	0	1	34.0	297791	7894	recent@security		Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE

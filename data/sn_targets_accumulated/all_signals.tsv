@@ -55117,3 +55117,25 @@
 2026-10-06T16:44:59.794Z	1589690	meta	1	110	0	0	6.7	36151	1660	recent@meta|top@meta	SIGNAL	This Day on SN: October 6
 2026-10-06T16:44:59.794Z	1589679	AI	1	102	0	0	7.0	1054143	1393	recent@AI|top@AI	SIGNAL	South Korea Warns Of Possible AI Use In Banking Hacks
 2026-10-06T16:44:59.794Z	1589797	news	2	101	0	0	3.6	297791	7894	recent@news|top@news	SIGNAL	Google enters massive 3.6-GW power deal with Constellation Energy
+2026-10-06T20:50:53.776Z	1590039	bitcoin	1	11389	0	4	3.7	227606	2603	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Distributed Charge: Live in the future. Bring a broom!
+2026-10-06T20:50:53.776Z	1589766	lightning	1	2391	0	5	8.1	263526	901	recent@lightning|top@lightning	HOT,SIGNAL	Ben Carman SLP779 | Lightning in x402 and Agent Payments
+2026-10-06T20:50:53.776Z	1590071	bitcoin	1	2110	0	6	3.1	74100	13094	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	New swap tools for going onchain <-> lightning
+2026-10-06T20:50:53.776Z	1590174	privacy	1	1226	0	2	1.2	74100	13094	recent@privacy|top@privacy	FRESH,HOT,SIGNAL	The Mixer Rule is Dead, Long Live Outlawing Mixers - The Rage
+2026-10-06T20:50:53.776Z	1589905	security	1	1179	0	6	6.2	51481	4282	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	EntropySeal - Reusable Tamper Proof Storage Option - Private Keys Storage
+2026-10-06T20:50:53.776Z	1590131	lightning	1	1113	0	1	2.1	440729	314	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (03462b1cfa21153a7…)
+2026-10-06T20:50:53.776Z	1589945	bitdevs	1	755	0	5	5.3	74100	13094	recent@bitdevs|top@bitdevs|recent@lightning	SIGNAL	Fedimint discloses a bug in Lightning gateway's LNv2 payment handling
+2026-10-06T20:50:53.777Z	1589975	bitcoin	1	669	0	0	4.9	126503	827	recent@bitcoin|top@bitcoin	SIGNAL	BTCPay Server 2.4.5: Security Hardening and a Leaner Docker Deployment
+2026-10-06T20:50:53.777Z	1589809	lightning	1	580	0	1	7.5	163128	3943	recent@lightning|top@lightning	SIGNAL	Unfunded channel flood DoS vulnerability fixed in Eclair v0.14.1
+2026-10-06T20:50:53.777Z	1590129	tech	1	440	0	0	2.1	1497665	14	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	satd 0.6.0: solo mine directly to your node
+2026-10-06T20:50:53.777Z	1589838	lightning	1	414	0	1	7.1	163128	3943	recent@lightning|top@lightning	SIGNAL	ACINQ/eclair · Release v0.14.3 · upgrade highly recommended
+2026-10-06T20:50:53.777Z	1589791	lightning	1	390	0	1	7.7	163128	3943	recent@lightning|top@lightning	SIGNAL	DoS: Fake Lightning Channels (2023)
+2026-10-06T20:50:53.777Z	1589906	AskSN	2	317	0	6	6.2	375108	377	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL,SELF_POST_OPP	AskSN: How long should a P2P exchange over Lightning take?
+2026-10-06T20:50:53.777Z	1589943	bitcoin	1	218	0	1	5.4	296825	5538	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Joinstr: Coinjoin pools using MuSig2 and pre-signed transactions.
+2026-10-06T20:50:53.777Z	1589958	AI	1	211	0	6	5.1	1532699	398	recent@AI|top@AI	SIGNAL	Almost Nobody Is Paying for AI
+2026-10-06T20:50:53.777Z	1590195	AskSN	2	161	0	0	0.7	1208996	518	recent@AI|top@AI	FRESH,SIGNAL	🤖💰 Would you hand over your money to an AI?
+2026-10-06T20:50:53.777Z	1589780	bitcoin_beginners	1	154	0	0	7.9	296825	5538	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Global Map of Computers Mining Bitcoin
+2026-10-06T20:50:53.777Z	1589739	Design	2	138	0	0	9.3	272410	1768	recent@devs|top@devs	SIGNAL	New FOSS web browser Blanc opts for a different kind of UI
+2026-10-06T20:50:53.777Z	1589913	AI	1	128	0	0	6.0	272410	1768	recent@AI|top@AI	SIGNAL	Anthropic Reports User to the Police
+2026-10-06T20:50:53.777Z	1589690	meta	1	110	0	0	10.8	36151	1660	recent@meta|top@meta	SIGNAL	This Day on SN: October 6
+2026-10-06T20:50:53.777Z	1590033	art	3	104	0	0	3.7	245033	576	recent@AI|top@AI	SIGNAL	You Are the Room
+2026-10-06T20:50:53.777Z	1589679	AI	1	102	0	0	11.1	1054143	1393	recent@AI|top@AI	SIGNAL	South Korea Warns Of Possible AI Use In Banking Hacks
