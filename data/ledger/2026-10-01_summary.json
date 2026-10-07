@@ -1,0 +1,20 @@
+{
+  "snapshot_at": "2026-10-01T23:06:00.000Z",
+  "user": "366aad5d38",
+  "stats": {
+    "total_items": 67,
+    "total_self_posts": 5,
+    "total_comments": 62,
+    "total_cost": 333,
+    "total_gross_earned": 1388,
+    "earning_items": 11,
+    "bounties": [
+      {
+        "id": "1586028",
+        "title": "Write my bio",
+        "bounty": 5000,
+        "status": "OPEN_BOUNTY"
+      }
+    ]
+  }
+}
