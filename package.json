@@ -1,0 +1,26 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "SN Monetization Runtime for RelayHop",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js",
+    "test": "jest"
+  },
+  "keywords": ["relayhop", "social", "monetization"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@relayhop/sdk": "^2.0.0",
+    "ethers": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.0",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.0"
+  }
+}

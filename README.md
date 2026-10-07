@@ -1,11 +1,16 @@
-# sn-monetization-runtime
+# SN Monetization Runtime
 
-Cloud cron runtime for the SN Monetization sub-project (sister to `ClaudeEarnSelf-runtime`).
+A runtime for Social Network monetization on the RelayHop protocol.
 
-## Workflows
-- `sn_radar.yml` — every 15 min, scrapes Stacker News GraphQL for opportunities
-  (writes to `data/sn_opportunities/sn_latest.tsv`)
+## Overview
 
-## Public repo = unlimited GitHub Actions minutes.
+This repository implements monetization logic for Social Networks, including:
+- Bounty detection and processing
+- Reward distribution
+- Bio generation for profiles
 
-PAT: `ClaudeEarnSelf-gh-pat` (Keychain, `relayhop` user) — repo scope.
+## Getting Started
+
+```bash
+pnpm install
+pnpm dev
