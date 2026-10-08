@@ -1,0 +1,64 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1591443	AI	1	12135	0	4	2.7	441782	100	recent@lightning|top@lightning|recent@privacy	HOT,SIGNAL	Introducing PayPerQ's (PPQ.AI) new Enclave Router privacy architecture
+1591535	meta	1	4006	0	1	1.1	92827	2952	recent@meta|top@meta	FRESH,HOT,SIGNAL	SNZ in real life @ Austin Zine Fest AND TABConf8
+1591285	bitcoin	1	2082	0	1	5.4	126503	828	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Blink Phase two: following the coins in public
+1591298	bitcoin	1	1701	0	0	4.8	699824	168	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How Agentic Coding Drives Bitcoin Adoption by Roy Sheinfeld
+1591517	bitcoinplusplus	1	1484	0	0	1.6	280679	23721	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,HOT,SIGNAL	[live] bitcoin++ Payments Edition: Day 1
+1591295	lightning	1	1285	0	4	5.0	273359	1170	recent@lightning|top@lightning	HOT,SIGNAL	ZEUS Decoder - I wasn't satisified with the decoders out there so I built my own
+1591234	Design	2	1084	0	1	7.0	303620	6444	recent@tech|top@tech	HOT,SIGNAL	Gravity Defying Future of Manufacturing
+1591328	bitcoin	1	1013	0	0	4.0	74100	13139	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	frost-wallet: Offline .html Bitcoin threshold wallet - olegfomenko
+1591186	lightning	1	734	0	1	8.6	1032604	40	recent@lightning|top@lightning	SIGNAL	dotMoney # digital money that works like cash.
+1591143	DIY	3	266	0	0	10.2	272410	1802	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	EntropyLab: 100% offline Bitcoin key calculator in a single HTML file
+1591466	bitcoin_beginners	1	253	0	0	2.2	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	This Miner Gets Paid To Switch Off
+1591228	news	2	227	0	0	7.2	272410	1802	recent@tech|top@tech	SIGNAL	This is the Telegram group with 350,000 members keeping Palestinian drivers safe
+1591292	AI	1	199	0	7	5.1	1532699	404	recent@AI|top@AI	SIGNAL	AI Just Produced 722 Math Papers, Now Humans Have to Figure Out If They're Right
+1591189	bitcoin_beginners	1	181	0	1	8.5	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Eric Balchunas and James Seyffart are releasing a book, "Both Sides Of The Coin"
+1591160	math	2	151	0	0	9.0	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	The very first talk on The Bitcoin Standard, at its 2018 launch
+1591531	bitcoin	1	102	0	0	1.1	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	When you're dropping the new bitcoin FUD but forget to update your...
+1590677	math	2	12747	0	7	27.0	48657	16015	recent@tech	HOT,SELF_POST_OPP	The Origins of the Y Combinator
+1590568	bitdevs	1	9466	0	11	29.0	74100	13139	recent@bitdevs|recent@lightning	HOT	Core Lightning v26.06.9 - fixes a vulnerability that can lead to loss of funds
+1590837	Permaculture	3	5088	0	27	23.7	88718	48628	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Leveling up my Heatpunkery with a new Avalon Mini 3
+1591050	tech	1	2204	0	5	16.3	74100	13139	recent@bitcoin|top@bitcoin|recent@tech	HOT	ICANN publishes new top level domain applications, including wiz's .bitcoin
+1591011	bitcoin	1	1965	0	11	18.1	176942	169	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Requesting testnet4 coins for a project test
+1590827	math	2	1872	0	10	23.9	1242375	257	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Do you think ECDSA will get broken by math AI advances?
+1590614	meta	1	1524	0	24	27.9	1556501	18	recent@meta	HOT	SN needs a controversial filter on posts and comments
+1591040	events	3	1492	0	2	16.9	2795	1423	recent@bitcoin|top@bitcoin	HOT	Tomorrow night! Derry, NH
+1590755	bitcoin	1	1480	0	3	25.5	280679	23721	recent@bitcoin	HOT	Supporting the Foundations of Bitcoin Development
+1590793	AI	1	1390	0	0	24.9	402772	22660	recent@AI	HOT	Google ordered to halt work on two data centers in ‘Texas of Europe’
+1590458	bitcoin	1	1302	0	3	33.8	1554639	32	recent@bitcoin|recent@lightning|recent@nostr	HOT	Why I chose to help a Mostro coordinator in Europe
+1590611	bitcoin	1	1109	0	11	28.0	1	27648	recent@bitcoin|recent@lightning	HOT	Ten Years Ago Today: The First Lightning Transaction On Bitcoin Testnet (2016)
+1590857	bitcoin	1	1005	0	5	23.2	74100	13139	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	landfall: OCEAN mining rewards via LN with a single recovery phrase
+1590560	lightning	1	911	0	3	29.1	223678	6468	recent@lightning		Core Lightning Urgent security update AGAIN
+1590913	nostr	1	791	0	3	21.9	182100	852	recent@nostr|top@nostr		nonfungible.cash
+1590672	Permaculture	3	599	0	3	27.1	272410	1802	recent@bitcoin|recent@lightning		Turning trash into sats: paying organic waste collectors with Lightning
+1590690	Design	2	527	0	1	26.8	163128	3945	recent@nostr		Nostrasia 2026
+1590623	meta	1	512	0	7	27.9	36151	1663	recent@meta		What are you working on this week?
+1590522	bitcoin_beginners	1	491	0	5	30.6	30782	25970	recent@bitcoin_beginners		Slight award and newsletter delays this week
+1591091	tech	1	396	0	0	13.7	68821	2336	recent@tech|top@tech		M.Hamilton, computing pioneer who led sw dev for the Apollo program, dies at 90
+1591017	bitcoin	1	322	0	1	17.9	223678	6468	recent@bitcoin|top@bitcoin		Free eSIM data for Plan B Forum visitors — Torisim
+1590559	bitcoin	1	305	0	0	29.3	495235	43	recent@bitcoin		Today! Bitcoin Physicians Network and Verify Wealth Free Webinar
+1590798	math	2	260	0	1	24.8	280679	23721	recent@AI		As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines
+1590459	bitcoin	1	237	0	4	33.7	263526	917	recent@lightning		Jack Mallers just announced Strike 3.6% Bitcoin Interest on Cash
+1590770	bitcoin	1	223	0	3	25.3	280679	23721	recent@bitcoin_beginners		The randomness question at the heart of your hardware wallet
+1590472	meta	1	213	0	0	32.9	36151	1663	recent@meta		This Day on SN: October 7
+1590461	AI	1	212	0	0	33.5	144357	4654	recent@AI		introducing ⚡️PlebTalk - ElevenLabs Demo Day submission
+1590526	AI	1	211	0	0	30.4	238412	334	recent@bitcoin|recent@bitcoin_beginners|recent@AI		The Bitcoin Dollar
+1590695	bitcoin	1	206	0	1	26.6	263526	917	recent@lightning		Self-Custody Bitcoin Lightning Wallets Versus Community Custody Federations
+1591038	Travel	3	188	0	15	17.1	223678	6468	recent@privacy|top@privacy|recent@tech		Free eSIM data for Plan B Forum visitors — Torisim
+1590860	AI	1	150	0	0	23.2	1054143	1403	recent@AI|top@AI		Ex NCAC director general warns against AI misuse on social media
+1590983	AI	1	130	0	0	18.8	1575305	18	recent@AI|top@AI		Generalist's GEN-1.5 robot seats an O-ring on a hydraulic rod, again and again
+1590760	AI	1	111	0	4	25.4	272410	1802	recent@AI		You just posted my personal checking account into our company exec channel!!!!
+1590612	AI	1	96	0	5	27.9	642641	9484	recent@AI		USA Lost Trade War with China - Petrodollar Empire Betting everything on AI
+1591504	Design	2	92	0	0	1.7	12309	3712	recent@tech|top@tech|recent@AI	FRESH	Solo developer rebuilds Adobe Creative Suite in Rust using Claude
+1591334	math	2	72	0	0	3.9	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners		It remains unbreakable. Not even AI can break it.  Not even Quantum
+1591521	bitcoin	1	57	0	0	1.6	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH	Opened a PR to make unstructured Taproot annexes standard by RobinLinus
+1590452	bitcoin	1	57	0	0	34.0	296825	5550	recent@bitcoin_beginners		I now own a name On The Timechain Not a domain or a username. A name I hold
+1590486	AI	1	57	0	0	32.2	272410	1802	recent@AI		Lightning Adoption Dashboard: AI agents adopting Lightning
+1591315	AI	1	51	0	0	4.2	984933	2793	recent@AI|top@AI		Medical company announces program for 'AI-powered prescriptions' in Utah
+1590608	AI	1	47	0	0	28.0	272410	1802	recent@AI		How big tech is building a military–industrial complex in the age of AI
+1591301	bitcoin	1	36	0	0	4.7	238412	334	recent@bitcoin_beginners|top@bitcoin_beginners		Global Elite, Mass Surveillance & What’s ACTUALLY Coming Next
+1591321	bitcoin_beginners	1	36	0	0	4.2	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners		Nicola Tesla would have loved Bitcoin.
+1591251	bitcoin_beginners	1	36	0	0	6.7	280679	23721	recent@bitcoin_beginners|top@bitcoin_beginners		What is entropy and how does the BitBox generate your wallet?
+1590598	bitcoin_beginners	1	36	0	1	28.2	296825	5550	recent@bitcoin_beginners		Nutflix 📺🥜 a peer-to-peer video streaming network powered by Nostr and Cashu.
+1590496	bitcoin_beginners	1	36	0	0	31.5	296825	5550	recent@bitcoin_beginners		EcashMesh: Cashu and Fedimint sources in one payment mesh, using Lightning.
+1591286	Memes	2	0	0	0	5.4	1590136	9	recent@bitdevs|top@bitdevs		GM! This Bitcoin meme is from 2012 🕰️
