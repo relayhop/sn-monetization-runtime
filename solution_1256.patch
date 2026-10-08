@@ -1,0 +1,16 @@
+@@ -123,6 +123,7 @@ function processBountyDetection(record) {
+     "Construction_and_Engineering": {
+       "bountyMessage": "Show Your Build Weekly #4: Post Your Proof-of-Work 🔨",
+       "category": "LOW_COMP",
++      "rewardAmount": 5000,
+       "postDate": "2026-10-05T15:54",
+       "user": "top@Construction_andEngineering"
+     }
+@@ -150,6 +151,7 @@ function processBountyDetection(record) {
+     "Stacker_Stocks": {
+       "bountyMessage": "Daily Stock Discussion Sunday's Weekly Close Contest 🟥 or 🟩? Up 20k sat award!",
+       "category": "SELF_POST_OPP",
++      "rewardAmount": 10000,
+       "postDate": "2026-10-05T15:54",
+       "user": "recent@Stacker_Stocks"
+     }
