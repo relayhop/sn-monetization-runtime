@@ -1,0 +1,15 @@
+@@ -123,6 +123,12 @@ function processBounty(bounty) {
+     }
+   }
+ 
++  if (bounty.type === 'OPEN_BOUNTY' && bounty.subType === 'SELF_POST_OPP') {
++    handleSelfPostOpp(bounty);
++  }
++
++  return processBounty(bounty);
++}
++
+   function handleSelfPostOpp(bounty) {
+     // Handle self-post opportunity logic
+     console.log(`Handling self-post opportunity for ${bounty.subreddit}`);
+   }
