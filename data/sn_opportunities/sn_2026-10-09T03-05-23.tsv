@@ -1,0 +1,60 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1591653	bitcoin	1	15038	0	12	4.1	223678	6476	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitpost P2P
+1591443	AI	1	13359	0	8	10.9	441782	102	recent@lightning|top@lightning|recent@privacy	HOT,SIGNAL	Introducing PayPerQ's (PPQ.AI) new Enclave Router privacy architecture
+1591535	meta	1	12806	0	7	9.3	92827	2954	recent@meta|top@meta	HOT,SIGNAL	SNZ in real life @ Austin Zine Fest AND TABConf8
+1591681	bitcoin	1	6100	0	5	2.9	1420309	33	recent@bitcoin|top@bitcoin	HOT,SIGNAL	A video tour of Coinos Version 3
+1591670	bitcoin	1	3349	0	1	3.3	144357	4656	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Data Labs — New Website
+1591600	bitcoin	1	2822	0	0	6.8	1014665	243	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Matt Morehouse, Rearden - Bitcoin Optech Newsletter #425 Recap Podcast
+1591574	gaming	3	2490	0	3	7.8	74100	13152	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Robin Linus finishes poker game Satoshi left in Bitcoin
+1591517	bitcoinplusplus	1	1495	0	0	9.8	280679	23730	recent@bitcoinplusplus|top@bitcoinplusplus	HOT,SIGNAL	[live] bitcoin++ Payments Edition: Day 1
+1591656	lightning	1	1046	0	0	3.9	185956	179	recent@lightning|top@lightning	HOT,SIGNAL	Someone tried to hit our Core Lightning node last night. They got a surprise.
+1591567	lightning	1	1034	0	1	7.9	440729	316	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (0328ac19d1fb1a2b3…)
+1591658	tech	1	812	0	1	3.9	280679	23730	recent@tech|top@tech	SIGNAL	AMZN builds 1,000th satellite, will launch space internet service by end of year
+1591466	bitcoin_beginners	1	264	0	0	10.4	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	This Miner Gets Paid To Switch Off
+1591722	AI	1	240	0	1	1.5	9274	28334	recent@AI|top@AI	FRESH,SIGNAL	4.5-foot-thick walls needed to absorb data center noise: researcher
+1591531	bitcoin	1	138	0	0	9.4	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	When you're dropping the new bitcoin FUD but forget to update your...
+1591504	Design	2	113	0	0	10.0	12309	3712	recent@tech|top@tech|recent@AI	SIGNAL	Solo developer rebuilds Adobe Creative Suite in Rust using Claude
+1590677	math	2	12747	0	7	35.2	48657	16025	recent@tech	HOT,SELF_POST_OPP	The Origins of the Y Combinator
+1590837	Permaculture	3	5088	0	27	31.9	88718	48641	recent@bitcoin_Mining	HOT	Leveling up my Heatpunkery with a new Avalon Mini 3
+1591050	tech	1	2204	0	5	24.6	74100	13152	recent@bitcoin|recent@tech	HOT	ICANN publishes new top level domain applications, including wiz's .bitcoin
+1591285	bitcoin	1	2082	0	1	13.7	126503	828	recent@bitcoin|top@bitcoin	HOT	Blink Phase two: following the coins in public
+1591011	bitcoin	1	1965	0	11	26.4	176942	169	recent@bitcoin|recent@bitcoin_Mining|recent@bitdevs	HOT	Requesting testnet4 coins for a project test
+1591295	lightning	1	1892	0	4	13.2	273359	1170	recent@lightning|top@lightning	HOT	ZEUS Decoder - I wasn't satisified with the decoders out there so I built my own
+1590827	math	2	1872	0	10	32.1	1242375	257	recent@bitcoin	HOT,SELF_POST_OPP	Do you think ECDSA will get broken by math AI advances?
+1591298	bitcoin	1	1853	0	0	13.0	699824	168	recent@bitcoin|top@bitcoin	HOT	How Agentic Coding Drives Bitcoin Adoption by Roy Sheinfeld
+1591040	events	3	1492	0	2	25.2	2795	1423	recent@bitcoin	HOT	Tomorrow night! Derry, NH
+1590755	bitcoin	1	1480	0	3	33.7	280679	23730	recent@bitcoin	HOT	Supporting the Foundations of Bitcoin Development
+1590793	AI	1	1390	0	0	33.1	402772	22660	recent@AI	HOT	Google ordered to halt work on two data centers in ‘Texas of Europe’
+1591328	bitcoin	1	1255	0	0	12.2	74100	13152	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	frost-wallet: Offline .html Bitcoin threshold wallet - olegfomenko
+1591234	Design	2	1084	0	1	15.2	303620	6445	recent@tech|top@tech	HOT	Gravity Defying Future of Manufacturing
+1590857	bitcoin	1	1005	0	5	31.4	74100	13152	recent@bitcoin|recent@bitcoin_Mining|recent@lightning	HOT	landfall: OCEAN mining rewards via LN with a single recovery phrase
+1590913	nostr	1	791	0	3	30.1	182100	852	recent@nostr		nonfungible.cash
+1591186	lightning	1	734	0	1	16.8	1032604	40	recent@lightning|top@lightning		dotMoney # digital money that works like cash.
+1590672	Permaculture	3	599	0	3	35.3	272410	1806	recent@bitcoin|recent@lightning		Turning trash into sats: paying organic waste collectors with Lightning
+1590690	Design	2	527	0	1	35.0	163128	3945	recent@nostr		Nostrasia 2026
+1591091	tech	1	496	0	0	22.0	68821	2336	recent@tech|top@tech		M.Hamilton, computing pioneer who led sw dev for the Apollo program, dies at 90
+1591017	bitcoin	1	322	0	1	26.1	223678	6476	recent@bitcoin		Free eSIM data for Plan B Forum visitors — Torisim
+1591143	DIY	3	266	0	0	18.5	272410	1806	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		EntropyLab: 100% offline Bitcoin key calculator in a single HTML file
+1590798	math	2	260	0	1	33.0	280679	23730	recent@AI		As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines
+1591228	news	2	227	0	0	15.4	272410	1806	recent@tech|top@tech		This is the Telegram group with 350,000 members keeping Palestinian drivers safe
+1590770	bitcoin	1	223	0	3	33.5	280679	23730	recent@bitcoin_beginners		The randomness question at the heart of your hardware wallet
+1590695	bitcoin	1	206	0	1	34.8	263526	917	recent@lightning		Self-Custody Bitcoin Lightning Wallets Versus Community Custody Federations
+1591321	bitcoin_beginners	1	205	0	0	12.4	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners		Nicola Tesla would have loved Bitcoin.
+1591292	AI	1	199	0	8	13.3	1532699	405	recent@AI|top@AI		AI Just Produced 722 Math Papers, Now Humans Have to Figure Out If They're Right
+1591038	Travel	3	188	0	15	25.3	223678	6476	recent@privacy|recent@tech		Free eSIM data for Plan B Forum visitors — Torisim
+1591189	bitcoin_beginners	1	181	0	1	16.7	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners		Eric Balchunas and James Seyffart are releasing a book, "Both Sides Of The Coin"
+1591160	math	2	151	0	0	17.3	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The very first talk on The Bitcoin Standard, at its 2018 launch
+1590860	AI	1	150	0	0	31.4	1054143	1406	recent@AI		Ex NCAC director general warns against AI misuse on social media
+1590983	AI	1	130	0	0	27.1	1575305	19	recent@AI		Generalist's GEN-1.5 robot seats an O-ring on a hydraulic rod, again and again
+1590760	AI	1	111	0	4	33.7	272410	1806	recent@AI		You just posted my personal checking account into our company exec channel!!!!
+1591334	math	2	72	0	0	12.1	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners		It remains unbreakable. Not even AI can break it.  Not even Quantum
+1591315	AI	1	72	0	0	12.5	984933	2796	recent@AI|top@AI		Medical company announces program for 'AI-powered prescriptions' in Utah
+1591521	bitcoin	1	57	0	0	9.8	296825	5550	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Opened a PR to make unstructured Taproot annexes standard by RobinLinus
+1591301	bitcoin	1	36	0	0	13.0	238412	334	recent@bitcoin_beginners|top@bitcoin_beginners		Global Elite, Mass Surveillance & What’s ACTUALLY Coming Next
+1591251	bitcoin_beginners	1	36	0	0	14.9	280679	23730	recent@bitcoin_beginners|top@bitcoin_beginners		What is entropy and how does the BitBox generate your wallet?
+1591644	news	2	32	0	0	4.4	297791	7907	recent@AI|top@AI		GitHub Copilot is going local — Microsoft won't say what gets sent to the cloud
+1591690	AI	1	32	0	0	2.7	1575305	19	recent@AI|top@AI		Claude Science finishes the first all-sky UV map, inpainting a third never seen
+1591652	AI	1	32	0	0	4.1	297791	7907	recent@AI|top@AI		OpenAI claims we've entered the AGI era
+1591583	AI	1	32	0	0	7.5	1054143	1406	recent@AI|top@AI		Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip
+1591640	security	1	21	0	0	4.9	642641	9487	recent@security|top@security|recent@AI		The Quest to Save (British) Rural Pay Phones, 52 Calls at a Time
+1591286	Memes	2	0	0	0	13.7	1590136	9	top@bitdevs		GM! This Bitcoin meme is from 2012 🕰️
