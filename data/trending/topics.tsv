@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-08T21:03:24.601Z; n=40
-show	hn	7.08	yes	
-bitcoin	sn:gaming,sn:bitcoin	6.11	yes	
-rick	sn:AMA	4.26	no	RISING
-introducing	sn:AI	4.09	yes	
-enclave router	sn:AI	4.09	yes	
-austin zine fest	sn:meta	4.05	yes	
+# generated 2026-10-09T01:45:38.715Z; n=40
+show	hn	9.08	yes	
+bitcoin	sn:gaming,sn:bitcoin	6.5	yes	
+week	sn:Stacker_Sports	6.08	no	RISING
+what	hn,sn:family	5.24	yes	
+rick	sn:AMA	4.27	no	RISING
+bitpost	sn:bitcoin	4.18	yes	
+introducing	sn:AI	4.13	yes	
+enclave router	sn:AI	4.13	yes	
+austin zine fest	sn:meta	4.07	yes	
+permaculture	sn:Permaculture	4.02	no	RISING
+american chestnut	sn:Permaculture	4.02	no	RISING
+keystone	sn:Permaculture	4.02	no	RISING
+discovery	sn:Permaculture	4.02	no	RISING
 ghey to care about climate change	sn:Politics_And_Law	3.94	no	RISING
 pilita clark	sn:Politics_And_Law	3.94	no	RISING
-why were victorian elites	sn:BooksAndArticles	3.93	no	RISING
-effective	sn:BooksAndArticles	3.93	no	RISING
-works	sn:BooksAndArticles	3.93	no	RISING
-progress magazine	sn:BooksAndArticles	3.93	no	RISING
-sam hughes	sn:BooksAndArticles	3.93	no	RISING
-permaculture	sn:Permaculture	3.91	no	RISING
-american chestnut	sn:Permaculture	3.91	no	RISING
-keystone	sn:Permaculture	3.91	no	RISING
-discovery	sn:Permaculture	3.91	no	RISING
-review	sn:BooksAndArticles	3.72	no	RISING
-cryptonomicon	sn:BooksAndArticles	3.72	no	RISING
-neal stephenson	sn:BooksAndArticles	3.72	no	RISING
-attacker	sn:Ark	3.65	no	RISING
-second	sn:Ark	3.65	no	RISING
+why were victorian elites	sn:BooksAndArticles	3.94	no	RISING
+effective	sn:BooksAndArticles	3.94	no	RISING
+works	sn:BooksAndArticles	3.94	no	RISING
+progress magazine	sn:BooksAndArticles	3.94	no	RISING
+sam hughes	sn:BooksAndArticles	3.94	no	RISING
+review	sn:BooksAndArticles	3.82	no	RISING
+cryptonomicon	sn:BooksAndArticles	3.82	no	RISING
+neal stephenson	sn:BooksAndArticles	3.82	no	RISING
+attacker	sn:Ark	3.75	no	RISING
+second	sn:Ark	3.75	no	RISING
+bitcoin data labs	sn:bitcoin	3.49	yes	
+new website	sn:bitcoin	3.49	yes	
+matt morehouse	sn:bitcoin	3.44	yes	
+rearden	sn:bitcoin	3.44	yes	
+bitcoin optech newsletter	sn:bitcoin	3.44	yes	
+recap podcast	sn:bitcoin	3.44	yes	
+october	sn:news	3.42	yes	
+israel	sn:news	3.42	no	RISING
+israeli	sn:news	3.42	no	RISING
+robin linus	sn:gaming	3.4	yes	
+satoshi	sn:gaming	3.4	yes	
 icann	sn:tech	3.34	yes	
 blink phase	sn:bitcoin	3.32	yes	
-requesting	sn:bitcoin	3.29	yes	
-how agentic coding drives bitcoin adoption	sn:bitcoin	3.27	yes	
-roy sheinfeld	sn:bitcoin	3.27	yes	
-awesome bitcoin events	sn:events	3.25	no	RISING
-october	sn:news	3.2	yes	
-israel	sn:news	3.2	no	RISING
-israeli	sn:news	3.2	no	RISING
-demographic decline	sn:family	3.19	no	RISING
-what	sn:family	3.19	yes	
-was just contagion all along	sn:family	3.19	no	RISING
-cavendish	sn:family	3.19	no	RISING
-the dedollarization fairy tale	sn:Politics_And_Law	3.19	no	RISING
-rogue macro	sn:Politics_And_Law	3.19	no	RISING
-ansel lindner	sn:Politics_And_Law	3.19	no	RISING
-zeus	sn:lightning	3.18	no	RISING
-decoder	sn:lightning	3.18	no	RISING
+awesome bitcoin events	sn:events	3.3	no	RISING
+zeus	sn:lightning	3.28	no	RISING
