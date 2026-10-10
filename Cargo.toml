@@ -1,0 +1,45 @@
+```toml
+[package]
+name = "sn-monetization-runtime"
+version = "0.1.0"
+description = "Stacker News monetization runtime"
+edition = "2021"
+
+[dependencies]
+frame-baz = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+sp-core = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+sp-runtime = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+pallet-balances = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+pallet-staking = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+pallet-treasury = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+pallet-timestamp = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+sp-std = { default-features = false, git = "https://github.com/paritytech/polkadot-sdk", branch = "master" }
+serde = { version = "1.0", default-features = false, features = ["derive"] }
+serde_json = "1.0"
+hex = { version = "0.4", default-features = false }
+
+[features]
+default = ["std"]
+std = [
+    "frame-baz/std",
+    "sp-core/std",
+    "sp-runtime/std",
+    "pallet-balances/std",
+    "pallet-staking/std",
+    "pallet-treasury/std",
+    "pallet-timestamp/std",
+    "sp-std/std",
+    "serde/std",
+    "serde_json/std",
+    "hex/std",
+]
+runtime-benchmarks = [
+    "frame-baz/runtime-benchmarks",
+    "sp-runtime/runtime-benchmarks",
+    "pallet-balances/runtime-benchmarks",
+]
+try-runtime = [
+    "frame-baz/try-runtime",
+    "sp-runtime/try-runtime",
+    "pallet-balances/try-runtime",
+]
