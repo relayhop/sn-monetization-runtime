@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-10T10:26:22.808Z; n=40
-show	hn	6.57	yes	
-ledger	sn:bitcoin	6.26	yes	
-stacker news monthy	sn:meta	3.86	yes	
-september	sn:meta	3.86	yes	
-finally	sn:bitcoin_Mining	3.69	no	RISING
-book	sn:BooksAndArticles	3.56	no	RISING
-books	sn:BooksAndArticles	3.56	no	RISING
-the age	sn:BooksAndArticles	3.56	no	RISING
-time	sn:BooksAndArticles	3.56	yes	
-scott dedels	sn:BooksAndArticles	3.56	no	RISING
-asia	sn:bitcoin	3.48	yes	
-bitcoin optech newsletter	sn:bitcoin	3.47	yes	
-black hole	sn:Coinjoins	3.43	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.42	no	RISING
-attacker	sn:bitcoin	3.32	yes	
-second	sn:bitcoin	3.32	yes	
-the hedgies owning everything	sn:econ	3.24	no	RISING
-inflation-linked bonds	sn:econ	3.24	no	RISING
-armstrom	sn:econ	3.24	no	RISING
-canada	sn:econ	3.23	no	RISING
-how hedge fund borrowing spree became wall street	sn:Stacker_Stocks	3.17	no	RISING
-cash cow	sn:Stacker_Stocks	3.17	no	RISING
-the taxation squeeze	sn:Politics_And_Law	3.15	no	RISING
-broken welfare state	sn:Politics_And_Law	3.15	no	RISING
-britain	sn:Politics_And_Law	3.15	no	RISING
-childcare traps	sn:Politics_And_Law	3.15	no	RISING
-samourai letter	sn:bitcoin	3.15	yes	
-notes from the inside	sn:bitcoin	3.15	yes	
-keonne rodriguez	sn:bitcoin	3.15	yes	
-living planet index	sn:charts_and_maps	3.11	no	RISING
-cloudflare	hn	3.09	no	RISING
-deno	hn	3.09	no	RISING
-anthropic	sn:lol	3.06	yes	
-claude	sn:lol	3.06	yes	
-will	sn:bitcoin	3.04	yes	
-bitcoin	sn:bitcoin	3.04	yes	
-blasted mechanism	sn:Music	3.03	no	RISING
-atom bride theme live	sn:Music	3.03	no	RISING
-triple	hn	3	no	RISING
-minesweeper	hn	3	no	RISING
+# generated 2026-10-10T19:49:42.997Z; n=40
+cloudflare	hn,sn:tech	8.55	yes	
+deno	hn,sn:tech	6.25	yes	
+americans	sn:econ,sn:news	5.76	no	RISING
+entire	sn:bitcoin	3.66	yes	
+town	sn:bitcoin	3.66	yes	
+bitcoin	sn:bitcoin	3.66	yes	
+lodging	sn:BooksAndArticles	3.49	no	RISING
+wayfaring men book club	sn:BooksAndArticles	3.49	no	RISING
+chapter	sn:BooksAndArticles	3.49	no	RISING
+attacker	sn:bitcoin	3.33	yes	
+second	sn:bitcoin	3.33	yes	
+what	sn:AskSN	3.3	yes	
+prediction markets	sn:Politics_And_Law	3.19	no	RISING
+wisdom	sn:Politics_And_Law	3.19	no	RISING
+madness	sn:Politics_And_Law	3.19	no	RISING
+crowds	sn:Politics_And_Law	3.19	no	RISING
+michael mauboussin	sn:Politics_And_Law	3.19	no	RISING
+saturday newsletter	sn:meta	3.16	yes	
+pool	sn:AskSN	3.14	no	RISING
+week	sn:AskSN	3.14	no	RISING
+triple	hn	3.11	no	RISING
+minesweeper	hn	3.11	no	RISING
+old people	sn:bitcoin	3.1	yes	
+richer young people	sn:bitcoin	3.1	yes	
+poorer	sn:bitcoin	3.1	yes	
+postpandemic years	sn:bitcoin	3.1	yes	
+books	sn:BooksAndArticles	3.07	no	RISING
+articles weekly	sn:BooksAndArticles	3.07	no	RISING
+fall afternoon walk	sn:family	3.05	no	RISING
+gozzip	sn:nostr	3.03	yes	
+date	sn:family	3.02	no	RISING
+msty	sn:Stacker_Stocks	3	no	RISING
+payout	sn:Stacker_Stocks	3	no	RISING
+shipyards	sn:Stacker_Stocks	3	no	RISING
+sats	sn:Stacker_Stocks	3	no	RISING
+daily putt	sn:gaming	2.99	no	RISING
+play	sn:gaming	2.99	no	RISING
+putt	sn:gaming	2.99	no	RISING
+score	sn:gaming	2.99	no	RISING
+great recess	sn:econ	2.93	no	RISING
