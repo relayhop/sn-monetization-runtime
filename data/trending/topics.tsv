@@ -1,11 +1,10 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-10T01:32:16.888Z; n=40
-show	hn	8.31	yes	
-ledger	sn:bitcoin	6.14	yes	
-anthropic	hn,sn:lol	4.57	yes	
+# generated 2026-10-10T10:26:22.808Z; n=40
+show	hn	6.57	yes	
+ledger	sn:bitcoin	6.26	yes	
 stacker news monthy	sn:meta	3.86	yes	
 september	sn:meta	3.86	yes	
-finally	sn:bitcoin_Mining	3.65	no	RISING
+finally	sn:bitcoin_Mining	3.69	no	RISING
 book	sn:BooksAndArticles	3.56	no	RISING
 books	sn:BooksAndArticles	3.56	no	RISING
 the age	sn:BooksAndArticles	3.56	no	RISING
@@ -14,16 +13,13 @@ scott dedels	sn:BooksAndArticles	3.56	no	RISING
 asia	sn:bitcoin	3.48	yes	
 bitcoin optech newsletter	sn:bitcoin	3.47	yes	
 black hole	sn:Coinjoins	3.43	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.41	no	RISING
-attacker	sn:bitcoin	3.27	yes	
-second	sn:bitcoin	3.27	yes	
+weekly random sports pick	sn:Stacker_Sports	3.42	no	RISING
+attacker	sn:bitcoin	3.32	yes	
+second	sn:bitcoin	3.32	yes	
 the hedgies owning everything	sn:econ	3.24	no	RISING
 inflation-linked bonds	sn:econ	3.24	no	RISING
 armstrom	sn:econ	3.24	no	RISING
-canada	sn:econ	3.22	no	RISING
-the former	sn:math	3.18	no	RISING
-lineman who solved	sn:math	3.18	no	RISING
-decades-old math problem	sn:math	3.18	no	RISING
+canada	sn:econ	3.23	no	RISING
 how hedge fund borrowing spree became wall street	sn:Stacker_Stocks	3.17	no	RISING
 cash cow	sn:Stacker_Stocks	3.17	no	RISING
 the taxation squeeze	sn:Politics_And_Law	3.15	no	RISING
@@ -34,9 +30,13 @@ samourai letter	sn:bitcoin	3.15	yes
 notes from the inside	sn:bitcoin	3.15	yes	
 keonne rodriguez	sn:bitcoin	3.15	yes	
 living planet index	sn:charts_and_maps	3.11	no	RISING
-claude	sn:lol	3.05	yes	
+cloudflare	hn	3.09	no	RISING
+deno	hn	3.09	no	RISING
+anthropic	sn:lol	3.06	yes	
+claude	sn:lol	3.06	yes	
 will	sn:bitcoin	3.04	yes	
 bitcoin	sn:bitcoin	3.04	yes	
-cloudflare	hn	3.03	no	RISING
-deno	hn	3.03	no	RISING
 blasted mechanism	sn:Music	3.03	no	RISING
+atom bride theme live	sn:Music	3.03	no	RISING
+triple	hn	3	no	RISING
+minesweeper	hn	3	no	RISING
