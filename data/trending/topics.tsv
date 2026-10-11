@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-10T19:49:42.997Z; n=40
-cloudflare	hn,sn:tech	8.55	yes	
-deno	hn,sn:tech	6.25	yes	
+# generated 2026-10-11T00:41:46.555Z; n=40
 americans	sn:econ,sn:news	5.76	no	RISING
-entire	sn:bitcoin	3.66	yes	
-town	sn:bitcoin	3.66	yes	
-bitcoin	sn:bitcoin	3.66	yes	
+cloudflare	hn,sn:tech	5.51	yes	
+entire	sn:bitcoin	3.82	yes	
+town	sn:bitcoin	3.82	yes	
+bitcoin	sn:bitcoin	3.82	yes	
 lodging	sn:BooksAndArticles	3.49	no	RISING
 wayfaring men book club	sn:BooksAndArticles	3.49	no	RISING
 chapter	sn:BooksAndArticles	3.49	no	RISING
-attacker	sn:bitcoin	3.33	yes	
-second	sn:bitcoin	3.33	yes	
 what	sn:AskSN	3.3	yes	
-prediction markets	sn:Politics_And_Law	3.19	no	RISING
-wisdom	sn:Politics_And_Law	3.19	no	RISING
-madness	sn:Politics_And_Law	3.19	no	RISING
-crowds	sn:Politics_And_Law	3.19	no	RISING
-michael mauboussin	sn:Politics_And_Law	3.19	no	RISING
-saturday newsletter	sn:meta	3.16	yes	
-pool	sn:AskSN	3.14	no	RISING
-week	sn:AskSN	3.14	no	RISING
-triple	hn	3.11	no	RISING
-minesweeper	hn	3.11	no	RISING
+saturday newsletter	sn:meta	3.27	yes	
+prediction markets	sn:Politics_And_Law	3.2	no	RISING
+wisdom	sn:Politics_And_Law	3.2	no	RISING
+madness	sn:Politics_And_Law	3.2	no	RISING
+crowds	sn:Politics_And_Law	3.2	no	RISING
+michael mauboussin	sn:Politics_And_Law	3.2	no	RISING
+pool	sn:AskSN	3.16	no	RISING
+week	sn:AskSN	3.16	no	RISING
+deno	sn:tech	3.13	yes	
 old people	sn:bitcoin	3.1	yes	
 richer young people	sn:bitcoin	3.1	yes	
 poorer	sn:bitcoin	3.1	yes	
 postpandemic years	sn:bitcoin	3.1	yes	
-books	sn:BooksAndArticles	3.07	no	RISING
-articles weekly	sn:BooksAndArticles	3.07	no	RISING
-fall afternoon walk	sn:family	3.05	no	RISING
-gozzip	sn:nostr	3.03	yes	
-date	sn:family	3.02	no	RISING
-msty	sn:Stacker_Stocks	3	no	RISING
-payout	sn:Stacker_Stocks	3	no	RISING
-shipyards	sn:Stacker_Stocks	3	no	RISING
-sats	sn:Stacker_Stocks	3	no	RISING
-daily putt	sn:gaming	2.99	no	RISING
-play	sn:gaming	2.99	no	RISING
-putt	sn:gaming	2.99	no	RISING
-score	sn:gaming	2.99	no	RISING
+books	sn:BooksAndArticles	3.09	no	RISING
+articles weekly	sn:BooksAndArticles	3.09	no	RISING
+date	sn:family	3.08	no	RISING
+gozzip	sn:nostr	3.06	yes	
+you don	sn:Politics_And_Law	3.05	no	RISING
+hate	sn:Politics_And_Law	3.05	no	RISING
+boomers enough	sn:Politics_And_Law	3.05	no	RISING
+now they	sn:Politics_And_Law	3.05	no	RISING
+gaslighting us	sn:Politics_And_Law	3.05	no	RISING
+kadlec	sn:Politics_And_Law	3.05	no	RISING
+mazda marv	sn:Stacker_Sports	2.98	no	RISING
+daily discussion thread	sn:Music	2.97	no	RISING
+music saloon	sn:Music	2.97	no	RISING
 great recess	sn:econ	2.93	no	RISING
+racking	sn:HealthAndFitness	2.9	no	RISING
+musicmap	sn:Music	2.87	no	RISING
+the genealogy	sn:Music	2.87	no	RISING
+history	sn:Music	2.87	no	RISING
