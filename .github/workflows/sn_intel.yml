@@ -32,18 +32,23 @@ jobs:
         with: { node-version: '22' }
       - name: Pick mode
         id: mode
+        env:
+          INPUT_MODE: ${{ inputs.mode }}
+          CRON_SCHEDULE: ${{ github.event.schedule }}
         run: |
-          INPUT="${{ inputs.mode }}"
-          CRON="${{ github.event.schedule }}"
+          INPUT="$INPUT_MODE"
+          CRON="$CRON_SCHEDULE"
           if [ -n "$INPUT" ]; then M="$INPUT"
           elif [ "$CRON" = "0 6 * * 1" ]; then M="topusers"
           elif [ "$CRON" = "30 0 * * *" ]; then M="velocity"
           else M="all"; fi
           echo "mode=$M" >> $GITHUB_OUTPUT
       - name: Run intel
+        env:
+          MODE: ${{ steps.mode.outputs.mode }}
         run: |
           mkdir -p data/intel
-          OUT_DIR=data/intel node scripts/sn_intel.mjs --${{ steps.mode.outputs.mode }}
+          OUT_DIR=data/intel node scripts/sn_intel.mjs --"$MODE"
       - name: Commit
         run: |
           git config user.name 'github-actions[bot]'
