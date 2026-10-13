@@ -1,0 +1,320 @@
+```python
+"""
+Construction & Engineering Proof-of-Work (PoW) Build System
+Weekly Build: Structural Load Analysis, Material Takeoff & Tamper-Evident QA Audit Trail
+"""
+
+import hashlib
+import json
+import math
+import time
+from dataclasses import asdict, dataclass
+from typing import Dict, List, Optional, Tuple
+
+
+# =====================================================================
+# 1. Structural Engineering Analysis Engine
+# =====================================================================
+
+@dataclass
+class BeamGeometry:
+    length_m: float
+    depth_mm: float
+    width_mm: float
+    flange_thickness_mm: float
+    web_thickness_mm: float
+
+    @property
+    def area_m2(self) -> float:
+        """Cross-sectional area of an I-beam section."""
+        a_flanges = 2 * (self.width_mm * self.flange_thickness_mm)
+        a_web = (self.depth_mm - 2 * self.flange_thickness_mm) * self.web_thickness_mm
+        return (a_flanges + a_web) * 1e-6
+
+    @property
+    def second_moment_of_area_ixx_m4(self) -> float:
+        """Moment of inertia (Ixx) along the major bending axis."""
+        d = self.depth_mm
+        b = self.width_mm
+        tw = self.web_thickness_mm
+        tf = self.flange_thickness_mm
+        
+        # Parallel axis theorem / composite rectangles
+        i_gross = (b * (d ** 3)) / 12.0
+        h_web = d - 2 * tf
+        w_removed = b - tw
+        i_removed = (w_removed * (h_web ** 3)) / 12.0
+        return (i_gross - i_removed) * 1e-12
+
+
+@dataclass
+class MaterialProperties:
+    name: str
+    yield_strength_mpa: float
+    elastic_modulus_gpa: float
+    density_kg_m3: float
+    unit_cost_usd_per_kg: float
+
+
+class StructuralAnalysis:
+    """Performs static determinate analysis on simply supported beams under UDL."""
+
+    def __init__(self, beam: BeamGeometry, material: MaterialProperties):
+        self.beam = beam
+        self.material = material
+
+    def calculate_distributed_load_capacity(
+        self, distributed_load_kn_per_m: float
+    ) -> Dict[str, float]:
+        l = self.beam.length_m
+        q = distributed_load_kn_per_m * 1000.0  # N/m
+        
+        # Self-weight contribution
+        self_weight_kn_per_m = (self.beam.area_m2 * self.material.density_kg_m3 * 9.81) / 1000.0
+        total_q = q + (self_weight_kn_per_m * 1000.0)
+
+        # Maximum shear force (supports) V = q * L / 2
+        max_shear_n = (total_q * l) / 2.0
+
+        # Maximum bending moment (mid-span) M = q * L^2 / 8
+        max_moment_nm = (total_q * (l ** 2)) / 8.0
+
+        # Maximum bending stress sigma = M * y / I
+        c_m = (self.beam.depth_mm / 2.0) * 1e-3
+        ixx = self.beam.second_moment_of_area_ixx_m4
+        bending_stress_mpa = (max_moment_nm * c_m / ixx) / 1e6
+
+        # Maximum deflection delta = 5 * q * L^4 / (384 * E * I)
+        e_pa = self.material.elastic_modulus_gpa * 1e9
+        max_deflection_mm = (5.0 * total_q * (l ** 4) / (384.0 * e_pa * ixx)) * 1000.0
+
+        # Allowable deflection limit (L / 360 standard serviceability)
+        deflection_limit_mm = (l * 1000.0) / 360.0
+
+        safety_factor = (
+            self.material.yield_strength_mpa / bending_stress_mpa
+            if bending_stress_mpa > 0
+            else float("inf")
+        )
+
+        return {
+            "self_weight_kn_per_m": round(self_weight_kn_per_m, 3),
+            "total_design_load_kn_per_m": round(total_q / 1000.0, 3),
+            "max_shear_kn": round(max_shear_n / 1000.0, 2),
+            "max_moment_kn_m": round(max_moment_nm / 1000.0, 2),
+            "bending_stress_mpa": round(bending_stress_mpa, 2),
+            "yield_stress_mpa": self.material.yield_strength_mpa,
+            "safety_factor": round(safety_factor, 2),
+            "max_deflection_mm": round(max_deflection_mm, 2),
+            "deflection_limit_mm": round(deflection_limit_mm, 2),
+            "passes_strength": safety_factor >= 1.67,
+            "passes_deflection": max_deflection_mm <= deflection_limit_mm,
+        }
+
+
+# =====================================================================
+# 2. Material Quantity Takeoff (MTO) & Cost Estimator
+# =====================================================================
+
+class QuantityTakeoff:
+    """Computes engineering volume, mass, and procurement expenses."""
+
+    @staticmethod
+    def compute_steel_member(beam: BeamGeometry, material: MaterialProperties) -> Dict[str, float]:
+        volume_m3 = beam.area_m2 * beam.length_m
+        total_mass_kg = volume_m3 * material.density_kg_m3
+        total_cost_usd = total_mass_kg * material.unit_cost_usd_per_kg
+
+        return {
+            "volume_m3": round(volume_m3, 4),
+            "total_mass_kg": round(total_mass_kg, 2),
+            "total_cost_usd": round(total_cost_usd, 2),
+        }
+
+    @staticmethod
+    def compute_reinforced_concrete_slab(
+        length_m: float,
+        width_m: float,
+        thickness_m: float,
+        concrete_cost_per_m3: float = 145.0,
+        rebar_ratio_percent: float = 1.2,
+        rebar_cost_per_kg: float = 1.10,
+    ) -> Dict[str, float]:
+        concrete_volume_m3 = length_m * width_m * thickness_m
+        concrete_cost = concrete_volume_m3 * concrete_cost_per_m3
+
+        # Steel rebar estimation (density = 7850 kg/m^3)
+        rebar_volume_m3 = concrete_volume_m3 * (rebar_ratio_percent / 100.0)
+        rebar_mass_kg = rebar_volume_m3 * 7850.0
+        rebar_cost = rebar_mass_kg * rebar_cost_per_kg
+
+        total_cost = concrete_cost + rebar_cost
+
+        return {
+            "concrete_volume_m3": round(concrete_volume_m3, 3),
+            "concrete_cost_usd": round(concrete_cost, 2),
+            "rebar_mass_kg": round(rebar_mass_kg, 2),
+            "rebar_cost_usd": round(rebar_cost, 2),
+            "total_slab_cost_usd": round(total_cost, 2),
+        }
+
+
+# =====================================================================
+# 3. Cryptographic Proof-of-Work QA Audit Trail
+# =====================================================================
+
+@dataclass
+class InspectionBlock:
+    index: int
+    timestamp: float
+    record_type: str
+    data: Dict
+    previous_hash: str
+    nonce: int = 0
+    hash: str = ""
+
+    def calculate_hash(self) -> str:
+        serialized = json.dumps(
+            {
+                "index": self.index,
+                "timestamp": self.timestamp,
+                "record_type": self.record_type,
+                "data": self.data,
+                "previous_hash": self.previous_hash,
+                "nonce": self.nonce,
+            },
+            sort_keys=True,
+        )
+        return hashlib.sha256(serialized.encode("utf-8")).hexdigest()
+
+    def mine_proof_of_work(self, difficulty_prefix: str = "0000") -> None:
+        """Solves computational proof-of-work challenge to finalize QA record."""
+        self.nonce = 0
+        current_hash = self.calculate_hash()
+        while not current_hash.startswith(difficulty_prefix):
+            self.nonce += 1
+            current_hash = self.calculate_hash()
+        self.hash = current_hash
+
+
+class ConstructionAuditLedger:
+    """Tamper-evident ledger documenting project calculation milestones."""
+
+    def __init__(self, difficulty: str = "0000"):
+        self.difficulty = difficulty
+        self.chain: List[InspectionBlock] = []
+        self._init_genesis()
+
+    def _init_genesis(self) -> None:
+        genesis = InspectionBlock(
+            index=0,
+            timestamp=time.time(),
+            record_type="GENESIS_INSPECTION_ROOT",
+            data={"project": "Construction_and_Engineering_Build_Weekly_5", "status": "INITIALIZED"},
+            previous_hash="0" * 64,
+        )
+        genesis.mine_proof_of_work(self.difficulty)
+        self.chain.append(genesis)
+
+    def append_record(self, record_type: str, data: Dict) -> InspectionBlock:
+        prev = self.chain[-1]
+        block = InspectionBlock(
+            index=len(self.chain),
+            timestamp=time.time(),
+            record_type=record_type,
+            data=data,
+            previous_hash=prev.hash,
+        )
+        block.mine_proof_of_work(self.difficulty)
+        self.chain.append(block)
+        return block
+
+    def verify_integrity(self) -> bool:
+        for i in range(1, len(self.chain)):
+            curr = self.chain[i]
+            prev = self.chain[i - 1]
+            if curr.previous_hash != prev.hash:
+                return False
+            if curr.calculate_hash() != curr.hash:
+                return False
+            if not curr.hash.startswith(self.difficulty):
+                return False
+        return True
+
+
+# =====================================================================
+# 4. End-to-End Build Pipeline Execution
+# =====================================================================
+
+def execute_weekly_build_pipeline() -> Dict:
+    # 1. Structural Section: W310x38.7 (European IPE 300 equivalent)
+    w_beam = BeamGeometry(
+        length_m=6.5,
+        depth_mm=300.0,
+        width_mm=150.0,
+        flange_thickness_mm=10.7,
+        web_thickness_mm=7.1,
+    )
+
+    astm_a992_steel = MaterialProperties(
+        name="ASTM A992 Structural Steel",
+        yield_strength_mpa=345.0,
+        elastic_modulus_gpa=200.0,
+        density_kg_m3=7850.0,
+        unit_cost_usd_per_kg=1.45,
+    )
+
+    # 2. Run structural validation under 28 kN/m load
+    analyzer = StructuralAnalysis(beam=w_beam, material=astm_a992_steel)
+    structural_results = analyzer.calculate_distributed_load_capacity(distributed_load_kn_per_m=28.0)
+
+    # 3. Perform Material Takeoff (MTO)
+    mto_steel = QuantityTakeoff.compute_steel_member(beam=w_beam, material=astm_a992_steel)
+    mto_slab = QuantityTakeoff.compute_reinforced_concrete_slab(
+        length_m=6.5, width_m=3.0, thickness_m=0.15
+    )
+
+    # 4. Commit results to Cryptographic Proof-of-Work Ledger
+    ledger = ConstructionAuditLedger(difficulty="000")
+
+    b1 = ledger.append_record(
+        record_type="STRUCTURAL_INTEGRITY_CHECK",
+        data={
+            "beam_geometry": asdict(w_beam),
+            "material": asdict(astm_a992_steel),
+            "analysis_results": structural_results,
+        },
+    )
+
+    b2 = ledger.append_record(
+        record_type="MATERIAL_QUANTITY_TAKEOFF",
+        data={
+            "beam_takeoff": mto_steel,
+            "composite_slab_takeoff": mto_slab,
+            "total_estimated_package_usd": round(
+                mto_steel["total_cost_usd"] + mto_slab["total_slab_cost_usd"], 2
+            ),
+        },
+    )
+
+    is_valid = ledger.verify_integrity()
+
+    return {
+        "status": "BUILD_SUCCESSFUL",
+        "verified_tamper_evident": is_valid,
+        "blocks_mined": len(ledger.chain),
+        "structural_analysis": structural_results,
+        "material_takeoff": {
+            "steel_cost": mto_steel["total_cost_usd"],
+            "slab_cost": mto_slab["total_slab_cost_usd"],
+            "total_cost": round(mto_steel["total_cost_usd"] + mto_slab["total_slab_cost_usd"], 2),
+        },
+        "latest_block_hash": b2.hash,
+        "latest_nonce": b2.nonce,
+    }
+
+
+if __name__ == "__main__":
+    report = execute_weekly_build_pipeline()
+    print(json.dumps(report, indent=2))
+```
