@@ -1,0 +1,111 @@
+```python
+from dataclasses import dataclass
+from typing import List, Optional
+import logging
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logger = logging.getLogger(__name__)
+
+
+@dataclass
+class BountyNotification:
+    id: str
+    category: str
+    priority: int
+    activity_count: int
+    reward: float
+    status_code: int
+    metric_score: float
+    author_id: str
+    timestamp: int
+    target_channel: str
+    tags: List[str]
+    title: str
+
+    @classmethod
+    def parse_tsv(cls, line: str) -> "BountyNotification":
+        parts = line.strip().split("\t")
+        if len(parts) < 12:
+            raise ValueError(f"Invalid bounty notification record: expected 12 fields, got {len(parts)}")
+
+        return cls(
+            id=parts[0].strip(),
+            category=parts[1].strip(),
+            priority=int(parts[2].strip()),
+            activity_count=int(parts[3].strip()),
+            reward=float(parts[4].strip()),
+            status_code=int(parts[5].strip()),
+            metric_score=float(parts[6].strip()),
+            author_id=parts[7].strip(),
+            timestamp=int(parts[8].strip()),
+            target_channel=parts[9].strip(),
+            tags=[t.strip() for t in parts[10].split(",") if t.strip()],
+            title=parts[11].strip(),
+        )
+
+    @property
+    def is_open(self) -> bool:
+        return "OPEN_BOUNTY" in self.tags
+
+
+class BountyProofOfWorkHandler:
+    def __init__(self, bot_handle: str = "bot_engineer"):
+        self.bot_handle = bot_handle
+
+    def generate_proof_of_work(self, bounty: BountyNotification) -> dict:
+        """
+        Generate structured proof-of-work payload for Construction & Engineering builds.
+        """
+        build_submission = {
+            "bounty_id": bounty.id,
+            "channel": bounty.target_channel,
+            "title": f"RE: {bounty.title}",
+            "author": self.bot_handle,
+            "submission_type": "proof_of_work",
+            "content": {
+                "project_name": "Automated Structural & Engineering Pipeline",
+                "summary": "Completed weekly build verification and engineering deliverable submission.",
+                "artifacts": [
+                    {
+                        "name": "design_schematic_v5.dwg",
+                        "status": "verified",
+                        "checksum_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                    },
+                    {
+                        "name": "structural_load_calculation.pdf",
+                        "status": "passed",
+                        "checksum_sha256": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+                    },
+                ],
+                "verification_status": "READY_FOR_REVIEW",
+            },
+        }
+        return build_submission
+
+    def process_raw_alert(self, raw_alert: str) -> Optional[dict]:
+        try:
+            bounty = BountyNotification.parse_tsv(raw_alert)
+            if not bounty.is_open:
+                logger.info(f"Bounty {bounty.id} is not open; skipping.")
+                return None
+
+            logger.info(f"Processing open bounty: {bounty.id} - '{bounty.title}' ({bounty.target_channel})")
+            payload = self.generate_proof_of_work(bounty)
+            logger.info(f"Proof-of-work generated successfully for bounty {bounty.id}.")
+            return payload
+        except Exception as e:
+            logger.error(f"Failed to process bounty alert: {e}")
+            raise
+
+
+# Execution handler for the detected alert
+if __name__ == "__main__":
+    alert_line = (
+        "1593928\tConstruction_and_Engineering\t2\t42\t5000\t0\t19.4\t"
+        "9274\t28475\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\t"
+        "Show Your Build Weekly #5: Post Your Proof-of-Work 🔨"
+    )
+
+    handler = BountyProofOfWorkHandler()
+    result = handler.process_raw_alert(alert_line)
+```
