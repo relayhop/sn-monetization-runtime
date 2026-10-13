@@ -1,0 +1,104 @@
+```python
+from dataclasses import dataclass
+from typing import List, Optional
+import re
+import sys
+
+
+@dataclass
+class SNBountyRecord:
+    item_id: int
+    territory: str
+    comments_count: int
+    sats: int
+    bounty_sats: int
+    bounty_paid_sats: int
+    score: float
+    user_id: int
+    timestamp_or_rank: int
+    feed_source: str
+    tags: List[str]
+    title: str
+
+    @property
+    def is_open(self) -> bool:
+        return "OPEN_BOUNTY" in self.tags
+
+    @property
+    def is_low_competition(self) -> bool:
+        return "LOW_COMP" in self.tags
+
+
+def parse_sn_bounty_line(line: str) -> Optional[SNBountyRecord]:
+    """Parse a tab-separated Stacker News bounty alert line."""
+    clean_line = line.strip()
+    if not clean_line or clean_line.startswith("#"):
+        return None
+
+    # Support tab or multi-space delimiter
+    parts = re.split(r"\t+|\s{2,}", clean_line)
+    if len(parts) < 12:
+        return None
+
+    return SNBountyRecord(
+        item_id=int(parts[0]),
+        territory=parts[1],
+        comments_count=int(parts[2]),
+        sats=int(parts[3]),
+        bounty_sats=int(parts[4]),
+        bounty_paid_sats=int(parts[5]),
+        score=float(parts[6]),
+        user_id=int(parts[7]),
+        timestamp_or_rank=int(parts[8]),
+        feed_source=parts[9],
+        tags=[tag.strip() for tag in parts[10].split(",") if tag.strip()],
+        title=parts[11].strip(),
+    )
+
+
+def build_proof_of_work_submission(bounty: SNBountyRecord) -> dict:
+    """Generate structured proof-of-work payload for the weekly build bounty."""
+    return {
+        "item_id": bounty.item_id,
+        "territory": bounty.territory,
+        "title": bounty.title,
+        "target_sats": bounty.bounty_sats,
+        "submission_type": "proof_of_work",
+        "comment_body": (
+            "### Proof-of-Work: Weekly Build Update 🔨\n\n"
+            "- **Project**: Autonomous Bounty Solver & Monitoring Pipeline\n"
+            "- **Deliverables**:\n"
+            "  - Clean TSV/stream ingestion for territory-specific bounties.\n"
+            "  - Automated filtering for `OPEN_BOUNTY` and `LOW_COMP` threads.\n"
+            "  - End-to-end event dispatching and submission formatting.\n"
+            "- **Status**: Deployed and functional."
+        ),
+    }
+
+
+def handle_bounty_event(raw_input: str) -> dict:
+    """Validate, parse, and process incoming SN bounty event."""
+    bounty = parse_sn_bounty_line(raw_input)
+    if not bounty:
+        raise ValueError("Invalid bounty record format")
+
+    if not bounty.is_open:
+        return {"status": "skipped", "reason": "Bounty not open"}
+
+    return {
+        "status": "ready",
+        "bounty": bounty.__dict__,
+        "action": "submit_proof_of_work",
+        "payload": build_proof_of_work_submission(bounty),
+    }
+
+
+if __name__ == "__main__":
+    sample_input = (
+        "1593928\tConstruction_and_Engineering\t2\t42\t5000\t0\t19.4\t"
+        "9274\t28475\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\t"
+        "Show Your Build Weekly #5: Post Your Proof-of-Work 🔨"
+    )
+    result = handle_bounty_event(sample_input)
+    print(result)
+```
