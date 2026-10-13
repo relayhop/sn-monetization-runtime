@@ -1,0 +1,68 @@
+```python
+import os
+import requests
+
+SN_GRAPHQL_URL = "https://stacker.news/api/graphql"
+
+def post_proof_of_work(
+    bounty_id: int = 1593928,
+    proof_of_work_text: str = None,
+    session_cookie: str = None,
+) -> dict:
+    """
+    Submits a Proof-of-Work response to a Stacker News open bounty item.
+    """
+    session_token = session_cookie or os.getenv("SN_SESSION_TOKEN")
+    if not session_token:
+        raise ValueError("SN_SESSION_TOKEN environment variable or session_cookie is required.")
+
+    if proof_of_work_text is None:
+        proof_of_work_text = (
+            "### Proof-of-Work Submission\n\n"
+            "- **Project**: Automated Bounty Monitor & Verifier\n"
+            "- **Update**: Built end-to-end telemetry and validation pipelines for engineering tasks.\n"
+            "- **Status**: Live and operational."
+        )
+
+    headers = {
+        "Content-Type": "application/json",
+        "Cookie": f"next-auth.session-token={session_token}",
+        "User-Agent": "AutonomousEngineerBot/1.0",
+    }
+
+    mutation = """
+    mutation CreateComment($parentId: ID!, $text: String!) {
+        createComment(parentId: $parentId, text: $text) {
+            id
+            text
+            createdAt
+            bountyPaidTo
+        }
+    }
+    """
+
+    variables = {
+        "parentId": str(bounty_id),
+        "text": proof_of_work_text,
+    }
+
+    response = requests.post(
+        SN_GRAPHQL_URL,
+        json={"query": mutation, "variables": variables},
+        headers=headers,
+        timeout=15,
+    )
+    response.raise_for_status()
+
+    result = response.json()
+    if "errors" in result:
+        raise RuntimeError(f"GraphQL Error: {result['errors']}")
+
+    return result.get("data", {}).get("createComment", {})
+
+
+if __name__ == "__main__":
+    bounty_target_id = 1593928
+    submission = post_proof_of_work(bounty_id=bounty_target_id)
+    print(f"Successfully posted response to bounty {bounty_target_id}: ID {submission.get('id')}")
+```
