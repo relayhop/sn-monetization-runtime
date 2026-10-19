@@ -1,30 +1,10 @@
 # Solution for Issue #1300
 
 ## Summary
-### 1. Опис виправлення
-
-Оновлено реєстр активних винагород (`bounty_radar_state.json`) та додано виявлені цілі (`1596567`, `1596551`) до черги виконання `BountyDispatcher`. Для ідентифікованих категорій (`gaming`, `Stacker_Sports`) увімкнено правила пріоритетної обробки з урахуванням лімітів часу та sats-винагороди (2,100 sats кожна), що дозволяє воркеру своєчасно сформувати та надіслати валідні заявки на виконання баунті.
-
----
-
-### 2. Патч / Фікс
-
-```diff
-diff --git a/config/radar_targets.json
+Updated active reward registry (`bounty_radar_state.json`) by integrating newly identified targets (`1596567`, `1596551`) into the `BountyDispatcher` execution queue. For identified categories (`gaming`, `Stacker_Sports`), priority processing rules have been enabled with time windows and sats rewards (2,100 sats each), allowing automated workers to assemble and submit valid bounty solutions within deadline limits.
 
 ## Implementation / Patch
-```
-### 1. Опис виправлення
-
-Оновлено реєстр активних винагород (`bounty_radar_state.json`) та додано виявлені цілі (`1596567`, `1596551`) до черги виконання `BountyDispatcher`. Для ідентифікованих категорій (`gaming`, `Stacker_Sports`) увімкнено правила пріоритетної обробки з урахуванням лімітів часу та sats-винагороди (2,100 sats кожна), що дозволяє воркеру своєчасно сформувати та надіслати валідні заявки на виконання баунті.
-
----
-
-### 2. Патч / Фікс
-
 ```diff
-diff --git a/config/radar_targets.json b/config/radar_targets.json
-index 4b1c29e..d7f809a 100644
 --- a/config/radar_targets.json
 +++ b/config/radar_targets.json
 @@ -42,6 +42,34 @@
@@ -37,7 +17,7 @@ index 4b1c29e..d7f809a 100644
 +        "id": 1596567,
 +        "sub": "gaming",
 +        "bounty_sats": 2100,
-+        "title": "🏈 Sunday Leaders Bounty • 2,100 sats",
++        "title": "Sunday Leaders Bounty • 2,100 sats",
 +        "tags": ["OPEN_BOUNTY", "HOT", "SELF_POST_OPP"],
 +        "channels": ["recent@gaming", "top@gaming", "recent@Stacker_Sports"],
 +        "priority": "HIGH",
@@ -60,8 +40,6 @@ index 4b1c29e..d7f809a 100644
      ]
    }
  }
-diff --git a/src/radar/bounty_evaluator.py b/src/radar/bounty_evaluator.py
-index a210bbf..e3981bc 100644
 --- a/src/radar/bounty_evaluator.py
 +++ b/src/radar/bounty_evaluator.py
 @@ -19,6 +19,7 @@ SUPPORTED_SUBS = {
@@ -71,9 +49,6 @@ index a210bbf..e3981bc 100644
 +    "gaming",
 +    "Stacker_Sports"
  }
- 
- def should_process_bounty(item: dict) -> bool:
-```
 ```
 
 ## Payout Address (Solana)
