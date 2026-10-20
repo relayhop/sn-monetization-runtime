@@ -1,0 +1,103 @@
+```python
+from dataclasses import dataclass
+from typing import List, Optional
+import logging
+
+logger = logging.getLogger(__name__)
+
+
+@dataclass
+class BountyEvent:
+    bounty_id: int
+    category: str
+    tier: int
+    comments_count: int
+    reward: float
+    status_code: int
+    metrics_score: float
+    user_id: int
+    post_id: int
+    target_channel: str
+    tags: List[str]
+    title: str
+
+    @classmethod
+    def from_tsv(cls, line: str) -> "BountyEvent":
+        fields = line.strip().split("\t")
+        if len(fields) != 12:
+            raise ValueError(f"Expected 12 tab-delimited columns, got {len(fields)}")
+        return cls(
+            bounty_id=int(fields[0]),
+            category=fields[1],
+            tier=int(fields[2]),
+            comments_count=int(fields[3]),
+            reward=float(fields[4]),
+            status_code=int(fields[5]),
+            metrics_score=float(fields[6]),
+            user_id=int(fields[7]),
+            post_id=int(fields[8]),
+            target_channel=fields[9],
+            tags=[tag.strip() for tag in fields[10].split(",") if tag.strip()],
+            title=fields[11],
+        )
+
+    @property
+    def is_open(self) -> bool:
+        return "OPEN_BOUNTY" in self.tags
+
+    @property
+    def is_low_competition(self) -> bool:
+        return "LOW_COMP" in self.tags
+
+
+class BountyProcessor:
+    def __init__(self, min_reward: float = 1000.0):
+        self.min_reward = min_reward
+
+    def evaluate_bounty(self, bounty: BountyEvent) -> bool:
+        """Determines if the bounty meets claiming criteria."""
+        if not bounty.is_open:
+            logger.info("Skipping bounty %s: Not open.", bounty.bounty_id)
+            return False
+
+        if bounty.reward < self.min_reward:
+            logger.info(
+                "Skipping bounty %s: Reward %s below threshold %s.",
+                bounty.bounty_id,
+                bounty.reward,
+                self.min_reward,
+            )
+            return False
+
+        return True
+
+    def generate_proof_of_work(self, bounty: BountyEvent, project_details: dict) -> dict:
+        """Constructs submission payload for the proof-of-work bounty."""
+        payload = {
+            "bounty_id": bounty.bounty_id,
+            "post_id": bounty.post_id,
+            "target": bounty.target_channel,
+            "submission_type": "proof_of_work",
+            "title": f"Submission for {bounty.title}",
+            "project_name": project_details.get("name", "Autonomous Construction Pipeline"),
+            "repository": project_details.get("repo_url", ""),
+            "artifacts": project_details.get("artifacts", []),
+            "summary": project_details.get("summary", "Automated build artifact submission."),
+        }
+        return payload
+
+    def process_raw_alert(self, raw_line: str, project_details: Optional[dict] = None) -> Optional[dict]:
+        """Parses raw bounty alert string and processes proof-of-work submission if valid."""
+        bounty = BountyEvent.from_tsv(raw_line)
+        if self.evaluate_bounty(bounty):
+            details = project_details or {
+                "name": "CAD/BIM Automations & Structural Validation Framework",
+                "repo_url": "https://github.com/engineering/pow-builds",
+                "artifacts": ["build_v5_spec.pdf", "bim_calc_results.json"],
+                "summary": "Completed parameter validation pipeline for structural compliance analysis.",
+            }
+            submission = self.generate_proof_of_work(bounty, details)
+            logger.info("Successfully prepared submission for bounty ID: %s", bounty.bounty_id)
+            return submission
+        return None
+```
