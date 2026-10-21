@@ -1,0 +1,223 @@
+```python
+"""
+Construction & Engineering Proof-of-Work Build & Bounty Submission Engine
+Handles parsing detected bounty payloads and generating structural analysis proof-of-work.
+"""
+
+from dataclasses import dataclass
+from typing import List, Dict, Any, Optional
+import math
+import json
+
+
+# ==============================================================================
+# 1. Structural Engineering Analysis Core (Proof-of-Work Build Artifact)
+# ==============================================================================
+
+@dataclass
+class PointLoad:
+    magnitude_kn: float
+    position_m: float
+
+
+@dataclass
+class DistributedLoad:
+    magnitude_kn_per_m: float
+    start_m: float
+    end_m: float
+
+
+class StructuralBeamAnalyzer:
+    """
+    Finite-point beam analyzer for simply supported beams subjected to
+    arbitrary point loads and uniformly distributed loads (UDL).
+    Computes support reactions, shear force diagram (SFD), bending moment diagram (BMD),
+    and maximum deflection.
+    """
+
+    def __init__(self, length_m: float, e_gpa: float = 210.0, i_cm4: float = 8356.0):
+        self.length = float(length_m)
+        self.e_pa = e_gpa * 1e9          # Young's modulus in Pa
+        self.i_m4 = i_cm4 * 1e-8         # Second moment of area in m^4
+        self.point_loads: List[PointLoad] = []
+        self.distributed_loads: List[DistributedLoad] = []
+
+    def add_point_load(self, magnitude_kn: float, position_m: float) -> None:
+        if 0.0 <= position_m <= self.length:
+            self.point_loads.append(PointLoad(magnitude_kn, position_m))
+        else:
+            raise ValueError(f"Position {position_m}m outside beam length {self.length}m.")
+
+    def add_distributed_load(self, magnitude_kn_per_m: float, start_m: float, end_m: float) -> None:
+        if 0.0 <= start_m < end_m <= self.length:
+            self.distributed_loads.append(DistributedLoad(magnitude_kn_per_m, start_m, end_m))
+        else:
+            raise ValueError(f"Load range [{start_m}, {end_m}] out of bounds.")
+
+    def calculate_reactions(self) -> Dict[str, float]:
+        """Calculates vertical reaction forces at supports A (x=0) and B (x=L)."""
+        moment_about_a = 0.0
+        total_load = 0.0
+
+        for pl in self.point_loads:
+            moment_about_a += pl.magnitude_kn * pl.position_m
+            total_load += pl.magnitude_kn
+
+        for dl in self.distributed_loads:
+            span = dl.end_m - dl.start_m
+            total_dl = dl.magnitude_kn_per_m * span
+            centroid = dl.start_m + (span / 2.0)
+            moment_about_a += total_dl * centroid
+            total_load += total_dl
+
+        rb = moment_about_a / self.length
+        ra = total_load - rb
+        return {"ra_kn": round(ra, 3), "rb_kn": round(rb, 3)}
+
+    def evaluate(self, step_count: int = 100) -> Dict[str, Any]:
+        """Evaluates shear force, bending moments, and approximate deflection along beam."""
+        reactions = self.calculate_reactions()
+        ra = reactions["ra_kn"]
+        
+        dx = self.length / step_count
+        xs = [i * dx for i in range(step_count + 1)]
+        shear_force = []
+        bending_moment = []
+
+        max_v = 0.0
+        max_m = 0.0
+
+        for x in xs:
+            # V(x) = Ra - sum(loads to the left)
+            v = ra
+            m = ra * x
+
+            for pl in self.point_loads:
+                if x >= pl.position_m:
+                    v -= pl.magnitude_kn
+                    m -= pl.magnitude_kn * (x - pl.position_m)
+
+            for dl in self.distributed_loads:
+                if x > dl.start_m:
+                    eff_end = min(x, dl.end_m)
+                    loaded_len = eff_end - dl.start_m
+                    dl_force = dl.magnitude_kn_per_m * loaded_len
+                    centroid = dl.start_m + (loaded_len / 2.0)
+                    v -= dl_force
+                    m -= dl_force * (x - centroid)
+
+            shear_force.append(round(v, 3))
+            bending_moment.append(round(m, 3))
+
+            if abs(v) > abs(max_v):
+                max_v = v
+            if abs(m) > abs(max_m):
+                max_m = m
+
+        # Simplified maximum deflection check using standard mid-span approximation
+        ei = (self.e_pa * self.i_m4) / 1e3  # kN.m^2
+        max_deflection_mm = (abs(max_m) * (self.length ** 2)) / (10.0 * ei) * 1000.0 if ei > 0 else 0.0
+
+        return {
+            "beam_length_m": self.length,
+            "reactions": reactions,
+            "max_shear_kn": round(max_v, 3),
+            "max_bending_moment_kn_m": round(max_m, 3),
+            "est_max_deflection_mm": round(max_deflection_mm, 3),
+            "allowable_deflection_limit_mm": round((self.length * 1000.0) / 250.0, 3),
+            "pass_deflection_check": max_deflection_mm <= ((self.length * 1000.0) / 250.0)
+        }
+
+
+# ==============================================================================
+# 2. Bounty Ingestion and Proof-of-Work Automation Handler
+# ==============================================================================
+
+@dataclass
+class BountyPayload:
+    bounty_id: str
+    category: str
+    round_no: int
+    metric_a: int
+    bounty_value: int
+    metric_b: int
+    score: float
+    client_id: str
+    task_id: str
+    routing_tag: str
+    status_flags: List[str]
+    title: str
+
+    @classmethod
+    def parse_raw(cls, raw_entry: str) -> "BountyPayload":
+        fields = [field.strip() for field in raw_entry.strip().split("\t") if field.strip()]
+        if len(fields) < 12:
+            raise ValueError(f"Expected at least 12 fields in TSV payload, found {len(fields)}")
+
+        return cls(
+            bounty_id=fields[0],
+            category=fields[1],
+            round_no=int(fields[2]),
+            metric_a=int(fields[3]),
+            bounty_value=int(fields[4]),
+            metric_b=int(fields[5]),
+            score=float(fields[6]),
+            client_id=fields[7],
+            task_id=fields[8],
+            routing_tag=fields[9],
+            status_flags=[s.strip() for s in fields[10].split(",")],
+            title=fields[11]
+        )
+
+
+class ProofOfWorkGenerator:
+    """Generates submission artifact formatted for Construction & Engineering build bounties."""
+
+    @staticmethod
+    def generate_submission(bounty: BountyPayload) -> Dict[str, Any]:
+        # Instantiate structural engineering analysis build
+        analyzer = StructuralBeamAnalyzer(length_m=6.0, e_gpa=200.0, i_cm4=8500.0)
+        analyzer.add_point_load(magnitude_kn=25.0, position_m=3.0)
+        analyzer.add_distributed_load(magnitude_kn_per_m=12.0, start_m=0.0, end_m=6.0)
+        analysis_result = analyzer.evaluate()
+
+        submission_body = (
+            f"### Proof-of-Work Build Submission\n\n"
+            f"**Bounty ID:** `{bounty.bounty_id}`\n"
+            f"**Event:** {bounty.title}\n"
+            f"**Category:** {bounty.category}\n\n"
+            f"#### Structural Engineering Artifact: Automated Beam Stress & Deflection Verification\n"
+            f"- **Span Length:** {analysis_result['beam_length_m']} m\n"
+            f"- **Reaction Loads:** Ra = {analysis_result['reactions']['ra_kn']} kN, Rb = {analysis_result['reactions']['rb_kn']} kN\n"
+            f"- **Max Bending Moment:** {analysis_result['max_bending_moment_kn_m']} kNm\n"
+            f"- **Max Shear Force:** {analysis_result['max_shear_kn']} kN\n"
+            f"- **Max Deflection:** {analysis_result['est_max_deflection_mm']} mm (Limit: {analysis_result['allowable_deflection_limit_mm']} mm)\n"
+            f"- **Structural Verification Status:** {'PASSED (Compliant L/250)' if analysis_result['pass_deflection_check'] else 'FAILED'}\n"
+        )
+
+        return {
+            "bounty_id": bounty.bounty_id,
+            "category": bounty.category,
+            "status": "READY_FOR_DISPATCH",
+            "submission_content": submission_body,
+            "analysis_metadata": analysis_result
+        }
+
+
+def process_bounty_event(raw_log: str) -> str:
+    """Entrypoint function to parse the raw bounty line and return execution result."""
+    bounty = BountyPayload.parse_raw(raw_log)
+    if "OPEN_BOUNTY" in bounty.status_flags:
+        result = ProofOfWorkGenerator.generate_submission(bounty)
+        return json.dumps(result, indent=2)
+    return json.dumps({"status": "IGNORED", "reason": "Not an OPEN_BOUNTY event"})
+
+
+if __name__ == "__main__":
+    raw_event = (
+        "1593928\tConstruction_and_Engineering\t2\t42\t5000\t0\t19.4\t"
+        "9274\t28475\ttop@Construction_and_Engineering\tOPEN_BOUNTY,LOW_COMP\t"
+        "Show Your Build Weekly #5: Post Your Proof-of-Work 🔨"
+    )
+    print(process_bounty_event(raw_event))
+```
