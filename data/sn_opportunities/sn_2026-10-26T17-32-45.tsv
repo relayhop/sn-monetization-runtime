@@ -1,0 +1,65 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1602373	privacy	1	1281	0	2	9.9	879734	10211	recent@privacy|top@privacy	HOT,SIGNAL	Statement from Toronto Crime Stoppers on the P3 data breach
+1602532	AI	1	1056	0	3	4.2	402772	22753	recent@AI|top@AI	HOT,SIGNAL	Anthropic officially files to go public
+1602652	bitcoin	1	835	0	0	1.8	462245	311	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	FRESH,SIGNAL	Payjoin <> CISA — Last Week in Bitcoin (Oct 19 - 25)
+1602707	bitcoin	1	745	0	2	1.1	163128	4004	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin: The Fence and the Fox - Feature Film
+1602557	bitcoin	1	618	0	1	3.4	74100	13438	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	bitcoin-pisa demo: payjoin wiht cross-input signature aggregation
+1602740	bitcoin	1	573	0	0	0.6	74100	13438	recent@bitcoin|top@bitcoin|recent@privacy	FRESH,SIGNAL	Would Spark be better if the Spark operator couldn't see your transactions?
+1602684	tech	1	442	0	0	1.4	777209	80	recent@tech|top@tech	FRESH,SIGNAL	Microsoft offers mass buyouts for roughly a quarter of its workforce
+1602572	bitcoin	1	424	0	0	3.1	699824	170	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	shoot the breez | Jon Gordon (SOUND HSA)
+1602419	bitcoin	1	406	0	2	7.4	51481	4325	recent@bitcoin|top@bitcoin	SIGNAL	Electrum wallet bug let rogue servers steal funds - CoinDesk
+1602656	bitcoin	1	286	0	0	1.7	126503	844	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	BTCPay Server Release 2.4.6
+1602372	bitcoin_beginners	1	259	0	1	10.1	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Dakar Bitcoin Hack by BTrust
+1601896	Geyser_community	3	55057	0	29	28.5	2795	1437	recent@bitcoin	HOT	Christianity territory help
+1602310	bitcoin	1	3408	0	15	14.2	58766	44	recent@bitcoin|top@bitcoin	HOT	Foundation Devices website and emails compromised -- Ongoing Phishing Attack
+1602108	bitcoin	1	1852	0	3	23.3	74100	13438	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	DISCUSS: "What matters is the resulting behavior, not the code itself."
+1602279	Travel	3	1603	0	9	15.3	1011295	270	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Austin trip is upon us
+1602217	bitcoin_Mining	1	1291	0	1	19.4	30782	26116	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Avalon Third Party Firmware
+1602292	art	3	1067	0	4	14.6	1256355	122	recent@bitcoin|top@bitcoin	HOT	Edition One pre-sale drops on Oct. 29th, newsletter subs get 21% OFF for 48hrs!
+1602055	lightning	1	1048	0	2	24.6	440729	339	recent@lightning	HOT	Biggest Channel Opened Today (3.8 BTC) + New Node Spotlight (0357bd63443d00a78…)
+1601838	bitcoin	1	845	0	2	31.2	296825	5744	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		The inactivity fee on dormant custodial accounts | Blink Wallet
+1602114	tech	1	505	0	0	23.2	144357	4700	recent@tech|top@tech		Rivian buys world model startup to accelerate self-driving ambitions
+1602184	bitcoin	1	442	0	1	21.0	178	948	recent@bitcoin|top@bitcoin		Sunday Survey: where is the best Bitcoin city?
+1601964	bitcoin	1	437	0	0	26.9	296825	5744	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		Bennu: An experiment for a Bitcoin wallet with primary UX/UI is E2EE group chat
+1601860	bitcoin	1	434	0	1	29.7	296825	5744	recent@bitcoin|recent@bitcoin_beginners|recent@lightning		New BIP published:   BIP139: Wallet Metadata Export Format
+1602026	gaming	3	429	0	0	25.3	272410	2058	recent@tech		GTA.js | Grand Theft Auto (1997) Reimplemented in JavaScript and WebGL
+1601802	AI	1	417	0	1	32.9	382968	307	recent@AI		DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+1602134	tech	1	363	0	0	22.5	777209	80	recent@tech|top@tech		A 10-year-old CNN beats frontier LLMs at skin cancer diagnosis
+1602274	bitcoin	1	358	0	10	15.4	1586396	9	recent@bitcoin|top@bitcoin		Why is there so little good Bitcoin fiction?
+1602246	AI	1	307	0	1	18.0	1575305	55	recent@AI|top@AI		Demis Hassabis: we're standing in the foothills of the singularity
+1602124	bitcoin	1	300	0	1	22.7	133081	749	recent@bitcoin|top@bitcoin		The $10 Insult: Congress Exempts Network Fees, Leaves BTC Spending Taxable
+1601935	tech	1	249	0	1	27.4	12309	3744	recent@devs|recent@tech|recent@AI		OpenAI's red-team AI built a hidden CPU cache channel to talk with no network
+1602322	AI	1	209	0	1	13.7	126503	844	recent@AI|top@AI		Anthropic's Claude accessed Georgia state vote count data behind paywall
+1602136	tutorials	2	159	0	1	22.4	296825	5744	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Build your own Signing Devices.  aka hardware wallet
+1602088	AI	1	137	0	0	24.0	1575305	55	recent@AI|top@AI		Per-patient mRNA vaccine cuts melanoma relapse or death 42% in phase III trial
+1601992	bitcoin	1	136	0	0	26.2	296825	5744	recent@bitcoin_beginners|recent@lightning		"The World Will Have A Single Currency. I Believe Will Be Bitcoin". WHICH WORLD?
+1602000	bitcoin	1	126	0	0	26.1	296825	5744	recent@bitcoin_beginners		Gold Bugs Meet Their Worst Nightmare: A Machine That Prints Gold
+1602327	AI	1	125	0	0	13.3	382968	307	recent@AI|top@AI		Qwen BabelArena: A 23-Language Benchmark for LLM Agents
+1602267	AI	1	116	0	0	16.1	296825	5744	recent@AI|top@AI		A large enough model and compute and I'll rewrite the world | Jameson Lopp
+1601829	meta	1	116	0	0	31.5	36151	1686	recent@meta		This Day on SN: October 25
+1602285	art	3	100	0	1	14.9	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners		Timechain | The world's first Bitcoin art magazine
+1601861	devs	1	78	0	0	29.7	297791	7998	recent@devs		Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe
+1602714	tech	1	76	0	1	1.0	13531	1751	recent@AI|top@AI	FRESH	Anthropic’s IPO filing lays out a plan
+1601927	lol	2	61	0	0	27.6	296825	5744	recent@bitcoin_beginners		Someone has been writing sentences like into the Timechain, ~40 times a day
+1602251	bitcoin	1	36	0	1	17.8	223678	6520	recent@bitcoin|top@bitcoin|recent@lightning		A fun little project to orange-pill friends and family on Bitcoin as a MoE
+1602728	bitcoin	1	36	0	0	0.8	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	The New Bitcoin Diploma: Shorter, More Local, and Built Around the Educator
+1602644	tech	1	36	0	0	1.9	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Bitchat now supports live video streaming over mesh, without internet
+1602623	bitcoin_beginners	1	36	0	0	2.2	163128	4004	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Silent Payments - BlindBits balance between UX and privacy by Setor
+1602130	bitcoin	1	36	0	0	22.6	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Found the old BitcoinDevKit  playground. ● Bitcoin Dev Kit
+1602036	bitcoin	1	36	0	0	25.1	296825	5744	recent@bitcoin_beginners		Utexo Mint Opens Ahead of USD₮ on Bitcoin Launch. Oh, no! Shitcoinery?
+1602575	bitcoin_Mining	1	36	0	0	3.0	280679	23858	recent@bitcoin_Mining|top@bitcoin_Mining		Bitcoin Is Busier Than Ever. So Why Aren't Miners Getting Paid More?
+1602212	AI	1	32	0	0	19.6	1054143	1462	recent@AI|top@AI		How AI-generated photo cost kidnap victim N4m ransom – Freed Benue graduate
+1602242	AI	1	21	0	0	18.3	297791	7998	recent@devs|top@devs|recent@AI		Google and Meta Open-Source TorchTPU for Native PyTorch on TPUs
+1602655	AI	1	21	0	0	1.7	297791	7998	recent@AI|top@AI	FRESH	Anthropic's IPO filing shows explosive growth, risks and staggering costs
+1602287	tech	1	21	0	0	14.8	238412	386	recent@AI|top@AI		What the Media Won't Tell You About the Black October Cyberattacks
+1602388	bitcoin_beginners	1	20	0	0	8.6	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners		What If You’re Trusting Criminals in Suits?
+1602370	tech	1	17	0	0	10.4	296825	5744	recent@devs|top@devs		Hashcat releases v8.0.0.: The largest update in the history of hashcat.
+1602321	bitcoin	1	0	0	0	13.7	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin Core integration: connecting to interact directly with the Timechain
+1602300	bitcoin_beginners	1	0	0	0	14.3	296825	5744	recent@bitcoin_beginners|top@bitcoin_beginners		Two doors,  entering the same room
+1602754	bitcoin_Mining	1	0	0	0	0.2	1028548	667	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH	Futubit Apollo Hits a Block!
+1602692	devs	1	0	0	0	1.3	297791	7998	recent@devs|top@devs	FRESH	Linux 7.4 EFI Brings Improvement For Helping Systemd When Kernel Booted Directly
+1602126	devs	1	0	0	0	22.7	297791	7998	recent@devs|top@devs		Google C Binder Driver Removed With Rust Binder Ready For "Few Billion Devices"
+1601981	devs	1	0	0	0	26.4	297791	7998	recent@devs		Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4
+1602548	AI	1	0	0	0	3.6	1602276	3	recent@AI|top@AI		83 acres, One Human: An open invitation to Autonomous AI
+1602528	AI	1	0	0	0	4.3	297791	7998	recent@AI|top@AI		12 AI models were asked what they really think about humans
+1602248	news	2	0	0	0	18.0	297791	7998	recent@AI|top@AI		Anthropic's Mythos pretends to be human during CTF exercise
