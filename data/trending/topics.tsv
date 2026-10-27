@@ -1,25 +1,35 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-27T15:44:41.414Z; n=40
-bitcoin	sn:Travel,sn:bitcoin_beginners,sn:bitcoin,sn:food_and_drinks	18.03	yes	
-reading	sn:the_stacker_muse,sn:BooksAndArticles	6.48	no	RISING
+# generated 2026-10-27T20:27:22.728Z; n=40
+bitcoin	sn:Travel,sn:bitcoin_beginners,sn:bitcoin	9.37	yes	
+anthropic	hn,sn:Stacker_Stocks	5.68	yes	
 austin	sn:Travel	4.15	yes	
 musings	sn:the_stacker_muse	3.36	no	RISING
+reading	sn:the_stacker_muse	3.36	no	RISING
 its decline	sn:the_stacker_muse	3.36	no	RISING
 once more	sn:the_stacker_muse	3.36	no	RISING
-loop	sn:lightning	3.28	no	RISING
-traffic spike	sn:lightning	3.28	no	RISING
-how voting is like	sn:math	3.2	no	RISING
-klein bottle	sn:math	3.2	no	RISING
+loop	sn:lightning	3.31	no	RISING
+traffic spike	sn:lightning	3.31	no	RISING
+how voting is like	sn:math	3.23	no	RISING
+klein bottle	sn:math	3.23	no	RISING
+cognitive mercantilism	sn:AI	3.21	yes	
+venkatesh rao	sn:AI	3.21	yes	
+filing	sn:Stacker_Stocks	3.21	no	RISING
+long-term benefit	sn:Stacker_Stocks	3.21	no	RISING
+humanity	sn:Stacker_Stocks	3.21	no	RISING
 the anthropic	sn:Stacker_Stocks	3.16	no	RISING
 looks scary	sn:Stacker_Stocks	3.16	no	RISING
 money stuff	sn:Stacker_Stocks	3.16	no	RISING
 matt levine	sn:Stacker_Stocks	3.16	no	RISING
-books everlasting	sn:BooksAndArticles	3.13	no	RISING
-the new age	sn:BooksAndArticles	3.13	no	RISING
-the new yorker	sn:BooksAndArticles	3.13	no	RISING
-nathan heller	sn:BooksAndArticles	3.13	no	RISING
-would spark	sn:bitcoin	3.12	yes	
-spark	sn:bitcoin	3.12	yes	
+why now is	sn:bitcoin	3.13	yes	
+time	sn:bitcoin	3.13	yes	
+hold	sn:bitcoin	3.13	yes	
+galaxy	sn:bitcoin	3.13	yes	
+twitter	sn:bitcoin	3.13	yes	
+alex thorn	sn:bitcoin	3.13	yes	
+show me	sn:bitcoin	3.12	yes	
+incentive	sn:bitcoin	3.12	yes	
+show you	sn:bitcoin	3.12	yes	
+outcome	sn:bitcoin	3.12	yes	
 announcement	sn:AMA	3.1	no	RISING
 municipal bond advisor	sn:AMA	3.1	no	RISING
 friday	sn:AMA	3.1	no	RISING
@@ -27,16 +37,6 @@ who wants overcollateralized loans	sn:bitcoin	3.1	yes
 apparently	sn:bitcoin	3.1	yes	
 everyone	sn:bitcoin	3.1	yes	
 margot patrick	sn:bitcoin	3.1	yes	
-why now is	sn:bitcoin	3.08	yes	
-time	sn:bitcoin	3.08	yes	
-hold	sn:bitcoin	3.08	yes	
-galaxy	sn:bitcoin	3.08	yes	
-twitter	sn:bitcoin	3.08	yes	
-alex thorn	sn:bitcoin	3.08	yes	
-from each according	sn:Politics_And_Law	3.07	no	RISING
-his ability	sn:Politics_And_Law	3.07	no	RISING
-to each according	sn:Politics_And_Law	3.07	no	RISING
-his age	sn:Politics_And_Law	3.07	no	RISING
-the economist	sn:Politics_And_Law	3.07	no	RISING
-daily discussion thread	sn:Music	3.04	no	RISING
-music saloon	sn:Music	3.04	no	RISING
+from each according	sn:Politics_And_Law	3.08	no	RISING
+his ability	sn:Politics_And_Law	3.08	no	RISING
+to each according	sn:Politics_And_Law	3.08	no	RISING
