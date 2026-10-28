@@ -59346,3 +59346,28 @@
 2026-10-28T01:12:02.485Z	1603539	math	2	113	0	0	4.8	342936	1908	recent@AI|top@AI|recent@math	SIGNAL	A Mathematician Reads the AI Future by Steven Strogatz
 2026-10-28T01:12:02.485Z	1603190	news	2	110	0	0	11.7	297791	8006	recent@news|top@news	SIGNAL	Microsoft is offering buyouts to around 60,000 employees
 2026-10-28T01:12:02.485Z	1603185	Stacker_Stocks	2	100	0	0	11.8	280679	23882	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Anthropic was keeping its IPO share price secret — footnote reveals $71.43
+2026-10-28T01:36:05.574Z	1603307	bitcoin	1	19796	0	44	9.6	524915	43	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The long road to bitcoin payments...
+2026-10-28T01:36:05.574Z	1603603	bitcoin	1	4305	0	3	3.0	74100	13478	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Neptune's Brood is the first fiction to mention bitcoin...and first to remove it
+2026-10-28T01:36:05.574Z	1603517	AI	1	2292	0	8	5.6	74100	13478	recent@AI|top@AI	HOT,SIGNAL	Cognitive Mercantilism - Why you don't have to be a farmer - Venkatesh Rao
+2026-10-28T01:36:05.574Z	1603575	tech	1	1647	0	4	3.9	48657	16380	recent@tech|top@tech	HOT,SIGNAL	Looks like Apple is botching their foldable rollout
+2026-10-28T01:36:05.574Z	1603314	bitcoin	1	1331	0	13	9.4	74100	13478	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Show Me the Incentive, and I'll Show You the Outcome - Obi
+2026-10-28T01:36:05.574Z	1603278	bitcoin	1	1289	0	2	10.0	74100	13478	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	mempool.space expands cluster mempool view
+2026-10-28T01:36:05.574Z	1603464	bitcoin	1	1012	0	0	7.0	74100	13478	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Keystone to destroy 18k hardware wallets due to hacked authentication key
+2026-10-28T01:36:05.574Z	1603246	lightning	1	769	0	2	10.8	263526	1064	recent@lightning|top@lightning	SIGNAL	How do you back your Lightning node?
+2026-10-28T01:36:05.574Z	1603260	bitdevs	1	659	0	2	10.5	74100	13478	recent@bitdevs|top@bitdevs|recent@devs	SIGNAL	Nut November - A month-long hackathon for Cashu builders
+2026-10-28T01:36:05.574Z	1603510	bitcoin	1	558	0	1	5.8	280679	23882	recent@bitcoin|top@bitcoin	SIGNAL	Letter #8: Notes From the Inside
+2026-10-28T01:36:05.574Z	1603287	bitcoin_Mining	1	549	0	1	9.9	1028548	669	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Solo CK Pleb Miner Finds Block 973413
+2026-10-28T01:36:05.574Z	1603593	AI	1	414	0	1	3.4	280679	23882	recent@AI|top@AI	SIGNAL	In China, the AI bubble has already burst
+2026-10-28T01:36:05.575Z	1603325	AI	1	360	0	2	9.2	13531	1754	recent@AI|top@AI	SIGNAL	Data center backlash is uniting America
+2026-10-28T01:36:05.575Z	1603491	bitcoin	1	328	0	0	6.2	296825	5762	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	HWW companies have had a year!
+2026-10-28T01:36:05.575Z	1603282	bitcoin	1	261	0	0	10.0	296825	5762	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Dutch bitcoin broker Bitonic hacked, funds stolen - DutchNews.nl
+2026-10-28T01:36:05.575Z	1603395	AI	1	215	0	0	8.4	934367	1127	recent@AI|top@AI	SIGNAL	Google DeepMind Genie 4: A new generation of world simulation - YouTube
+2026-10-28T01:36:05.575Z	1603453	bitcoin_beginners	1	175	0	0	7.3	296825	5762	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Can Bitcoin help pay a firehall’s heating bill?
+2026-10-28T01:36:05.575Z	1603438	bitcoin	1	170	0	0	7.7	296825	5762	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Braiins releases Braiins OS 26.10
+2026-10-28T01:36:05.575Z	1603261	bitcoin	1	168	0	2	10.5	109384	149	recent@bitcoin|top@bitcoin	SIGNAL	Crude Oil vs Bitcoin Prediction Markets Live on Glimpse
+2026-10-28T01:36:05.575Z	1603262	AI	1	157	0	0	10.4	280679	23882	recent@AI|top@AI	SIGNAL	Tricks from the Past deployed via signed ChatGPT and Claude binaries
+2026-10-28T01:36:05.575Z	1603265	Design	2	156	0	0	10.4	163128	4005	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Visualize Bitcoin · Bitcoin explained as a live 3D machine
+2026-10-28T01:36:05.575Z	1603371	Design	2	138	0	0	8.6	383547	3964	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin-Safe Release v2.2.0 · Improved CBF and plugin manager
+2026-10-28T01:36:05.575Z	1603225	bitcoin	1	138	0	0	11.2	280679	23882	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The bitcoin-dev mailing list, readable
+2026-10-28T01:36:05.575Z	1603429	bitcoinplusplus	1	120	0	1	7.8	280679	23882	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Hackathon Kickoff — Jake, niftynei | bitcoin++ Berlin, payments edition
+2026-10-28T01:36:05.575Z	1603539	math	2	113	0	0	5.2	342936	1908	recent@AI|top@AI	SIGNAL	A Mathematician Reads the AI Future by Steven Strogatz
