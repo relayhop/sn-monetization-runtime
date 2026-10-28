@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-28T10:22:33.416Z; n=40
-code	hn	4.61	no	RISING
-austin	sn:Travel	4.05	yes	
-neptune	sn:bitcoin	3.65	yes	
-brood	sn:bitcoin	3.65	yes	
-cognitive mercantilism	sn:AI	3.36	yes	
-venkatesh rao	sn:AI	3.36	yes	
-how voting is like	sn:math	3.24	no	RISING
-klein bottle	sn:math	3.24	no	RISING
+# generated 2026-10-28T20:47:58.467Z; n=40
+apple	hn,sn:tech	6.2	yes	
+tailscale	hn,sn:tech	5.43	yes	
+investigation	hn,sn:tech	5.43	yes	
+austin	sn:Travel	4.09	yes	
+neptune	sn:bitcoin	3.66	yes	
+brood	sn:bitcoin	3.66	yes	
+peace-of	sn:bitcoin	3.56	yes	
+spend	sn:bitcoin	3.56	yes	
+cold wallet	sn:bitcoin	3.56	yes	
+psbt	sn:bitcoin	3.56	yes	
+satoshi	sn:bitcoin	3.49	yes	
+review	sn:bitcoin	3.34	yes	
+futures	sn:bitcoin	3.34	yes	
+the last mugging	sn:bitcoin	3.34	yes	
+political propaganda	sn:lol	3.29	no	RISING
+buckeye state	sn:lol	3.29	no	RISING
 looks	sn:tech	3.23	yes	
-apple	sn:tech	3.23	yes	
-anthropic	sn:Stacker_Stocks	3.23	yes	
-filing	sn:Stacker_Stocks	3.23	no	RISING
-long-term benefit	sn:Stacker_Stocks	3.23	no	RISING
-humanity	sn:Stacker_Stocks	3.23	no	RISING
-why now is	sn:bitcoin	3.16	yes	
-time	sn:bitcoin	3.16	yes	
-hold	sn:bitcoin	3.16	yes	
-galaxy	sn:bitcoin	3.16	yes	
-twitter	sn:bitcoin	3.16	yes	
-alex thorn	sn:bitcoin	3.16	yes	
-show me	sn:bitcoin	3.12	yes	
-incentive	sn:bitcoin	3.12	yes	
-show you	sn:bitcoin	3.12	yes	
-outcome	sn:bitcoin	3.12	yes	
-who wants overcollateralized loans	sn:bitcoin	3.1	yes	
-apparently	sn:bitcoin	3.1	yes	
-everyone	sn:bitcoin	3.1	yes	
-margot patrick	sn:bitcoin	3.1	yes	
-from each according	sn:Politics_And_Law	3.08	no	RISING
-his ability	sn:Politics_And_Law	3.08	no	RISING
-to each according	sn:Politics_And_Law	3.08	no	RISING
-his age	sn:Politics_And_Law	3.08	no	RISING
-the economist	sn:Politics_And_Law	3.08	no	RISING
-keystone	sn:bitcoin	3.03	yes	
-ghostty	hn	3.02	no	RISING
-last	sn:Stacker_Sports	3.02	no	RISING
-the ultimate prepper	sn:Politics_And_Law	2.99	no	RISING
-tether	sn:Politics_And_Law	2.99	no	RISING
-the blind spot	sn:Politics_And_Law	2.99	no	RISING
-izabella kaminska	sn:Politics_And_Law	2.99	no	RISING
+polymarket	sn:trading	3.17	no	RISING
+top trader	sn:trading	3.17	no	RISING
+mysteriously gone	sn:trading	3.17	no	RISING
+his trades were great	sn:trading	3.17	no	RISING
+waking up rich	sn:BooksAndArticles	3.16	no	RISING
+bitcoin project	sn:BooksAndArticles	3.16	no	RISING
+vincenzo palazzo	sn:bitcoin	3.16	yes	
+bitcoin optech newsletter	sn:bitcoin	3.16	yes	
+podcast	sn:bitcoin	3.16	yes	
+making	sn:family	3.04	no	RISING
+daily discussion thread	sn:Music	3.03	no	RISING
+music saloon	sn:Music	3.03	no	RISING
+high	sn:japan	3.02	no	RISING
+nordic node	sn:bitcoin_Mining	3.01	no	RISING
+you should go	sn:bitcoin_Mining	3.01	no	RISING
+norway instead	sn:bitcoin_Mining	3.01	no	RISING
+hiding miners	sn:bitcoin_Mining	3.01	no	RISING
+work	sn:bitcoin_Mining	3.01	no	RISING
+the last untracked generation	sn:tech	2.99	yes	
+coinbase vendor breach	sn:news	2.99	no	RISING
+nakamoto library	sn:bitcoin	2.98	yes	
+bitcoin	sn:bitcoin	2.98	yes	
+unlocking persistent motivation	sn:podcasts	2.94	no	RISING
