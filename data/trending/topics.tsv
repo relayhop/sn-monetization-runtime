@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-28T20:47:58.467Z; n=40
-apple	hn,sn:tech	6.2	yes	
-tailscale	hn,sn:tech	5.43	yes	
-investigation	hn,sn:tech	5.43	yes	
+# generated 2026-10-29T01:34:41.799Z; n=40
+bitcoin	sn:lol,sn:bitcoin	9.68	yes	
 austin	sn:Travel	4.09	yes	
-neptune	sn:bitcoin	3.66	yes	
-brood	sn:bitcoin	3.66	yes	
-peace-of	sn:bitcoin	3.56	yes	
-spend	sn:bitcoin	3.56	yes	
-cold wallet	sn:bitcoin	3.56	yes	
-psbt	sn:bitcoin	3.56	yes	
-satoshi	sn:bitcoin	3.49	yes	
-review	sn:bitcoin	3.34	yes	
-futures	sn:bitcoin	3.34	yes	
-the last mugging	sn:bitcoin	3.34	yes	
-political propaganda	sn:lol	3.29	no	RISING
-buckeye state	sn:lol	3.29	no	RISING
-looks	sn:tech	3.23	yes	
+peace-of	sn:bitcoin	3.57	yes	
+spend	sn:bitcoin	3.57	yes	
+cold wallet	sn:bitcoin	3.57	yes	
+psbt	sn:bitcoin	3.57	yes	
+satoshi	sn:bitcoin	3.52	yes	
+bitcoin core	sn:bitcoin	3.43	yes	
+vincenzo palazzo	sn:bitcoin	3.4	yes	
+bitcoin optech newsletter	sn:bitcoin	3.4	yes	
+podcast	sn:bitcoin	3.4	yes	
+gateway	sn:lol	3.35	yes	
+review	sn:bitcoin	3.35	yes	
+futures	sn:bitcoin	3.35	yes	
+the last mugging	sn:bitcoin	3.35	yes	
+political propaganda	sn:lol	3.33	no	RISING
+buckeye state	sn:lol	3.33	no	RISING
+spaces protocol explained	sn:bitcoin	3.3	yes	
+human-readable names	sn:bitcoin	3.3	yes	
 polymarket	sn:trading	3.17	no	RISING
 top trader	sn:trading	3.17	no	RISING
 mysteriously gone	sn:trading	3.17	no	RISING
 his trades were great	sn:trading	3.17	no	RISING
 waking up rich	sn:BooksAndArticles	3.16	no	RISING
 bitcoin project	sn:BooksAndArticles	3.16	no	RISING
-vincenzo palazzo	sn:bitcoin	3.16	yes	
-bitcoin optech newsletter	sn:bitcoin	3.16	yes	
-podcast	sn:bitcoin	3.16	yes	
+not your keys	sn:Stacker_Stocks	3.16	no	RISING
+not your treasury company	sn:Stacker_Stocks	3.16	no	RISING
+money stuff	sn:Stacker_Stocks	3.16	no	RISING
+matt levine	sn:Stacker_Stocks	3.16	no	RISING
+high	sn:japan	3.06	no	RISING
 making	sn:family	3.04	no	RISING
 daily discussion thread	sn:Music	3.03	no	RISING
 music saloon	sn:Music	3.03	no	RISING
-high	sn:japan	3.02	no	RISING
+apple	hn	3.02	yes	
+nakamoto library	sn:bitcoin	3.02	yes	
+reading	sn:AI	3.01	yes	
+western classics	sn:AI	3.01	yes	
+at harvard no less	sn:AI	3.01	yes	
+paul	sn:AI	3.01	yes	
 nordic node	sn:bitcoin_Mining	3.01	no	RISING
-you should go	sn:bitcoin_Mining	3.01	no	RISING
-norway instead	sn:bitcoin_Mining	3.01	no	RISING
-hiding miners	sn:bitcoin_Mining	3.01	no	RISING
-work	sn:bitcoin_Mining	3.01	no	RISING
-the last untracked generation	sn:tech	2.99	yes	
-coinbase vendor breach	sn:news	2.99	no	RISING
-nakamoto library	sn:bitcoin	2.98	yes	
-bitcoin	sn:bitcoin	2.98	yes	
-unlocking persistent motivation	sn:podcasts	2.94	no	RISING
