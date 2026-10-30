@@ -59900,3 +59900,21 @@
 2026-10-30T19:13:34.537Z	1605272	bitcoinplusplus	1	145	0	0	6.6	163128	4016	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Lightning Payments Proven in Zero-Knowledge — Ilya Evdokimov
 2026-10-30T19:13:34.537Z	1605266	bitcoinplusplus	1	115	0	0	6.8	163128	4016	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Paid APIs with Lightning — Dhananjay Purohit
 2026-10-30T19:13:34.537Z	1605399	charts_and_maps	2	102	0	0	3.6	280679	23918	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Halloween charts: may contain graph-ic content
+2026-10-30T19:26:38.221Z	1605541	bitcoin	1	4046	0	0	0.9	1513887	64	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	New mandatory requirement for hardware wallets
+2026-10-30T19:26:38.221Z	1605224	bitcoin	1	2057	0	0	8.6	1014665	250	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Core 32.1, multi-party SP, CLN Dos - Bitcoin Optech Newsletter #429
+2026-10-30T19:26:38.221Z	1605193	bitcoin	1	1409	0	0	10.8	296825	5813	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	[Trezor Incident Update] Implant reported in a Trezor sold by CryptoBilis
+2026-10-30T19:26:38.221Z	1605503	bitcoin	1	1102	0	0	1.8	1574064	59	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Bitcoin naming has entered a new phase.
+2026-10-30T19:26:38.221Z	1605531	lightning	1	1028	0	3	1.1	223678	6547	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	There's a lack of good Lightning wallets
+2026-10-30T19:26:38.221Z	1605206	news	2	1016	0	8	9.8	297791	8021	recent@devs|top@devs	HOT,SIGNAL,SELF_POST_OPP	Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu Red Hat & Other Distros
+2026-10-30T19:26:38.221Z	1605271	bitcoin_beginners	1	951	0	0	6.8	30782	26145	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #122
+2026-10-30T19:26:38.221Z	1605298	bitcoin	1	757	0	4	5.7	109384	152	recent@bitcoin|top@bitcoin	SIGNAL	Gold vs Bitcoin (XAUT/BTC) hourly prediction markets are live on Glimpse
+2026-10-30T19:26:38.221Z	1605377	bitcoinplusplus	1	654	0	0	4.3	280679	23918	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	It Worked on My Node — Lightrider | bitcoin++ Berlin, payments edition
+2026-10-30T19:26:38.221Z	1605248	bitcoin	1	491	0	0	7.4	280679	23918	recent@bitcoin|top@bitcoin	SIGNAL	Multiplication in Tapscript today: 371 bytes, no soft fork
+2026-10-30T19:26:38.221Z	1605256	tech	1	483	0	0	7.3	777209	98	recent@tech|top@tech	SIGNAL	Official Claude Code VS Code extension 2.1.313 shipped an SSH backdoor
+2026-10-30T19:26:38.221Z	1605518	tech	1	317	0	2	1.4	12309	3751	recent@tech|top@tech|recent@AI	FRESH,SIGNAL	Sam Altman says it’s “quite terrible” people have so much DRAM in their own PCs
+2026-10-30T19:26:38.221Z	1605493	tech	1	264	0	1	1.9	402772	22766	recent@tech|top@tech	FRESH,SIGNAL	BINANCE CONFIRMS ATTACKERS USED EIP-7702 TO BYPASS HOT WALLET SECURITY CONTROLS
+2026-10-30T19:26:38.221Z	1605512	tech	1	232	0	0	1.6	12309	3751	recent@privacy|top@privacy|recent@tech	FRESH,SIGNAL	Intelligence agency misplaced 'a very significant number' of removable drives
+2026-10-30T19:26:38.221Z	1605392	bitcoin	1	229	0	0	4.0	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	[FACT] So many hacks. Yet, Bitcoin has never been hacked
+2026-10-30T19:26:38.221Z	1605532	Music	3	224	0	1	1.0	1605532	2	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,SIGNAL	Noderunners Radio = a listener-run radio where you zap the next song!
+2026-10-30T19:26:38.221Z	1605272	bitcoinplusplus	1	145	0	0	6.8	163128	4016	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Lightning Payments Proven in Zero-Knowledge — Ilya Evdokimov
+2026-10-30T19:26:38.221Z	1605266	bitcoinplusplus	1	115	0	0	7.0	163128	4016	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Paid APIs with Lightning — Dhananjay Purohit
