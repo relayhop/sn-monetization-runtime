@@ -1,13 +1,11 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-29T20:53:35.763Z; n=40
-trip report	sn:Travel	4.28	no	RISING
-hong kong	sn:Travel	4.28	no	RISING
-austin	sn:Travel	4.21	yes	
-robotaxi	sn:Travel	4.21	yes	
-coffee	sn:Travel	4.21	yes	
-show	hn	4.14	yes	
-trunk	sn:DIY	4.1	yes	
-treat	sn:DIY	4.1	yes	
+# generated 2026-10-30T01:35:58.256Z; n=40
+binance	hn,sn:bitcoin	6.21	yes	
+show	hn	5.05	yes	
+trip report	sn:Travel	4.33	no	RISING
+hong kong	sn:Travel	4.33	no	RISING
+trunk	sn:DIY	4.13	yes	
+treat	sn:DIY	4.13	yes	
 tabconf	sn:events	4.08	no	RISING
 snirl	sn:events	4.08	no	RISING
 wrap	sn:events	4.08	no	RISING
@@ -15,28 +13,30 @@ collector	sn:BooksAndArticles	3.52	no	RISING
 guide	sn:BooksAndArticles	3.52	no	RISING
 neptune	sn:BooksAndArticles	3.52	no	RISING
 brood	sn:BooksAndArticles	3.52	no	RISING
-paul sztorc	sn:lol	3.37	no	RISING
-gateway	sn:lol	3.36	yes	
-bitcoin	sn:lol	3.36	yes	
+paul sztorc	sn:lol	3.43	no	RISING
+patrick stewart	hn	3.38	no	RISING
+wallet	sn:bitcoin	3.37	yes	
+appears	sn:bitcoin	3.37	yes	
+drained	sn:bitcoin	3.37	yes	
 on polymarket	sn:trading	3.33	no	RISING
 there	sn:trading	3.33	yes	
 free money	sn:trading	3.33	no	RISING
 floor	sn:trading	3.33	no	RISING
 magazine	sn:trading	3.33	no	RISING
 niahm rowe	sn:trading	3.33	no	RISING
-the invity	sn:bitcoin	3.31	yes	
-test	sn:bitcoin	3.31	yes	
-one year after launch	sn:bitcoin	3.31	yes	
-most turbo buy customers	sn:bitcoin	3.31	yes	
-profit	sn:bitcoin	3.31	yes	
+the invity	sn:bitcoin	3.32	yes	
+test	sn:bitcoin	3.32	yes	
+one year after launch	sn:bitcoin	3.32	yes	
+most turbo buy customers	sn:bitcoin	3.32	yes	
+profit	sn:bitcoin	3.32	yes	
 hot take	sn:AskSN	3.3	no	RISING
 halloween	sn:AskSN	3.3	no	RISING
+book	sn:BooksAndArticles	3.27	no	RISING
+books	sn:BooksAndArticles	3.27	no	RISING
+going infinite	sn:BooksAndArticles	3.27	no	RISING
+michael lewis	sn:BooksAndArticles	3.27	no	RISING
 arithmetic	sn:Politics_And_Law	3.18	no	RISING
 psychology weigh	sn:Politics_And_Law	3.18	no	RISING
 california	sn:Politics_And_Law	3.18	no	RISING
 prop	sn:Politics_And_Law	3.18	no	RISING
 zidar	sn:Politics_And_Law	3.18	no	RISING
-zwick	sn:Politics_And_Law	3.18	no	RISING
-not your keys	sn:Stacker_Stocks	3.16	no	RISING
-not your treasury company	sn:Stacker_Stocks	3.16	no	RISING
-money stuff	sn:Stacker_Stocks	3.16	no	RISING
