@@ -1,23 +1,26 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-30T01:35:58.256Z; n=40
-binance	hn,sn:bitcoin	6.21	yes	
-show	hn	5.05	yes	
+# generated 2026-10-30T10:43:19.127Z; n=40
+binance	hn,sn:bitcoin	8.28	yes	
+patrick stewart	hn,sn:news	6.48	no	RISING
 trip report	sn:Travel	4.33	no	RISING
 hong kong	sn:Travel	4.33	no	RISING
 trunk	sn:DIY	4.13	yes	
 treat	sn:DIY	4.13	yes	
+show	hn	4.12	yes	
 tabconf	sn:events	4.08	no	RISING
 snirl	sn:events	4.08	no	RISING
 wrap	sn:events	4.08	no	RISING
+kanyuk	sn:bitcoin	3.84	yes	
 collector	sn:BooksAndArticles	3.52	no	RISING
 guide	sn:BooksAndArticles	3.52	no	RISING
 neptune	sn:BooksAndArticles	3.52	no	RISING
 brood	sn:BooksAndArticles	3.52	no	RISING
-paul sztorc	sn:lol	3.43	no	RISING
-patrick stewart	hn	3.38	no	RISING
+paul sztorc	sn:lol	3.45	no	RISING
 wallet	sn:bitcoin	3.37	yes	
 appears	sn:bitcoin	3.37	yes	
 drained	sn:bitcoin	3.37	yes	
+hot take	sn:AskSN	3.35	no	RISING
+halloween	sn:AskSN	3.35	no	RISING
 on polymarket	sn:trading	3.33	no	RISING
 there	sn:trading	3.33	yes	
 free money	sn:trading	3.33	no	RISING
@@ -29,14 +32,11 @@ test	sn:bitcoin	3.32	yes
 one year after launch	sn:bitcoin	3.32	yes	
 most turbo buy customers	sn:bitcoin	3.32	yes	
 profit	sn:bitcoin	3.32	yes	
-hot take	sn:AskSN	3.3	no	RISING
-halloween	sn:AskSN	3.3	no	RISING
 book	sn:BooksAndArticles	3.27	no	RISING
 books	sn:BooksAndArticles	3.27	no	RISING
 going infinite	sn:BooksAndArticles	3.27	no	RISING
 michael lewis	sn:BooksAndArticles	3.27	no	RISING
+mistral large	hn	3.18	no	RISING
 arithmetic	sn:Politics_And_Law	3.18	no	RISING
 psychology weigh	sn:Politics_And_Law	3.18	no	RISING
 california	sn:Politics_And_Law	3.18	no	RISING
-prop	sn:Politics_And_Law	3.18	no	RISING
-zidar	sn:Politics_And_Law	3.18	no	RISING
