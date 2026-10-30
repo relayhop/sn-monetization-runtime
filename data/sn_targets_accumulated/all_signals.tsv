@@ -59860,3 +59860,10 @@
 2026-10-30T14:00:37.912Z	1605179	Construction_and_Engineering	2	262	0	0	7.0	1022234	639	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 10/29/26
 2026-10-30T14:00:37.912Z	1605274	BooksAndArticles	2	203	0	0	1.2	1593075	39	recent@BooksAndArticles|top@BooksAndArticles	FRESH,SIGNAL	The Genesis Code, Ch. 19: The Man at the Board
 2026-10-30T14:00:37.912Z	1605225	Stacker_Stocks	2	159	0	0	3.2	51481	4338	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Strategy CFO Andrew Kang resign
+2026-10-30T14:15:20.010Z	1605171	bitcoin	1	7355	0	8	8.6	81644	1149	recent@bitcoin|top@bitcoin	HOT,SIGNAL	If you're running LND, you may be vulnerable to a Linux kernel exploit
+2026-10-30T14:15:20.010Z	1605224	bitcoin	1	1057	0	0	3.4	1014665	250	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Core 32.1, multi-party SP, CLN Dos - Bitcoin Optech Newsletter #429
+2026-10-30T14:15:20.010Z	1605193	bitcoin	1	1036	0	0	5.6	296825	5808	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	[Trezor Incident Update] Implant reported in a Trezor sold by CryptoBilis
+2026-10-30T14:15:20.010Z	1605271	bitcoin_beginners	1	899	0	0	1.6	30782	26145	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Bitcoin Beginners Newsletter #122
+2026-10-30T14:15:20.010Z	1605206	news	2	701	0	2	4.6	297791	8021	recent@devs|top@devs	SIGNAL	Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu Red Hat & Other Distros
+2026-10-30T14:15:20.010Z	1605298	bitcoin	1	547	0	1	0.5	109384	150	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Gold vs Bitcoin (XAUT/BTC) hourly prediction markets are live on Glimpse
+2026-10-30T14:15:20.010Z	1605248	bitcoin	1	444	0	0	2.2	280679	23913	recent@bitcoin|top@bitcoin	SIGNAL	Multiplication in Tapscript today: 371 bytes, no soft fork
