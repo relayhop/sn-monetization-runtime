@@ -1,0 +1,73 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1605541	bitcoin	1	4105	0	4	4.6	1513887	64	recent@bitcoin|top@bitcoin	HOT,SIGNAL	New mandatory requirement for hardware wallets
+1605503	bitcoin	1	1138	0	1	5.4	1574064	59	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin naming has entered a new phase.
+1605531	lightning	1	1097	0	4	4.8	223678	6549	recent@lightning|top@lightning	HOT,SIGNAL	There's a lack of good Lightning wallets
+1605671	tech	1	1096	0	0	0.1	553	3561	recent@tech|top@tech|recent@AI	FRESH,HOT,SIGNAL	CVE 10.0 just dropped
+1605271	bitcoin_beginners	1	951	0	0	10.5	30782	26147	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter #122
+1605601	Design	2	900	0	12	3.3	74100	13541	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	SHOW SN: I made a contact page that lets you send me nostr DMs (if you zap)
+1605298	bitcoin	1	757	0	4	9.4	109384	152	recent@bitcoin|top@bitcoin	SIGNAL	Gold vs Bitcoin (XAUT/BTC) hourly prediction markets are live on Glimpse
+1605377	bitcoinplusplus	1	690	0	1	7.9	280679	23918	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	It Worked on My Node — Lightrider | bitcoin++ Berlin, payments edition
+1605518	tech	1	664	0	3	5.1	12309	3751	recent@tech|top@tech|recent@AI	SIGNAL	Sam Altman says it’s “quite terrible” people have so much DRAM in their own PCs
+1605584	tech	1	544	0	1	3.8	12309	3751	recent@tech|top@tech	SIGNAL	Fujifilm to boost tape production 5x as AI fuels archiving demand
+1605512	tech	1	543	0	0	5.2	12309	3751	recent@privacy|top@privacy|recent@tech	SIGNAL	Intelligence agency misplaced 'a very significant number' of removable drives
+1605248	bitcoin	1	491	0	0	11.1	280679	23918	recent@bitcoin|top@bitcoin	SIGNAL	Multiplication in Tapscript today: 371 bytes, no soft fork
+1605256	tech	1	483	0	0	10.9	777209	98	recent@tech|top@tech	SIGNAL	Official Claude Code VS Code extension 2.1.313 shipped an SSH backdoor
+1605493	tech	1	264	0	1	5.6	402772	22766	recent@tech|top@tech	SIGNAL	BINANCE CONFIRMS ATTACKERS USED EIP-7702 TO BYPASS HOT WALLET SECURITY CONTROLS
+1605532	Music	3	260	0	1	4.7	1605532	2	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Noderunners Radio = a listener-run radio where you zap the next song!
+1605392	bitcoin	1	229	0	0	7.6	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	[FACT] So many hacks. Yet, Bitcoin has never been hacked
+1605582	lightning	1	194	0	1	3.8	440729	349	top@lightning	SIGNAL	~Lightning Gossip newsletter - 026W44
+1605272	bitcoinplusplus	1	145	0	0	10.5	163128	4018	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Lightning Payments Proven in Zero-Knowledge — Ilya Evdokimov
+1605580	gaming	3	115	0	0	3.9	1601648	9	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	[Cantill One] Nixon Shock 1971 challenge is live - 48h - 50k prize pool ⚡
+1605266	bitcoinplusplus	1	115	0	0	10.6	163128	4018	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Paid APIs with Lightning — Dhananjay Purohit
+1605520	AI	1	115	0	2	5.0	328182	4103	recent@AI|top@AI	SIGNAL	Thousands of “ghost students” use AI to steal millions in student loans, DOJ say
+1604674	DIY	3	14592	0	19	31.3	227606	2712	recent@bitcoin|recent@bitcoin_beginners	HOT,SELF_POST_OPP	Trunk or Treat 2026 - This post has free free ecash.
+1605171	bitcoin	1	7992	0	16	17.5	81644	1149	recent@bitcoin|top@bitcoin	HOT	If you're running LND, you may be vulnerable to a Linux kernel exploit
+1605077	bitcoin	1	7071	0	2	22.8	81644	1149	recent@bitcoin|top@bitcoin	HOT	Kanyuk followup: we got him new gear, and he's back in the fight
+1604613	bitcoin	1	4846	0	12	32.6	934367	1137	recent@bitcoin	HOT	JoinMarket stats dashboard
+1604976	bitcoin	1	2328	0	16	25.4	934367	1137	recent@bitcoin	HOT	BINANCE HOT WALLET APPEARS TO BE DRAINED FOR ~$2.53B!
+1604577	bitcoin	1	2318	0	1	33.6	724606	13811	recent@bitcoin|recent@bitcoin_beginners	HOT	The Invity DCA Test: One Year After Launch, Most Turbo Buy Customers in Profit
+1605224	bitcoin	1	2068	0	0	12.3	1014665	250	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Bitcoin Core 32.1, multi-party SP, CLN Dos - Bitcoin Optech Newsletter #429
+1604649	AskSN	2	1790	0	22	31.8	1242375	264	recent@bitcoin	HOT	Is trust the best way to scale bitcoin?
+1605193	bitcoin	1	1409	0	0	14.5	296825	5813	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	[Trezor Incident Update] Implant reported in a Trezor sold by CryptoBilis
+1604770	bitcoin	1	1056	0	1	29.9	78166	288	recent@bitcoin	HOT	BTCPay Server Releases Emergency Security Fix (v2.4.7)
+1605206	news	2	1016	0	8	13.4	297791	8022	recent@devs|top@devs	HOT,SELF_POST_OPP	Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu Red Hat & Other Distros
+1604884	Ark	3	1009	0	1	27.7	51481	4338	recent@bitcoin_beginners|recent@lightning	HOT	CoinOS v3 - FIFO for coins to help with expiring.
+1604757	bitcoin	1	1008	0	5	30.1	272410	2124	recent@bitcoin|recent@lightning	HOT	Nearly 1 BTC of retro and antiques. Sell for sats, where and how?
+1605078	bitcoin_Mining	1	903	0	5	22.8	30782	26147	recent@bitcoin_Mining|top@bitcoin_Mining		Ocean Moving On Up
+1604816	gaming	3	827	0	3	29.1	74100	13541	recent@bitcoin		coldcard-gb: COLDCARD Q firmware fork with a Game Boy emulator - benthecarman
+1604850	devs	1	769	0	2	28.6	126503	853	recent@devs		Cashu Card | Experimental NFC ecash protocol
+1605047	AI	1	572	0	3	23.6	2795	1439	recent@AI|top@AI		"grok bot grok bot grok bot"
+1604549	nostr	1	510	0	2	34.8	638086	97	recent@nostr		There is a local Desktop Editor with optional Nostr capabilities
+1604664	art	3	472	0	9	31.5	1256355	127	recent@bitcoin	SELF_POST_OPP	Edition One | Timechain Art Magazine | Pre-Order Is Now Live ⚡
+1604723	bitcoin	1	455	0	2	30.6	1498018	3	recent@bitcoin		Introducing Bitkit 3.0
+1604987	bitcoin	1	455	0	1	25.1	934367	1137	recent@bitcoin|recent@lightning|recent@devs		Signet web wallet for developers (onchain+LN)
+1604909	tech	1	342	0	1	27.0	777209	98	recent@tech		Stack Overflow is under 1,000 new questions a month. Where do you ask now?
+1604764	AI	1	342	0	3	30.0	13531	1755	recent@AI		Anthropic’s business plan: Build God or die trying
+1604798	lightning	1	315	0	1	29.4	280679	23918	recent@lightning		ZeusLN/zeus  ·  Release v13.2.4
+1604658	bitcoin	1	238	0	1	31.6	74100	13541	recent@bitdevs		Add output script index and corresponding script history RPC by andrewtoth
+1604960	AI	1	189	0	0	26.0	280679	23918	recent@AI		A golden age of science is coming
+1605100	AI	1	178	0	6	21.8	238412	404	recent@AI|top@AI		France’s Senate Approves Bill Expanding Police Powers Over Online Speech
+1604974	AI	1	167	0	0	25.4	837285	1939	recent@devs|recent@AI		Binance: $2.53 Billion Outflow Raises Suspicions of a Major Hack
+1604700	AI	1	136	0	1	30.9	1423901	136	recent@AI		Canada announces landmark investment in Cohere to scale secure, sovereign AI
+1604943	bitcoin	1	116	0	0	26.4	280679	23918	recent@AI		How to protect your bitcoin in the age of AI
+1605169	tech	1	114	0	1	17.6	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		[Phishing Alert] Abusing Google's own infrastructure to send you this email
+1605403	math	2	98	0	0	7.4	1248037	2042	recent@AI|top@AI		AI, Lean, Future of Formal Verification | Hacker News
+1605490	AI	1	95	0	0	5.6	1575305	63	recent@AI|top@AI		Mistral drops open weights for its 1 trillion parameter Large 4
+1604793	AI	1	80	0	0	29.5	1575305	63	recent@AI		Google Research gives LLMs a sleep phase to dream new facts into their weights
+1605167	bitcoin	1	76	0	1	17.7	458256	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Binance Confirms $6.3 Billion Crypto Hack from Compromised Laptop
+1605428	bitcoin_beginners	1	46	0	1	7.1	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		Introducing BITFITNESS FOOTBALL CLUB
+1605103	bitcoin_Mining	1	46	0	2	21.7	1532836	1538	recent@bitcoin_Mining|top@bitcoin_Mining		With a hashrate of 16 TH, it mined block 973,413, earning 3.14 BTC.
+1605573	bitcoin_beginners	1	36	0	0	4.0	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin Security Stress Test
+1605200	bitcoin	1	36	0	0	13.7	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		I break into Bitcoin wallet: Good Cryptography Won't Save a Bad Security Company
+1605196	bitcoin	1	36	0	0	14.1	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		Google and the NYSE's Owner Are Rebuilding the Rails
+1605194	bitcoin	1	36	0	2	14.3	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Made Bitcoin 100x harder to crack for a quantum attacker.
+1605190	bitcoin	1	36	0	2	14.7	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		Trezor's CryptoBilis update
+1605163	bitcoin	1	36	0	1	17.8	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		Why is Code Review a Security Practice in Bitcoin Development?
+1605151	bitcoin_beginners	1	36	0	0	18.4	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		Nutflix Pear: Pear-runtime peer-to-peer paid video network (Nostr + Cashu ecash)
+1605500	AI	1	21	0	0	5.6	1054143	1472	recent@AI|top@AI		Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap
+1604712	tech	1	11	0	0	30.7	1603202	6	recent@AI		Google will start displaying advertisements in its AI mode
+1605158	bitcoin	1	0	0	1	18.2	296825	5813	recent@bitcoin_beginners|top@bitcoin_beginners		An emergency update fixing one critical security vulnerabilities | BTCPayServer
+1604914	bitcoinplusplus	1	0	0	0	26.9	280679	23918	recent@bitcoinplusplus		Payments for Miners With P2Poolv2 Share Chain — Kulpreet Singh (jungly)
+1604672	devs	1	0	0	0	31.4	297791	8022	recent@devs		FAT32 File-System Seeing As Much As 265x Improvement With Linux 7.4
+1605160	AI	1	0	0	0	18.0	296825	5813	recent@AI|top@AI		My Maestro AI · Forget agents. Meet the team that works for you.
+1605046	AI	1	0	0	0	23.6	2795	1439	recent@AI|top@AI		grok bot
