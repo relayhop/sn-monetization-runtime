@@ -1,23 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-31T01:25:54.477Z; n=40
-show	hn,sn:Design	6.8	yes	
+# generated 2026-10-31T10:12:52.239Z; n=40
+show	hn,sn:Design	9.35	yes	
+there	sn:bitcoin,sn:lightning	6.44	yes	
 blevin blevins	sn:AMA	4.32	no	RISING
 municipal finance	sn:AMA	4.32	no	RISING
-linux	sn:bitcoin	3.9	yes	
+austin	sn:Travel	4.32	yes	
+frog	sn:bitcoin	3.39	yes	
 billion binance exploit	sn:charts_and_maps	3.36	no	RISING
 tracing	sn:charts_and_maps	3.36	no	RISING
 north korea link	sn:charts_and_maps	3.36	no	RISING
 bitcoin core	sn:bitcoin	3.32	yes	
 multi-party	sn:bitcoin	3.32	yes	
 bitcoin optech newsletter	sn:bitcoin	3.32	yes	
-what	sn:AskSN	3.29	yes	
-stackers	sn:AskSN	3.29	no	RISING
-red baron	sn:AskSN	3.29	no	RISING
+what	sn:AskSN	3.3	yes	
+stackers	sn:AskSN	3.3	no	RISING
+red baron	sn:AskSN	3.3	no	RISING
+lack	sn:Design	3.26	no	RISING
 the four academics behind california	sn:Politics_And_Law	3.23	no	RISING
 prop	sn:Politics_And_Law	3.23	no	RISING
 billionaire tax	sn:Politics_And_Law	3.23	no	RISING
 chung	sn:Politics_And_Law	3.23	no	RISING
-lack	sn:Design	3.22	no	RISING
 how bureaucracy stifles	sn:Politics_And_Law	3.21	no	RISING
 economy	sn:Politics_And_Law	3.21	no	RISING
 constrains our freedom	sn:Politics_And_Law	3.21	no	RISING
@@ -26,6 +28,7 @@ lived	sn:Stacker_Stocks	3.2	no	RISING
 little	sn:Stacker_Stocks	3.2	no	RISING
 tragic private credit story	sn:Stacker_Stocks	3.2	no	RISING
 gillers	sn:Stacker_Stocks	3.2	no	RISING
+bitcoin beginners newsletter	sn:bitcoin_beginners	3.16	no	RISING
 bitcoin	sn:trading	3.15	yes	
 sports betting	sn:trading	3.15	no	RISING
 personal finance	sn:trading	3.15	no	RISING
@@ -33,10 +36,7 @@ american money	sn:trading	3.15	no	RISING
 reeves	sn:trading	3.15	no	RISING
 emirates cup survivor pool	sn:Stacker_Sports	3.15	no	RISING
 rules	sn:Stacker_Sports	3.15	no	RISING
-trezor incident update	sn:bitcoin	3.15	yes	
-implant	sn:bitcoin	3.15	yes	
-trezor	sn:bitcoin	3.15	yes	
-bitcoin beginners newsletter	sn:bitcoin_beginners	3.15	no	RISING
-sir patrick stewart	sn:aliens_and_UFOs	3.14	no	RISING
-obit	sn:aliens_and_UFOs	3.14	no	RISING
-october ends	sn:art	3.13	no	RISING
+waste	sn:Travel	3.14	no	RISING
+life	sn:Travel	3.14	no	RISING
+karl bushby	sn:Travel	3.14	no	RISING
+walk	sn:Travel	3.14	no	RISING
