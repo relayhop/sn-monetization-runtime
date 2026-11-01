@@ -1,0 +1,23 @@
+{
+  "name": "sn-monetization-runtime",
+  "version": "1.0.0",
+  "description": "Stacker News monetization and opportunity triage runtime",
+  "type": "module",
+  "main": "scripts/sn_radar_v2.mjs",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "radar:t1": "node scripts/sn_radar_v2.mjs --tier 1",
+    "radar:t2": "node scripts/sn_radar_v2.mjs --tier 1,2",
+    "radar:t3": "node scripts/sn_radar_v2.mjs --tier 1,2,3",
+    "bounty:process": "node scripts/sn_bounty_processor.mjs"
+  },
+  "keywords": [
+    "stacker-news",
+    "lightning",
+    "bounty",
+    "monetization",
+    "radar"
+  ],
+  "author": "s6pa1rta3n-lab",
+  "license": "MIT"
+}
