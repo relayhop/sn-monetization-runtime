@@ -88,6 +88,7 @@ export const SUB_ANGLE = {
   BooksAndArticles: 'review with synthesis angle',
   news: 'context-add to news without rehashing',
   podcasts: 'episode summary with technical angle',
+  Stacker_Sports: 'physical proof-of-work, athletic metrics, thermodynamic expenditure'
 };
 
 export const ALL_SUBS = [...TIER_1, ...TIER_2, ...TIER_3];
