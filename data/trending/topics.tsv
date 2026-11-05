@@ -1,15 +1,12 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-05T01:59:58.254Z; n=40
-what	hn,sn:Politics_And_Law,sn:meta	8.88	yes	
-show	hn	4.67	no	RISING
+# generated 2026-11-05T11:54:46.983Z; n=40
+what	hn,sn:Politics_And_Law,sn:meta	9.35	yes	
 congressional staffers thoughts on what happened	sn:Politics_And_Law	4.24	no	RISING
 next	sn:Politics_And_Law	4.24	no	RISING
 bitcoin	sn:bitcoin	3.57	yes	
 alerts	sn:bitcoin	3.57	yes	
 know	sn:bitcoin	3.57	yes	
 democrat	sn:AskSN	3.51	yes	
-try bitcoin saving	sn:bitcoin	3.49	yes	
-simulator	sn:bitcoin	3.49	yes	
 elias rohrer	sn:bitcoin	3.44	yes	
 bitcoin optech newsletter	sn:bitcoin	3.44	yes	
 recap	sn:bitcoin	3.44	yes	
@@ -24,19 +21,22 @@ parasitical	sn:Politics_And_Law	3.18	no	RISING
 freeman	sn:Politics_And_Law	3.18	no	RISING
 prediction markets are oh-so dangerous	sn:trading	3.16	no	RISING
 david booth	sn:trading	3.16	no	RISING
-french	sn:news	3.09	no	RISING
+french	sn:news	3.1	no	RISING
+the rising sun	sn:Stacker_Sports	3.08	no	RISING
+season	sn:Stacker_Sports	3.08	no	RISING
+episode	sn:Stacker_Sports	3.08	no	RISING
 week	sn:Stacker_Sports	3.07	no	RISING
 pick	sn:Stacker_Sports	3.07	no	RISING
 lord	sn:movies	3.06	no	RISING
 nicolas cage	sn:movies	3.06	no	RISING
+residential	hn	3.04	no	RISING
+white house	hn	3.04	no	RISING
 made my first predyx market	sn:trading	3.01	no	RISING
 gukesh	sn:trading	3.01	no	RISING
 javokhir	sn:trading	3.01	no	RISING
 chess world championship	sn:trading	3.01	no	RISING
-the rising sun	sn:Stacker_Sports	3	no	RISING
-season	sn:Stacker_Sports	3	no	RISING
-episode	sn:Stacker_Sports	3	no	RISING
-dorsey	sn:news	3	no	RISING
-block	sn:news	3	no	RISING
-brett weinstein	sn:Politics_And_Law	2.96	no	RISING
-the american liberty party	sn:Politics_And_Law	2.96	no	RISING
+prediction markets are good consumer products	sn:BooksAndArticles	2.98	no	RISING
+money stuff	sn:BooksAndArticles	2.98	yes	
+matt levine	sn:BooksAndArticles	2.98	yes	
+brett weinstein	sn:Politics_And_Law	2.97	no	RISING
+the american liberty party	sn:Politics_And_Law	2.97	no	RISING
