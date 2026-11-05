@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1608785	bitcoin	1	340	0	1	6.0	74100	13652	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	D is for Dilution - Arthur Hayes
+1608703	tech	1	296	0	0	10.5	777209	113	recent@tech|top@tech	SIGNAL	Go 1.27 ships encoding/json/v2: strict by default, unmarshal up to 10x faster
+1608810	lightning	1	221	0	0	3.3	440729	356	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (0329427c0f5f2c483…)
+1608838	bitcoin	1	109	0	0	1.5	296825	5863	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	How Really Safe Is Your Money?
+1608337	bitcoin	1	3681	0	4	20.6	14014	283	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT	Bitcoin++ Alerts — Know when the software you rely on changes
+1608515	AskSN	2	3269	0	47	16.7	48657	16606	recent@bitcoin|top@bitcoin	HOT	Let's discuss what the Democrat sweep means for financial markets and bitcoin
+1608205	bitcoin	1	3097	0	1	28.0	356670	376	recent@bitcoin	HOT	Try Bitcoin Saving DCA Simulator on TestFlight
+1608400	bitcoin	1	2723	0	0	18.8	1014665	251	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Elias Rohrer, instagibbs, darosior & more - Bitcoin Optech Newsletter #429 Recap
+1608374	bitcoin	1	2102	0	0	19.6	1574064	70	recent@bitcoin|top@bitcoin	HOT	The Guy Who Put Names on Bitcoin | Just Another Naming System?
+1608309	bitcoin	1	1685	0	7	21.6	74100	13652	recent@bitcoin|top@bitcoin|recent@lightning	HOT	“Ooo, maybe this will make me rich!” thinking prevents bitcoin adoption
+1608631	bitcoin	1	1346	0	15	13.5	74100	13652	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Why isn't bitcoin used for more gray market things?
+1608314	nostr	1	844	0	1	21.3	80864	465	recent@nostr|top@nostr|recent@devs		Chatastrophe: Your server's disasters, delivered by Nostr DM
+1608464	bitcoin	1	788	0	0	17.7	74100	13652	recent@bitcoin|top@bitcoin|recent@bitdevs		QSAVE -  a path for coins that never migrate: no burn, no freeze
+1608307	devs	1	788	0	0	21.6	126503	860	recent@devs|top@devs		Reverse engineer anything with agents, from app behavior down to native binarie.
+1608550	math	2	613	0	0	16.1	74100	13652	recent@bitdevs|top@bitdevs		Introducing CUTS, a new few-time hash-based signature scheme - Project Eleven
+1608093	tech	1	536	0	1	35.5	777209	113	recent@tech		Stringman: an open source, air-gappable $795 cable robot for a whole room
+1608502	news	2	451	0	0	17.0	74100	13652	recent@devs|top@devs		Debian and Ubuntu APT Flaw Lets MitM Swap Verified Packages and Run Code as Root
+1608321	bitcoin_beginners	1	444	0	0	21.1	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Core Lightning Release v26.06.10 Quantum-Resistant Lightning Channel VII
+1608165	bitcoin	1	437	0	1	32.7	74100	13652	recent@bitcoin		This transaction includes the whitepaper in its taproot annex
+1608428	bitcoin	1	408	0	1	18.3	109384	155	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Hashprice Prediction Markets Live on Glimpse
+1608279	bitcoin	1	378	0	2	22.4	280679	23964	recent@bitcoin|top@bitcoin|recent@devs		Open Source Software Development in the Age of AI
+1608372	meta	1	353	0	7	19.6	36151	1699	recent@meta|top@meta		What are you working on this week?
+1608418	bitcoin	1	316	0	0	18.5	21800	498	recent@bitcoin|top@bitcoin|recent@AI		TaskFuel: paid tools for your AI agent, now funded with sats
+1608276	tech	1	306	0	1	22.5	777209	113	recent@tech|top@tech		Debian patches apt bug letting a man-in-the-middle run code as root
+1608430	lightning	1	234	0	1	18.2	163128	4038	recent@lightning|top@lightning		LaWallet NWC — Lightning Addresses for Everyone
+1608390	bitcoinplusplus	1	204	0	0	19.0	272410	2201	recent@bitcoinplusplus|top@bitcoinplusplus		Tap that Cash: Building Cashu Payment Terminals with Nucula — zeugmaster (Dario)
+1608423	lightning	1	204	0	2	18.4	163128	4038	recent@lightning|top@lightning		LaWallet.ar Support ending soon — please move your funds out
+1608409	nostr	1	203	0	0	18.6	74100	13652	recent@nostr|top@nostr		lazarus: Recovery of user data from relay history on Nostr. - dmnyc
+1608252	AI	1	180	0	1	23.8	297791	8048	recent@AI|top@AI		Anthropic speeds up Claude Code with message threads, your token bill stays same
+1608331	bitcoin	1	159	0	0	20.8	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Bitcoin Core Config Generator now compatible with the latest release, v32.1
+1608619	AI	1	92	0	0	14.2	280679	23964	recent@AI|top@AI		New Research Tests Whether AI Models Know Their Own Thoughts
+1608610	tech	1	39	0	0	14.6	280679	23964	recent@AI|top@AI		As LLMs Devour The Storage Market, Fujifilm Bets On Tape
+1608187	bitcoin	1	36	0	0	30.4	296825	5863	recent@bitcoin_beginners		Ex-Mt. Gox CEO Found a Spy in a Ledger: Mark Karpelès
+1608184	bitcoin	1	36	0	1	30.8	296825	5863	recent@bitcoin_beginners|recent@bitdevs		Bitcoin Developers Are Burning Out
+1608180	bitcoin_beginners	1	36	0	0	31.0	296825	5863	recent@bitcoin_beginners		PeerBadge — an open protocol for portable, anonymous trust
+1608188	bitcoin_beginners	1	36	0	1	30.2	296825	5863	recent@bitcoin_beginners		The exit plan: How to get your Bitcoin out of their hands, step by step
+1608124	bitcoin_beginners	1	36	0	1	35.1	1444593	159	recent@bitcoin_beginners		Tus 12 palabras no son 12 palabras random.
+1608229	AI	1	36	0	1	24.7	297791	8048	recent@AI		US stock futures fall as investors weigh a midterm shake-up in Washington
+1608215	AI	1	36	0	0	26.4	382968	311	recent@AI		ByteDance Seed releases GenFirst code and end-to-end latent-model weights
+1608075	math	2	32	0	0	35.9	1248037	2047	recent@AI		The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+1608490	AI	1	21	0	0	17.2	1575305	74	recent@AI|top@AI		An AI research agent now tunes drug discovery models better than Codex or Claude
+1608806	bitcoin	1	11	0	0	3.9	129794	102	recent@bitcoin|top@bitcoin|recent@lightning		BOLT12 Pay v0.3.20 — Now Available in Five Languages
+1608089	AI	1	11	0	0	35.6	1575305	74	recent@AI		First liver biopsy proof that base editing fixed a gene typo inside a patient
+1608793	bitcoin	1	0	0	2	5.3	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners		More than 3M (60% of Paraguay's adult population) have lost access to EVERYTHING
+1608797	AI	1	0	0	0	4.9	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		Bitcoin's Critic Meets the Bank Account Problem
+1608781	bitcoin	1	0	0	0	6.3	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Cypherpunks Mailing List Archive
+1608800	bitcoin_beginners	1	0	0	0	4.7	296825	5863	recent@bitcoin_beginners|top@bitcoin_beginners		The Embarrassing Bull Case For Bitcoin
+1608611	bitcoinplusplus	1	0	0	0	14.6	280679	23964	recent@bitcoinplusplus|top@bitcoinplusplus		Scaling Bitcoin with Swap Service Providers — Walter Maffione
+1608804	bitcoinplusplus	1	0	0	0	4.0	934367	1143	recent@bitcoinplusplus|top@bitcoinplusplus		Any stackers at bitcoin++ Seoul, privacy edition?
+1608825	privacy	1	0	0	0	2.7	1595070	23	recent@privacy|top@privacy		"Post-quantum" on which layer? Reading Autonomi's PQC docs layer by layer
+1608701	AI	1	0	0	1	10.9	1575305	74	recent@AI|top@AI		A 5-person lab trained a 65B open model that beats 800B+ rivals at coding
+1608202	tech	1	0	0	0	28.2	1054143	1491	recent@AI		Oracle cancels $7bn Tencent AI deal under Trump pressure
