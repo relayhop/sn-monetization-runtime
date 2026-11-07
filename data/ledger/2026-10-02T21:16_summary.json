@@ -1,0 +1,36 @@
+{
+  "snapshot_at": "2026-10-02T21:16:00.000Z",
+  "user": "meta",
+  "stats": {
+    "total_items": 1,
+    "total_self_posts": 0,
+    "total_comments": 0,
+    "total_cost": 1972,
+    "total_gross_earned": 5000,
+    "total_comment_sats_under_my_posts": 0,
+    "free_items": 0,
+    "paid_items": 1,
+    "earning_items": 1,
+    "by_sub": {
+      "meta": {
+        "count": 1,
+        "cost": 1972,
+        "gross": 5000
+      }
+    },
+    "earners": [
+      {
+        "id": "1586028",
+        "kind": "OPEN_BOUNTY",
+        "sub": "meta",
+        "cost": 1972,
+        "sats": 5000,
+        "parentId": null,
+        "title": "Write my bio"
+      }
+    ],
+    "estimated_net_received": 3028,
+    "estimated_net_pl": 3028,
+    "gross_pl": 3028
+  }
+}
