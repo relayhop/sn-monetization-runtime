@@ -1,36 +1,35 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-06T21:18:34.992Z; n=40
-tesla	hn,sn:Stacker_Stocks	5.96	no	RISING
-cybertruck	hn,sn:Stacker_Stocks	5.96	no	RISING
-always been	sn:Politics_And_Law	3.67	no	RISING
-maha	sn:Politics_And_Law	3.67	no	RISING
-larissa phillips	sn:Politics_And_Law	3.67	no	RISING
+# generated 2026-11-07T01:39:28.617Z; n=40
+tesla	hn,sn:Stacker_Stocks	6.07	no	RISING
+cybertruck	hn,sn:Stacker_Stocks	6.07	no	RISING
+always been	sn:Politics_And_Law	3.68	no	RISING
+maha	sn:Politics_And_Law	3.68	no	RISING
+larissa phillips	sn:Politics_And_Law	3.68	no	RISING
 what	sn:bitcoin	3.46	yes	
 bitcoin core	sn:bitcoin	3.46	yes	
-appreciation	sn:Animal_World	3.31	no	RISING
-paolo	sn:Animal_World	3.31	no	RISING
-holepunching	sn:bitcoin	3.25	yes	
-changing consensus	sn:bitcoin	3.25	yes	
-bitcoin optech newsletter	sn:bitcoin	3.25	yes	
-distributed frost silent payments	sn:bitcoin	3.16	yes	
-hackathon	sn:bitcoin	3.16	yes	
-crypto anarchy game	sn:gaming	3.14	no	RISING
-cypherpunks	sn:gaming	3.14	no	RISING
+holepunching	sn:bitcoin	3.28	yes	
+changing consensus	sn:bitcoin	3.28	yes	
+bitcoin optech newsletter	sn:bitcoin	3.28	yes	
+distributed frost silent payments	sn:bitcoin	3.17	yes	
+hackathon	sn:bitcoin	3.17	yes	
+crypto anarchy game	sn:gaming	3.16	no	RISING
+cypherpunks	sn:gaming	3.16	no	RISING
 bitcoin beginners newsletter	sn:bitcoin_beginners	3.13	no	RISING
-house democrats eye their own crypto market structure bill	sn:Politics_And_Law	3.12	no	RISING
 descent	sn:AI	3.12	yes	
 computational sublime	sn:AI	3.12	yes	
 reddit founder says building social media apps is	sn:tech	3.07	yes	
 not cool anymore	sn:tech	3.07	yes	
-awards	sn:bitcoinplusplus	3.05	no	RISING
-closing	sn:bitcoinplusplus	3.05	no	RISING
-jake	sn:bitcoinplusplus	3.05	no	RISING
-berlin	sn:bitcoinplusplus	3.05	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.02	no	RISING
+awards	sn:bitcoinplusplus	3.06	no	RISING
+closing	sn:bitcoinplusplus	3.06	no	RISING
+jake	sn:bitcoinplusplus	3.06	no	RISING
+berlin	sn:bitcoinplusplus	3.06	no	RISING
+weekly random sports pick	sn:Stacker_Sports	3.05	no	RISING
+proton	sn:bitcoin	3.04	yes	
 november	sn:Stacker_Sports	3.01	yes	
 chess	sn:Stacker_Sports	3.01	no	RISING
 the guardian	sn:Stacker_Sports	3.01	no	RISING
 leonard barden	sn:Stacker_Sports	3.01	no	RISING
+stack overflow	sn:AI	2.96	yes	
 meghan	sn:Politics_And_Law	2.95	no	RISING
 markle	sn:Politics_And_Law	2.95	no	RISING
 father thomas markle arrested on	sn:Politics_And_Law	2.95	no	RISING
@@ -40,3 +39,4 @@ new node spotlight	sn:lightning	2.93	no	RISING
 pilot picasso	sn:gaming	2.9	no	RISING
 draws	sn:gaming	2.9	no	RISING
 mural with flight path	sn:gaming	2.9	no	RISING
+new zealand	sn:Stacker_Sports	2.89	no	RISING
