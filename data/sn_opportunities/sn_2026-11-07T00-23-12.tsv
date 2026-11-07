@@ -1,0 +1,52 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1609475	bitcoin	1	1881	0	1	10.9	1014665	252	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Holepunching, Changing Consensus - Bitcoin Optech Newsletter #430
+1609561	bitcoin	1	1460	0	1	9.1	14014	284	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	BlackIce: Distributed Frost Silent Payments · Hackathon · bitcoin++ seoul winner
+1609467	bitcoin_beginners	1	1349	0	3	11.1	30782	26195	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Bitcoin Beginners Newsletter #123
+1609526	tech	1	1176	0	3	9.8	280679	23983	recent@tech|top@tech	HOT,SIGNAL	Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’
+1609598	bitcoinplusplus	1	1126	0	2	8.7	280679	23983	recent@bitcoinplusplus|top@bitcoinplusplus	HOT,SIGNAL	Awards + Closing — Jake, niftynei | bitcoin++ Berlin, payments edition
+1609813	bitcoin	1	1062	0	1	2.3	144357	4744	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Proton’s AI manifesto for software engineering | SNL #249
+1609738	AI	1	899	0	3	4.8	241	3009	recent@devs|top@devs|recent@AI	SIGNAL	Stack Overflow posts over time
+1609751	lightning	1	845	0	2	4.5	440729	359	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03dade0c8f0ab2f7a…)
+1609592	lightning	1	211	0	2	8.8	699824	173	recent@lightning|top@lightning	SIGNAL	Breez SDK 0.28
+1609763	devs	1	166	0	1	4.1	13531	1757	recent@devs|top@devs	SIGNAL	Just about anyone can rent access to White House IP addresses
+1609152	bitcoin	1	2981	0	5	28.3	176202	57	recent@bitcoin	HOT	Payjoin Trading: A Novel Approach to UTXO Consolidation and Privacy
+1609310	bitcoin	1	2907	0	20	21.6	74100	13686	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	What do you think of Bitcoin Core's AI contribution policy?
+1609065	meta	1	2701	0	7	31.1	92827	3011	recent@meta	HOT	🗞️ don't call it a comeback! --- SNZ Issue #75! 👏🏼
+1609126	tech	1	2630	0	22	29.1	30782	26195	recent@tech	HOT	First Graphene Friendly Motorola?
+1608924	tech	1	1907	0	5	35.1	1570149	39	recent@tech	HOT	sshole
+1609388	Geyser_community	3	1387	0	4	14.7	296825	5879	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	I do not want these community leaders to miss this opportunity
+1609430	AI	1	1306	0	1	12.8	8842	484	recent@AI|top@AI	HOT	Descent into the Computational Sublime
+1609104	AI	1	714	0	0	29.6	12309	3757	recent@devs|recent@AI		A thousand fewer paths to root
+1609186	bitcoin	1	600	0	0	27.0	1552562	69	recent@bitcoin		Mercado Bitcoin Said Its Hack Was Contained; Data Tells a Different Story
+1608912	bitcoin	1	426	0	1	35.3	296825	5879	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoinplusplus		Bitcoin Amsterdam 2026 | Day 1 Livestream
+1609077	AI	1	404	0	4	30.7	12309	3757	recent@AI		Nasdaq Sinks More Than 4% as Investors Retreat From AI Trade After Election
+1609232	tech	1	341	0	0	25.2	777209	120	recent@tech		Claude Code sends your email address to websites in User-Agent
+1609005	bitcoin_beginners	1	321	0	2	32.7	296825	5879	recent@bitcoin_beginners		Cashu is real ecash. Not the shitcoin one
+1609059	tech	1	294	0	0	31.2	777209	120	recent@tech		Discord is ditching Electron, says its new app uses less RAM
+1609251	tech	1	285	0	0	24.3	777209	120	recent@tech		MS Paint RCE (CVE-2026-83844): remote code via crafted images
+1609350	AI	1	278	0	1	19.1	9274	29367	recent@AI|top@AI		AI adoption remains sluggish among US construction companies
+1609181	AI	1	236	0	1	27.3	280679	23983	recent@AI		GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
+1609374	AI	1	221	0	2	16.4	382968	313	recent@AI|top@AI		Moonshot releases Kimi K3.1 Pro weights on Hugging Face
+1609425	bitcoin	1	148	0	0	13.0	1532836	1627	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Do you already have the new Mostro app? 🧌
+1609115	bitcoin_beginners	1	138	0	0	29.4	296825	5879	recent@bitcoin_beginners|recent@bitdevs		Bitcoin Core contributor driving Silent Payments implementation: Novo
+1609652	AI	1	99	0	0	7.0	934429	363	recent@AI|top@AI		The biggest winners of the AI ​​era are already in a bear market.
+1609029	Music	3	85	0	0	31.8	1420309	52	recent@tech		PAFF.club - An open source self-hostable Netflix/Spotify clone
+1609102	tech	1	72	0	0	29.6	296825	5879	recent@bitcoin_beginners|recent@bitdevs		Announcing Trusted Keys in StartOS 0.4.1.2
+1609415	bitcoin	1	67	0	0	13.4	296825	5879	recent@bitcoin_beginners|top@bitcoin_beginners		128 Banks, 3,430 Branches: One System Failure, Nationwide Disruption in Japan
+1608935	AI	1	57	0	1	34.9	297791	8060	recent@AI		How the midterms could fuel the K-shaped AI trade
+1609040	bitcoin	1	46	0	0	31.6	296825	5879	recent@bitcoin_beginners|recent@bitdevs		BIPs 458, 459, and 460 Have Been Published
+1609243	news	2	46	0	0	24.7	297791	8060	recent@devs		OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth
+1609795	bitcoin	1	36	0	0	3.1	1587328	10	recent@bitcoin_beginners|top@bitcoin_beginners		RIP Hardware Wallets: World's 1st Live SHA256 Self-Audit Cold Wallet on iPhone⁠
+1608991	bitcoin	1	36	0	1	33.0	296825	5879	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Bitcoin’s Next Soft Fork: Quantum or the Great Consensus Cleanup?
+1609259	AI	1	36	0	0	23.8	1575305	77	recent@AI|top@AI		Someone compiled an NES CPU into Qwen3.5 weights and it plays Mario
+1609258	AI	1	36	0	0	23.8	1248037	2050	recent@AI|top@AI		The Lisp curse, now coming to your ecosystem | Hacker News
+1609780	privacy	1	21	0	0	3.4	272410	2231	recent@privacy|top@privacy		OpenTubeX: Highly customizable, open-source YouTube client with privacy in mind
+1609838	AI	1	21	0	0	0.3	297791	8060	recent@AI|top@AI	FRESH	Free Chinese AI Models Are Getting Scary Good at Hacking
+1609706	AI	1	21	0	0	5.8	1575305	77	recent@AI|top@AI		Tokyo researchers taught AI to think in light on a 200m fiber loop
+1609827	meta	1	0	0	0	1.3	296825	5879	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Stacker News Live: This week's version
+1609824	privacy	1	0	0	0	1.5	513690	1805	recent@privacy|top@privacy	FRESH	Liquid ⇄ Solana USDT Atomic Swaps
+1609811	news	2	0	0	0	2.5	297791	8060	recent@devs|top@devs		Ubuntu Moving Ahead With Plans For Splitting Up Linux-Firmware, HWE Option
+1609129	AI	1	0	0	0	29.0	297791	8060	recent@devs|recent@AI		OpenSSH security flaw patched
+1608982	news	2	0	0	1	33.2	297791	8060	recent@AI		SanDisk, Micron & WD Fall as Lawmaker’s Call for AI Pause Extends Memory Rout
+1609185	AI	1	0	0	0	27.1	280679	23983	recent@AI		Agents aren’t humans (but they kinda are)
+1609109	AI	1	0	0	0	29.5	1575305	77	recent@AI		An AI scientist ran 11,382 lab steps to store a sentence in DNA
