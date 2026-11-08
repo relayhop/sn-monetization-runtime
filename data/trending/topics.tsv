@@ -1,13 +1,13 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-08T01:07:11.420Z; n=40
-trump	sn:food_and_drinks,sn:news	5.72	yes	
-nvidia	sn:tech	5.08	yes	
-build	hn,sn:DIY	4.66	no	RISING
+# generated 2026-11-08T11:04:06.760Z; n=40
+trump	sn:food_and_drinks,sn:news	5.95	yes	
+help	sn:BooksAndArticles	3.79	no	RISING
+bitcoin	sn:BooksAndArticles	3.79	yes	
 the billionaire bankrolling	sn:the_stacker_muse	3.77	no	RISING
 physical print magazines	sn:the_stacker_muse	3.77	no	RISING
 christmas	sn:family	3.76	no	RISING
 santa claus	sn:family	3.76	no	RISING
-show	hn	3.64	no	RISING
+rust	hn	3.75	no	RISING
 the insatiable demand	sn:Stacker_Stocks	3.33	no	RISING
 alpha	sn:Stacker_Stocks	3.33	no	RISING
 net interest	sn:Stacker_Stocks	3.33	no	RISING
@@ -16,27 +16,27 @@ extropy	sn:BooksAndArticles	3.31	no	RISING
 lodging	sn:BooksAndArticles	3.29	no	RISING
 wayfaring men book club	sn:BooksAndArticles	3.29	no	RISING
 chapter	sn:BooksAndArticles	3.29	no	RISING
+sauna shorts	sn:bitcoin	3.27	yes	
+futures	sn:bitcoin	3.27	yes	
+hello world	sn:bitcoin	3.27	yes	
+javokhir sindarov	sn:AI	3.17	yes	
+gukesh dommaraju	sn:AI	3.17	yes	
+chess championship	sn:AI	3.17	yes	
+fide	sn:AI	3.17	yes	
+peter svidler	sn:AI	3.17	yes	
+chess-november continues	sn:trading	3.15	no	RISING
+introducing	sn:trading	3.15	no	RISING
+total chess championship	sn:trading	3.15	no	RISING
 freedom homeschooling	sn:family	3.12	no	RISING
-sauna shorts	sn:bitcoin	3.12	yes	
-futures	sn:bitcoin	3.12	yes	
-hello world	sn:bitcoin	3.12	yes	
 calley means	sn:food_and_drinks	3.08	no	RISING
 maha	sn:food_and_drinks	3.08	no	RISING
-study	hn	3.06	no	RISING
 blok	sn:Stacker_Stocks	3.06	no	RISING
 stock review	sn:Stacker_Stocks	3.06	no	RISING
 portland general electric company	sn:Stacker_Stocks	3.06	no	RISING
 digital	sn:Design	3.03	no	RISING
-javokhir sindarov	sn:AI	2.93	yes	
-gukesh dommaraju	sn:AI	2.93	yes	
-chess championship	sn:AI	2.93	yes	
-fide	sn:AI	2.93	yes	
-peter svidler	sn:AI	2.93	yes	
-daily putt	sn:gaming	2.92	no	RISING
-play	sn:gaming	2.92	no	RISING
-putt	sn:gaming	2.92	no	RISING
-score	sn:gaming	2.92	no	RISING
+need	hn	3	no	RISING
+speed underground	hn	3	no	RISING
+sats	sn:lol	3	yes	
+sztorc	sn:lol	3	yes	
 books	sn:BooksAndArticles	2.92	no	RISING
 articles weekly	sn:BooksAndArticles	2.92	no	RISING
-need	hn	2.9	no	RISING
-speed underground	hn	2.9	no	RISING
