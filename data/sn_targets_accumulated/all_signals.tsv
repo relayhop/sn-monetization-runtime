@@ -61531,3 +61531,12 @@
 2026-11-11T14:03:36.542Z	1612542	bitcoin	1	102	0	0	0.9	280679	24011	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion
 2026-11-11T14:03:36.542Z	1612436	Christianity	3	100	0	0	10.0	1278854	807	recent@Christianity|top@Christianity	SIGNAL	Three Things the Bible Warns Us Against
 2026-11-11T14:03:36.542Z	1612432	Christianity	3	100	0	0	10.2	238412	442	recent@Christianity|top@Christianity	SIGNAL	The 3rd Seal
+2026-11-11T18:00:14.785Z	1612541	bitcoin	1	1531	0	3	4.8	74100	13762	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	In 2025 thousands of Bitcoin nodes disabled DoS protection -- Antoine Ponsoit
+2026-11-11T18:00:14.785Z	1612551	AskSN	2	1421	0	18	4.3	1242375	271	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL,SELF_POST_OPP	Do you tell people to "read the whitepaper"?
+2026-11-11T18:00:14.785Z	1612518	bitcoin	1	1083	0	2	5.8	1552562	85	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Germany’s Biggest Bank Goes Crypto: Deutsche Bank Launches Bitcoin Custody
+2026-11-11T18:00:14.785Z	1612629	bitcoin	1	599	0	2	1.5	74100	13762	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Don't try to change the Bitcoin protocol, make it irrelevant
+2026-11-11T18:00:14.785Z	1612586	tech	1	430	0	0	2.8	777209	132	recent@tech|top@tech	SIGNAL	Firefox now makes users harder to fingerprint, based on a 25M-user study
+2026-11-11T18:00:14.785Z	1612612	meta	1	386	0	5	2.0	36151	1707	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-11-11T18:00:14.785Z	1612530	lightning	1	242	0	1	5.2	272410	2286	recent@lightning|top@lightning	SIGNAL	Cashu-ts v5.0.0-rc.13: signed swap previews, per-call timeout, strict validation
+2026-11-11T18:00:14.785Z	1612542	bitcoin	1	190	0	0	4.8	280679	24011	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion
+2026-11-11T18:00:14.785Z	1612477	bitcoin	1	145	0	1	9.5	296825	5893	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	BlueWallet scam alert

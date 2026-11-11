@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1612541	bitcoin	1	1531	0	3	4.8	74100	13762	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	In 2025 thousands of Bitcoin nodes disabled DoS protection -- Antoine Ponsoit
+1612551	AskSN	2	1421	0	18	4.3	1242375	271	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL,SELF_POST_OPP	Do you tell people to "read the whitepaper"?
+1612518	bitcoin	1	1083	0	2	5.8	1552562	85	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Germany’s Biggest Bank Goes Crypto: Deutsche Bank Launches Bitcoin Custody
+1612629	bitcoin	1	599	0	2	1.5	74100	13762	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Don't try to change the Bitcoin protocol, make it irrelevant
+1612586	tech	1	430	0	0	2.8	777209	132	recent@tech|top@tech	SIGNAL	Firefox now makes users harder to fingerprint, based on a 25M-user study
+1612612	meta	1	386	0	5	2.0	36151	1707	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1612530	lightning	1	242	0	1	5.2	272410	2286	recent@lightning|top@lightning	SIGNAL	Cashu-ts v5.0.0-rc.13: signed swap previews, per-call timeout, strict validation
+1612542	bitcoin	1	190	0	0	4.8	280679	24011	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion
+1612477	bitcoin	1	145	0	1	9.5	296825	5893	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	BlueWallet scam alert
+1612230	meta	1	6114	0	17	21.8	48657	16755	recent@meta|top@meta	HOT	Stacker News Monthly: October 2026 **NEW Territory Contributor Stats**
+1612210	meta	1	5029	0	3	22.4	724606	14094	recent@meta|top@meta	HOT	Financialization Everywhere: Starbucks and SN style (TDE, Jeff Degner)
+1612220	AI	1	4627	0	1	22.2	724606	14094	recent@AI|top@AI	HOT	Anthropic IPO Financials Are Getting FUN (Money Stuff, Matt Levine)
+1612094	bitcoin	1	4169	0	9	25.0	74100	13762	recent@bitcoin|recent@bitdevs	HOT	The newest iteration of the Great Script Restoration
+1612242	bitcoin	1	3498	0	1	21.5	1014665	253	recent@bitcoin|top@bitcoin|recent@lightning	HOT	0xB10C, Sjors Provoost - Bitcoin Optech Newsletter #430 Recap Podcast
+1612318	gaming	3	1760	0	5	18.4	2795	1448	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SELF_POST_OPP	WE'VE BEEN COOKING!! Come see what all the fuss is about inside Bitcoin Quest :)
+1612192	bitcoin	1	1615	0	1	23.1	7271	775	recent@bitcoin|top@bitcoin	HOT	ark.observer - look at data from both mainnet ark deployments
+1612106	AI	1	1398	0	13	24.6	724606	14094	recent@AI	HOT	Terrifying Terrible AI Doom, Barbell Fr Hell (FT, Toothfairy and Mark Blyth)
+1611931	AI	1	927	0	4	29.3	401865	8811	recent@AI		Anthropic sets price range of $70 to $78 in upcoming IPO
+1612206	AI	1	917	0	4	22.5	12309	3767	recent@AI|top@AI		1 in 12 Americans with $100m (liquid) will be Anthropic Employees
+1611876	news	2	821	0	2	31.1	51481	4358	recent@bitcoin_Mining		Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks
+1612386	bitcoin	1	747	0	2	17.2	1552562	85	recent@bitcoin|top@bitcoin		Virtual fruit fly brains can play Doom and trade bitcoin
+1611993	bitcoin	1	624	0	1	27.7	462245	313	recent@bitcoin|recent@bitcoinplusplus		CISA’s BIPs Have Been Merged — Last Week in Bitcoin (Nov 02 - Nov 08)
+1611994	tech	1	567	0	2	27.7	777209	132	recent@tech		DeepMind's AlphaProof Code formally verified Signal's protocol implementation
+1612270	tech	1	557	0	1	20.7	777209	132	recent@tech|top@tech		Synaptics patent threats stop a Linux DisplayLink driver
+1611997	bitcoin	1	556	0	3	27.6	74100	13762	recent@bitcoin|recent@lightning		Send cashu tokens in a picture
+1612197	bitcoin	1	542	0	1	22.8	126503	867	recent@bitcoin|top@bitcoin|recent@lightning		LNbits Security update v 1.7.0
+1611949	Design	2	496	0	1	28.8	383547	4057	recent@bitcoin		Bitcoin-Safe v2.3.0 · A wallet for Bitcoin Treasury Organizations
+1612051	AI	1	490	0	3	25.9	280679	24011	recent@AI		A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure
+1612249	news	2	425	0	0	21.3	297791	8084	recent@bitcoin|top@bitcoin		CVE-2025-62860 - Inbound Tor connections wrongly receive -whitelist permissions
+1612034	bitcoin	1	418	0	1	26.2	495235	48	recent@bitcoin		Bitcoin Scholars Fund | Education Freedom Tax Credit & DAF Webinar on Friday
+1612425	bitcoin	1	415	0	1	14.5	382968	321	recent@bitcoin|top@bitcoin|recent@lightning		LDK 0.2.8 fixes invalid cooperative-close broadcasts and a memory leak
+1611818	lol	2	412	0	2	34.3	263526	1148	recent@bitcoin|recent@lightning		Michael Scott makes Dunder Mifflin accept Lightning only (Parody Part 1)
+1611899	news	2	373	0	12	30.6	272410	2286	recent@bitcoin|recent@lightning	SELF_POST_OPP	Bitchat is exploding in France during the student protests
+1611921	tech	1	310	0	1	29.7	777209	132	recent@tech		Fireworks AI breach exposed some Notion AI chat transcripts
+1612420	bitcoin	1	304	0	0	14.8	382968	321	recent@bitcoin|top@bitcoin		CVE-2025-62859 - Block processing stall via witness malleation
+1612310	math	2	228	0	0	19.0	280679	24011	recent@AI|top@AI		What happens to mathematics when AI becomes an oracle?
+1612090	devs	1	125	0	0	25.1	126503	867	recent@devs		Fieldwatch - understand what is operating around you
+1612379	AI	1	124	0	0	17.5	1575305	87	recent@AI|top@AI		Claude Fable 5.2 ran 1,000 agents for 8 days and built a bootable OS from zero
+1612388	bitcoin_Mining	1	107	0	1	16.9	9274	29551	recent@bitcoin_Mining|top@bitcoin_Mining		Hashrate Index Roundup Is Back: A Rough Week and a Rougher October for Miners
+1612441	AI	1	97	0	0	13.7	382968	321	recent@AI|top@AI		MiniMax releases H3-Image, a 33B image model generating 16MP images in six steps
+1612623	bitcoin	1	57	0	0	1.6	1547920	11	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Sovran_SystemsOS v1.2.5 is out!
+1612475	bitcoin_beginners	1	57	0	0	10.3	296825	5893	recent@bitcoin_beginners|top@bitcoin_beginners		More Expensive by the Month
+1611907	bitcoin	1	57	0	0	30.4	1532836	1709	recent@bitcoin_beginners|recent@bitcoinplusplus		🚨 Maintenance mode 🚨
+1611971	bitcoin	1	57	0	0	28.3	272410	2286	recent@bitdevs|recent@AI		calle | Everything is broken
+1612414	Geyser_community	3	36	0	0	15.1	238412	444	recent@bitcoin_beginners|top@bitcoin_beginners		The Independent Mind
+1612168	bitcoin_beginners	1	36	0	0	23.5	296825	5893	recent@bitcoin_beginners|top@bitcoin_beginners		The Open Study Hubs
+1612661	bitcoin	1	20	0	0	0.7	1606348	8	recent@bitcoin|top@bitcoin	FRESH	Bitcoin Arena: up to 10k sats per bug, paid over Lightning
+1611944	news	2	10	0	0	28.9	297791	8084	recent@devs		Linux 7.5 To Convey To User-Space Multi-Grain Timestamp Usage On Files
+1611814	bitcoin	1	0	0	0	34.7	129794	107	recent@bitdevs		BOLT12 Pay 0.3.23 – Encrypted Lightning Payment Notifications
+1612548	devs	1	0	0	0	4.6	280679	24011	recent@devs|top@devs		Launching the Vite Ecosystem Fund
+1612680	tech	1	0	0	0	0.2	297791	8084	recent@AI|top@AI	FRESH	Anthropic Jeopardizes NVIDIA's CUDA Moat
+1612686	AI	1	0	0	0	0.1	1575305	87	recent@AI|top@AI	FRESH	OpenAI proved Yang-Mills exists and its physicist referees can't fully follow it
