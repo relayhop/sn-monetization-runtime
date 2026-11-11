@@ -61502,3 +61502,13 @@
 2026-11-11T10:31:44.793Z	1612420	bitcoin	1	304	0	0	7.4	382968	321	recent@bitcoin|top@bitcoin	SIGNAL	CVE-2025-62859 - Block processing stall via witness malleation
 2026-11-11T10:31:44.793Z	1612310	math	2	228	0	0	11.5	280679	24008	recent@AI|top@AI	SIGNAL	What happens to mathematics when AI becomes an oracle?
 2026-11-11T10:31:44.793Z	1612379	AI	1	124	0	0	10.1	1575305	86	recent@AI|top@AI	SIGNAL	Claude Fable 5.2 ran 1,000 agents for 8 days and built a bootable OS from zero
+2026-11-11T10:43:51.492Z	1612338	Politics_And_Law	3	4588	0	3	11.0	724606	14087	recent@econ|top@econ	HOT,SIGNAL	Inflation is Still Always a Monetary Phenomenon (X, Lars Christensen)
+2026-11-11T10:43:51.492Z	1612318	gaming	3	1760	0	5	11.1	2795	1448	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL,SELF_POST_OPP	WE'VE BEEN COOKING!! Come see what all the fuss is about inside Bitcoin Quest :)
+2026-11-11T10:43:51.492Z	1612378	Photography	3	1254	0	2	10.3	984933	3081	recent@history|top@history	HOT,SIGNAL	Areal view of Edinburgh, Scotland, 1920
+2026-11-11T10:43:51.492Z	1612315	math	2	992	0	3	11.2	724606	14087	recent@math|top@math|recent@econ	SIGNAL	The Money Illusion: A Review (TDE 2022, Den Throwback Tuesday)
+2026-11-11T10:43:51.492Z	1612386	bitcoin	1	737	0	0	9.9	1552562	83	recent@bitcoin|top@bitcoin	SIGNAL	Virtual fruit fly brains can play Doom and trade bitcoin
+2026-11-11T10:43:51.492Z	1612425	bitcoin	1	379	0	0	7.3	382968	321	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	LDK 0.2.8 fixes invalid cooperative-close broadcasts and a memory leak
+2026-11-11T10:43:51.492Z	1612307	Stacker_Stocks	2	357	0	1	11.9	280679	24008	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	All 7 Anthropic founders will each cash out about $250M in IPO
+2026-11-11T10:43:51.492Z	1612420	bitcoin	1	304	0	0	7.6	382968	321	recent@bitcoin|top@bitcoin	SIGNAL	CVE-2025-62859 - Block processing stall via witness malleation
+2026-11-11T10:43:51.492Z	1612310	math	2	228	0	0	11.7	280679	24008	recent@AI|top@AI|recent@math	SIGNAL	What happens to mathematics when AI becomes an oracle?
+2026-11-11T10:43:51.492Z	1612379	AI	1	124	0	0	10.3	1575305	86	recent@AI|top@AI|recent@ideasfromtheedge	SIGNAL	Claude Fable 5.2 ran 1,000 agents for 8 days and built a bootable OS from zero
