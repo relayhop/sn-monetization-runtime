@@ -61512,3 +61512,22 @@
 2026-11-11T10:43:51.492Z	1612420	bitcoin	1	304	0	0	7.6	382968	321	recent@bitcoin|top@bitcoin	SIGNAL	CVE-2025-62859 - Block processing stall via witness malleation
 2026-11-11T10:43:51.492Z	1612310	math	2	228	0	0	11.7	280679	24008	recent@AI|top@AI|recent@math	SIGNAL	What happens to mathematics when AI becomes an oracle?
 2026-11-11T10:43:51.492Z	1612379	AI	1	124	0	0	10.3	1575305	86	recent@AI|top@AI|recent@ideasfromtheedge	SIGNAL	Claude Fable 5.2 ran 1,000 agents for 8 days and built a bootable OS from zero
+2026-11-11T14:03:36.542Z	1612484	bitcoin	1	1268	0	2	4.2	1600846	7	recent@bitcoin|top@bitcoin	HOT,SIGNAL	$100 a week since 2016: $56,700 in, $1,161,170 out
+2026-11-11T14:03:36.542Z	1612495	news	2	1019	0	3	3.1	51481	4358	recent@news|top@news|recent@Politics_And_Law	HOT,SIGNAL	US Treasury chief Bessent moved to military base after Iranian threats
+2026-11-11T14:03:36.542Z	1612551	AskSN	2	961	0	1	0.3	1242375	267	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Do you tell people to "read the whitepaper"?
+2026-11-11T14:03:36.542Z	1612465	Construction_and_Engineering	2	884	0	1	7.6	1022234	648	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 11/10/26
+2026-11-11T14:03:36.542Z	1612491	gaming	3	559	0	5	3.3	9274	29551	recent@gaming|top@gaming|recent@Stacker_Sports	SIGNAL,SELF_POST_OPP	The SN Daily Putt #183: Play, Putt, Score, ZAP!⚡️⛳️
+2026-11-11T14:03:36.542Z	1612540	Politics_And_Law	3	536	0	0	1.0	1574064	79	recent@Politics_And_Law|top@Politics_And_Law	FRESH,SIGNAL	Democrats Just Took Control, Why Is Bitcoin Dropping?
+2026-11-11T14:03:36.542Z	1612522	Stacker_Stocks	2	486	0	3	1.5	724606	14090	recent@econ|top@econ|recent@Stacker_Stocks	FRESH,SIGNAL	The Anthropic IPO Fear is Near... Nay, It's Here! (FT, Craig Coben)
+2026-11-11T14:03:36.542Z	1612516	Stacker_Sports	3	436	0	0	1.8	1448206	2801	recent@Stacker_Sports|top@Stacker_Sports	FRESH,SIGNAL	9️⃣♦️ [ 9 oF DiamonD ] WeeK 9
+2026-11-11T14:03:36.542Z	1612425	bitcoin	1	379	0	0	10.6	382968	321	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	LDK 0.2.8 fixes invalid cooperative-close broadcasts and a memory leak
+2026-11-11T14:03:36.542Z	1612420	bitcoin	1	304	0	0	10.9	382968	321	recent@bitcoin|top@bitcoin	SIGNAL	CVE-2025-62859 - Block processing stall via witness malleation
+2026-11-11T14:03:36.542Z	1612541	bitcoin	1	228	0	1	0.9	74100	13759	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	In 2025 thousands of Bitcoin nodes disabled DoS protection -- Antoine Ponsoit
+2026-11-11T14:03:36.542Z	1612530	lightning	1	204	0	1	1.2	272410	2279	recent@lightning|top@lightning	FRESH,SIGNAL	Cashu-ts v5.0.0-rc.13: signed swap previews, per-call timeout, strict validation
+2026-11-11T14:03:36.542Z	1612421	bitcoin	1	193	0	0	10.9	1552562	84	recent@Politics_And_Law|top@Politics_And_Law	SIGNAL	Texas Rep. Files Bill Letting Cities Invest $10 Million In Bitcoin
+2026-11-11T14:03:36.542Z	1612515	HealthAndFitness	3	162	0	1	1.8	88718	49994	recent@HealthAndFitness|top@HealthAndFitness	FRESH,SIGNAL	Daily Accountability Thread
+2026-11-11T14:03:36.542Z	1612479	AI	1	107	0	1	4.6	1609089	13	recent@AI|top@AI	SIGNAL	Singularity Daily No. 3: Square turns on Lightning for 4M merchants
+2026-11-11T14:03:36.542Z	1612547	bitcoin	1	102	0	0	0.7	1612547	1	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Diff Drop Ahead
+2026-11-11T14:03:36.542Z	1612542	bitcoin	1	102	0	0	0.9	280679	24011	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Decentralized Coinbase Payout Protocols (DCPP): A Framework for Discussion
+2026-11-11T14:03:36.542Z	1612436	Christianity	3	100	0	0	10.0	1278854	807	recent@Christianity|top@Christianity	SIGNAL	Three Things the Bible Warns Us Against
+2026-11-11T14:03:36.542Z	1612432	Christianity	3	100	0	0	10.2	238412	442	recent@Christianity|top@Christianity	SIGNAL	The 3rd Seal
