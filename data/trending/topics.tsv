@@ -1,28 +1,22 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-11T22:29:43.939Z; n=40
-bitcoin	sn:bitcoin	8.12	yes	
-show	hn	4.25	no	RISING
-inflation	sn:Politics_And_Law	3.67	no	RISING
-still always	sn:Politics_And_Law	3.67	no	RISING
-monetary phenomenon	sn:Politics_And_Law	3.67	no	RISING
-lars christensen	sn:Politics_And_Law	3.67	no	RISING
-game review	sn:gaming	3.63	no	RISING
-the crimson diamond	sn:gaming	3.63	no	RISING
-the luxury	sn:BooksAndArticles	3.61	no	RISING
-children	sn:BooksAndArticles	3.61	no	RISING
-foreign affairs	sn:BooksAndArticles	3.61	no	RISING
-fern	sn:BooksAndArticles	3.61	no	RISING
-villaverde	sn:BooksAndArticles	3.61	no	RISING
-cooking	sn:gaming	3.25	yes	
-come	sn:gaming	3.25	yes	
-bitcoin quest	sn:gaming	3.25	yes	
+# generated 2026-11-12T12:14:37.897Z; n=40
+bitcoin	sn:bitcoin	8.31	yes	
+lightning	sn:bitcoin,sn:Stacker_Sports	5.68	yes	
+united airlines	hn,sn:AI	5.66	yes	
+jane street	hn	5.2	no	RISING
+freshman dem members	sn:Politics_And_Law	4.13	no	RISING
+supporters are quickly finding out the hill is different	sn:Politics_And_Law	4.13	no	RISING
+game review	sn:gaming	3.65	no	RISING
+the crimson diamond	sn:gaming	3.65	no	RISING
+the luxury	sn:BooksAndArticles	3.62	no	RISING
+children	sn:BooksAndArticles	3.62	no	RISING
+foreign affairs	sn:BooksAndArticles	3.62	no	RISING
+fern	sn:BooksAndArticles	3.62	no	RISING
+villaverde	sn:BooksAndArticles	3.62	no	RISING
 antoine ponsoit	sn:bitcoin	3.2	yes	
-something	sn:BooksAndArticles	3.15	no	RISING
-michael easter	sn:BooksAndArticles	3.15	no	RISING
-new book	sn:BooksAndArticles	3.15	no	RISING
-areal	sn:Photography	3.15	no	RISING
-edinburgh	sn:Photography	3.15	no	RISING
-scotland	sn:Photography	3.15	no	RISING
+something	sn:BooksAndArticles	3.16	no	RISING
+michael easter	sn:BooksAndArticles	3.16	no	RISING
+new book	sn:BooksAndArticles	3.16	no	RISING
 ron paul	sn:Politics_And_Law	3.12	no	RISING
 will republicans learn their lesson	sn:Politics_And_Law	3.12	no	RISING
 disastrous	sn:Politics_And_Law	3.12	no	RISING
@@ -30,13 +24,19 @@ midterms	sn:Politics_And_Law	3.12	no	RISING
 emirates cup survivor pool	sn:Stacker_Sports	3.12	no	RISING
 group stage round	sn:Stacker_Sports	3.12	no	RISING
 picks	sn:Stacker_Sports	3.12	no	RISING
+tim peters	hn	3.1	no	RISING
 germany	sn:bitcoin	3.07	yes	
 biggest bank goes crypto	sn:bitcoin	3.07	yes	
 deutsche bank launches bitcoin custody	sn:bitcoin	3.07	yes	
-treasury	sn:news	3.03	no	RISING
-bessent	sn:news	3.03	no	RISING
-iranian	sn:news	3.03	no	RISING
+nvidia	hn	3.04	yes	
+jensen huang	hn	3.04	yes	
 opens public beta for bitcoin	sn:bitcoin	3.02	yes	
 simulator app	sn:bitcoin	3.02	yes	
 bitcoin arena	sn:bitcoin	3.01	yes	
-lightning	sn:bitcoin	3.01	yes	
+pick	sn:Stacker_Sports	3.01	no	RISING
+week	sn:Stacker_Sports	3.01	no	RISING
+maya	hn	3	no	RISING
+years	sn:history	2.99	no	RISING
+yahoo finance	sn:history	2.99	no	RISING
+jared blikre	sn:history	2.99	no	RISING
+the origin	sn:BooksAndArticles	2.99	no	RISING
