@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-13T11:53:45.072Z; n=40
-jensen huang	hn,sn:news,sn:lol	12.31	yes	
-nvidia	hn,sn:news,sn:lol	8.75	yes	
-huang	hn,sn:AI	5.51	yes	
-gemini	hn	5.36	yes	
-hydrogen	hn	5.36	yes	
-rust	hn	5.07	no	RISING
-show	hn	4.79	no	RISING
-tether fun unbelievable details	sn:bitcoin	4.14	yes	
-part	sn:bitcoin	4.14	yes	
-when saying	sn:econ	3.87	no	RISING
-cost me	sn:econ	3.87	no	RISING
-on business ethics	sn:econ	3.87	no	RISING
-economics	sn:econ	3.87	no	RISING
-optimization	sn:econ	3.87	no	RISING
+# generated 2026-11-13T21:48:41.360Z; n=40
+paolo	sn:family	7.59	no	RISING
+bitcoin	sn:bitcoin	5.84	yes	
+november	hn,sn:events	5.47	yes	
 signs	sn:bitcoin	3.52	yes	
 japan	sn:bitcoin	3.52	yes	
-privacy edition	sn:bitcoinplusplus	3.36	no	RISING
-book	sn:the_stacker_muse	3.29	no	RISING
-books	sn:the_stacker_muse	3.29	no	RISING
-futures	sn:the_stacker_muse	3.29	yes	
-tales from	sn:the_stacker_muse	3.29	no	RISING
-timechain	sn:the_stacker_muse	3.29	no	RISING
-lose	sn:Stacker_Stocks	3.22	no	RISING
-bond	sn:Stacker_Stocks	3.22	no	RISING
-scandinavian airlines	sn:Stacker_Stocks	3.22	no	RISING
-year-old bond	sn:Stacker_Stocks	3.22	no	RISING
-bloomberg	sn:Stacker_Stocks	3.22	no	RISING
-paolo	sn:family	3.21	no	RISING
-filepack	sn:tech	3.18	yes	
-casey rodarmor	sn:tech	3.18	yes	
-total chess championship	sn:chess	3.13	no	RISING
-sac all your pieces	sn:chess	3.13	no	RISING
-glory	sn:chess	3.13	no	RISING
-fabiano style	sn:chess	3.13	no	RISING
-colette kress	sn:news	3.12	no	RISING
-jensen huang meme corner	sn:Memes	3.04	no	RISING
-hsun	sn:AI	3.03	yes	
-lightning labs	sn:bitcoin	3.02	yes	
-service	hn	2.98	no	RISING
-microsoft	hn	2.98	no	RISING
+exfil	sn:bitcoin	3.43	yes	
+bitcoin core	sn:bitcoin	3.43	yes	
+bitcoin optech newsletter	sn:bitcoin	3.43	yes	
+jensen huang meme corner	sn:Memes	3.32	no	RISING
+starship	sn:tech	3.32	yes	
+dear citizens	sn:art	3.29	no	RISING
+new internet	sn:art	3.29	no	RISING
+how much should anthropic pop	sn:Stacker_Stocks	3.29	no	RISING
+money stuff	sn:Stacker_Stocks	3.29	no	RISING
+matt levine	sn:Stacker_Stocks	3.29	no	RISING
+filepack	sn:tech	3.25	yes	
+casey rodarmor	sn:tech	3.25	yes	
+total chess championship	sn:chess	3.15	no	RISING
+sac all your pieces	sn:chess	3.15	no	RISING
+glory	sn:chess	3.15	no	RISING
+fabiano style	sn:chess	3.15	no	RISING
+weekly random sports pick	sn:Stacker_Sports	3.1	no	RISING
+is bitcoin cheap again	sn:AskSN	3.07	yes	
+substack	sn:AskSN	3.07	yes	
+james check	sn:AskSN	3.07	yes	
+the rich list attack	sn:bitcoin	3.05	yes	
+data center economics	sn:econ	3.04	no	RISING
+weigh	sn:econ	3.04	no	RISING
+costs	sn:econ	3.04	no	RISING
+skip	sn:econ	3.04	no	RISING
+subsidies	sn:econ	3.04	no	RISING
+sunday leaders bounty	sn:Stacker_Sports	3.02	no	RISING
+megatrade is	sn:Stacker_Stocks	3.01	no	RISING
+both	sn:Stacker_Stocks	3.01	no	RISING
+bonds	sn:Stacker_Stocks	3.01	no	RISING
+stonks	sn:Stacker_Stocks	3.01	no	RISING
+toby nangle	sn:Stacker_Stocks	3.01	no	RISING
+update	sn:family	3	no	RISING
+bark	sn:Ark	2.99	no	RISING
+stark	sn:bitcoin	2.99	yes	
