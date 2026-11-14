@@ -1,31 +1,38 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-13T21:48:41.360Z; n=40
-paolo	sn:family	7.59	no	RISING
+# generated 2026-11-14T01:58:44.587Z; n=40
+total chess championship	sn:chess,sn:trading	6.11	no	RISING
 bitcoin	sn:bitcoin	5.84	yes	
-november	hn,sn:events	5.47	yes	
+live	hn	5.6	no	RISING
+november	hn,sn:events	5.52	yes	
+show	hn	4.52	no	RISING
 signs	sn:bitcoin	3.52	yes	
 japan	sn:bitcoin	3.52	yes	
+update	sn:family	3.43	no	RISING
+paolo	sn:family	3.43	no	RISING
 exfil	sn:bitcoin	3.43	yes	
 bitcoin core	sn:bitcoin	3.43	yes	
 bitcoin optech newsletter	sn:bitcoin	3.43	yes	
-jensen huang meme corner	sn:Memes	3.32	no	RISING
-starship	sn:tech	3.32	yes	
+starship	sn:tech	3.35	yes	
+how much should anthropic pop	sn:Stacker_Stocks	3.3	no	RISING
+money stuff	sn:Stacker_Stocks	3.3	no	RISING
+matt levine	sn:Stacker_Stocks	3.3	no	RISING
 dear citizens	sn:art	3.29	no	RISING
 new internet	sn:art	3.29	no	RISING
-how much should anthropic pop	sn:Stacker_Stocks	3.29	no	RISING
-money stuff	sn:Stacker_Stocks	3.29	no	RISING
-matt levine	sn:Stacker_Stocks	3.29	no	RISING
-filepack	sn:tech	3.25	yes	
-casey rodarmor	sn:tech	3.25	yes	
-total chess championship	sn:chess	3.15	no	RISING
-sac all your pieces	sn:chess	3.15	no	RISING
-glory	sn:chess	3.15	no	RISING
-fabiano style	sn:chess	3.15	no	RISING
-weekly random sports pick	sn:Stacker_Sports	3.1	no	RISING
+filepack	sn:tech	3.26	yes	
+casey rodarmor	sn:tech	3.26	yes	
+the rich list attack	sn:bitcoin	3.25	yes	
+blockstream launches enterprise custody solution	sn:news	3.17	yes	
+hans	sn:chess	3.15	no	RISING
+fry some liver	sn:chess	3.15	no	RISING
+book	sn:BooksAndArticles	3.13	no	RISING
+boomer	sn:BooksAndArticles	3.13	no	RISING
+betrayal	sn:BooksAndArticles	3.13	no	RISING
+gerontocracy	sn:BooksAndArticles	3.13	no	RISING
+america	sn:BooksAndArticles	3.13	no	RISING
+weekly random sports pick	sn:Stacker_Sports	3.11	no	RISING
 is bitcoin cheap again	sn:AskSN	3.07	yes	
 substack	sn:AskSN	3.07	yes	
 james check	sn:AskSN	3.07	yes	
-the rich list attack	sn:bitcoin	3.05	yes	
 data center economics	sn:econ	3.04	no	RISING
 weigh	sn:econ	3.04	no	RISING
 costs	sn:econ	3.04	no	RISING
@@ -33,10 +40,3 @@ skip	sn:econ	3.04	no	RISING
 subsidies	sn:econ	3.04	no	RISING
 sunday leaders bounty	sn:Stacker_Sports	3.02	no	RISING
 megatrade is	sn:Stacker_Stocks	3.01	no	RISING
-both	sn:Stacker_Stocks	3.01	no	RISING
-bonds	sn:Stacker_Stocks	3.01	no	RISING
-stonks	sn:Stacker_Stocks	3.01	no	RISING
-toby nangle	sn:Stacker_Stocks	3.01	no	RISING
-update	sn:family	3	no	RISING
-bark	sn:Ark	2.99	no	RISING
-stark	sn:bitcoin	2.99	yes	
