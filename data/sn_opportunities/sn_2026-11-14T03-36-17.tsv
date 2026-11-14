@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1613924	bitcoin	1	1780	0	5	10.3	74100	13811	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	The Rich List Attack: why it's hard to design a decentralized mining pool
+1614014	news	2	1605	0	3	7.7	74100	13811	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Blockstream Launches Enterprise Custody Solution
+1613984	bitcoinplusplus	1	792	0	1	8.8	328182	4123	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	live | bitcoin++ Privacy Edition: Day 2
+1613871	bitcoin	1	491	0	0	11.5	238412	449	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	What is money?
+1614017	bitcoin	1	412	0	1	7.5	78166	295	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Security Watcher
+1613973	bitcoin_Mining	1	322	0	1	9.1	272410	2322	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	FutureBit brings its 18 TH/sa Apollo III Micro Center down from $1,099.99
+1614003	bitcoin	1	266	0	0	8.1	272410	2322	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Coinbase gives you $50 in BTC for a $21 children's book to KYC you
+1614148	AI	1	109	0	0	3.6	1575305	92	recent@AI|top@AI	SIGNAL	OpenAI folds its robotics team after GPT-6 Astra beat specialist robot brains
+1613970	tech	1	107	0	0	9.2	12309	3772	recent@devs|top@devs	SIGNAL	Kubernetes is coming to Apple containers!
+1613609	bitcoin	1	3313	0	9	24.4	169890	336	recent@bitcoin	HOT	Signs of monetary reset in Japan
+1613752	bitcoin	1	2698	0	1	15.1	1014665	254	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Exfil, testnet5, Bitcoin Core disclosures &more - Bitcoin Optech Newsletter #431
+1613370	bitcoinplusplus	1	2306	0	2	33.5	280679	24039	recent@bitcoinplusplus	HOT	[live] bitcoin++ Privacy Edition: Day 1
+1613275	AskSN	2	2228	0	24	35.8	1195179	1121	recent@bitcoin|recent@lightning|recent@privacy	HOT	LNMarkets announces mandatory KYC starting early 2027 [your thoughts welcome...]
+1613819	tech	1	2220	0	3	12.7	280679	24039	recent@tech|top@tech	HOT	SpaceX to attempt 1st Starship spacecraft recovery on land in 15th flight today
+1613640	tech	1	1823	0	3	22.9	74100	13811	recent@devs|top@devs|recent@tech	HOT	Filepack – Casey Rodarmor
+1613701	AskSN	2	1176	0	16	17.2	724606	14172	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Is Bitcoin Cheap Again? (Substack, James Check)
+1613442	bitcoin	1	1058	0	1	31.0	126503	872	recent@bitcoin|recent@lightning|recent@AI	HOT	Lightning Labs pi402
+1613303	bitcoin	1	1049	0	3	35.2	74100	13811	recent@bitcoin|recent@bitcoin_beginners	HOT	📣AMA Announcement: Morgen Rochard, CFA, author of Bitcoin Personal Finance
+1613766	bitcoin	1	980	0	1	14.7	382968	331	recent@bitcoin|top@bitcoin		A STARK proof of Bitcoin's UTXO set at block 972,500
+1613810	lightning	1	804	0	2	12.9	440729	366	recent@lightning|top@lightning		Biggest Channel Opened Today (3.7 BTC) + New Node Spotlight (0332d8ca1480254b2…)
+1613751	bitcoin_beginners	1	783	0	1	15.2	30782	26225	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin Beginners Newsletter #124
+1613436	Design	2	723	0	3	31.3	7693	2404	recent@AI		Open Source Alternative To Adobe's Creative Suite
+1613808	events	3	722	0	1	13.0	272410	2322	recent@bitcoin|top@bitcoin		El Salvador prepares 5 events from November 10 to 20 led by Herbert and Keiser
+1613481	AI	1	719	0	0	29.1	48657	16811	recent@AI		How AI Diagnosed a Medical Mystery My Doctors Missed for Decades
+1613682	bitcoin	1	702	0	3	18.8	297791	8103	recent@bitcoin|top@bitcoin		Bitcoin firm Nakamoto owes Kraken $165M, more than its entire market value
+1613827	news	2	645	0	1	12.3	51481	4363	recent@AI|top@AI		OpenAI launches ChatGPT Wallet, allowing its ‘dots’ AI agents to make purchases
+1613763	DIY	3	519	0	1	14.8	272410	2322	recent@tech|top@tech		Hacking the meta ray-ban smartglasses
+1613680	bitcoin	1	496	0	1	19.0	296825	5903	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Emergency Exit on Blink — What It Is and How to Keep It Ready
+1613780	bitcoin_Mining	1	454	0	2	14.0	74100	13811	recent@bitcoin_Mining|top@bitcoin_Mining		📣AMA Announcement: Rob Warren aka BikesandBitcoin - WED 10AM
+1613331	bitcoin	1	412	0	0	34.7	126503	872	recent@bitcoin|recent@lightning		Bark 0.8.1 is out
+1613749	tech	1	374	0	1	15.3	777209	143	recent@tech|top@tech		TSMC says employee data leaked through a cloud provider, systems not breached
+1613377	tech	1	336	0	0	33.3	777209	143	recent@tech		Google releases Gemini 4 Hydrogen, priced at $1.50/$7.50 per million tokens
+1613797	lightning	1	243	0	0	13.4	440729	366	top@lightning		~Lightning Gossip newsletter - 026W46
+1613356	bitcoin	1	138	0	0	34.0	296825	5903	recent@bitcoin_beginners|recent@bitdevs		Stale Tip Relay. Anything more to the Timechain than what we pay attention to?
+1613350	bitcoin	1	122	0	3	34.1	223678	6597	recent@bitcoin|recent@lightning		Account Verification Coming To LNMarkets
+1614188	bitcoin	1	94	0	0	1.0	1532836	1743	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH	Choose your battle 🧌⚔️
+1614120	nostr	1	91	0	1	4.6	1278026	920	recent@devs|top@devs		Discovered a cool Nostr project called Whisper
+1613402	tech	1	91	0	0	32.5	406462	105	recent@AI		Will Jensen Huang has resignation from CEO of Nvidia bring memory prices down?
+1613951	AI	1	77	0	1	9.6	1575305	92	recent@AI|top@AI		Lean checker audits 6.9M US court rulings, finds thousands of zombie precedents
+1614024	bitdevs	1	50	0	0	7.0	272410	2322	recent@bitdevs|top@bitdevs|recent@devs		cve-tracker | Every public CVE in one place, free and open source
+1613367	AI	1	42	0	0	33.6	1575305	92	recent@AI		Astra watched one robot video, rebuilt its physics, and coded the real robot
+1613347	bitcoin	1	36	0	0	34.2	296825	5903	recent@bitcoin_beginners|recent@bitdevs		Stale Tip Relay. Anything more to the Timechain than what we pay attention to?
+1613911	news	2	31	0	0	10.7	297791	8103	recent@AI|top@AI		Nvidia executive Ian Buck emerges as CEO frontrunner on prediction markets
+1613903	AI	1	21	0	0	10.9	238412	449	recent@AI|top@AI		Economic hitmen threatened me
+1613678	AI	1	21	0	0	19.2	296825	5903	recent@AI|top@AI		AI race
+1614175	gaming	3	0	0	1	2.2	1532836	1743	recent@bitcoin_beginners|top@bitcoin_beginners		A challenge for the Mostro community!
+1613291	devs	1	0	0	0	35.6	297791	8103	recent@devs		Critical Apache HTTP/2 Flaw Let Unauthenticated Attackers Execute Code Remotely
+1614187	tech	1	0	0	0	1.0	1570149	44	recent@tech|top@tech	FRESH	I made the simplest notes app for Android so it was actually fast
+1613611	AI	1	0	0	4	24.4	382968	331	recent@AI		Howard Marks: A Layman Thinks About AI
+1613793	AI	1	0	0	1	13.4	280679	24039	recent@AI|top@AI		Announcing pi402: Your Agent Can Now Pay for Inference with Bitcoin
+1613532	AI	1	0	0	0	27.2	1575305	92	recent@AI		Weight forensics finds Blackwell GPU fingerprints in DeepSeek and Kimi models
+1613421	AI	1	0	0	0	31.8	280679	24039	recent@AI		$51 Billion Memecoin Bubble to Bankroll America’s AI Safety Movement
