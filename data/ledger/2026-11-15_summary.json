@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-15",
+  "opportunity_count": 1,
+  "total_sats_available": 10000,
+  "high_signal_detected": true,
+  "top_contributor": "Stacker_Stocks",
+  "labels_detected": [
+    "OPEN_BOUNTY",
+    "LOW_COMP",
+    "FRESH",
+    "SIGNAL"
+  ]
+}
