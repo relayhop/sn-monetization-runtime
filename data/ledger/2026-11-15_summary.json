@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-15",
+  "total_detected": 1,
+  "bounties": [
+    {
+      "id": "1614834",
+      "user": "Stacker_Stocks",
+      "sats_reward": 10000,
+      "velocity": 5.1,
+      "flags": ["OPEN_BOUNTY", "HOT", "SIGNAL", "SELF_POST_OPP"],
+      "title": "Stacker Stocks Weekly Close Contest 🟩 or 🟥 - Week #19 Win up to 20k Sats!"
+    }
+  ],
+  "status": "processed"
+}
