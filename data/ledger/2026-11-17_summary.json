@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-17",
+  "bounty_count": 1,
+  "total_sats": 5000,
+  "detected_at": "2026-11-17T03:42:00Z",
+  "entries": [
+    {
+      "id": 1615501,
+      "sub": "Construction_and_Engineering",
+      "sats": 5000,
+      "title": "Show Your Build Weekly #10: Post Your Proof-of-Work 🔨 💰",
+      "labels": ["OPEN_BOUNTY", "LOW_COMP"]
+    }
+  ]
+}
