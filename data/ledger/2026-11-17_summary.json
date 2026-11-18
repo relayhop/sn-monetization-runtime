@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-17",
+  "total_opportunities": 1,
+  "total_sats": 57000,
+  "opportunities": [
+    {
+      "id": 1616276,
+      "sub": "bitcoin",
+      "sats": 57000,
+      "title": "Roast our shop, win 57k sats",
+      "labels": ["OPEN_BOUNTY", "SIGNAL"]
+    }
+  ],
+  "runtime_version": "sn-radar-v1"
+}
