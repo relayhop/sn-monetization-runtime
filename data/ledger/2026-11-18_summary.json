@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-18",
+  "total_bounties": 1,
+  "total_sats": 57000,
+  "entries": [
+    {
+      "id": 1616276,
+      "sub": "bitcoin",
+      "reward_sats": 57000,
+      "title": "Roast our shop, win 57k sats",
+      "author": "recent@bitcoin",
+      "type": "OPEN_BOUNTY"
+    }
+  ],
+  "runtime_status": "synced"
+}
