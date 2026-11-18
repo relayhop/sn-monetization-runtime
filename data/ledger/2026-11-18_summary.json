@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-18",
+  "bounties_detected": 1,
+  "total_value_sats": 57000,
+  "entries": [
+    {
+      "id": 1616276,
+      "sub": "bitcoin",
+      "sats": 57000,
+      "title": "Roast our shop, win 57k sats",
+      "type": "OPEN_BOUNTY"
+    }
+  ]
+}
