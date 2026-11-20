@@ -1,0 +1,5 @@
+id	category	priority	impact	effort	status	notes
+1616276	shop_ux	1	high	medium	open	Checkout flow requires too many clicks; suggest implementing lightning-address direct-pay.
+1616276	pricing	2	medium	low	open	Sats-to-USD conversion latency causes UI flickering during high volatility.
+1616276	inventory	3	low	high	open	Lack of automated stock updates for digital assets; suggest webhook integration with SN API.
+1616276	feedback	4	medium	medium	open	Missing post-purchase confirmation signal in the current ledger stream.
