@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-22T21:34:03.263Z; n=40
-show	hn,sn:nostr	6.44	yes	
-bitcoin	sn:bitcoin	5.93	yes	
-anthropic	hn,sn:Politics_And_Law	5.78	yes	
+# generated 2026-11-23T02:17:53.716Z; n=40
+bitcoin	sn:bitcoin	6.04	yes	
+anthropic	hn,sn:Politics_And_Law	5.86	yes	
+show	hn,sn:nostr	5.49	yes	
+lean	hn,sn:math	4.76	yes	
+riemann hypothesis	hn,sn:math	4.03	no	RISING
+the effective altruist	sn:the_stacker_muse	3.53	no	RISING
+burden	sn:the_stacker_muse	3.53	no	RISING
+simple lunch stocking	sn:food_and_drinks	3.5	no	RISING
 vulnerable	sn:bitcoin	3.39	yes	
 launched	sn:gaming	3.21	yes	
-sunday	sn:Photography	3.16	no	RISING
-share	sn:Photography	3.16	no	RISING
-russian	sn:news	3.14	no	RISING
-libyan	sn:news	3.14	no	RISING
-pill	hn	3.12	no	RISING
+sunday	sn:Photography	3.19	no	RISING
+share	sn:Photography	3.19	no	RISING
+russian	sn:news	3.16	no	RISING
+libyan	sn:news	3.16	no	RISING
+toyota	hn	3.08	no	RISING
+nissan	hn	3.08	no	RISING
+honda	hn	3.08	no	RISING
+cassis	sn:bitcoin	3.07	yes	
 modest proposal	sn:lol	3.06	no	RISING
 benefit	sn:lol	3.06	no	RISING
 public welfare	sn:lol	3.06	no	RISING
 destroy mercury	sn:lol	3.06	no	RISING
-toyota	hn	3.05	no	RISING
-nissan	hn	3.05	no	RISING
-honda	hn	3.05	no	RISING
-cassis	sn:bitcoin	3.01	yes	
-mr harford rediscovers	sn:the_stacker_muse	3.01	no	RISING
-virtue	sn:the_stacker_muse	3.01	no	RISING
-shower thoughts	sn:the_stacker_muse	3.01	no	RISING
-tim harford	sn:the_stacker_muse	3.01	no	RISING
-the dollar	sn:BooksAndArticles	3.01	no	RISING
-to be	sn:BooksAndArticles	3.01	no	RISING
-wall street journal	sn:BooksAndArticles	3.01	no	RISING
-fern	sn:BooksAndArticles	3.01	no	RISING
-villaverde	sn:BooksAndArticles	3.01	no	RISING
-deep dive	sn:bitcoin	3.01	yes	
-mining sharechains	sn:bitcoin	3.01	yes	
-love	sn:bitcoin	3.01	yes	
-profit	sn:bitcoin	3.01	yes	
-payment	sn:nostr	3	yes	
-society	sn:AI	3	yes	
-scientists	sn:AI	3	yes	
-year-old	sn:bitcoin	2.91	yes	
-employees	sn:Politics_And_Law	2.89	no	RISING
-trust us	sn:Politics_And_Law	2.89	no	RISING
-good guys	sn:Politics_And_Law	2.89	no	RISING
-jasmine sun	sn:Politics_And_Law	2.89	no	RISING
-my agent said	sn:the_stacker_muse	2.79	no	RISING
+payment	sn:nostr	3.05	yes	
+mr harford rediscovers	sn:the_stacker_muse	3.03	no	RISING
+virtue	sn:the_stacker_muse	3.03	no	RISING
+shower thoughts	sn:the_stacker_muse	3.03	no	RISING
+tim harford	sn:the_stacker_muse	3.03	no	RISING
+the dollar	sn:BooksAndArticles	3.03	no	RISING
+to be	sn:BooksAndArticles	3.03	no	RISING
+wall street journal	sn:BooksAndArticles	3.03	no	RISING
+fern	sn:BooksAndArticles	3.03	no	RISING
+villaverde	sn:BooksAndArticles	3.03	no	RISING
+society	sn:AI	3.03	yes	
+scientists	sn:AI	3.03	yes	
+deep dive	sn:bitcoin	3.03	yes	
+mining sharechains	sn:bitcoin	3.03	yes	
+love	sn:bitcoin	3.03	yes	
+profit	sn:bitcoin	3.03	yes	
+year-old	sn:bitcoin	2.97	yes	
+rise	sn:bitcoin	2.96	yes	
