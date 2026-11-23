@@ -62,40 +62,44 @@ async function runTopUsers() {
     lines.push([ts, u.name, u.nitems, u.optional?.stacked||0, u.optional?.spent||0, u.optional?.streak||0].join('\t'));
   }
   fs.writeFileSync(path.join(OUT, 'super_zappers.tsv'), lines.join('\n')+'\n');
-  console.log(`[intel] super_zappers: ${users.length} users; top: ${users[0]?.name} (${users[0]?.optional?.stacked} stacked)`);
-
-  // Append-only history
-  const hist = path.join(OUT, 'super_zappers_history.tsv');
-  if (!fs.existsSync(hist)) fs.writeFileSync(hist, lines[0]+'\n');
-  for (let i = 1; i < lines.length; i++) fs.appendFileSync(hist, lines[i]+'\n');
-
-  // For top 20: query their active subs
-  const zSubs = ['# refreshed_at\tname\tstacked\tactive_subs'];
-  for (const u of users.slice(0, 20)) {
-    const subs = await userSubs(u.name);
-    zSubs.push([ts, u.name, u.optional?.stacked||0, subs.join(',')].join('\t'));
-    await new Promise(r => setTimeout(r, 200));
-  }
-  fs.writeFileSync(path.join(OUT, 'zapper_subs.tsv'), zSubs.join('\n')+'\n');
-  console.log(`[intel] zapper_subs: queried top 20 zappers' active subs`);
+  console.log(`[intel] super_zappers: ${users.length} users saved`);
 }
 
 async function runVelocity() {
   const ts = new Date().toISOString();
-  const lines = ['# refreshed_at\tsub\ttier\tweekly_stacked\tdays_in_window\tavg_daily_stacked'];
+  const lines = ['# refreshed_at\tsub\tweekly_stacked\tdays\tavg_daily'];
   for (const sub of ALL) {
     const v = await subVelocity(sub);
-    if (v.error) continue;
-    const tier = TIER_1.includes(sub) ? 1 : 2;
-    lines.push([ts, sub, tier, v.weekly_stacked, v.days, v.avg_daily].join('\t'));
-    await new Promise(r => setTimeout(r, 200));
+    if (!v.error) {
+      lines.push([ts, v.sub, v.weekly_stacked, v.days, v.avg_daily].join('\t'));
+    }
   }
   fs.writeFileSync(path.join(OUT, 'sub_velocity.tsv'), lines.join('\n')+'\n');
-  console.log(`[intel] sub_velocity: ${lines.length-1} subs surveyed`);
+  console.log(`[intel] sub_velocity: ${ALL.length} subs analyzed`);
 }
 
-(async () => {
+async function runZapperSubs() {
+  const users = await topUsers();
+  const lines = ['# name\tsubs'];
+  for (const u of users.slice(0, 20)) {
+    const subs = await userSubs(u.name);
+    lines.push([u.name, subs.join(',')].join('\t'));
+  }
+  fs.writeFileSync(path.join(OUT, 'zapper_subs.tsv'), lines.join('\n')+'\n');
+  console.log(`[intel] zapper_subs saved`);
+}
+
+async function main() {
   const args = process.argv.slice(2);
-  if (args.includes('--all') || args.includes('--topusers')) await runTopUsers();
-  if (args.includes('--all') || args.includes('--velocity')) await runVelocity();
-})().catch(e => { console.error('FATAL:', e.message); process.exit(1); });
+  if (args.includes('--topusers') || args.includes('--all')) await runTopUsers();
+  if (args.includes('--velocity') || args.includes('--all')) await runVelocity();
+  if (args.includes('--zappersubs') || args.includes('--all')) await runZapperSubs();
+  if (!args.length) {
+    console.log('Usage: node scripts/sn_intel.mjs [--topusers|--velocity|--zappersubs|--all]');
+  }
+}
+
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
