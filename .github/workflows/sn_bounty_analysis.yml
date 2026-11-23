@@ -1,0 +1,55 @@
+name: sn_bounty_analysis
+
+# Analyzes bounty data detected by radar system to provide insights
+# Runs after radar completes to process detected bounties
+
+on:
+  workflow_run:
+    workflows: ["sn_radar"]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Find latest bounty file
+        id: find_bounty_file
+        run: |
+          LATEST=$(ls -t data/sn_opportunities/sn_*.tsv 2>/dev/null | head -1)
+          if [ -n "$LATEST" ]; then
+            echo "bounty_file=$LATEST" >> $GITHUB_OUTPUT
+            echo "Found bounty file: $LATEST"
+          else
+            echo "No bounty file found"
+            exit 0
+          fi
+      
+      - name: Run bounty analysis
+        if: steps.find_bounty_file.outputs.bounty_file != ''
+        run: |
+          python data/intel/bounty_analysis.py "${{ steps.find_bounty_file.outputs.bounty_file }}" \
+            --min-sats 5000 \
+            --output data/intel/bounty_report.md
+      
+      - name: Commit analysis results
+        if: steps.find_bounty_file.outputs.bounty_file != ''
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/intel/ || true
+          git diff --cached --quiet || git commit -m "bounty analysis: $(date -u +%FT%TZ)"
+          git push || true
