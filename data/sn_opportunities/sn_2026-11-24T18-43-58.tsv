@@ -1,0 +1,53 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1620302	AskSN	2	2637	0	3	0.7	724606	14470	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Our COLDCARD Seed-Generation Postmortem is Now Public (Coinkite)
+1620203	math	2	2190	0	6	3.1	4078	5575	recent@AI|top@AI	HOT,SIGNAL,SELF_POST_OPP	Who is Levent Alpöge, the reclusive genius behind AI’s math conquest?
+1620187	bitcoin	1	688	0	0	3.3	996769	66	recent@bitcoin|top@bitcoin	SIGNAL	🎙 NEW EPISODE: Your Money, Their Conditions: The Digital Euro & CBDCs Exposed
+1620249	bitcoin	1	574	0	0	2.1	272410	2489	recent@bitcoin|top@bitcoin	SIGNAL	Chainflip's message to the hacker: return 90% of 122.86 BTC or face legal action
+1620205	bitcoin_Mining	1	558	0	1	3.0	126503	878	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitcoin’s hash rate drops 8% YoY
+1620156	news	2	278	0	0	4.5	458256	5142	recent@tech|top@tech|recent@AI	SIGNAL	Virginia, Oregon sue SpaceX over AI deepfake porn, child sexual abuse material
+1620233	AI	1	180	0	0	2.3	297791	8162	recent@AI|top@AI	SIGNAL	Anthropic $ANT officially crashes below its IPO price of $83 per share.
+1620053	AI	1	154	0	3	7.6	104755	13639	recent@AI|top@AI	SIGNAL	I cheated with AI today
+1620050	meta	1	149	0	0	7.7	36151	1723	recent@meta|top@meta	SIGNAL	This Day on SN: November 24
+1620013	AI	1	125	0	0	9.5	382968	374	recent@AI|top@AI	SIGNAL	Tencent open-sources Hy-MT3 translation models: 102 languages, 1.8B to 30B-A3B
+1619836	bitcoin_beginners	1	11692	0	12	22.2	724606	14470	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	HOT	Burning Electricity for Yet More Sats: 21 Energy and their new Ofen 3 Pro
+1619674	AI	1	4353	0	7	27.1	724606	14470	recent@AI	HOT	Acemoglu Wants Pro-Worker AIs (FT, Daron Acemoglu)
+1619517	AskSN	2	3921	0	9	31.2	713868	574	recent@privacy	HOT,SELF_POST_OPP	Launching the FREEDOM GUILD 🕊️
+1619745	bitcoin	1	3321	0	1	25.0	1014665	257	recent@bitcoin	HOT	Celebrating Michael Ford’s (fanquake) four years at Brink
+1619933	bitcoin	1	2491	0	0	17.5	1594190	36	recent@bitcoin|top@bitcoin|recent@privacy	HOT	My take on the new new hotness - Praxis.
+1619830	bitcoinplusplus	1	2444	0	1	22.5	280679	24109	recent@bitcoinplusplus|top@bitcoinplusplus	HOT	JoinMarket CoinJoin change as LN channel opens — m0wer
+1619774	bitcoin	1	2322	0	1	24.2	74100	13961	recent@bitcoin|recent@bitdevs	HOT	Praxis: Practical Witness Encryption for NP
+1619860	bitcoin	1	2115	0	3	21.0	223678	6643	recent@bitcoin|top@bitcoin	HOT	"stablecoins" including Tether, are scams and must be opposed.
+1619859	privacy	1	1913	0	5	21.1	273359	1267	recent@bitcoinplusplus|top@bitcoinplusplus|recent@privacy	HOT	JoinMarket Feeder Coinjoins — Kruw | bitcoin++ Seoul, privacy edition
+1619599	AI	1	1526	0	28	28.7	30782	26292	recent@AI	HOT	Jensen Huang Is Back
+1619505	nostr	1	1154	0	3	31.5	638086	98	recent@nostr	HOT	Secret Santa on Nostr
+1619450	bitcoin	1	1041	0	6	33.7	1606348	19	recent@bitcoin	HOT	made a platformer from yesterday's btc chart, 2,500 sats for the best run daily
+1619672	bitcoin	1	719	0	0	27.1	699824	176	recent@bitcoin|recent@lightning		🎥: Cold Storage & Instant Spending w/ BitBox
+1619533	tech	1	622	0	1	30.7	777209	183	recent@tech		GLM-5.4 released: Z.ai's first Loop Transformer model
+1619625	AskSN	2	465	0	11	28.1	227606	2745	recent@privacy	SELF_POST_OPP	DuckDuckGo Browser?
+1619556	AI	1	309	0	0	29.7	1403719	135	recent@AI		Anthropic Extends Its Lead Over OpenAI in Business AI Token Usage
+1619500	AI	1	204	0	0	31.7	1532836	1867	recent@AI		😱 AI continues to grow, but investors have panicked 🤔🤫
+1619770	bitcoin	1	177	0	2	24.3	1570149	59	recent@bitcoin		Scammed by Coingate
+1619629	news	2	154	0	1	27.9	106588	1134	recent@AI		Jensen Huang returns as Nvidia CEO
+1619454	bitcoin_beginners	1	94	0	0	33.6	1195179	1169	recent@bitcoin_beginners		lightning-specific tips that could save the funds in your hot wallet
+1619858	devs	1	89	0	0	21.2	272410	2489	recent@devs|top@devs		Tyhp | a typed superset of the PHP language
+1619909	AI	1	88	0	0	18.6	1575305	113	recent@AI|top@AI		Gemini agent teams made a fusion quantum circuit 11.8x cheaper
+1620060	bitcoin	1	78	0	0	7.4	296825	5936	recent@bitcoin_beginners|top@bitcoin_beginners		Satoshi Nakamoto wrote with 8 references
+1619719	bitcoin	1	78	0	1	25.7	462245	317	recent@bitcoinplusplus		Generic Message Signing — Last Week in Bitcoin (Nov 16 - Nov 22)
+1619934	bitcoin	1	57	0	0	17.5	1532836	1867	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		This is what happens in the event of a dispute.🤔🤫🫶✍️👇👇
+1619564	bitcoinplusplus	1	50	0	0	29.5	280679	24109	recent@bitcoinplusplus		Atomic, Fast, Doomed — A Bitcoin-Fiat QR Payment Post-Mortem — Rademenez
+1620228	AI	1	49	0	0	2.5	9274	30003	recent@AI|top@AI		Kestrel Labs Bring AI Assisted Code Compliance to Revit
+1619705	AI	1	49	0	1	26.3	30993	3759	recent@AI		Silicon Valley Keeps AI Away From Its Own Kids. Not Yours.
+1619984	bitcoin	1	36	0	0	12.4	296825	5936	recent@bitcoin_beginners|top@bitcoin_beginners		Quit Crypto Gambling. Invest Daily In Bitcoin Knowledge
+1619847	bitcoin	1	36	0	0	21.4	396688	37	recent@bitcoin_beginners|top@bitcoin_beginners		A child's age is no barrier to learning about Bitcoin.
+1619834	bitcoin	1	36	0	0	22.2	296825	5936	recent@bitcoin_beginners|top@bitcoin_beginners		iPhone user reported losing more than $600k in Trezor Safe 7 and Exodus wallet
+1619557	bitcoin	1	36	0	0	29.7	296825	5936	recent@bitcoin_beginners|recent@bitcoinplusplus		The ABC2026 agenda is LIVE on Sched
+1619481	bitcoin	1	36	0	0	32.4	296825	5936	recent@bitcoin_beginners		Cardano holders are turning down a $4M request for running its flagship event
+1619758	AI	1	22	0	0	24.6	1575305	113	recent@AI		GLM-5.4 runs its own layers twice to punch like a 3 trillion parameter model
+1619767	news	2	10	0	0	24.4	297791	8162	recent@devs		Crowdstrike to acquire Zscaler in $44B deal that will create cybersecurity giant
+1619799	bitcoin	1	1	0	0	23.8	272410	2489	recent@bitcoin_Mining|top@bitcoin_Mining		Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None
+1620246	AI	1	0	0	0	2.1	297791	8162	recent@devs|top@devs|recent@AI		OpenAI Scales Git for Coding Agents with Pando
+1620202	devs	1	0	0	0	3.1	297791	8162	recent@devs|top@devs		How a Single Bit Change in .NET Files Bypassed Windows Code Integrity
+1620161	devs	1	0	0	0	4.2	297791	8162	recent@devs|top@devs		HID Patches For Linux 7.4-rc5 Bring AI Fixes Plus New Hardware
+1620308	AI	1	0	0	0	0.6	1575305	113	recent@AI|top@AI	FRESH	Claude and OpenAI both proved VP ≠ VNP in one day, Anthropic first by 6 hours
+1619980	AI	1	0	0	0	13.0	1532699	493	recent@AI|top@AI		Anthropic Went Public. Can It Still Put AI Safety First?
+1619427	AI	1	0	0	0	35.4	382968	374	recent@AI		magpie: one model switcher for Claude Code, Codex and Gemini CLI
