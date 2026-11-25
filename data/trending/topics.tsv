@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-25T00:23:17.842Z; n=40
-jungly	sn:bitcoin	6.23	yes	
-trip report	sn:Travel	3.85	no	RISING
-santo domingo	sn:Travel	3.85	no	RISING
-bitcoin square payment	sn:Travel	3.82	no	RISING
-aptos	sn:Travel	3.82	no	RISING
-california	sn:Travel	3.82	yes	
-help	sn:Christianity	3.74	no	RISING
-christianity territory	sn:Christianity	3.74	no	RISING
-electrum proxy servers	sn:bitcoin	3.54	yes	
-november	sn:bitcoin	3.54	yes	
-coldcard	sn:AskSN	3.42	yes	
-seed-generation postmortem	sn:AskSN	3.42	yes	
-now public	sn:AskSN	3.42	yes	
-coinkite	sn:AskSN	3.42	yes	
-praxis	sn:bitcoin	3.4	yes	
+# generated 2026-11-25T13:56:04.451Z; n=40
+treasury	hn,sn:tech	7.97	yes	
+jungly	sn:bitcoin	6.24	yes	
+taking	hn,sn:tech	5.16	yes	
+trip report	sn:Travel	4.13	no	RISING
+santo domingo	sn:Travel	4.13	no	RISING
+bitcoin square payment	sn:Travel	3.84	no	RISING
+aptos	sn:Travel	3.84	no	RISING
+california	sn:Travel	3.84	yes	
+electrum proxy servers	sn:bitcoin	3.55	yes	
+november	sn:bitcoin	3.55	yes	
+coldcard	sn:AskSN	3.46	yes	
+seed-generation postmortem	sn:AskSN	3.46	yes	
+now public	sn:AskSN	3.46	yes	
+coinkite	sn:AskSN	3.46	yes	
 bitcoin optech newsletter	sn:bitcoin	3.4	yes	
 recap podcast	sn:bitcoin	3.4	yes	
 levent alp	sn:math	3.34	yes	
-show	hn	3.32	yes	
-france proposes	sn:Politics_And_Law	3.22	no	RISING
-build registry	sn:Politics_And_Law	3.22	no	RISING
-all cryptocurrency users	sn:Politics_And_Law	3.22	no	RISING
-last	sn:Stacker_Sports	3.2	no	RISING
-the gen	sn:BooksAndArticles	3.18	no	RISING
-men embracing catholicism	sn:BooksAndArticles	3.18	no	RISING
-magazine	sn:BooksAndArticles	3.18	no	RISING
-javokhir sindarov	sn:chess	3.07	no	RISING
-exclusive guardian interview before today	sn:chess	3.07	no	RISING
-match begins	sn:chess	3.07	no	RISING
-thanksgiving pick	sn:Stacker_Sports	3.05	no	RISING
-tesla	sn:Stacker_Stocks	3.05	no	RISING
-world	sn:Stacker_Stocks	3.05	no	RISING
-most predictable merger	sn:Stacker_Stocks	3.05	no	RISING
-morris	sn:Stacker_Stocks	3.05	no	RISING
-barnes	sn:Stacker_Stocks	3.05	no	RISING
+the gen	sn:BooksAndArticles	3.19	no	RISING
+men embracing catholicism	sn:BooksAndArticles	3.19	no	RISING
+magazine	sn:BooksAndArticles	3.19	no	RISING
+tesla	sn:Stacker_Stocks	3.16	no	RISING
+world	sn:Stacker_Stocks	3.16	no	RISING
+most predictable merger	sn:Stacker_Stocks	3.16	no	RISING
+morris	sn:Stacker_Stocks	3.16	no	RISING
+barnes	sn:Stacker_Stocks	3.16	no	RISING
+thanksgiving pick	sn:Stacker_Sports	3.13	no	RISING
 astronomers	sn:science	3.04	no	RISING
 record-setting	sn:science	3.04	no	RISING
-toothfairy	sn:Stacker_Stocks	2.95	no	RISING
-jensen put	sn:Stacker_Stocks	2.95	no	RISING
-madam tooth	sn:Stacker_Stocks	2.95	no	RISING
+okinawa	sn:food_and_drinks	3.02	no	RISING
+chat security audit	sn:devs	2.93	no	RISING
+trail	sn:devs	2.93	no	RISING
+bits	sn:devs	2.93	no	RISING
+our security process	sn:devs	2.93	no	RISING
+bringin bitcoin wallet	sn:bitcoin	2.92	yes	
+fincen	sn:news	2.91	no	RISING
+retirement savings	sn:BooksAndArticles	2.9	no	RISING
+indexation	sn:BooksAndArticles	2.9	no	RISING
+iceland offers an answer	sn:BooksAndArticles	2.9	no	RISING
+matrix multiplication	hn	2.89	no	RISING
+magnus carlsen	sn:chess	2.87	no	RISING
