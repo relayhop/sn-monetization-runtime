@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-25T13:56:04.451Z; n=40
-treasury	hn,sn:tech	7.97	yes	
-jungly	sn:bitcoin	6.24	yes	
-taking	hn,sn:tech	5.16	yes	
-trip report	sn:Travel	4.13	no	RISING
-santo domingo	sn:Travel	4.13	no	RISING
-bitcoin square payment	sn:Travel	3.84	no	RISING
-aptos	sn:Travel	3.84	no	RISING
-california	sn:Travel	3.84	yes	
-electrum proxy servers	sn:bitcoin	3.55	yes	
-november	sn:bitcoin	3.55	yes	
-coldcard	sn:AskSN	3.46	yes	
-seed-generation postmortem	sn:AskSN	3.46	yes	
-now public	sn:AskSN	3.46	yes	
-coinkite	sn:AskSN	3.46	yes	
-bitcoin optech newsletter	sn:bitcoin	3.4	yes	
-recap podcast	sn:bitcoin	3.4	yes	
-levent alp	sn:math	3.34	yes	
-the gen	sn:BooksAndArticles	3.19	no	RISING
-men embracing catholicism	sn:BooksAndArticles	3.19	no	RISING
-magazine	sn:BooksAndArticles	3.19	no	RISING
-tesla	sn:Stacker_Stocks	3.16	no	RISING
-world	sn:Stacker_Stocks	3.16	no	RISING
-most predictable merger	sn:Stacker_Stocks	3.16	no	RISING
-morris	sn:Stacker_Stocks	3.16	no	RISING
-barnes	sn:Stacker_Stocks	3.16	no	RISING
-thanksgiving pick	sn:Stacker_Sports	3.13	no	RISING
-astronomers	sn:science	3.04	no	RISING
-record-setting	sn:science	3.04	no	RISING
+# generated 2026-11-26T00:00:01.282Z; n=40
+bitcoin	sn:bitcoin,sn:Design	6.42	yes	
+treasury	sn:tech	5.92	yes	
+lean	hn	4.53	yes	
+braiins	sn:bitcoin	3.88	yes	
+mining	sn:bitcoin	3.88	yes	
+under	sn:bitcoin	3.88	yes	
+attack	sn:bitcoin	3.88	yes	
+show	hn	3.27	yes	
+canaan avalon	sn:bitcoin_Mining	3.23	no	RISING
+power supply failure	sn:bitcoin_Mining	3.23	no	RISING
+will	sn:math	3.19	no	RISING
+new predyx market	sn:math	3.19	no	RISING
+predyx market creation help	sn:AskSN	3.15	no	RISING
+the nordic node	sn:bitcoin_Mining	3.08	no	RISING
+all heatpunks now	sn:bitcoin_Mining	3.08	no	RISING
+frenz	sn:bitcoin_Mining	3.08	no	RISING
+trying	sn:bitcoin_beginners	3.08	no	RISING
+make texas dumber again	sn:Education	3.05	no	RISING
+gov hinojosa	sn:Education	3.05	no	RISING
+sources	sn:Stacker_Sports	3.05	no	RISING
+steelers	sn:Stacker_Sports	3.05	no	RISING
+rodgers	sn:Stacker_Sports	3.05	no	RISING
+scorched-earth	sn:Stacker_Sports	3.05	no	RISING
+taking	sn:tech	3.04	yes	
+security incident	hn	3.02	no	RISING
 okinawa	sn:food_and_drinks	3.02	no	RISING
-chat security audit	sn:devs	2.93	no	RISING
-trail	sn:devs	2.93	no	RISING
-bits	sn:devs	2.93	no	RISING
-our security process	sn:devs	2.93	no	RISING
-bringin bitcoin wallet	sn:bitcoin	2.92	yes	
-fincen	sn:news	2.91	no	RISING
-retirement savings	sn:BooksAndArticles	2.9	no	RISING
-indexation	sn:BooksAndArticles	2.9	no	RISING
-iceland offers an answer	sn:BooksAndArticles	2.9	no	RISING
-matrix multiplication	hn	2.89	no	RISING
-magnus carlsen	sn:chess	2.87	no	RISING
+how one brewer turned bitcoin into	sn:bitcoin	2.94	yes	
+taproom	sn:bitcoin	2.94	yes	
+fincen	sn:news	2.93	no	RISING
+musk	sn:Politics_And_Law	2.91	no	RISING
+trump accounts	sn:Politics_And_Law	2.91	no	RISING
+holy	hn	2.9	no	RISING
+magnus carlsen	sn:chess	2.9	no	RISING
+wall	sn:chess	2.88	no	RISING
+stacker sports thanksgiving turkey leg parlay	sn:Stacker_Sports	2.87	no	RISING
+that weird nvidia options insider trader	sn:Politics_And_Law	2.86	no	RISING
+alphaville	sn:Politics_And_Law	2.86	no	RISING
+ashworth	sn:Politics_And_Law	2.86	no	RISING
+vincent	sn:Politics_And_Law	2.86	no	RISING
+pool	sn:AskSN	2.84	no	RISING
