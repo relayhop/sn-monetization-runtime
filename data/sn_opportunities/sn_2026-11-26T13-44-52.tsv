@@ -1,0 +1,51 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1621201	bitcoin	1	467	0	1	6.5	593189	903	recent@bitcoin|top@bitcoin	SIGNAL	scott aaronsom "holy shit" yes AI "will break currently deployed cryptosystems"
+1621239	AI	1	161	0	0	2.1	382968	379	recent@AI|top@AI	SIGNAL	24 KB of pure assembly runs Qwen3-0.6B on bare metal at 135 tok/s
+1620780	bitcoin	1	7929	0	14	21.4	227606	2754	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Braiins claims that, "🚨BITCOIN MINING IS UNDER ATTACK🚨"
+1620980	AskSN	2	2641	0	21	15.7	633727	6177	recent@devs|top@devs	HOT	How good has vibe coding gotten?
+1620759	bitcoin_Mining	1	1698	0	8	21.9	30782	26300	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Canaan Avalon 3s Power Supply Failure
+1620863	bitcoin_Mining	1	1217	0	0	19.3	724606	14496	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	The Nordic Node #15: We're All Heatpunks Now, Frenz
+1620658	bitcoin_beginners	1	1206	0	8	25.8	51481	4381	recent@bitcoin_beginners|recent@lightning	HOT	Trying to pay a large invoice - LND - ThunderHub
+1620587	tech	1	1092	0	0	30.0	382968	379	recent@tech	HOT	Taking over US Treasury subdomains for $3 each
+1620580	tech	1	1070	0	1	30.5	6274	2312	recent@tech	HOT	Treasury tech boss vibecodes Civ clone as FinCEN suffers major cyber breach
+1621016	bitcoin	1	970	0	0	14.9	1552562	187	recent@bitcoin|top@bitcoin		How One Brewer Turned Bitcoin Into a Taproom
+1620961	news	2	792	0	3	16.7	74100	13983	recent@AI|top@AI		Maple AI raises $5.3M to make private AI the default
+1620585	AI	1	535	0	2	30.1	6263	10521	recent@AI		XAI Founders Unveil New AIa Startup to Predict Future Events | Bloomberg
+1620858	bitcoin	1	403	0	3	19.4	280679	24125	recent@bitcoin|top@bitcoin|recent@lightning		On-chain withdrawal limits on CoinOS
+1620590	bitcoin	1	382	0	0	29.9	7470	1092	recent@bitcoin		Building Infrastructure for a Financially Disconnected Country, Part 1 of 3
+1620689	bitcoin	1	379	0	0	24.2	126503	879	recent@bitcoin		Sparrow wallet Release 2.5.7
+1620758	bitcoin	1	376	0	2	21.9	1552562	187	recent@bitcoin|top@bitcoin		France's Senate Rejects Self-Custody Wallet Rule
+1620843	tech	1	360	0	0	19.8	777209	187	recent@tech|top@tech		1Password breach exposed customer names and emails; vaults not accessed
+1620717	Design	2	343	0	1	22.9	74100	13983	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		EBP: Bitcoin checkout you hold the keys to
+1620755	bitcoin	1	289	0	0	22.0	296825	5944	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		HRF Bitcoin Development Fund Supports Seven Freedom Tech Projects Worldwide
+1620844	bitcoin_Mining	1	229	0	0	19.7	9274	30079	recent@bitcoin_Mining|top@bitcoin_Mining		Hashrate Index Roundup: Hashrate Back Above 1 ZH/s While Price Slides
+1620762	meta	1	178	0	7	21.7	36151	1726	recent@meta|top@meta		What are you working on this week?
+1620687	bitcoinplusplus	1	162	0	0	24.5	280679	24125	recent@bitcoinplusplus		Hackathon: Kickoff — Calvin Kim, niftynei, Piccolo | Seoul, privacy edition
+1621035	math	2	160	0	1	14.4	280679	24125	recent@AI|top@AI		I’ve been drinking wine in my kitchen
+1620704	bitcoin	1	157	0	1	23.4	74100	13983	recent@bitcoin|top@bitcoin|recent@lightning		Allod: a Lightning wallet you host yourself
+1620877	bitcoin_beginners	1	148	0	0	18.8	280679	24125	recent@bitcoin_beginners|top@bitcoin_beginners		What Happens When You Pay a Lightning Invoice
+1621040	DIY	3	146	0	1	14.1	370699	379	recent@AI|top@AI		Surplus data-center iron is the ultimate cheat code for sovereign AI.
+1620784	bitcoin	1	124	0	0	21.3	296825	5944	recent@bitcoin_beginners|top@bitcoin_beginners		The US Files Action to Recover More Than $1 Billion Stolen in Binance Hack
+1620893	tech	1	103	0	0	18.5	12309	3785	recent@devs|top@devs		Ladybird browser's first downloadable alpha is surprisingly capable
+1620671	bitcoin	1	98	0	1	25.0	296825	5944	recent@bitcoin_beginners|recent@AI		AI Will Make Everything Cheaper.  Except Bitcoin.
+1620984	AI	1	60	0	1	15.5	995395	114	recent@AI|top@AI		Rumors of AI breaking modern cryptography intensifies
+1620930	Music	3	50	0	0	17.2	280679	24125	recent@AI|top@AI		The Fed - Money From Nothing
+1621231	bitcoin_beginners	1	42	0	0	2.9	1444593	184	recent@bitcoin_beginners|top@bitcoin_beginners		Nueva versión de Sparrow Wallet 2.5.7 - estaré publicando los cambios visibles
+1620973	bitcoin	1	36	0	0	16.2	296825	5944	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		SECURITY ALERT: Bitcoin Hashrate Hijacking Detected on Stratum V1 | Braiins
+1620769	bitcoin	1	36	0	0	21.6	296825	5944	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Understanding Bitcoin descriptors and BIP-0138 encrypted backups
+1621240	AskSN	2	36	0	0	1.8	1532836	1883	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH	What if you could earn up to 7.25% annually on your savings?🤔🤔🤫✍️✍️👀👀
+1621147	bitdevs	1	36	0	1	11.0	117674	143	recent@bitdevs|top@bitdevs		Bitcoinity.org/markets killer - bitcoin-horizon-v2.karanjbhatia.workers.dev/
+1621179	bitcoin	1	21	0	0	8.6	151803	13	recent@bitcoin|top@bitcoin|recent@privacy		Renting compute time on supercomputers (with bitcoin?)
+1620705	devs	1	21	0	0	23.4	297791	8173	recent@devs|top@devs		WP Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live
+1620823	AI	1	17	0	2	20.2	642641	10171	recent@AI|top@AI		Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy
+1621263	Memes	2	10	0	0	0.3	30993	3764	recent@AI|top@AI	FRESH	Huang-Man ⚔️
+1621203	bitcoin	1	0	0	0	6.3	296825	5944	recent@bitcoin_beginners|top@bitcoin_beginners		Your Taxes Funded the Censorship Machine
+1620556	bitcoin	1	0	0	0	32.1	296825	5944	recent@bitcoin_beginners		Self-custody your SATS: Binance is suspending withdrawals across ALL networks
+1620699	bitcoinplusplus	1	0	0	0	23.6	272410	2513	recent@bitcoinplusplus|top@bitcoinplusplus		Privacy in the age of AI | bitcoin++
+1621271	devs	1	0	0	0	0.0	272410	2513	recent@devs|top@devs	FRESH	Cashu postpones monthly Dev Call to December 3
+1621207	devs	1	0	0	1	6.1	1621206	2	recent@devs|top@devs		Agent Gig Board Status — 26 Nov 2026
+1620917	AI	1	0	0	0	17.7	297791	8173	recent@devs|top@devs|recent@AI		OpenAI and Cisco introduce Shirudo
+1620906	AI	1	0	0	0	18.0	297791	8173	recent@devs|top@devs|recent@AI		Torvalds: Tell Your AI to Fix EXT4 rc Timing
+1620667	devs	1	0	0	0	25.2	297791	8173	recent@devs		Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor for Espionage
+1621055	AI	1	0	0	0	13.6	1575305	116	recent@AI|top@AI		OpenAI's model claims the matrix multiplication exponent is exactly 9/4
+1620854	AI	1	0	0	0	19.6	1575305	116	recent@AI|top@AI		Google's Cogentic AI hit math problems open since 1964 and 1988, one prompt each
