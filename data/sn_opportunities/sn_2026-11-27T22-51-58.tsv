@@ -1,0 +1,48 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1621775	bitcoin	1	4398	0	0	9.3	1014665	259	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Bitcoin Core and CLN disclosures, BIP editors - Bitcoin Optech Newsletter #433
+1621787	AI	1	2988	0	5	8.7	4081	508	recent@AI|top@AI	HOT,SIGNAL	Introducing Fountain Daily Growth
+1621803	Travel	3	1107	0	1	8.2	74100	14005	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Blockrise Hub to open in February 2027 in Rotterdam
+1621757	bitcoin_beginners	1	1054	0	8	10.0	30782	26310	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Bitcoin Beginners Newsletter #126
+1621842	AI	1	994	0	1	7.1	724606	14520	recent@AI|top@AI	SIGNAL	Yuval Harari on AI: Money, Stocks, and Bonds as Shared Trust (X, Harari)
+1621863	AI	1	409	0	1	6.1	1621863	1	recent@AI|top@AI	SIGNAL	Is anyone worried about exponential math/cryptography progress?
+1621735	tech	1	367	0	0	11.4	1552562	195	recent@tech|top@tech	SIGNAL	Hackers breach US Air Force flagship Cloud One computing platform
+1621813	AI	1	347	0	0	7.9	382968	387	recent@AI|top@AI	SIGNAL	AMD-specific fork of llama.cpp
+1621795	AskSN	2	141	0	1	8.6	296825	5957	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	What If James Bond Was A Bitcoiner?
+1621947	AskSN	2	102	0	0	1.7	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	AskSN: And I'm so excited. What's your advice?
+1621890	AI	1	102	0	0	4.7	1575305	119	recent@AI|top@AI	SIGNAL	Chinese team claims deterministic subexponential discrete log on elliptic curves
+1621289	bitcoin	1	23105	0	4	32.4	74100	14005	recent@bitcoin	HOT	Tether Fun Unbelievable Details - Part VII
+1621261	tech	1	3205	0	3	33.6	280679	24129	recent@tech	HOT	FCC approves SpaceX plan to put AI data centers in space
+1621671	bitcoin	1	2644	0	11	17.0	631896	3186	recent@bitcoin|top@bitcoin	HOT	An Intelligent Response to "Bitcoin Has Become Boring"
+1621459	bitcoin	1	2433	0	7	26.9	272410	2533	recent@bitcoin|recent@lightning	HOT	Bitcoin Listings | 500+ online shops that accept Bitcoin (over 200k products)
+1621381	bitcoin	1	1101	0	4	29.9	699824	177	recent@bitcoin|recent@lightning	HOT	Bitcoin Has Become Boring, Finally by Roy
+1621414	gaming	3	811	0	2	28.6	74100	14005	recent@lightning|recent@nostr		The Electric Cowboy - How many zaps can you collect?
+1621525	gaming	3	575	0	0	25.2	553	3570	recent@AI		I fixed Cosmo's Cosmic Adventure on MS-DOS from 10 FPS to 70 FPS
+1621536	AI	1	376	0	2	24.8	9274	30131	recent@AI		Data Center Cancellations Doubled in Q3 as Local Pushback Bites
+1621321	nostr	1	332	0	2	31.2	382968	387	recent@nostr		Nostr Stats is permanently offline
+1621276	bitcoin	1	321	0	1	33.0	78166	302	recent@bitcoin		Malicious RubyGems package brumdler steals wallets and seed phrases
+1621566	AI	1	238	0	0	22.8	1575305	119	recent@AI|top@AI		Physicist set a Claude swarm on OpenAI's quantum gravity paper: 1 of 21 solved
+1621266	meta	1	219	0	6	33.3	30782	26310	recent@meta		Shockwallet SN issues?
+1621239	AI	1	176	0	2	35.2	382968	387	recent@AI		24 KB of pure assembly runs Qwen3-0.6B on bare metal at 135 tok/s
+1621263	Memes	2	131	0	0	33.5	30993	3764	recent@AI		Huang-Man ⚔️
+1621516	devs	1	126	0	0	25.4	1620450	10	recent@devs		Android app developers will soon have to share their address publicly
+1621271	devs	1	102	0	0	33.1	272410	2533	recent@devs		Cashu postpones monthly Dev Call to December 3
+1621895	AskSN	2	92	0	0	4.3	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Bitcoin in, Fiat out vs Bitcoin in, Bitcoin out.
+1621458	tech	1	82	0	0	27.0	12309	3786	recent@devs		Microsoft's historic cloud outage exposed an engineering “fog of war”
+1621908	bitcoin	1	62	0	0	3.1	238412	475	recent@bitcoin_beginners|top@bitcoin_beginners		The World Is Changing, Your Thinking Should Too.
+1621821	bitcoin	1	55	0	0	7.7	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Beware!: Don't allow fiat terminology to define how we understand Bitcoin.
+1621885	tech	1	46	0	0	5.1	296825	5957	recent@devs|top@devs|recent@AI		OpenBase.one — vibe coding for companies, safe and stable.
+1621407	AI	1	42	0	0	28.7	1575305	119	recent@AI		Stanford physicist built a quantum gravity proposal with GPT-6 Astra
+1621272	bitcoin	1	36	0	0	33.1	296825	5957	recent@bitcoin_beginners		Global Bitcoin Adoption Index — 2026 Edition
+1621825	bitcoin	1	30	0	0	7.7	297791	8178	recent@devs|top@devs		A tiny payment can expose the IP address behind a bitcoin wallet
+1621837	AI	1	26	0	0	7.3	1620450	10	recent@AI|top@AI		A New Breed of Chip Runs AI Models Using Waves of Light
+1621413	tech	1	21	0	0	28.7	296825	5957	recent@AI		Andrew Bailey says unreleased AI models have raised encryption concerns
+1621335	bitcoin	1	21	0	0	30.9	1552562	195	recent@AI		Agnic.AI and GoBTC Pay Bring Bitcoin to AI Agent Checkout (ChatGPT-related)
+1621779	bitdevs	1	10	0	0	9.2	995395	117	recent@bitdevs|top@bitdevs		NIDO a desktop app that acts as a Bitcoin node for your Sparrow wallet.
+1621880	bitcoin	1	0	0	0	5.3	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners		An Honest Review On The Blockstream Jade Plus.
+1621878	math	2	0	0	0	5.5	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		How is AI changing cybersecurity, open source development, and Bitcoin?
+1621901	bitcoin	1	0	0	0	3.9	296825	5957	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Introducing sattle.me (previously Swiss Bitcoin Pay)
+1621382	bitcoin_Mining	1	0	0	0	29.9	238412	475	recent@bitcoin_Mining		Bitcoin Miners Hammered Again as Price Rout Squeezes Margins
+1621399	bitcoinplusplus	1	0	0	0	28.9	280679	24129	recent@bitcoinplusplus		E2E-Encrypted Payer Notes: Private Memos for Lightning Payments — Jin
+1621850	bitdevs	1	0	0	0	6.7	272410	2533	recent@bitdevs|top@bitdevs		Fedimint v0.13.1 | fixes mint fee check, startup panic and iroh lockups
+1621945	bitcoin	1	0	0	0	1.8	238412	475	recent@AI|top@AI	FRESH	Why the AI bubble is designed to pop?
+1621284	AI	1	0	0	0	32.7	934429	388	recent@AI		Goldman raises AI funding projection to $545 billion by 2027
