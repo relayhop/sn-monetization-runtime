@@ -5,6 +5,8 @@ Cloud cron runtime for the SN Monetization sub-project (sister to `ClaudeEarnSel
 ## Workflows
 - `sn_radar.yml` — every 15 min, scrapes Stacker News GraphQL for opportunities
   (writes to `data/sn_opportunities/sn_latest.tsv`)
+- `sn_bounty_analysis.yml` — runs after radar completes, analyzes bounty data
+  (generates insights and reports in `data/intel/`)
 
 ## Public repo = unlimited GitHub Actions minutes.
 
